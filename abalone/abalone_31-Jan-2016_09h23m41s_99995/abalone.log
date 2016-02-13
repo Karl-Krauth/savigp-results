@@ -1,0 +1,1788 @@
+2016-01-31 09:23:41,129 - abalone - INFO - experiment started for:{'run_id': 9, 'max_iter': 200, 'optimization_config': {'hyp': 25, 'll': 25, 'mog': 25}, 'xtol': 0.001, 'git_hash': 'a89f7e60526a847e4cefa30be774ad3ee7bf41f8', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 0.5, 'll': 'WarpLL', 'sample_num': 2000, 'experiment': 'abalone', 'git_branch': 'master', 'random_Z': True, 'method': u'mix2'}
+2016-01-31 09:23:43,691 - abalone - INFO - Iteration 0 started.
+2016-01-31 09:23:43,693 - abalone - INFO - MoG params
+2016-01-31 09:23:45,577 - abalone - DEBUG - objective:110604.9713
+2016-01-31 09:23:47,270 - abalone - DEBUG - objective:105982.6373
+2016-01-31 09:23:49,236 - abalone - DEBUG - objective:90362.8938
+2016-01-31 09:23:51,198 - abalone - DEBUG - objective:58659.4686
+2016-01-31 09:23:53,238 - abalone - DEBUG - objective:18214.3448
+2016-01-31 09:23:55,111 - abalone - DEBUG - objective:10783.9558
+2016-01-31 09:23:56,983 - abalone - DEBUG - objective:5685.0362
+2016-01-31 09:23:58,594 - abalone - DEBUG - objective:9720.8989
+2016-01-31 09:24:00,336 - abalone - DEBUG - objective:4475.9104
+2016-01-31 09:24:02,122 - abalone - DEBUG - objective:1042.7237
+2016-01-31 09:24:03,988 - abalone - DEBUG - objective:-266.7535
+2016-01-31 09:24:05,743 - abalone - DEBUG - objective:-588.0739
+2016-01-31 09:24:07,434 - abalone - DEBUG - objective:-944.6366
+2016-01-31 09:24:09,358 - abalone - DEBUG - objective:-988.9917
+2016-01-31 09:24:11,041 - abalone - DEBUG - objective:-1003.8443
+2016-01-31 09:24:12,957 - abalone - DEBUG - objective:-1019.3231
+2016-01-31 09:24:15,007 - abalone - DEBUG - objective:-1041.7515
+2016-01-31 09:24:16,712 - abalone - DEBUG - objective:-1069.5232
+2016-01-31 09:24:18,799 - abalone - DEBUG - objective:-1065.3663
+2016-01-31 09:24:20,930 - abalone - DEBUG - objective:-1078.7342
+2016-01-31 09:24:23,343 - abalone - DEBUG - objective:-1084.3388
+2016-01-31 09:24:25,709 - abalone - DEBUG - objective:-1088.8320
+2016-01-31 09:24:27,697 - abalone - DEBUG - objective:-1092.7463
+2016-01-31 09:24:29,339 - abalone - DEBUG - objective:-1097.1889
+2016-01-31 09:24:31,024 - abalone - DEBUG - objective:-1101.5181
+2016-01-31 09:24:32,850 - abalone - DEBUG - objective:-1102.1641
+2016-01-31 09:24:32,863 - abalone - INFO - Saving model...
+2016-01-31 09:24:32,943 - abalone - INFO - Model saved.
+2016-01-31 09:24:32,945 - abalone - INFO - ll params
+2016-01-31 09:24:35,018 - abalone - DEBUG - objective:-1102.1641
+2016-01-31 09:24:36,612 - abalone - DEBUG - objective:-1227.7303
+2016-01-31 09:24:38,194 - abalone - DEBUG - objective:-1248.0156
+2016-01-31 09:24:39,721 - abalone - DEBUG - objective:-1250.3605
+2016-01-31 09:24:41,431 - abalone - DEBUG - objective:-1250.4330
+2016-01-31 09:24:42,772 - abalone - DEBUG - objective:-1250.4332
+2016-01-31 09:24:44,186 - abalone - DEBUG - objective:-1250.4332
+2016-01-31 09:24:44,187 - abalone - INFO - hyp params
+2016-01-31 09:24:50,837 - abalone - DEBUG - objective:-1250.4332
+2016-01-31 09:24:57,872 - abalone - DEBUG - objective:-1160.1449
+2016-01-31 09:25:05,150 - abalone - DEBUG - objective:-1260.0866
+2016-01-31 09:25:13,058 - abalone - DEBUG - objective:-1262.0415
+2016-01-31 09:25:20,923 - abalone - DEBUG - objective:-1266.3132
+2016-01-31 09:25:28,158 - abalone - DEBUG - objective:-1269.6057
+2016-01-31 09:25:36,274 - abalone - DEBUG - objective:-1276.6916
+2016-01-31 09:25:44,709 - abalone - DEBUG - objective:-1277.4903
+2016-01-31 09:25:52,988 - abalone - DEBUG - objective:-1277.5859
+2016-01-31 09:26:00,744 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:09,192 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:16,966 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:24,333 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:31,116 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:38,122 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:45,275 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:26:52,778 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:00,048 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:07,801 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:15,227 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:22,425 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:29,857 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:37,180 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:44,223 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:44,225 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:52,006 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:27:59,982 - abalone - INFO - Iteration 1 started.
+2016-01-31 09:27:59,984 - abalone - INFO - MoG params
+2016-01-31 09:28:01,838 - abalone - DEBUG - objective:-1277.5879
+2016-01-31 09:28:03,775 - abalone - DEBUG - objective:-958.9153
+2016-01-31 09:28:05,347 - abalone - DEBUG - objective:-1278.8021
+2016-01-31 09:28:07,195 - abalone - DEBUG - objective:-1279.1063
+2016-01-31 09:28:09,297 - abalone - DEBUG - objective:-1279.6953
+2016-01-31 09:28:11,039 - abalone - DEBUG - objective:-1280.2616
+2016-01-31 09:28:12,971 - abalone - DEBUG - objective:-1281.1096
+2016-01-31 09:28:14,878 - abalone - DEBUG - objective:-1281.6983
+2016-01-31 09:28:16,732 - abalone - DEBUG - objective:-1282.0915
+2016-01-31 09:28:18,620 - abalone - DEBUG - objective:-1282.3673
+2016-01-31 09:28:20,400 - abalone - DEBUG - objective:-1282.6297
+2016-01-31 09:28:22,460 - abalone - DEBUG - objective:-1283.0247
+2016-01-31 09:28:23,928 - abalone - DEBUG - objective:-1283.3625
+2016-01-31 09:28:25,478 - abalone - DEBUG - objective:-1283.6779
+2016-01-31 09:28:27,423 - abalone - DEBUG - objective:-1284.0796
+2016-01-31 09:28:29,233 - abalone - DEBUG - objective:-1284.3552
+2016-01-31 09:28:31,057 - abalone - DEBUG - objective:-1284.7090
+2016-01-31 09:28:32,969 - abalone - DEBUG - objective:-1285.1951
+2016-01-31 09:28:34,848 - abalone - DEBUG - objective:-1285.5925
+2016-01-31 09:28:36,494 - abalone - DEBUG - objective:-1286.1623
+2016-01-31 09:28:37,992 - abalone - DEBUG - objective:-1286.8998
+2016-01-31 09:28:40,074 - abalone - DEBUG - objective:-1287.4564
+2016-01-31 09:28:42,045 - abalone - DEBUG - objective:-1288.3747
+2016-01-31 09:28:43,891 - abalone - DEBUG - objective:-1288.9149
+2016-01-31 09:28:45,671 - abalone - DEBUG - objective:-1289.8822
+2016-01-31 09:28:47,443 - abalone - DEBUG - objective:-1290.4297
+2016-01-31 09:28:47,465 - abalone - INFO - Saving model...
+2016-01-31 09:28:47,536 - abalone - INFO - Model saved.
+2016-01-31 09:28:47,552 - abalone - DEBUG - ftol: 188.265630044
+2016-01-31 09:28:47,559 - abalone - INFO - diff:m:0.0138410634238 s:0.064585488078
+2016-01-31 09:28:47,568 - abalone - INFO - ll params
+2016-01-31 09:28:49,066 - abalone - DEBUG - objective:-1290.4297
+2016-01-31 09:28:50,505 - abalone - DEBUG - objective:-945.4163
+2016-01-31 09:28:51,862 - abalone - DEBUG - objective:-1290.4976
+2016-01-31 09:28:53,121 - abalone - DEBUG - objective:-1290.4980
+2016-01-31 09:28:54,684 - abalone - DEBUG - objective:-1290.4980
+2016-01-31 09:28:54,685 - abalone - INFO - hyp params
+2016-01-31 09:29:01,791 - abalone - DEBUG - objective:-1290.4980
+2016-01-31 09:29:08,706 - abalone - DEBUG - objective:-476.2746
+2016-01-31 09:29:15,661 - abalone - DEBUG - objective:-1291.0240
+2016-01-31 09:29:22,821 - abalone - DEBUG - objective:-1291.2903
+2016-01-31 09:29:30,333 - abalone - DEBUG - objective:-1291.3296
+2016-01-31 09:29:37,991 - abalone - DEBUG - objective:-1291.4766
+2016-01-31 09:29:44,803 - abalone - DEBUG - objective:-1292.1821
+2016-01-31 09:29:52,022 - abalone - DEBUG - objective:-1292.1960
+2016-01-31 09:29:58,963 - abalone - DEBUG - objective:-1292.1963
+2016-01-31 09:30:06,748 - abalone - DEBUG - objective:-1292.1963
+2016-01-31 09:30:13,734 - abalone - DEBUG - objective:-1292.1963
+2016-01-31 09:30:13,736 - abalone - INFO - Iteration 2 started.
+2016-01-31 09:30:13,737 - abalone - INFO - MoG params
+2016-01-31 09:30:15,635 - abalone - DEBUG - objective:-1292.1963
+2016-01-31 09:30:17,567 - abalone - DEBUG - objective:-1061.3594
+2016-01-31 09:30:19,659 - abalone - DEBUG - objective:-1293.0538
+2016-01-31 09:30:21,319 - abalone - DEBUG - objective:-1293.3370
+2016-01-31 09:30:23,057 - abalone - DEBUG - objective:-1293.7369
+2016-01-31 09:30:24,979 - abalone - DEBUG - objective:-1294.0799
+2016-01-31 09:30:26,801 - abalone - DEBUG - objective:-1294.3150
+2016-01-31 09:30:28,501 - abalone - DEBUG - objective:-1294.4443
+2016-01-31 09:30:30,779 - abalone - DEBUG - objective:-1294.5617
+2016-01-31 09:30:32,896 - abalone - DEBUG - objective:-1294.6863
+2016-01-31 09:30:34,969 - abalone - DEBUG - objective:-1294.7710
+2016-01-31 09:30:36,718 - abalone - DEBUG - objective:-1294.8700
+2016-01-31 09:30:38,618 - abalone - DEBUG - objective:-1294.9022
+2016-01-31 09:30:40,491 - abalone - DEBUG - objective:-1294.9515
+2016-01-31 09:30:42,266 - abalone - DEBUG - objective:-1295.0070
+2016-01-31 09:30:44,159 - abalone - DEBUG - objective:-1295.0626
+2016-01-31 09:30:46,181 - abalone - DEBUG - objective:-1295.0958
+2016-01-31 09:30:48,259 - abalone - DEBUG - objective:-1295.1385
+2016-01-31 09:30:50,106 - abalone - DEBUG - objective:-1295.1743
+2016-01-31 09:30:51,985 - abalone - DEBUG - objective:-1295.2188
+2016-01-31 09:30:53,906 - abalone - DEBUG - objective:-1295.2870
+2016-01-31 09:30:55,867 - abalone - DEBUG - objective:-1295.3233
+2016-01-31 09:30:57,494 - abalone - DEBUG - objective:-1295.3718
+2016-01-31 09:30:59,368 - abalone - DEBUG - objective:-1295.4643
+2016-01-31 09:31:01,070 - abalone - DEBUG - objective:-1295.5733
+2016-01-31 09:31:02,487 - abalone - DEBUG - objective:-1295.6671
+2016-01-31 09:31:02,509 - abalone - INFO - Saving model...
+2016-01-31 09:31:02,612 - abalone - INFO - Model saved.
+2016-01-31 09:31:02,630 - abalone - DEBUG - ftol: 5.23739140013
+2016-01-31 09:31:02,632 - abalone - INFO - diff:m:0.00978267104019 s:0.0176554570128
+2016-01-31 09:31:02,641 - abalone - INFO - ll params
+2016-01-31 09:31:04,188 - abalone - DEBUG - objective:-1295.6671
+2016-01-31 09:31:05,575 - abalone - DEBUG - objective:-937.2826
+2016-01-31 09:31:06,811 - abalone - DEBUG - objective:-1295.6673
+2016-01-31 09:31:08,224 - abalone - DEBUG - objective:-1295.6673
+2016-01-31 09:31:09,756 - abalone - DEBUG - objective:-1295.6673
+2016-01-31 09:31:11,126 - abalone - INFO - hyp params
+2016-01-31 09:31:16,741 - abalone - DEBUG - objective:-1295.6673
+2016-01-31 09:31:23,839 - abalone - DEBUG - objective:-483.9213
+2016-01-31 09:31:30,881 - abalone - DEBUG - objective:-1296.0652
+2016-01-31 09:31:38,180 - abalone - DEBUG - objective:-1296.2811
+2016-01-31 09:31:45,611 - abalone - DEBUG - objective:-1296.2921
+2016-01-31 09:31:53,091 - abalone - DEBUG - objective:-1296.3930
+2016-01-31 09:32:00,256 - abalone - DEBUG - objective:-1296.4943
+2016-01-31 09:32:06,943 - abalone - DEBUG - objective:-1296.5801
+2016-01-31 09:32:13,083 - abalone - DEBUG - objective:-1296.5932
+2016-01-31 09:32:18,309 - abalone - DEBUG - objective:-1296.5937
+2016-01-31 09:32:23,818 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:32:29,489 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:32:36,320 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:32:43,473 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:32:50,331 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:32:57,303 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:03,941 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:11,186 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:11,188 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:17,958 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:24,876 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:32,258 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:32,260 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:39,394 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:46,532 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:46,533 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:46,535 - abalone - INFO - Iteration 3 started.
+2016-01-31 09:33:46,536 - abalone - INFO - MoG params
+2016-01-31 09:33:48,273 - abalone - DEBUG - objective:-1296.5938
+2016-01-31 09:33:49,993 - abalone - DEBUG - objective:-1026.6631
+2016-01-31 09:33:52,099 - abalone - DEBUG - objective:-1296.9795
+2016-01-31 09:33:54,199 - abalone - DEBUG - objective:-1297.0811
+2016-01-31 09:33:55,982 - abalone - DEBUG - objective:-1297.1848
+2016-01-31 09:33:57,992 - abalone - DEBUG - objective:-1297.2616
+2016-01-31 09:33:59,814 - abalone - DEBUG - objective:-1297.3394
+2016-01-31 09:34:01,598 - abalone - DEBUG - objective:-1297.3891
+2016-01-31 09:34:03,167 - abalone - DEBUG - objective:-1297.4318
+2016-01-31 09:34:05,378 - abalone - DEBUG - objective:-1297.4694
+2016-01-31 09:34:07,498 - abalone - DEBUG - objective:-1297.5049
+2016-01-31 09:34:09,400 - abalone - DEBUG - objective:-1297.5307
+2016-01-31 09:34:11,535 - abalone - DEBUG - objective:-1297.5663
+2016-01-31 09:34:13,615 - abalone - DEBUG - objective:-1297.6053
+2016-01-31 09:34:15,575 - abalone - DEBUG - objective:-1297.6484
+2016-01-31 09:34:17,479 - abalone - DEBUG - objective:-1297.6905
+2016-01-31 09:34:19,230 - abalone - DEBUG - objective:-1297.7154
+2016-01-31 09:34:21,113 - abalone - DEBUG - objective:-1297.7350
+2016-01-31 09:34:22,873 - abalone - DEBUG - objective:-1297.7793
+2016-01-31 09:34:25,071 - abalone - DEBUG - objective:-1297.8061
+2016-01-31 09:34:27,611 - abalone - DEBUG - objective:-1297.8380
+2016-01-31 09:34:29,746 - abalone - DEBUG - objective:-1297.8901
+2016-01-31 09:34:31,883 - abalone - DEBUG - objective:-1297.9254
+2016-01-31 09:34:33,500 - abalone - DEBUG - objective:-1297.9815
+2016-01-31 09:34:35,188 - abalone - DEBUG - objective:-1298.0797
+2016-01-31 09:34:37,229 - abalone - DEBUG - objective:-1298.2059
+2016-01-31 09:34:37,241 - abalone - INFO - Saving model...
+2016-01-31 09:34:37,299 - abalone - INFO - Model saved.
+2016-01-31 09:34:37,309 - abalone - DEBUG - ftol: 2.53882191278
+2016-01-31 09:34:37,313 - abalone - INFO - diff:m:0.00554094891468 s:0.0210486891779
+2016-01-31 09:34:37,317 - abalone - INFO - ll params
+2016-01-31 09:34:38,839 - abalone - DEBUG - objective:-1298.2059
+2016-01-31 09:34:40,228 - abalone - DEBUG - objective:-939.6377
+2016-01-31 09:34:41,790 - abalone - DEBUG - objective:-1298.2060
+2016-01-31 09:34:43,241 - abalone - DEBUG - objective:-1298.2060
+2016-01-31 09:34:43,243 - abalone - INFO - hyp params
+2016-01-31 09:34:50,727 - abalone - DEBUG - objective:-1298.2060
+2016-01-31 09:34:58,574 - abalone - DEBUG - objective:-487.8570
+2016-01-31 09:35:06,247 - abalone - DEBUG - objective:-1298.3812
+2016-01-31 09:35:13,242 - abalone - DEBUG - objective:-1298.4804
+2016-01-31 09:35:20,735 - abalone - DEBUG - objective:-1298.4891
+2016-01-31 09:35:28,570 - abalone - DEBUG - objective:-1298.5221
+2016-01-31 09:35:36,522 - abalone - DEBUG - objective:-1298.6299
+2016-01-31 09:35:43,911 - abalone - DEBUG - objective:-1298.7642
+2016-01-31 09:35:51,425 - abalone - DEBUG - objective:-1298.7654
+2016-01-31 09:35:58,791 - abalone - DEBUG - objective:-1298.7654
+2016-01-31 09:36:05,981 - abalone - DEBUG - objective:-1298.7654
+2016-01-31 09:36:13,535 - abalone - DEBUG - objective:-1298.7654
+2016-01-31 09:36:13,538 - abalone - INFO - Iteration 4 started.
+2016-01-31 09:36:13,544 - abalone - INFO - MoG params
+2016-01-31 09:36:15,625 - abalone - DEBUG - objective:-1298.7654
+2016-01-31 09:36:17,577 - abalone - DEBUG - objective:-1011.0309
+2016-01-31 09:36:19,373 - abalone - DEBUG - objective:-1298.9874
+2016-01-31 09:36:21,187 - abalone - DEBUG - objective:-1299.0499
+2016-01-31 09:36:22,999 - abalone - DEBUG - objective:-1299.1551
+2016-01-31 09:36:24,753 - abalone - DEBUG - objective:-1299.2270
+2016-01-31 09:36:26,710 - abalone - DEBUG - objective:-1299.2918
+2016-01-31 09:36:28,649 - abalone - DEBUG - objective:-1299.3275
+2016-01-31 09:36:30,549 - abalone - DEBUG - objective:-1299.3542
+2016-01-31 09:36:32,355 - abalone - DEBUG - objective:-1299.3748
+2016-01-31 09:36:34,282 - abalone - DEBUG - objective:-1299.3890
+2016-01-31 09:36:36,211 - abalone - DEBUG - objective:-1299.3953
+2016-01-31 09:36:38,053 - abalone - DEBUG - objective:-1299.4022
+2016-01-31 09:36:39,880 - abalone - DEBUG - objective:-1299.4102
+2016-01-31 09:36:42,145 - abalone - DEBUG - objective:-1299.4213
+2016-01-31 09:36:44,515 - abalone - DEBUG - objective:-1299.4336
+2016-01-31 09:36:46,915 - abalone - DEBUG - objective:-1299.4474
+2016-01-31 09:36:48,794 - abalone - DEBUG - objective:-1299.4569
+2016-01-31 09:36:50,643 - abalone - DEBUG - objective:-1299.4653
+2016-01-31 09:36:52,477 - abalone - DEBUG - objective:-1299.4754
+2016-01-31 09:36:54,374 - abalone - DEBUG - objective:-1299.4866
+2016-01-31 09:36:56,450 - abalone - DEBUG - objective:-1299.4985
+2016-01-31 09:36:58,538 - abalone - DEBUG - objective:-1299.5102
+2016-01-31 09:37:00,666 - abalone - DEBUG - objective:-1299.5229
+2016-01-31 09:37:02,507 - abalone - DEBUG - objective:-1299.5408
+2016-01-31 09:37:04,272 - abalone - DEBUG - objective:-1299.5626
+2016-01-31 09:37:04,287 - abalone - INFO - Saving model...
+2016-01-31 09:37:04,407 - abalone - INFO - Model saved.
+2016-01-31 09:37:04,411 - abalone - DEBUG - ftol: 1.35672497991
+2016-01-31 09:37:04,413 - abalone - INFO - diff:m:0.00436620238799 s:0.00773572468302
+2016-01-31 09:37:04,419 - abalone - INFO - ll params
+2016-01-31 09:37:06,010 - abalone - DEBUG - objective:-1299.5626
+2016-01-31 09:37:07,567 - abalone - DEBUG - objective:-1116.2141
+2016-01-31 09:37:09,252 - abalone - DEBUG - objective:-1299.5635
+2016-01-31 09:37:10,790 - abalone - DEBUG - objective:-1299.5635
+2016-01-31 09:37:12,282 - abalone - DEBUG - objective:-1299.5635
+2016-01-31 09:37:12,285 - abalone - INFO - hyp params
+2016-01-31 09:37:19,466 - abalone - DEBUG - objective:-1299.5635
+2016-01-31 09:37:26,868 - abalone - DEBUG - objective:-536.2737
+2016-01-31 09:37:33,724 - abalone - DEBUG - objective:-1299.7296
+2016-01-31 09:37:40,778 - abalone - DEBUG - objective:-1299.8003
+2016-01-31 09:37:47,932 - abalone - DEBUG - objective:-1299.8033
+2016-01-31 09:37:55,729 - abalone - DEBUG - objective:-1299.8136
+2016-01-31 09:38:02,445 - abalone - DEBUG - objective:-1299.8637
+2016-01-31 09:38:09,246 - abalone - DEBUG - objective:-1299.9036
+2016-01-31 09:38:16,422 - abalone - DEBUG - objective:-1299.9150
+2016-01-31 09:38:23,411 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:38:30,872 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:38:38,255 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:38:45,418 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:38:53,818 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:01,783 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:09,095 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:17,324 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:25,240 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:32,595 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:40,103 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:47,740 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:39:54,900 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:01,739 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:08,494 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:15,799 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:22,946 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:30,858 - abalone - INFO - Iteration 5 started.
+2016-01-31 09:40:30,864 - abalone - INFO - MoG params
+2016-01-31 09:40:32,663 - abalone - DEBUG - objective:-1299.9151
+2016-01-31 09:40:34,557 - abalone - DEBUG - objective:-984.6247
+2016-01-31 09:40:36,539 - abalone - DEBUG - objective:-1300.0136
+2016-01-31 09:40:38,815 - abalone - DEBUG - objective:-1300.0399
+2016-01-31 09:40:40,666 - abalone - DEBUG - objective:-1300.0971
+2016-01-31 09:40:42,668 - abalone - DEBUG - objective:-1300.1350
+2016-01-31 09:40:44,467 - abalone - DEBUG - objective:-1300.1574
+2016-01-31 09:40:46,300 - abalone - DEBUG - objective:-1300.1690
+2016-01-31 09:40:47,845 - abalone - DEBUG - objective:-1300.1754
+2016-01-31 09:40:49,736 - abalone - DEBUG - objective:-1300.1888
+2016-01-31 09:40:51,564 - abalone - DEBUG - objective:-1300.1893
+2016-01-31 09:40:53,729 - abalone - DEBUG - objective:-1300.1963
+2016-01-31 09:40:55,450 - abalone - DEBUG - objective:-1300.2048
+2016-01-31 09:40:57,405 - abalone - DEBUG - objective:-1300.2106
+2016-01-31 09:40:59,033 - abalone - DEBUG - objective:-1300.2168
+2016-01-31 09:41:00,926 - abalone - DEBUG - objective:-1300.2253
+2016-01-31 09:41:02,963 - abalone - DEBUG - objective:-1300.2347
+2016-01-31 09:41:04,567 - abalone - DEBUG - objective:-1300.2433
+2016-01-31 09:41:06,179 - abalone - DEBUG - objective:-1300.2505
+2016-01-31 09:41:07,996 - abalone - DEBUG - objective:-1300.2592
+2016-01-31 09:41:09,682 - abalone - DEBUG - objective:-1300.2686
+2016-01-31 09:41:11,509 - abalone - DEBUG - objective:-1300.2767
+2016-01-31 09:41:13,214 - abalone - DEBUG - objective:-1300.2830
+2016-01-31 09:41:14,769 - abalone - DEBUG - objective:-1300.2901
+2016-01-31 09:41:16,764 - abalone - DEBUG - objective:-1300.2991
+2016-01-31 09:41:18,435 - abalone - DEBUG - objective:-1300.3093
+2016-01-31 09:41:18,438 - abalone - INFO - Saving model...
+2016-01-31 09:41:18,475 - abalone - INFO - Model saved.
+2016-01-31 09:41:18,481 - abalone - DEBUG - ftol: 0.746663917468
+2016-01-31 09:41:18,484 - abalone - INFO - diff:m:0.0030286352853 s:0.00450161380042
+2016-01-31 09:41:18,488 - abalone - INFO - ll params
+2016-01-31 09:41:20,228 - abalone - DEBUG - objective:-1300.3093
+2016-01-31 09:41:21,334 - abalone - DEBUG - objective:-1117.1137
+2016-01-31 09:41:22,472 - abalone - DEBUG - objective:-1300.3107
+2016-01-31 09:41:23,977 - abalone - DEBUG - objective:-1300.3107
+2016-01-31 09:41:25,451 - abalone - DEBUG - objective:-1300.3107
+2016-01-31 09:41:25,453 - abalone - INFO - hyp params
+2016-01-31 09:41:32,563 - abalone - DEBUG - objective:-1300.3107
+2016-01-31 09:41:39,621 - abalone - DEBUG - objective:-574.9614
+2016-01-31 09:41:47,087 - abalone - DEBUG - objective:-1300.4328
+2016-01-31 09:41:54,539 - abalone - DEBUG - objective:-1300.4739
+2016-01-31 09:42:01,795 - abalone - DEBUG - objective:-1300.4754
+2016-01-31 09:42:09,655 - abalone - DEBUG - objective:-1300.4807
+2016-01-31 09:42:17,418 - abalone - DEBUG - objective:-1300.5109
+2016-01-31 09:42:24,509 - abalone - DEBUG - objective:-1300.5309
+2016-01-31 09:42:32,250 - abalone - DEBUG - objective:-1300.5365
+2016-01-31 09:42:40,242 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:42:46,414 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:42:52,740 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:42:59,012 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:06,320 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:13,077 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:19,530 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:26,834 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:34,947 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:42,657 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:49,914 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:43:56,065 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:01,657 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:07,993 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:14,073 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:20,019 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:27,394 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:35,298 - abalone - INFO - Iteration 6 started.
+2016-01-31 09:44:35,300 - abalone - INFO - MoG params
+2016-01-31 09:44:36,956 - abalone - DEBUG - objective:-1300.5366
+2016-01-31 09:44:38,971 - abalone - DEBUG - objective:-978.3650
+2016-01-31 09:44:41,098 - abalone - DEBUG - objective:-1300.5887
+2016-01-31 09:44:42,979 - abalone - DEBUG - objective:-1300.6038
+2016-01-31 09:44:44,986 - abalone - DEBUG - objective:-1300.6451
+2016-01-31 09:44:46,830 - abalone - DEBUG - objective:-1300.6678
+2016-01-31 09:44:48,498 - abalone - DEBUG - objective:-1300.6806
+2016-01-31 09:44:50,445 - abalone - DEBUG - objective:-1300.6851
+2016-01-31 09:44:52,595 - abalone - DEBUG - objective:-1300.6902
+2016-01-31 09:44:55,015 - abalone - DEBUG - objective:-1300.6976
+2016-01-31 09:44:56,912 - abalone - DEBUG - objective:-1300.6980
+2016-01-31 09:44:59,000 - abalone - DEBUG - objective:-1300.7015
+2016-01-31 09:45:01,110 - abalone - DEBUG - objective:-1300.7060
+2016-01-31 09:45:02,723 - abalone - DEBUG - objective:-1300.7091
+2016-01-31 09:45:04,434 - abalone - DEBUG - objective:-1300.7131
+2016-01-31 09:45:06,390 - abalone - DEBUG - objective:-1300.7181
+2016-01-31 09:45:08,371 - abalone - DEBUG - objective:-1300.7236
+2016-01-31 09:45:10,389 - abalone - DEBUG - objective:-1300.7289
+2016-01-31 09:45:12,240 - abalone - DEBUG - objective:-1300.7342
+2016-01-31 09:45:13,900 - abalone - DEBUG - objective:-1300.7416
+2016-01-31 09:45:15,338 - abalone - DEBUG - objective:-1300.7500
+2016-01-31 09:45:16,976 - abalone - DEBUG - objective:-1300.7587
+2016-01-31 09:45:18,711 - abalone - DEBUG - objective:-1300.7654
+2016-01-31 09:45:20,500 - abalone - DEBUG - objective:-1300.7712
+2016-01-31 09:45:22,599 - abalone - DEBUG - objective:-1300.7780
+2016-01-31 09:45:24,529 - abalone - DEBUG - objective:-1300.7890
+2016-01-31 09:45:24,535 - abalone - INFO - Saving model...
+2016-01-31 09:45:24,573 - abalone - INFO - Model saved.
+2016-01-31 09:45:24,577 - abalone - DEBUG - ftol: 0.47968877462
+2016-01-31 09:45:24,581 - abalone - INFO - diff:m:0.00266673428841 s:0.00455435491813
+2016-01-31 09:45:24,584 - abalone - INFO - ll params
+2016-01-31 09:45:26,301 - abalone - DEBUG - objective:-1300.7890
+2016-01-31 09:45:27,923 - abalone - DEBUG - objective:-1117.6005
+2016-01-31 09:45:29,185 - abalone - DEBUG - objective:-1300.7904
+2016-01-31 09:45:30,691 - abalone - DEBUG - objective:-1300.7904
+2016-01-31 09:45:32,002 - abalone - DEBUG - objective:-1300.7904
+2016-01-31 09:45:32,004 - abalone - INFO - hyp params
+2016-01-31 09:45:38,703 - abalone - DEBUG - objective:-1300.7904
+2016-01-31 09:45:45,257 - abalone - DEBUG - objective:-604.7405
+2016-01-31 09:45:51,511 - abalone - DEBUG - objective:-1300.8839
+2016-01-31 09:45:58,654 - abalone - DEBUG - objective:-1300.9080
+2016-01-31 09:46:05,773 - abalone - DEBUG - objective:-1300.9087
+2016-01-31 09:46:12,878 - abalone - DEBUG - objective:-1300.9110
+2016-01-31 09:46:19,333 - abalone - DEBUG - objective:-1300.9244
+2016-01-31 09:46:25,553 - abalone - DEBUG - objective:-1300.9348
+2016-01-31 09:46:32,258 - abalone - DEBUG - objective:-1300.9383
+2016-01-31 09:46:39,335 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:46:46,467 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:46:52,767 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:46:59,438 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:06,403 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:13,601 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:21,101 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:27,926 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:35,565 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:35,568 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:42,363 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:48,909 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:48,913 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:47:55,723 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:48:02,337 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:48:02,341 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:48:09,337 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:48:16,579 - abalone - INFO - Iteration 7 started.
+2016-01-31 09:48:16,580 - abalone - INFO - MoG params
+2016-01-31 09:48:18,448 - abalone - DEBUG - objective:-1300.9384
+2016-01-31 09:48:20,492 - abalone - DEBUG - objective:-994.4326
+2016-01-31 09:48:22,678 - abalone - DEBUG - objective:-1300.9718
+2016-01-31 09:48:24,754 - abalone - DEBUG - objective:-1300.9843
+2016-01-31 09:48:26,760 - abalone - DEBUG - objective:-1301.0204
+2016-01-31 09:48:28,382 - abalone - DEBUG - objective:-1301.0302
+2016-01-31 09:48:30,287 - abalone - DEBUG - objective:-1301.0422
+2016-01-31 09:48:32,335 - abalone - DEBUG - objective:-1301.0461
+2016-01-31 09:48:34,104 - abalone - DEBUG - objective:-1301.0504
+2016-01-31 09:48:35,907 - abalone - DEBUG - objective:-1301.0579
+2016-01-31 09:48:38,182 - abalone - DEBUG - objective:-1301.0528
+2016-01-31 09:48:40,116 - abalone - DEBUG - objective:-1301.0610
+2016-01-31 09:48:41,910 - abalone - DEBUG - objective:-1301.0659
+2016-01-31 09:48:43,774 - abalone - DEBUG - objective:-1301.0688
+2016-01-31 09:48:45,836 - abalone - DEBUG - objective:-1301.0724
+2016-01-31 09:48:47,493 - abalone - DEBUG - objective:-1301.0768
+2016-01-31 09:48:49,141 - abalone - DEBUG - objective:-1301.0820
+2016-01-31 09:48:51,130 - abalone - DEBUG - objective:-1301.0872
+2016-01-31 09:48:52,905 - abalone - DEBUG - objective:-1301.0914
+2016-01-31 09:48:55,019 - abalone - DEBUG - objective:-1301.0956
+2016-01-31 09:48:56,729 - abalone - DEBUG - objective:-1301.1004
+2016-01-31 09:48:58,330 - abalone - DEBUG - objective:-1301.1068
+2016-01-31 09:49:00,331 - abalone - DEBUG - objective:-1301.1107
+2016-01-31 09:49:02,172 - abalone - DEBUG - objective:-1301.1128
+2016-01-31 09:49:03,898 - abalone - DEBUG - objective:-1301.1169
+2016-01-31 09:49:05,750 - abalone - DEBUG - objective:-1301.1211
+2016-01-31 09:49:05,753 - abalone - INFO - Saving model...
+2016-01-31 09:49:05,783 - abalone - INFO - Model saved.
+2016-01-31 09:49:05,792 - abalone - DEBUG - ftol: 0.332087882893
+2016-01-31 09:49:05,797 - abalone - INFO - diff:m:0.00205278864612 s:0.00241342125633
+2016-01-31 09:49:05,801 - abalone - INFO - ll params
+2016-01-31 09:49:07,705 - abalone - DEBUG - objective:-1301.1211
+2016-01-31 09:49:08,971 - abalone - DEBUG - objective:-1117.7498
+2016-01-31 09:49:10,495 - abalone - DEBUG - objective:-1301.1219
+2016-01-31 09:49:12,081 - abalone - DEBUG - objective:-1301.1219
+2016-01-31 09:49:13,606 - abalone - DEBUG - objective:-1301.1219
+2016-01-31 09:49:13,607 - abalone - INFO - hyp params
+2016-01-31 09:49:20,351 - abalone - DEBUG - objective:-1301.1219
+2016-01-31 09:49:27,351 - abalone - DEBUG - objective:-622.1158
+2016-01-31 09:49:34,442 - abalone - DEBUG - objective:-1301.1754
+2016-01-31 09:49:41,431 - abalone - DEBUG - objective:-1301.1863
+2016-01-31 09:49:49,019 - abalone - DEBUG - objective:-1301.1867
+2016-01-31 09:49:56,383 - abalone - DEBUG - objective:-1301.1881
+2016-01-31 09:50:03,599 - abalone - DEBUG - objective:-1301.1930
+2016-01-31 09:50:11,243 - abalone - DEBUG - objective:-1301.2034
+2016-01-31 09:50:18,067 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:25,095 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:31,621 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:38,467 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:45,106 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:52,014 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:50:58,381 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:04,796 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:11,420 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:18,211 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:25,296 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:25,297 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:32,055 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:38,631 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:38,633 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:45,743 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:52,565 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:52,567 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:52,569 - abalone - INFO - Iteration 8 started.
+2016-01-31 09:51:52,570 - abalone - INFO - MoG params
+2016-01-31 09:51:54,343 - abalone - DEBUG - objective:-1301.2041
+2016-01-31 09:51:56,095 - abalone - DEBUG - objective:-1009.8419
+2016-01-31 09:51:58,084 - abalone - DEBUG - objective:-1301.2249
+2016-01-31 09:51:59,823 - abalone - DEBUG - objective:-1301.2340
+2016-01-31 09:52:01,831 - abalone - DEBUG - objective:-1301.2599
+2016-01-31 09:52:03,640 - abalone - DEBUG - objective:-1301.2625
+2016-01-31 09:52:05,456 - abalone - DEBUG - objective:-1301.2717
+2016-01-31 09:52:07,494 - abalone - DEBUG - objective:-1301.2736
+2016-01-31 09:52:08,964 - abalone - DEBUG - objective:-1301.2765
+2016-01-31 09:52:10,672 - abalone - DEBUG - objective:-1301.2802
+2016-01-31 09:52:12,213 - abalone - DEBUG - objective:-1301.2816
+2016-01-31 09:52:13,955 - abalone - DEBUG - objective:-1301.2863
+2016-01-31 09:52:15,960 - abalone - DEBUG - objective:-1301.2875
+2016-01-31 09:52:17,693 - abalone - DEBUG - objective:-1301.2893
+2016-01-31 09:52:19,670 - abalone - DEBUG - objective:-1301.2919
+2016-01-31 09:52:21,898 - abalone - DEBUG - objective:-1301.2927
+2016-01-31 09:52:24,099 - abalone - DEBUG - objective:-1301.2989
+2016-01-31 09:52:26,233 - abalone - DEBUG - objective:-1301.3016
+2016-01-31 09:52:28,199 - abalone - DEBUG - objective:-1301.3054
+2016-01-31 09:52:30,077 - abalone - DEBUG - objective:-1301.3108
+2016-01-31 09:52:31,947 - abalone - DEBUG - objective:-1301.3097
+2016-01-31 09:52:33,850 - abalone - DEBUG - objective:-1301.3148
+2016-01-31 09:52:35,844 - abalone - DEBUG - objective:-1301.3208
+2016-01-31 09:52:38,109 - abalone - DEBUG - objective:-1301.3242
+2016-01-31 09:52:40,150 - abalone - DEBUG - objective:-1301.3285
+2016-01-31 09:52:42,068 - abalone - DEBUG - objective:-1301.3324
+2016-01-31 09:52:42,075 - abalone - INFO - Saving model...
+2016-01-31 09:52:42,119 - abalone - INFO - Model saved.
+2016-01-31 09:52:42,126 - abalone - DEBUG - ftol: 0.211367824185
+2016-01-31 09:52:42,130 - abalone - INFO - diff:m:0.00173828466056 s:0.00299236751063
+2016-01-31 09:52:42,134 - abalone - INFO - ll params
+2016-01-31 09:52:43,833 - abalone - DEBUG - objective:-1301.3324
+2016-01-31 09:52:45,551 - abalone - DEBUG - objective:-1117.9499
+2016-01-31 09:52:47,169 - abalone - DEBUG - objective:-1301.3332
+2016-01-31 09:52:48,827 - abalone - DEBUG - objective:-1301.3332
+2016-01-31 09:52:50,541 - abalone - DEBUG - objective:-1301.3332
+2016-01-31 09:52:50,543 - abalone - INFO - hyp params
+2016-01-31 09:52:57,866 - abalone - DEBUG - objective:-1301.3332
+2016-01-31 09:53:04,923 - abalone - DEBUG - objective:-642.2067
+2016-01-31 09:53:12,918 - abalone - DEBUG - objective:-1301.3823
+2016-01-31 09:53:20,584 - abalone - DEBUG - objective:-1301.3901
+2016-01-31 09:53:28,219 - abalone - DEBUG - objective:-1301.3903
+2016-01-31 09:53:35,517 - abalone - DEBUG - objective:-1301.3914
+2016-01-31 09:53:43,007 - abalone - DEBUG - objective:-1301.3951
+2016-01-31 09:53:50,447 - abalone - DEBUG - objective:-1301.4034
+2016-01-31 09:53:57,529 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:03,934 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:09,425 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:14,819 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:21,194 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:27,951 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:35,215 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:43,203 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:50,915 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:54:59,000 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:06,771 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:14,627 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:22,634 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:30,354 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:37,648 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:43,699 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:49,381 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:55:56,269 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:56:04,070 - abalone - INFO - Iteration 9 started.
+2016-01-31 09:56:04,072 - abalone - INFO - MoG params
+2016-01-31 09:56:06,022 - abalone - DEBUG - objective:-1301.4035
+2016-01-31 09:56:07,840 - abalone - DEBUG - objective:-996.4476
+2016-01-31 09:56:09,545 - abalone - DEBUG - objective:-1301.4211
+2016-01-31 09:56:11,184 - abalone - DEBUG - objective:-1301.4296
+2016-01-31 09:56:12,964 - abalone - DEBUG - objective:-1301.4574
+2016-01-31 09:56:14,771 - abalone - DEBUG - objective:-1301.4500
+2016-01-31 09:56:16,407 - abalone - DEBUG - objective:-1301.4616
+2016-01-31 09:56:18,232 - abalone - DEBUG - objective:-1301.4644
+2016-01-31 09:56:19,982 - abalone - DEBUG - objective:-1301.4700
+2016-01-31 09:56:21,874 - abalone - DEBUG - objective:-1301.4722
+2016-01-31 09:56:24,235 - abalone - DEBUG - objective:-1301.4746
+2016-01-31 09:56:26,204 - abalone - DEBUG - objective:-1301.4765
+2016-01-31 09:56:28,104 - abalone - DEBUG - objective:-1301.4774
+2016-01-31 09:56:30,303 - abalone - DEBUG - objective:-1301.4800
+2016-01-31 09:56:32,114 - abalone - DEBUG - objective:-1301.4805
+2016-01-31 09:56:33,918 - abalone - DEBUG - objective:-1301.4817
+2016-01-31 09:56:36,031 - abalone - DEBUG - objective:-1301.4836
+2016-01-31 09:56:37,607 - abalone - DEBUG - objective:-1301.4865
+2016-01-31 09:56:39,548 - abalone - DEBUG - objective:-1301.4896
+2016-01-31 09:56:41,571 - abalone - DEBUG - objective:-1301.4932
+2016-01-31 09:56:43,442 - abalone - DEBUG - objective:-1301.4972
+2016-01-31 09:56:45,151 - abalone - DEBUG - objective:-1301.5000
+2016-01-31 09:56:46,766 - abalone - DEBUG - objective:-1301.5016
+2016-01-31 09:56:48,751 - abalone - DEBUG - objective:-1301.5038
+2016-01-31 09:56:50,514 - abalone - DEBUG - objective:-1301.5062
+2016-01-31 09:56:52,094 - abalone - DEBUG - objective:-1301.5089
+2016-01-31 09:56:52,108 - abalone - INFO - Saving model...
+2016-01-31 09:56:52,183 - abalone - INFO - Model saved.
+2016-01-31 09:56:52,187 - abalone - DEBUG - ftol: 0.176513549332
+2016-01-31 09:56:52,194 - abalone - INFO - diff:m:0.00155360471137 s:0.00182473256132
+2016-01-31 09:56:52,197 - abalone - INFO - ll params
+2016-01-31 09:56:54,056 - abalone - DEBUG - objective:-1301.5089
+2016-01-31 09:56:55,353 - abalone - DEBUG - objective:-1118.1070
+2016-01-31 09:56:56,833 - abalone - DEBUG - objective:-1301.5097
+2016-01-31 09:56:58,300 - abalone - DEBUG - objective:-1301.5097
+2016-01-31 09:56:59,868 - abalone - DEBUG - objective:-1301.5097
+2016-01-31 09:56:59,870 - abalone - INFO - hyp params
+2016-01-31 09:57:07,145 - abalone - DEBUG - objective:-1301.5097
+2016-01-31 09:57:13,342 - abalone - DEBUG - objective:-657.2315
+2016-01-31 09:57:20,302 - abalone - DEBUG - objective:-1301.5478
+2016-01-31 09:57:27,430 - abalone - DEBUG - objective:-1301.5519
+2016-01-31 09:57:34,144 - abalone - DEBUG - objective:-1301.5520
+2016-01-31 09:57:41,167 - abalone - DEBUG - objective:-1301.5526
+2016-01-31 09:57:47,615 - abalone - DEBUG - objective:-1301.5545
+2016-01-31 09:57:54,786 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:01,582 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:08,632 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:15,954 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:23,105 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:30,129 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:37,388 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:44,731 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:51,519 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:58:58,307 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:05,091 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:05,094 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:11,938 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:18,610 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:25,383 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:25,386 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:32,655 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:39,707 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:39,709 - abalone - INFO - Iteration 10 started.
+2016-01-31 09:59:39,710 - abalone - INFO - MoG params
+2016-01-31 09:59:41,431 - abalone - DEBUG - objective:-1301.5589
+2016-01-31 09:59:43,426 - abalone - DEBUG - objective:-982.5917
+2016-01-31 09:59:45,531 - abalone - DEBUG - objective:-1301.5734
+2016-01-31 09:59:47,239 - abalone - DEBUG - objective:-1301.5793
+2016-01-31 09:59:49,062 - abalone - DEBUG - objective:-1301.5970
+2016-01-31 09:59:51,283 - abalone - DEBUG - objective:-1301.5948
+2016-01-31 09:59:53,234 - abalone - DEBUG - objective:-1301.6000
+2016-01-31 09:59:55,024 - abalone - DEBUG - objective:-1301.6020
+2016-01-31 09:59:56,879 - abalone - DEBUG - objective:-1301.6056
+2016-01-31 09:59:58,831 - abalone - DEBUG - objective:-1301.6075
+2016-01-31 10:00:00,816 - abalone - DEBUG - objective:-1301.6096
+2016-01-31 10:00:02,505 - abalone - DEBUG - objective:-1301.6109
+2016-01-31 10:00:04,362 - abalone - DEBUG - objective:-1301.6119
+2016-01-31 10:00:06,161 - abalone - DEBUG - objective:-1301.6128
+2016-01-31 10:00:08,340 - abalone - DEBUG - objective:-1301.6143
+2016-01-31 10:00:10,176 - abalone - DEBUG - objective:-1301.6158
+2016-01-31 10:00:12,307 - abalone - DEBUG - objective:-1301.6176
+2016-01-31 10:00:14,387 - abalone - DEBUG - objective:-1301.6207
+2016-01-31 10:00:16,127 - abalone - DEBUG - objective:-1301.6224
+2016-01-31 10:00:17,942 - abalone - DEBUG - objective:-1301.6239
+2016-01-31 10:00:19,981 - abalone - DEBUG - objective:-1301.6264
+2016-01-31 10:00:21,872 - abalone - DEBUG - objective:-1301.6279
+2016-01-31 10:00:24,134 - abalone - DEBUG - objective:-1301.6302
+2016-01-31 10:00:25,768 - abalone - DEBUG - objective:-1301.6321
+2016-01-31 10:00:27,545 - abalone - DEBUG - objective:-1301.6336
+2016-01-31 10:00:29,503 - abalone - DEBUG - objective:-1301.6362
+2016-01-31 10:00:29,506 - abalone - INFO - Saving model...
+2016-01-31 10:00:29,587 - abalone - INFO - Model saved.
+2016-01-31 10:00:29,588 - abalone - DEBUG - ftol: 0.127228683204
+2016-01-31 10:00:29,589 - abalone - INFO - diff:m:0.00127564463157 s:0.00170582444558
+2016-01-31 10:00:29,591 - abalone - INFO - ll params
+2016-01-31 10:00:31,457 - abalone - DEBUG - objective:-1301.6362
+2016-01-31 10:00:32,802 - abalone - DEBUG - objective:-1118.1739
+2016-01-31 10:00:33,969 - abalone - DEBUG - objective:-1301.6367
+2016-01-31 10:00:35,675 - abalone - DEBUG - objective:-1301.6367
+2016-01-31 10:00:37,014 - abalone - DEBUG - objective:-1301.6367
+2016-01-31 10:00:37,016 - abalone - INFO - hyp params
+2016-01-31 10:00:44,556 - abalone - DEBUG - objective:-1301.6367
+2016-01-31 10:00:51,283 - abalone - DEBUG - objective:-670.2296
+2016-01-31 10:00:58,894 - abalone - DEBUG - objective:-1301.6683
+2016-01-31 10:01:06,446 - abalone - DEBUG - objective:-1301.6709
+2016-01-31 10:01:13,309 - abalone - DEBUG - objective:-1301.6710
+2016-01-31 10:01:20,619 - abalone - DEBUG - objective:-1301.6716
+2016-01-31 10:01:28,303 - abalone - DEBUG - objective:-1301.6734
+2016-01-31 10:01:35,615 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:01:43,445 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:01:50,444 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:01:57,844 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:05,078 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:12,437 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:19,599 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:27,183 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:34,314 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:41,425 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:49,004 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:02:56,674 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:04,005 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:11,455 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:18,211 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:25,763 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:33,730 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:40,930 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:48,475 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:55,811 - abalone - INFO - Iteration 11 started.
+2016-01-31 10:03:55,812 - abalone - INFO - MoG params
+2016-01-31 10:03:57,585 - abalone - DEBUG - objective:-1301.6778
+2016-01-31 10:03:59,351 - abalone - DEBUG - objective:-1036.6366
+2016-01-31 10:04:01,055 - abalone - DEBUG - objective:-1301.6884
+2016-01-31 10:04:02,753 - abalone - DEBUG - objective:-1301.6942
+2016-01-31 10:04:04,408 - abalone - DEBUG - objective:-1301.7075
+2016-01-31 10:04:06,210 - abalone - DEBUG - objective:-1301.7093
+2016-01-31 10:04:08,273 - abalone - DEBUG - objective:-1301.7131
+2016-01-31 10:04:10,125 - abalone - DEBUG - objective:-1301.7144
+2016-01-31 10:04:12,077 - abalone - DEBUG - objective:-1301.7159
+2016-01-31 10:04:13,930 - abalone - DEBUG - objective:-1301.7180
+2016-01-31 10:04:15,591 - abalone - DEBUG - objective:-1301.7186
+2016-01-31 10:04:17,204 - abalone - DEBUG - objective:-1301.7209
+2016-01-31 10:04:19,120 - abalone - DEBUG - objective:-1301.7214
+2016-01-31 10:04:20,943 - abalone - DEBUG - objective:-1301.7224
+2016-01-31 10:04:22,659 - abalone - DEBUG - objective:-1301.7240
+2016-01-31 10:04:24,946 - abalone - DEBUG - objective:-1301.7259
+2016-01-31 10:04:26,812 - abalone - DEBUG - objective:-1301.7281
+2016-01-31 10:04:28,339 - abalone - DEBUG - objective:-1301.7306
+2016-01-31 10:04:30,164 - abalone - DEBUG - objective:-1301.7323
+2016-01-31 10:04:31,910 - abalone - DEBUG - objective:-1301.7343
+2016-01-31 10:04:33,590 - abalone - DEBUG - objective:-1301.7368
+2016-01-31 10:04:35,323 - abalone - DEBUG - objective:-1301.7389
+2016-01-31 10:04:36,655 - abalone - DEBUG - objective:-1301.7399
+2016-01-31 10:04:38,360 - abalone - DEBUG - objective:-1301.7413
+2016-01-31 10:04:40,207 - abalone - DEBUG - objective:-1301.7429
+2016-01-31 10:04:41,803 - abalone - DEBUG - objective:-1301.7455
+2016-01-31 10:04:41,806 - abalone - INFO - Saving model...
+2016-01-31 10:04:41,857 - abalone - INFO - Model saved.
+2016-01-31 10:04:41,871 - abalone - DEBUG - ftol: 0.109369021523
+2016-01-31 10:04:41,874 - abalone - INFO - diff:m:0.00117094033139 s:0.00180759049901
+2016-01-31 10:04:41,877 - abalone - INFO - ll params
+2016-01-31 10:04:43,428 - abalone - DEBUG - objective:-1301.7455
+2016-01-31 10:04:45,043 - abalone - DEBUG - objective:-1118.2548
+2016-01-31 10:04:46,652 - abalone - DEBUG - objective:-1301.7460
+2016-01-31 10:04:48,002 - abalone - DEBUG - objective:-1301.7460
+2016-01-31 10:04:49,545 - abalone - DEBUG - objective:-1301.7460
+2016-01-31 10:04:49,549 - abalone - INFO - hyp params
+2016-01-31 10:04:56,552 - abalone - DEBUG - objective:-1301.7460
+2016-01-31 10:05:03,517 - abalone - DEBUG - objective:-683.4267
+2016-01-31 10:05:09,632 - abalone - DEBUG - objective:-1301.7750
+2016-01-31 10:05:15,590 - abalone - DEBUG - objective:-1301.7765
+2016-01-31 10:05:20,996 - abalone - DEBUG - objective:-1301.7766
+2016-01-31 10:05:26,779 - abalone - DEBUG - objective:-1301.7770
+2016-01-31 10:05:32,052 - abalone - DEBUG - objective:-1301.7814
+2016-01-31 10:05:37,385 - abalone - DEBUG - objective:-1301.7821
+2016-01-31 10:05:42,856 - abalone - DEBUG - objective:-1301.7822
+2016-01-31 10:05:48,391 - abalone - DEBUG - objective:-1301.7822
+2016-01-31 10:05:53,881 - abalone - DEBUG - objective:-1301.7822
+2016-01-31 10:05:59,336 - abalone - DEBUG - objective:-1301.7822
+2016-01-31 10:05:59,339 - abalone - INFO - Iteration 12 started.
+2016-01-31 10:05:59,341 - abalone - INFO - MoG params
+2016-01-31 10:06:00,991 - abalone - DEBUG - objective:-1301.7822
+2016-01-31 10:06:02,575 - abalone - DEBUG - objective:-1002.5780
+2016-01-31 10:06:03,885 - abalone - DEBUG - objective:-1301.7922
+2016-01-31 10:06:05,065 - abalone - DEBUG - objective:-1301.7968
+2016-01-31 10:06:06,359 - abalone - DEBUG - objective:-1301.8103
+2016-01-31 10:06:07,777 - abalone - DEBUG - objective:-1301.8076
+2016-01-31 10:06:08,829 - abalone - DEBUG - objective:-1301.8121
+2016-01-31 10:06:10,055 - abalone - DEBUG - objective:-1301.8133
+2016-01-31 10:06:11,523 - abalone - DEBUG - objective:-1301.8150
+2016-01-31 10:06:13,011 - abalone - DEBUG - objective:-1301.8161
+2016-01-31 10:06:14,227 - abalone - DEBUG - objective:-1301.8173
+2016-01-31 10:06:15,658 - abalone - DEBUG - objective:-1301.8182
+2016-01-31 10:06:16,846 - abalone - DEBUG - objective:-1301.8188
+2016-01-31 10:06:18,132 - abalone - DEBUG - objective:-1301.8192
+2016-01-31 10:06:19,460 - abalone - DEBUG - objective:-1301.8202
+2016-01-31 10:06:20,324 - abalone - DEBUG - objective:-1301.8207
+2016-01-31 10:06:21,499 - abalone - DEBUG - objective:-1301.8214
+2016-01-31 10:06:22,824 - abalone - DEBUG - objective:-1301.8224
+2016-01-31 10:06:23,857 - abalone - DEBUG - objective:-1301.8232
+2016-01-31 10:06:24,995 - abalone - DEBUG - objective:-1301.8246
+2016-01-31 10:06:26,316 - abalone - DEBUG - objective:-1301.8259
+2016-01-31 10:06:27,287 - abalone - DEBUG - objective:-1301.8262
+2016-01-31 10:06:28,387 - abalone - DEBUG - objective:-1301.8269
+2016-01-31 10:06:29,320 - abalone - DEBUG - objective:-1301.8277
+2016-01-31 10:06:30,474 - abalone - DEBUG - objective:-1301.8287
+2016-01-31 10:06:31,793 - abalone - DEBUG - objective:-1301.8303
+2016-01-31 10:06:31,805 - abalone - INFO - Saving model...
+2016-01-31 10:06:31,847 - abalone - INFO - Model saved.
+2016-01-31 10:06:31,858 - abalone - DEBUG - ftol: 0.084731848716
+2016-01-31 10:06:31,863 - abalone - INFO - diff:m:0.000993405319731 s:0.00106411604544
+2016-01-31 10:06:31,875 - abalone - INFO - ll params
+2016-01-31 10:06:32,923 - abalone - DEBUG - objective:-1301.8303
+2016-01-31 10:06:33,819 - abalone - DEBUG - objective:-1118.3198
+2016-01-31 10:06:34,559 - abalone - DEBUG - objective:-1301.8307
+2016-01-31 10:06:35,401 - abalone - DEBUG - objective:-1301.8307
+2016-01-31 10:06:36,055 - abalone - DEBUG - objective:-1301.8307
+2016-01-31 10:06:36,058 - abalone - INFO - hyp params
+2016-01-31 10:06:40,231 - abalone - DEBUG - objective:-1301.8307
+2016-01-31 10:06:44,354 - abalone - DEBUG - objective:-692.7896
+2016-01-31 10:06:47,925 - abalone - DEBUG - objective:-1301.8545
+2016-01-31 10:06:51,730 - abalone - DEBUG - objective:-1301.8552
+2016-01-31 10:06:55,669 - abalone - DEBUG - objective:-1301.8553
+2016-01-31 10:06:59,295 - abalone - DEBUG - objective:-1301.8557
+2016-01-31 10:07:02,698 - abalone - DEBUG - objective:-1301.8577
+2016-01-31 10:07:07,015 - abalone - DEBUG - objective:-1301.8594
+2016-01-31 10:07:10,895 - abalone - DEBUG - objective:-1301.8601
+2016-01-31 10:07:15,231 - abalone - DEBUG - objective:-1301.8601
+2016-01-31 10:07:19,570 - abalone - DEBUG - objective:-1301.8601
+2016-01-31 10:07:23,841 - abalone - DEBUG - objective:-1301.8601
+2016-01-31 10:07:23,843 - abalone - INFO - Iteration 13 started.
+2016-01-31 10:07:23,845 - abalone - INFO - MoG params
+2016-01-31 10:07:24,892 - abalone - DEBUG - objective:-1301.8601
+2016-01-31 10:07:26,151 - abalone - DEBUG - objective:-1042.7604
+2016-01-31 10:07:27,306 - abalone - DEBUG - objective:-1301.8671
+2016-01-31 10:07:28,305 - abalone - DEBUG - objective:-1301.8711
+2016-01-31 10:07:29,225 - abalone - DEBUG - objective:-1301.8804
+2016-01-31 10:07:30,115 - abalone - DEBUG - objective:-1301.8803
+2016-01-31 10:07:31,284 - abalone - DEBUG - objective:-1301.8820
+2016-01-31 10:07:32,442 - abalone - DEBUG - objective:-1301.8833
+2016-01-31 10:07:33,447 - abalone - DEBUG - objective:-1301.8849
+2016-01-31 10:07:34,500 - abalone - DEBUG - objective:-1301.8861
+2016-01-31 10:07:35,392 - abalone - DEBUG - objective:-1301.8873
+2016-01-31 10:07:36,448 - abalone - DEBUG - objective:-1301.8881
+2016-01-31 10:07:37,495 - abalone - DEBUG - objective:-1301.8885
+2016-01-31 10:07:38,718 - abalone - DEBUG - objective:-1301.8891
+2016-01-31 10:07:39,643 - abalone - DEBUG - objective:-1301.8900
+2016-01-31 10:07:40,732 - abalone - DEBUG - objective:-1301.8908
+2016-01-31 10:07:41,896 - abalone - DEBUG - objective:-1301.8918
+2016-01-31 10:07:43,055 - abalone - DEBUG - objective:-1301.8929
+2016-01-31 10:07:44,112 - abalone - DEBUG - objective:-1301.8947
+2016-01-31 10:07:45,033 - abalone - DEBUG - objective:-1301.8960
+2016-01-31 10:07:46,377 - abalone - DEBUG - objective:-1301.8971
+2016-01-31 10:07:47,408 - abalone - DEBUG - objective:-1301.8979
+2016-01-31 10:07:48,427 - abalone - DEBUG - objective:-1301.8990
+2016-01-31 10:07:49,455 - abalone - DEBUG - objective:-1301.9001
+2016-01-31 10:07:50,715 - abalone - DEBUG - objective:-1301.9015
+2016-01-31 10:07:51,819 - abalone - DEBUG - objective:-1301.9027
+2016-01-31 10:07:51,847 - abalone - INFO - Saving model...
+2016-01-31 10:07:51,909 - abalone - INFO - Model saved.
+2016-01-31 10:07:51,927 - abalone - DEBUG - ftol: 0.0724321664015
+2016-01-31 10:07:51,930 - abalone - INFO - diff:m:0.000885281932235 s:0.00105705218897
+2016-01-31 10:07:51,932 - abalone - INFO - best obj found: -1301.9027035
+2016-01-31 10:07:51,934 - abalone - DEBUG - prediction started...
+2016-01-31 10:08:02,678 - abalone - DEBUG - prediction finished
+2016-01-31 10:08:03,022 - abalone - INFO - experiment started for:{'run_id': 5, 'max_iter': 200, 'optimization_config': {'hyp': 25, 'll': 25, 'mog': 25}, 'xtol': 0.001, 'git_hash': 'a89f7e60526a847e4cefa30be774ad3ee7bf41f8', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 1.0, 'll': 'WarpLL', 'sample_num': 2000, 'experiment': 'abalone', 'git_branch': 'master', 'random_Z': True, 'method': u'mix2'}
+2016-01-31 10:08:04,585 - abalone - INFO - Iteration 0 started.
+2016-01-31 10:08:04,586 - abalone - INFO - MoG params
+2016-01-31 10:08:06,413 - abalone - DEBUG - objective:231838.1430
+2016-01-31 10:08:07,905 - abalone - DEBUG - objective:224305.8189
+2016-01-31 10:08:09,130 - abalone - DEBUG - objective:197442.5233
+2016-01-31 10:08:10,763 - abalone - DEBUG - objective:75303.6542
+2016-01-31 10:08:12,275 - abalone - DEBUG - objective:49821.1962
+2016-01-31 10:08:13,786 - abalone - DEBUG - objective:23374.2366
+2016-01-31 10:08:15,390 - abalone - DEBUG - objective:13938.3864
+2016-01-31 10:08:17,006 - abalone - DEBUG - objective:7328.4905
+2016-01-31 10:08:18,776 - abalone - DEBUG - objective:2364.8621
+2016-01-31 10:08:20,395 - abalone - DEBUG - objective:8682.6858
+2016-01-31 10:08:21,979 - abalone - DEBUG - objective:1455.8085
+2016-01-31 10:08:23,878 - abalone - DEBUG - objective:-377.6706
+2016-01-31 10:08:25,611 - abalone - DEBUG - objective:-1135.9236
+2016-01-31 10:08:27,279 - abalone - DEBUG - objective:-774.6045
+2016-01-31 10:08:28,704 - abalone - DEBUG - objective:-1329.3950
+2016-01-31 10:08:30,252 - abalone - DEBUG - objective:-1443.8175
+2016-01-31 10:08:31,927 - abalone - DEBUG - objective:-1458.5669
+2016-01-31 10:08:33,628 - abalone - DEBUG - objective:-1460.6356
+2016-01-31 10:08:35,247 - abalone - DEBUG - objective:-1461.8511
+2016-01-31 10:08:36,882 - abalone - DEBUG - objective:-1462.3254
+2016-01-31 10:08:38,729 - abalone - DEBUG - objective:-1464.3693
+2016-01-31 10:08:40,205 - abalone - DEBUG - objective:-1466.2928
+2016-01-31 10:08:41,814 - abalone - DEBUG - objective:-1466.9623
+2016-01-31 10:08:43,275 - abalone - DEBUG - objective:-1470.1336
+2016-01-31 10:08:44,905 - abalone - DEBUG - objective:-1470.7129
+2016-01-31 10:08:46,432 - abalone - DEBUG - objective:-1471.1770
+2016-01-31 10:08:46,440 - abalone - INFO - Saving model...
+2016-01-31 10:08:46,505 - abalone - INFO - Model saved.
+2016-01-31 10:08:46,521 - abalone - INFO - ll params
+2016-01-31 10:08:48,073 - abalone - DEBUG - objective:-1471.1770
+2016-01-31 10:08:49,195 - abalone - DEBUG - objective:-1596.9156
+2016-01-31 10:08:50,136 - abalone - DEBUG - objective:-1617.1660
+2016-01-31 10:08:51,337 - abalone - DEBUG - objective:-1619.5085
+2016-01-31 10:08:52,582 - abalone - DEBUG - objective:-1619.5808
+2016-01-31 10:08:53,477 - abalone - DEBUG - objective:-1619.5810
+2016-01-31 10:08:54,748 - abalone - DEBUG - objective:-1619.5810
+2016-01-31 10:08:54,750 - abalone - INFO - hyp params
+2016-01-31 10:08:56,956 - abalone - DEBUG - objective:-1619.5810
+2016-01-31 10:08:58,145 - abalone - DEBUG - objective:-1468.9867
+2016-01-31 10:08:59,109 - abalone - DEBUG - objective:-1622.0869
+2016-01-31 10:09:00,155 - abalone - DEBUG - objective:-1623.9089
+2016-01-31 10:09:01,090 - abalone - DEBUG - objective:-1626.5603
+2016-01-31 10:09:01,899 - abalone - DEBUG - objective:-1629.4524
+2016-01-31 10:09:03,095 - abalone - DEBUG - objective:-1635.3702
+2016-01-31 10:09:03,975 - abalone - DEBUG - objective:-1636.4075
+2016-01-31 10:09:05,157 - abalone - DEBUG - objective:-1636.4907
+2016-01-31 10:09:06,141 - abalone - DEBUG - objective:-1636.4930
+2016-01-31 10:09:07,073 - abalone - DEBUG - objective:-1636.4930
+2016-01-31 10:09:07,733 - abalone - DEBUG - objective:-1636.4930
+2016-01-31 10:09:08,769 - abalone - DEBUG - objective:-1636.4930
+2016-01-31 10:09:08,771 - abalone - INFO - Iteration 1 started.
+2016-01-31 10:09:08,774 - abalone - INFO - MoG params
+2016-01-31 10:09:10,466 - abalone - DEBUG - objective:-1636.9458
+2016-01-31 10:09:12,138 - abalone - DEBUG - objective:-1399.5015
+2016-01-31 10:09:13,596 - abalone - DEBUG - objective:-1637.9715
+2016-01-31 10:09:15,059 - abalone - DEBUG - objective:-1638.2865
+2016-01-31 10:09:16,858 - abalone - DEBUG - objective:-1638.6167
+2016-01-31 10:09:18,298 - abalone - DEBUG - objective:-1638.9246
+2016-01-31 10:09:19,920 - abalone - DEBUG - objective:-1639.3779
+2016-01-31 10:09:21,563 - abalone - DEBUG - objective:-1639.8140
+2016-01-31 10:09:22,986 - abalone - DEBUG - objective:-1640.2699
+2016-01-31 10:09:24,510 - abalone - DEBUG - objective:-1640.6691
+2016-01-31 10:09:26,205 - abalone - DEBUG - objective:-1641.0024
+2016-01-31 10:09:28,016 - abalone - DEBUG - objective:-1641.3140
+2016-01-31 10:09:29,696 - abalone - DEBUG - objective:-1641.5600
+2016-01-31 10:09:31,430 - abalone - DEBUG - objective:-1641.8422
+2016-01-31 10:09:33,079 - abalone - DEBUG - objective:-1642.1891
+2016-01-31 10:09:35,041 - abalone - DEBUG - objective:-1642.5441
+2016-01-31 10:09:36,963 - abalone - DEBUG - objective:-1643.0381
+2016-01-31 10:09:38,630 - abalone - DEBUG - objective:-1643.4389
+2016-01-31 10:09:40,464 - abalone - DEBUG - objective:-1643.9363
+2016-01-31 10:09:42,335 - abalone - DEBUG - objective:-1644.5256
+2016-01-31 10:09:44,018 - abalone - DEBUG - objective:-1644.9519
+2016-01-31 10:09:45,867 - abalone - DEBUG - objective:-1645.1539
+2016-01-31 10:09:47,785 - abalone - DEBUG - objective:-1645.6177
+2016-01-31 10:09:49,658 - abalone - DEBUG - objective:-1646.0078
+2016-01-31 10:09:51,444 - abalone - DEBUG - objective:-1646.4633
+2016-01-31 10:09:53,273 - abalone - DEBUG - objective:-1646.8673
+2016-01-31 10:09:53,276 - abalone - INFO - Saving model...
+2016-01-31 10:09:53,337 - abalone - INFO - Model saved.
+2016-01-31 10:09:53,349 - abalone - DEBUG - ftol: 175.690282655
+2016-01-31 10:09:53,353 - abalone - INFO - diff:m:0.0115856112117 s:0.0306215049475
+2016-01-31 10:09:53,357 - abalone - INFO - ll params
+2016-01-31 10:09:54,709 - abalone - DEBUG - objective:-1646.8673
+2016-01-31 10:09:56,014 - abalone - DEBUG - objective:-1300.5015
+2016-01-31 10:09:57,030 - abalone - DEBUG - objective:-1646.9228
+2016-01-31 10:09:58,177 - abalone - DEBUG - objective:-1646.9231
+2016-01-31 10:09:59,130 - abalone - DEBUG - objective:-1646.9231
+2016-01-31 10:09:59,133 - abalone - INFO - hyp params
+2016-01-31 10:10:01,269 - abalone - DEBUG - objective:-1646.9231
+2016-01-31 10:10:02,595 - abalone - DEBUG - objective:-257.8253
+2016-01-31 10:10:03,508 - abalone - DEBUG - objective:-1647.7763
+2016-01-31 10:10:04,728 - abalone - DEBUG - objective:-1648.0990
+2016-01-31 10:10:05,988 - abalone - DEBUG - objective:-1648.1731
+2016-01-31 10:10:07,097 - abalone - DEBUG - objective:-1648.4486
+2016-01-31 10:10:07,873 - abalone - DEBUG - objective:-1649.5663
+2016-01-31 10:10:09,089 - abalone - DEBUG - objective:-1649.5919
+2016-01-31 10:10:10,293 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:11,247 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:12,165 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:13,067 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:13,867 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:14,786 - abalone - DEBUG - objective:-1649.5925
+2016-01-31 10:10:14,789 - abalone - INFO - Iteration 2 started.
+2016-01-31 10:10:14,792 - abalone - INFO - MoG params
+2016-01-31 10:10:16,252 - abalone - DEBUG - objective:-1649.7465
+2016-01-31 10:10:17,913 - abalone - DEBUG - objective:-1408.5142
+2016-01-31 10:10:19,384 - abalone - DEBUG - objective:-1650.8084
+2016-01-31 10:10:20,952 - abalone - DEBUG - objective:-1651.0897
+2016-01-31 10:10:22,453 - abalone - DEBUG - objective:-1651.3512
+2016-01-31 10:10:23,974 - abalone - DEBUG - objective:-1651.6092
+2016-01-31 10:10:25,267 - abalone - DEBUG - objective:-1651.8871
+2016-01-31 10:10:26,623 - abalone - DEBUG - objective:-1652.0982
+2016-01-31 10:10:28,019 - abalone - DEBUG - objective:-1652.2663
+2016-01-31 10:10:29,737 - abalone - DEBUG - objective:-1652.3946
+2016-01-31 10:10:31,245 - abalone - DEBUG - objective:-1652.4706
+2016-01-31 10:10:32,910 - abalone - DEBUG - objective:-1652.5150
+2016-01-31 10:10:34,480 - abalone - DEBUG - objective:-1652.5376
+2016-01-31 10:10:36,036 - abalone - DEBUG - objective:-1652.5671
+2016-01-31 10:10:37,711 - abalone - DEBUG - objective:-1652.6042
+2016-01-31 10:10:39,223 - abalone - DEBUG - objective:-1652.6501
+2016-01-31 10:10:41,015 - abalone - DEBUG - objective:-1652.6854
+2016-01-31 10:10:42,512 - abalone - DEBUG - objective:-1652.7287
+2016-01-31 10:10:44,319 - abalone - DEBUG - objective:-1652.7697
+2016-01-31 10:10:45,755 - abalone - DEBUG - objective:-1652.8275
+2016-01-31 10:10:47,479 - abalone - DEBUG - objective:-1652.8836
+2016-01-31 10:10:49,101 - abalone - DEBUG - objective:-1652.9241
+2016-01-31 10:10:50,800 - abalone - DEBUG - objective:-1652.9619
+2016-01-31 10:10:52,268 - abalone - DEBUG - objective:-1653.0194
+2016-01-31 10:10:53,930 - abalone - DEBUG - objective:-1653.0557
+2016-01-31 10:10:55,549 - abalone - DEBUG - objective:-1653.1020
+2016-01-31 10:10:55,564 - abalone - INFO - Saving model...
+2016-01-31 10:10:55,651 - abalone - INFO - Model saved.
+2016-01-31 10:10:55,656 - abalone - DEBUG - ftol: 6.23468467242
+2016-01-31 10:10:55,660 - abalone - INFO - diff:m:0.00746872132098 s:0.00756781144963
+2016-01-31 10:10:55,664 - abalone - INFO - ll params
+2016-01-31 10:10:57,222 - abalone - DEBUG - objective:-1653.1020
+2016-01-31 10:10:58,187 - abalone - DEBUG - objective:-1470.3411
+2016-01-31 10:10:59,261 - abalone - DEBUG - objective:-1653.1054
+2016-01-31 10:11:00,347 - abalone - DEBUG - objective:-1653.1055
+2016-01-31 10:11:01,408 - abalone - DEBUG - objective:-1653.1055
+2016-01-31 10:11:01,411 - abalone - INFO - hyp params
+2016-01-31 10:11:03,405 - abalone - DEBUG - objective:-1653.1055
+2016-01-31 10:11:04,690 - abalone - DEBUG - objective:-487.6999
+2016-01-31 10:11:05,747 - abalone - DEBUG - objective:-1654.2543
+2016-01-31 10:11:06,763 - abalone - DEBUG - objective:-1654.5871
+2016-01-31 10:11:07,871 - abalone - DEBUG - objective:-1654.6050
+2016-01-31 10:11:09,023 - abalone - DEBUG - objective:-1654.6481
+2016-01-31 10:11:09,973 - abalone - DEBUG - objective:-1654.7439
+2016-01-31 10:11:11,282 - abalone - DEBUG - objective:-1654.8771
+2016-01-31 10:11:12,441 - abalone - DEBUG - objective:-1654.9865
+2016-01-31 10:11:13,526 - abalone - DEBUG - objective:-1654.9974
+2016-01-31 10:11:14,762 - abalone - DEBUG - objective:-1654.9977
+2016-01-31 10:11:15,783 - abalone - DEBUG - objective:-1654.9977
+2016-01-31 10:11:16,916 - abalone - DEBUG - objective:-1654.9977
+2016-01-31 10:11:17,782 - abalone - DEBUG - objective:-1654.9977
+2016-01-31 10:11:17,784 - abalone - INFO - Iteration 3 started.
+2016-01-31 10:11:17,786 - abalone - INFO - MoG params
+2016-01-31 10:11:19,416 - abalone - DEBUG - objective:-1655.0444
+2016-01-31 10:11:20,927 - abalone - DEBUG - objective:-1388.6917
+2016-01-31 10:11:22,661 - abalone - DEBUG - objective:-1655.6942
+2016-01-31 10:11:24,204 - abalone - DEBUG - objective:-1655.8398
+2016-01-31 10:11:25,830 - abalone - DEBUG - objective:-1655.9659
+2016-01-31 10:11:27,439 - abalone - DEBUG - objective:-1656.0632
+2016-01-31 10:11:28,911 - abalone - DEBUG - objective:-1656.1495
+2016-01-31 10:11:30,567 - abalone - DEBUG - objective:-1656.2135
+2016-01-31 10:11:32,014 - abalone - DEBUG - objective:-1656.2835
+2016-01-31 10:11:33,598 - abalone - DEBUG - objective:-1656.3374
+2016-01-31 10:11:35,057 - abalone - DEBUG - objective:-1656.3825
+2016-01-31 10:11:36,534 - abalone - DEBUG - objective:-1656.4059
+2016-01-31 10:11:38,203 - abalone - DEBUG - objective:-1656.4338
+2016-01-31 10:11:39,672 - abalone - DEBUG - objective:-1656.4740
+2016-01-31 10:11:40,999 - abalone - DEBUG - objective:-1656.5294
+2016-01-31 10:11:42,700 - abalone - DEBUG - objective:-1656.5711
+2016-01-31 10:11:44,222 - abalone - DEBUG - objective:-1656.6025
+2016-01-31 10:11:46,105 - abalone - DEBUG - objective:-1656.6267
+2016-01-31 10:11:47,711 - abalone - DEBUG - objective:-1656.6731
+2016-01-31 10:11:49,314 - abalone - DEBUG - objective:-1656.7348
+2016-01-31 10:11:50,772 - abalone - DEBUG - objective:-1656.7978
+2016-01-31 10:11:52,412 - abalone - DEBUG - objective:-1656.8539
+2016-01-31 10:11:53,889 - abalone - DEBUG - objective:-1656.8861
+2016-01-31 10:11:55,683 - abalone - DEBUG - objective:-1656.9206
+2016-01-31 10:11:57,156 - abalone - DEBUG - objective:-1656.9823
+2016-01-31 10:11:58,753 - abalone - DEBUG - objective:-1657.0367
+2016-01-31 10:11:58,765 - abalone - INFO - Saving model...
+2016-01-31 10:11:58,860 - abalone - INFO - Model saved.
+2016-01-31 10:11:58,869 - abalone - DEBUG - ftol: 3.93467597523
+2016-01-31 10:11:58,871 - abalone - INFO - diff:m:0.00489895936772 s:0.00895652978147
+2016-01-31 10:11:58,872 - abalone - INFO - ll params
+2016-01-31 10:12:00,301 - abalone - DEBUG - objective:-1657.0367
+2016-01-31 10:12:01,342 - abalone - DEBUG - objective:-1474.0582
+2016-01-31 10:12:02,505 - abalone - DEBUG - objective:-1657.0390
+2016-01-31 10:12:03,852 - abalone - DEBUG - objective:-1657.0390
+2016-01-31 10:12:05,171 - abalone - DEBUG - objective:-1657.0390
+2016-01-31 10:12:05,172 - abalone - INFO - hyp params
+2016-01-31 10:12:07,461 - abalone - DEBUG - objective:-1657.0390
+2016-01-31 10:12:08,750 - abalone - DEBUG - objective:-580.1364
+2016-01-31 10:12:09,698 - abalone - DEBUG - objective:-1657.7075
+2016-01-31 10:12:10,923 - abalone - DEBUG - objective:-1657.9455
+2016-01-31 10:12:12,007 - abalone - DEBUG - objective:-1657.9607
+2016-01-31 10:12:12,952 - abalone - DEBUG - objective:-1658.0781
+2016-01-31 10:12:14,175 - abalone - DEBUG - objective:-1658.2173
+2016-01-31 10:12:15,551 - abalone - DEBUG - objective:-1658.3579
+2016-01-31 10:12:16,748 - abalone - DEBUG - objective:-1658.3955
+2016-01-31 10:12:17,787 - abalone - DEBUG - objective:-1658.3971
+2016-01-31 10:12:18,873 - abalone - DEBUG - objective:-1658.3971
+2016-01-31 10:12:19,774 - abalone - DEBUG - objective:-1658.3971
+2016-01-31 10:12:20,820 - abalone - DEBUG - objective:-1658.3971
+2016-01-31 10:12:20,825 - abalone - INFO - Iteration 4 started.
+2016-01-31 10:12:20,830 - abalone - INFO - MoG params
+2016-01-31 10:12:22,461 - abalone - DEBUG - objective:-1658.4270
+2016-01-31 10:12:24,101 - abalone - DEBUG - objective:-1375.9358
+2016-01-31 10:12:25,869 - abalone - DEBUG - objective:-1658.9157
+2016-01-31 10:12:27,650 - abalone - DEBUG - objective:-1659.0278
+2016-01-31 10:12:29,425 - abalone - DEBUG - objective:-1659.1499
+2016-01-31 10:12:31,335 - abalone - DEBUG - objective:-1659.2515
+2016-01-31 10:12:32,825 - abalone - DEBUG - objective:-1659.3528
+2016-01-31 10:12:34,610 - abalone - DEBUG - objective:-1659.4235
+2016-01-31 10:12:36,309 - abalone - DEBUG - objective:-1659.4751
+2016-01-31 10:12:38,015 - abalone - DEBUG - objective:-1659.5089
+2016-01-31 10:12:39,517 - abalone - DEBUG - objective:-1659.5267
+2016-01-31 10:12:41,177 - abalone - DEBUG - objective:-1659.5370
+2016-01-31 10:12:42,619 - abalone - DEBUG - objective:-1659.5440
+2016-01-31 10:12:44,391 - abalone - DEBUG - objective:-1659.5561
+2016-01-31 10:12:46,114 - abalone - DEBUG - objective:-1659.5719
+2016-01-31 10:12:47,635 - abalone - DEBUG - objective:-1659.5916
+2016-01-31 10:12:49,207 - abalone - DEBUG - objective:-1659.6113
+2016-01-31 10:12:51,153 - abalone - DEBUG - objective:-1659.6369
+2016-01-31 10:12:52,805 - abalone - DEBUG - objective:-1659.6615
+2016-01-31 10:12:54,272 - abalone - DEBUG - objective:-1659.6896
+2016-01-31 10:12:56,172 - abalone - DEBUG - objective:-1659.7212
+2016-01-31 10:12:58,055 - abalone - DEBUG - objective:-1659.7411
+2016-01-31 10:12:59,558 - abalone - DEBUG - objective:-1659.7546
+2016-01-31 10:13:01,257 - abalone - DEBUG - objective:-1659.7816
+2016-01-31 10:13:02,794 - abalone - DEBUG - objective:-1659.8048
+2016-01-31 10:13:04,690 - abalone - DEBUG - objective:-1659.8396
+2016-01-31 10:13:04,693 - abalone - INFO - Saving model...
+2016-01-31 10:13:04,777 - abalone - INFO - Model saved.
+2016-01-31 10:13:04,784 - abalone - DEBUG - ftol: 2.80292016929
+2016-01-31 10:13:04,792 - abalone - INFO - diff:m:0.00421524360138 s:0.00576489306163
+2016-01-31 10:13:04,794 - abalone - INFO - ll params
+2016-01-31 10:13:06,213 - abalone - DEBUG - objective:-1659.8396
+2016-01-31 10:13:07,385 - abalone - DEBUG - objective:-1477.5824
+2016-01-31 10:13:08,719 - abalone - DEBUG - objective:-1659.8466
+2016-01-31 10:13:09,775 - abalone - DEBUG - objective:-1659.8466
+2016-01-31 10:13:10,846 - abalone - DEBUG - objective:-1659.8466
+2016-01-31 10:13:10,847 - abalone - INFO - hyp params
+2016-01-31 10:13:12,768 - abalone - DEBUG - objective:-1659.8466
+2016-01-31 10:13:14,024 - abalone - DEBUG - objective:-711.2468
+2016-01-31 10:13:15,118 - abalone - DEBUG - objective:-1660.5307
+2016-01-31 10:13:16,294 - abalone - DEBUG - objective:-1660.6602
+2016-01-31 10:13:17,147 - abalone - DEBUG - objective:-1660.6674
+2016-01-31 10:13:18,207 - abalone - DEBUG - objective:-1660.7162
+2016-01-31 10:13:19,349 - abalone - DEBUG - objective:-1660.7832
+2016-01-31 10:13:20,406 - abalone - DEBUG - objective:-1660.8659
+2016-01-31 10:13:21,455 - abalone - DEBUG - objective:-1660.9044
+2016-01-31 10:13:22,619 - abalone - DEBUG - objective:-1660.9044
+2016-01-31 10:13:23,897 - abalone - DEBUG - objective:-1660.9044
+2016-01-31 10:13:25,155 - abalone - DEBUG - objective:-1660.9044
+2016-01-31 10:13:25,157 - abalone - INFO - Iteration 5 started.
+2016-01-31 10:13:25,159 - abalone - INFO - MoG params
+2016-01-31 10:13:26,626 - abalone - DEBUG - objective:-1660.9098
+2016-01-31 10:13:28,384 - abalone - DEBUG - objective:-1366.8597
+2016-01-31 10:13:29,954 - abalone - DEBUG - objective:-1661.2093
+2016-01-31 10:13:31,619 - abalone - DEBUG - objective:-1661.2843
+2016-01-31 10:13:33,333 - abalone - DEBUG - objective:-1661.3976
+2016-01-31 10:13:34,847 - abalone - DEBUG - objective:-1661.4768
+2016-01-31 10:13:36,721 - abalone - DEBUG - objective:-1661.5501
+2016-01-31 10:13:38,296 - abalone - DEBUG - objective:-1661.5954
+2016-01-31 10:13:39,884 - abalone - DEBUG - objective:-1661.6275
+2016-01-31 10:13:41,475 - abalone - DEBUG - objective:-1661.6448
+2016-01-31 10:13:43,079 - abalone - DEBUG - objective:-1661.6604
+2016-01-31 10:13:44,613 - abalone - DEBUG - objective:-1661.6691
+2016-01-31 10:13:46,140 - abalone - DEBUG - objective:-1661.6841
+2016-01-31 10:13:47,640 - abalone - DEBUG - objective:-1661.6946
+2016-01-31 10:13:49,016 - abalone - DEBUG - objective:-1661.7120
+2016-01-31 10:13:50,598 - abalone - DEBUG - objective:-1661.7266
+2016-01-31 10:13:52,245 - abalone - DEBUG - objective:-1661.7408
+2016-01-31 10:13:53,513 - abalone - DEBUG - objective:-1661.7664
+2016-01-31 10:13:54,993 - abalone - DEBUG - objective:-1661.7498
+2016-01-31 10:13:56,535 - abalone - DEBUG - objective:-1661.7774
+2016-01-31 10:13:58,003 - abalone - DEBUG - objective:-1661.7885
+2016-01-31 10:13:59,504 - abalone - DEBUG - objective:-1661.7964
+2016-01-31 10:14:01,105 - abalone - DEBUG - objective:-1661.8073
+2016-01-31 10:14:02,635 - abalone - DEBUG - objective:-1661.8241
+2016-01-31 10:14:04,236 - abalone - DEBUG - objective:-1661.8437
+2016-01-31 10:14:05,655 - abalone - DEBUG - objective:-1661.8615
+2016-01-31 10:14:05,664 - abalone - INFO - Saving model...
+2016-01-31 10:14:05,724 - abalone - INFO - Model saved.
+2016-01-31 10:14:05,731 - abalone - DEBUG - ftol: 2.02196374851
+2016-01-31 10:14:05,735 - abalone - INFO - diff:m:0.00320302842892 s:0.0031302542887
+2016-01-31 10:14:05,738 - abalone - INFO - ll params
+2016-01-31 10:14:06,950 - abalone - DEBUG - objective:-1661.8615
+2016-01-31 10:14:08,121 - abalone - DEBUG - objective:-1479.2319
+2016-01-31 10:14:08,958 - abalone - DEBUG - objective:-1661.8658
+2016-01-31 10:14:09,986 - abalone - DEBUG - objective:-1661.8658
+2016-01-31 10:14:11,108 - abalone - DEBUG - objective:-1661.8658
+2016-01-31 10:14:11,111 - abalone - INFO - hyp params
+2016-01-31 10:14:13,335 - abalone - DEBUG - objective:-1661.8658
+2016-01-31 10:14:14,482 - abalone - DEBUG - objective:-804.9408
+2016-01-31 10:14:15,475 - abalone - DEBUG - objective:-1662.3690
+2016-01-31 10:14:16,499 - abalone - DEBUG - objective:-1662.4127
+2016-01-31 10:14:17,577 - abalone - DEBUG - objective:-1662.4193
+2016-01-31 10:14:18,879 - abalone - DEBUG - objective:-1662.4448
+2016-01-31 10:14:19,916 - abalone - DEBUG - objective:-1662.5321
+2016-01-31 10:14:21,117 - abalone - DEBUG - objective:-1662.6614
+2016-01-31 10:14:22,339 - abalone - DEBUG - objective:-1662.6623
+2016-01-31 10:14:23,671 - abalone - DEBUG - objective:-1662.6623
+2016-01-31 10:14:24,681 - abalone - DEBUG - objective:-1662.6623
+2016-01-31 10:14:24,688 - abalone - INFO - Iteration 6 started.
+2016-01-31 10:14:24,689 - abalone - INFO - MoG params
+2016-01-31 10:14:26,313 - abalone - DEBUG - objective:-1662.6613
+2016-01-31 10:14:28,332 - abalone - DEBUG - objective:-1349.1786
+2016-01-31 10:14:30,234 - abalone - DEBUG - objective:-1662.8687
+2016-01-31 10:14:32,101 - abalone - DEBUG - objective:-1662.9265
+2016-01-31 10:14:33,871 - abalone - DEBUG - objective:-1663.0618
+2016-01-31 10:14:35,747 - abalone - DEBUG - objective:-1663.1234
+2016-01-31 10:14:37,557 - abalone - DEBUG - objective:-1663.1767
+2016-01-31 10:14:39,373 - abalone - DEBUG - objective:-1663.2053
+2016-01-31 10:14:41,067 - abalone - DEBUG - objective:-1663.2288
+2016-01-31 10:14:42,809 - abalone - DEBUG - objective:-1663.2357
+2016-01-31 10:14:44,606 - abalone - DEBUG - objective:-1663.2508
+2016-01-31 10:14:46,151 - abalone - DEBUG - objective:-1663.2554
+2016-01-31 10:14:47,833 - abalone - DEBUG - objective:-1663.2628
+2016-01-31 10:14:49,498 - abalone - DEBUG - objective:-1663.2740
+2016-01-31 10:14:51,358 - abalone - DEBUG - objective:-1663.2827
+2016-01-31 10:14:53,080 - abalone - DEBUG - objective:-1663.2977
+2016-01-31 10:14:54,933 - abalone - DEBUG - objective:-1663.3056
+2016-01-31 10:14:56,364 - abalone - DEBUG - objective:-1663.3138
+2016-01-31 10:14:57,450 - abalone - DEBUG - objective:-1663.3207
+2016-01-31 10:14:58,618 - abalone - DEBUG - objective:-1663.3333
+2016-01-31 10:14:59,898 - abalone - DEBUG - objective:-1663.3452
+2016-01-31 10:15:01,047 - abalone - DEBUG - objective:-1663.3566
+2016-01-31 10:15:02,247 - abalone - DEBUG - objective:-1663.3666
+2016-01-31 10:15:03,253 - abalone - DEBUG - objective:-1663.3872
+2016-01-31 10:15:04,268 - abalone - DEBUG - objective:-1663.4084
+2016-01-31 10:15:05,413 - abalone - DEBUG - objective:-1663.4295
+2016-01-31 10:15:05,430 - abalone - INFO - Saving model...
+2016-01-31 10:15:05,512 - abalone - INFO - Model saved.
+2016-01-31 10:15:05,519 - abalone - DEBUG - ftol: 1.56793764338
+2016-01-31 10:15:05,523 - abalone - INFO - diff:m:0.00297514915921 s:0.00363403010465
+2016-01-31 10:15:05,532 - abalone - INFO - ll params
+2016-01-31 10:15:06,581 - abalone - DEBUG - objective:-1663.4295
+2016-01-31 10:15:07,153 - abalone - DEBUG - objective:-1481.0179
+2016-01-31 10:15:07,759 - abalone - DEBUG - objective:-1663.4353
+2016-01-31 10:15:08,348 - abalone - DEBUG - objective:-1663.4353
+2016-01-31 10:15:08,893 - abalone - DEBUG - objective:-1663.4353
+2016-01-31 10:15:08,895 - abalone - INFO - hyp params
+2016-01-31 10:15:10,065 - abalone - DEBUG - objective:-1663.4353
+2016-01-31 10:15:10,708 - abalone - DEBUG - objective:-897.9572
+2016-01-31 10:15:11,103 - abalone - DEBUG - objective:-1663.9351
+2016-01-31 10:15:11,511 - abalone - DEBUG - objective:-1663.9410
+2016-01-31 10:15:11,899 - abalone - DEBUG - objective:-1663.9506
+2016-01-31 10:15:12,299 - abalone - DEBUG - objective:-1663.9805
+2016-01-31 10:15:12,730 - abalone - DEBUG - objective:-1664.0283
+2016-01-31 10:15:13,126 - abalone - DEBUG - objective:-1664.0860
+2016-01-31 10:15:13,552 - abalone - DEBUG - objective:-1664.1110
+2016-01-31 10:15:13,975 - abalone - DEBUG - objective:-1664.1126
+2016-01-31 10:15:14,415 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:14,852 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:15,284 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:15,727 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:16,142 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:16,575 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:16,987 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,391 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,393 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,394 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,396 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,397 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,399 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,400 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,408 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,409 - abalone - DEBUG - objective:-1664.1127
+2016-01-31 10:15:17,411 - abalone - INFO - Iteration 7 started.
+2016-01-31 10:15:17,412 - abalone - INFO - MoG params
+2016-01-31 10:15:18,247 - abalone - DEBUG - objective:-1664.0938
+2016-01-31 10:15:19,285 - abalone - DEBUG - objective:-1376.2214
+2016-01-31 10:15:20,289 - abalone - DEBUG - objective:-1664.2754
+2016-01-31 10:15:21,254 - abalone - DEBUG - objective:-1664.3430
+2016-01-31 10:15:22,198 - abalone - DEBUG - objective:-1664.4775
+2016-01-31 10:15:23,174 - abalone - DEBUG - objective:-1664.5204
+2016-01-31 10:15:24,063 - abalone - DEBUG - objective:-1664.5657
+2016-01-31 10:15:25,070 - abalone - DEBUG - objective:-1664.5921
+2016-01-31 10:15:26,129 - abalone - DEBUG - objective:-1664.6084
+2016-01-31 10:15:27,341 - abalone - DEBUG - objective:-1664.6259
+2016-01-31 10:15:28,333 - abalone - DEBUG - objective:-1664.6359
+2016-01-31 10:15:29,446 - abalone - DEBUG - objective:-1664.6409
+2016-01-31 10:15:30,315 - abalone - DEBUG - objective:-1664.6451
+2016-01-31 10:15:31,303 - abalone - DEBUG - objective:-1664.6544
+2016-01-31 10:15:32,271 - abalone - DEBUG - objective:-1664.6624
+2016-01-31 10:15:33,293 - abalone - DEBUG - objective:-1664.6716
+2016-01-31 10:15:34,281 - abalone - DEBUG - objective:-1664.6775
+2016-01-31 10:15:35,306 - abalone - DEBUG - objective:-1664.6843
+2016-01-31 10:15:36,369 - abalone - DEBUG - objective:-1664.6897
+2016-01-31 10:15:37,434 - abalone - DEBUG - objective:-1664.6969
+2016-01-31 10:15:38,471 - abalone - DEBUG - objective:-1664.7062
+2016-01-31 10:15:39,553 - abalone - DEBUG - objective:-1664.7130
+2016-01-31 10:15:40,681 - abalone - DEBUG - objective:-1664.7227
+2016-01-31 10:15:41,689 - abalone - DEBUG - objective:-1664.7426
+2016-01-31 10:15:42,734 - abalone - DEBUG - objective:-1664.7504
+2016-01-31 10:15:43,692 - abalone - DEBUG - objective:-1664.7709
+2016-01-31 10:15:43,696 - abalone - INFO - Saving model...
+2016-01-31 10:15:43,765 - abalone - INFO - Model saved.
+2016-01-31 10:15:43,772 - abalone - DEBUG - ftol: 1.34139535994
+2016-01-31 10:15:43,774 - abalone - INFO - diff:m:0.00233996206858 s:0.0028161591811
+2016-01-31 10:15:43,777 - abalone - INFO - ll params
+2016-01-31 10:15:44,616 - abalone - DEBUG - objective:-1664.7709
+2016-01-31 10:15:45,184 - abalone - DEBUG - objective:-1482.2733
+2016-01-31 10:15:45,746 - abalone - DEBUG - objective:-1664.7761
+2016-01-31 10:15:46,296 - abalone - DEBUG - objective:-1664.7761
+2016-01-31 10:15:46,807 - abalone - DEBUG - objective:-1664.7761
+2016-01-31 10:15:46,808 - abalone - INFO - hyp params
+2016-01-31 10:15:48,071 - abalone - DEBUG - objective:-1664.7761
+2016-01-31 10:15:48,807 - abalone - DEBUG - objective:-958.0672
+2016-01-31 10:15:49,211 - abalone - DEBUG - objective:-1665.1806
+2016-01-31 10:15:49,623 - abalone - DEBUG - objective:-1665.2089
+2016-01-31 10:15:50,009 - abalone - DEBUG - objective:-1665.2124
+2016-01-31 10:15:50,415 - abalone - DEBUG - objective:-1665.2261
+2016-01-31 10:15:50,811 - abalone - DEBUG - objective:-1665.2746
+2016-01-31 10:15:51,193 - abalone - DEBUG - objective:-1665.3738
+2016-01-31 10:15:51,598 - abalone - DEBUG - objective:-1665.3743
+2016-01-31 10:15:51,991 - abalone - DEBUG - objective:-1665.3743
+2016-01-31 10:15:52,371 - abalone - DEBUG - objective:-1665.3743
+2016-01-31 10:15:52,372 - abalone - INFO - Iteration 8 started.
+2016-01-31 10:15:52,373 - abalone - INFO - MoG params
+2016-01-31 10:15:53,155 - abalone - DEBUG - objective:-1665.3487
+2016-01-31 10:15:54,065 - abalone - DEBUG - objective:-1383.7427
+2016-01-31 10:15:55,025 - abalone - DEBUG - objective:-1665.5104
+2016-01-31 10:15:56,128 - abalone - DEBUG - objective:-1665.5764
+2016-01-31 10:15:57,142 - abalone - DEBUG - objective:-1665.7018
+2016-01-31 10:15:58,200 - abalone - DEBUG - objective:-1665.7327
+2016-01-31 10:15:59,166 - abalone - DEBUG - objective:-1665.7689
+2016-01-31 10:16:00,179 - abalone - DEBUG - objective:-1665.7860
+2016-01-31 10:16:01,199 - abalone - DEBUG - objective:-1665.7989
+2016-01-31 10:16:02,262 - abalone - DEBUG - objective:-1665.8196
+2016-01-31 10:16:03,241 - abalone - DEBUG - objective:-1665.8020
+2016-01-31 10:16:04,175 - abalone - DEBUG - objective:-1665.8258
+2016-01-31 10:16:05,214 - abalone - DEBUG - objective:-1665.8314
+2016-01-31 10:16:06,189 - abalone - DEBUG - objective:-1665.8360
+2016-01-31 10:16:07,180 - abalone - DEBUG - objective:-1665.8414
+2016-01-31 10:16:08,200 - abalone - DEBUG - objective:-1665.8472
+2016-01-31 10:16:09,287 - abalone - DEBUG - objective:-1665.8532
+2016-01-31 10:16:10,304 - abalone - DEBUG - objective:-1665.8571
+2016-01-31 10:16:11,456 - abalone - DEBUG - objective:-1665.8604
+2016-01-31 10:16:12,421 - abalone - DEBUG - objective:-1665.8623
+2016-01-31 10:16:13,593 - abalone - DEBUG - objective:-1665.8657
+2016-01-31 10:16:14,524 - abalone - DEBUG - objective:-1665.8724
+2016-01-31 10:16:15,529 - abalone - DEBUG - objective:-1665.8781
+2016-01-31 10:16:16,423 - abalone - DEBUG - objective:-1665.8871
+2016-01-31 10:16:17,283 - abalone - DEBUG - objective:-1665.8989
+2016-01-31 10:16:18,117 - abalone - DEBUG - objective:-1665.9029
+2016-01-31 10:16:18,121 - abalone - INFO - Saving model...
+2016-01-31 10:16:18,157 - abalone - INFO - Model saved.
+2016-01-31 10:16:18,159 - abalone - DEBUG - ftol: 1.13197395906
+2016-01-31 10:16:18,161 - abalone - INFO - diff:m:0.00246544978968 s:0.0018403723794
+2016-01-31 10:16:18,162 - abalone - INFO - ll params
+2016-01-31 10:16:18,851 - abalone - DEBUG - objective:-1665.9029
+2016-01-31 10:16:19,404 - abalone - DEBUG - objective:-1483.5757
+2016-01-31 10:16:19,952 - abalone - DEBUG - objective:-1665.9093
+2016-01-31 10:16:20,501 - abalone - DEBUG - objective:-1665.9093
+2016-01-31 10:16:21,072 - abalone - DEBUG - objective:-1665.9093
+2016-01-31 10:16:21,073 - abalone - INFO - hyp params
+2016-01-31 10:16:22,147 - abalone - DEBUG - objective:-1665.9093
+2016-01-31 10:16:22,731 - abalone - DEBUG - objective:-1010.0017
+2016-01-31 10:16:23,121 - abalone - DEBUG - objective:-1666.1701
+2016-01-31 10:16:23,535 - abalone - DEBUG - objective:-1666.3238
+2016-01-31 10:16:23,961 - abalone - DEBUG - objective:-1666.3267
+2016-01-31 10:16:24,383 - abalone - DEBUG - objective:-1666.3384
+2016-01-31 10:16:24,859 - abalone - DEBUG - objective:-1666.3592
+2016-01-31 10:16:25,299 - abalone - DEBUG - objective:-1666.3988
+2016-01-31 10:16:25,790 - abalone - DEBUG - objective:-1666.4394
+2016-01-31 10:16:26,195 - abalone - DEBUG - objective:-1666.4551
+2016-01-31 10:16:26,591 - abalone - DEBUG - objective:-1666.4564
+2016-01-31 10:16:27,012 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:27,463 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:27,867 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:28,279 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:28,740 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:29,157 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:29,575 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:29,577 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:29,985 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:30,391 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:30,393 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:30,807 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:31,229 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:31,231 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:31,645 - abalone - DEBUG - objective:-1666.4565
+2016-01-31 10:16:32,037 - abalone - INFO - Iteration 9 started.
+2016-01-31 10:16:32,039 - abalone - INFO - MoG params
+2016-01-31 10:16:32,877 - abalone - DEBUG - objective:-1666.4218
+2016-01-31 10:16:33,912 - abalone - DEBUG - objective:-1393.8426
+2016-01-31 10:16:34,963 - abalone - DEBUG - objective:-1666.5701
+2016-01-31 10:16:35,851 - abalone - DEBUG - objective:-1666.6315
+2016-01-31 10:16:36,779 - abalone - DEBUG - objective:-1666.7257
+2016-01-31 10:16:37,933 - abalone - DEBUG - objective:-1666.7539
+2016-01-31 10:16:38,791 - abalone - DEBUG - objective:-1666.7811
+2016-01-31 10:16:39,806 - abalone - DEBUG - objective:-1666.7998
+2016-01-31 10:16:40,726 - abalone - DEBUG - objective:-1666.8149
+2016-01-31 10:16:41,603 - abalone - DEBUG - objective:-1666.8345
+2016-01-31 10:16:42,579 - abalone - DEBUG - objective:-1666.8394
+2016-01-31 10:16:43,431 - abalone - DEBUG - objective:-1666.8475
+2016-01-31 10:16:44,570 - abalone - DEBUG - objective:-1666.8503
+2016-01-31 10:16:45,424 - abalone - DEBUG - objective:-1666.8572
+2016-01-31 10:16:46,464 - abalone - DEBUG - objective:-1666.8633
+2016-01-31 10:16:47,412 - abalone - DEBUG - objective:-1666.8460
+2016-01-31 10:16:48,349 - abalone - DEBUG - objective:-1666.8655
+2016-01-31 10:16:49,351 - abalone - DEBUG - objective:-1666.8688
+2016-01-31 10:16:50,205 - abalone - DEBUG - objective:-1666.8714
+2016-01-31 10:16:51,235 - abalone - DEBUG - objective:-1666.8771
+2016-01-31 10:16:52,180 - abalone - DEBUG - objective:-1666.8830
+2016-01-31 10:16:53,260 - abalone - DEBUG - objective:-1666.8914
+2016-01-31 10:16:54,463 - abalone - DEBUG - objective:-1666.8996
+2016-01-31 10:16:55,585 - abalone - DEBUG - objective:-1666.9035
+2016-01-31 10:16:56,475 - abalone - DEBUG - objective:-1666.9078
+2016-01-31 10:16:57,462 - abalone - DEBUG - objective:-1666.9147
+2016-01-31 10:16:57,471 - abalone - INFO - Saving model...
+2016-01-31 10:16:57,510 - abalone - INFO - Model saved.
+2016-01-31 10:16:57,511 - abalone - DEBUG - ftol: 1.01185219941
+2016-01-31 10:16:57,512 - abalone - INFO - diff:m:0.00197058425858 s:0.00144777476099
+2016-01-31 10:16:57,514 - abalone - INFO - ll params
+2016-01-31 10:16:58,404 - abalone - DEBUG - objective:-1666.9147
+2016-01-31 10:16:58,963 - abalone - DEBUG - objective:-1484.5096
+2016-01-31 10:16:59,491 - abalone - DEBUG - objective:-1666.9206
+2016-01-31 10:17:00,015 - abalone - DEBUG - objective:-1666.9206
+2016-01-31 10:17:00,547 - abalone - DEBUG - objective:-1666.9206
+2016-01-31 10:17:00,549 - abalone - INFO - hyp params
+2016-01-31 10:17:01,705 - abalone - DEBUG - objective:-1666.9206
+2016-01-31 10:17:02,254 - abalone - DEBUG - objective:-1047.4069
+2016-01-31 10:17:02,671 - abalone - DEBUG - objective:-1666.8930
+2016-01-31 10:17:03,075 - abalone - DEBUG - objective:-1667.2780
+2016-01-31 10:17:03,524 - abalone - DEBUG - objective:-1667.2803
+2016-01-31 10:17:03,903 - abalone - DEBUG - objective:-1667.2887
+2016-01-31 10:17:04,287 - abalone - DEBUG - objective:-1667.3456
+2016-01-31 10:17:04,695 - abalone - DEBUG - objective:-1667.3892
+2016-01-31 10:17:05,075 - abalone - DEBUG - objective:-1667.4060
+2016-01-31 10:17:05,455 - abalone - DEBUG - objective:-1667.4061
+2016-01-31 10:17:05,851 - abalone - DEBUG - objective:-1667.4061
+2016-01-31 10:17:06,276 - abalone - DEBUG - objective:-1667.4061
+2016-01-31 10:17:06,663 - abalone - DEBUG - objective:-1667.4061
+2016-01-31 10:17:06,665 - abalone - INFO - Iteration 10 started.
+2016-01-31 10:17:06,666 - abalone - INFO - MoG params
+2016-01-31 10:17:07,514 - abalone - DEBUG - objective:-1667.3643
+2016-01-31 10:17:08,483 - abalone - DEBUG - objective:-1391.1085
+2016-01-31 10:17:09,437 - abalone - DEBUG - objective:-1667.4982
+2016-01-31 10:17:10,489 - abalone - DEBUG - objective:-1667.5542
+2016-01-31 10:17:11,472 - abalone - DEBUG - objective:-1667.6379
+2016-01-31 10:17:12,501 - abalone - DEBUG - objective:-1667.6627
+2016-01-31 10:17:13,465 - abalone - DEBUG - objective:-1667.6888
+2016-01-31 10:17:14,341 - abalone - DEBUG - objective:-1667.7119
+2016-01-31 10:17:15,488 - abalone - DEBUG - objective:-1667.7250
+2016-01-31 10:17:16,576 - abalone - DEBUG - objective:-1667.7363
+2016-01-31 10:17:17,748 - abalone - DEBUG - objective:-1667.7480
+2016-01-31 10:17:18,768 - abalone - DEBUG - objective:-1667.7517
+2016-01-31 10:17:19,941 - abalone - DEBUG - objective:-1667.7571
+2016-01-31 10:17:20,769 - abalone - DEBUG - objective:-1667.7540
+2016-01-31 10:17:21,755 - abalone - DEBUG - objective:-1667.7593
+2016-01-31 10:17:22,681 - abalone - DEBUG - objective:-1667.7612
+2016-01-31 10:17:23,717 - abalone - DEBUG - objective:-1667.7648
+2016-01-31 10:17:24,772 - abalone - DEBUG - objective:-1667.7688
+2016-01-31 10:17:25,914 - abalone - DEBUG - objective:-1667.7749
+2016-01-31 10:17:26,943 - abalone - DEBUG - objective:-1667.7821
+2016-01-31 10:17:27,917 - abalone - DEBUG - objective:-1667.7839
+2016-01-31 10:17:28,972 - abalone - DEBUG - objective:-1667.7898
+2016-01-31 10:17:29,977 - abalone - DEBUG - objective:-1667.7938
+2016-01-31 10:17:31,149 - abalone - DEBUG - objective:-1667.7998
+2016-01-31 10:17:32,138 - abalone - DEBUG - objective:-1667.8083
+2016-01-31 10:17:33,296 - abalone - DEBUG - objective:-1667.8088
+2016-01-31 10:17:33,299 - abalone - INFO - Saving model...
+2016-01-31 10:17:33,375 - abalone - INFO - Model saved.
+2016-01-31 10:17:33,383 - abalone - DEBUG - ftol: 0.89409761308
+2016-01-31 10:17:33,385 - abalone - INFO - diff:m:0.00217306281687 s:0.0020058508954
+2016-01-31 10:17:33,386 - abalone - INFO - ll params
+2016-01-31 10:17:34,165 - abalone - DEBUG - objective:-1667.8088
+2016-01-31 10:17:34,716 - abalone - DEBUG - objective:-1485.4928
+2016-01-31 10:17:35,259 - abalone - DEBUG - objective:-1667.8154
+2016-01-31 10:17:35,793 - abalone - DEBUG - objective:-1667.8154
+2016-01-31 10:17:36,339 - abalone - DEBUG - objective:-1667.8154
+2016-01-31 10:17:36,341 - abalone - INFO - hyp params
+2016-01-31 10:17:37,507 - abalone - DEBUG - objective:-1667.8154
+2016-01-31 10:17:38,034 - abalone - DEBUG - objective:-1081.9633
+2016-01-31 10:17:38,515 - abalone - DEBUG - objective:-1667.4950
+2016-01-31 10:17:38,983 - abalone - DEBUG - objective:-1668.1678
+2016-01-31 10:17:39,443 - abalone - DEBUG - objective:-1668.1696
+2016-01-31 10:17:39,855 - abalone - DEBUG - objective:-1668.1901
+2016-01-31 10:17:40,274 - abalone - DEBUG - objective:-1668.2169
+2016-01-31 10:17:40,743 - abalone - DEBUG - objective:-1668.2523
+2016-01-31 10:17:41,145 - abalone - DEBUG - objective:-1668.2704
+2016-01-31 10:17:41,501 - abalone - DEBUG - objective:-1668.2705
+2016-01-31 10:17:41,892 - abalone - DEBUG - objective:-1668.2705
+2016-01-31 10:17:42,306 - abalone - DEBUG - objective:-1668.2705
+2016-01-31 10:17:42,732 - abalone - DEBUG - objective:-1668.2705
+2016-01-31 10:17:42,734 - abalone - INFO - Iteration 11 started.
+2016-01-31 10:17:42,736 - abalone - INFO - MoG params
+2016-01-31 10:17:43,591 - abalone - DEBUG - objective:-1668.2183
+2016-01-31 10:17:44,474 - abalone - DEBUG - objective:-1374.5923
+2016-01-31 10:17:45,391 - abalone - DEBUG - objective:-1668.3576
+2016-01-31 10:17:46,558 - abalone - DEBUG - objective:-1668.4135
+2016-01-31 10:17:47,550 - abalone - DEBUG - objective:-1668.4952
+2016-01-31 10:17:48,587 - abalone - DEBUG - objective:-1668.5224
+2016-01-31 10:17:49,533 - abalone - DEBUG - objective:-1668.5486
+2016-01-31 10:17:50,576 - abalone - DEBUG - objective:-1668.5691
+2016-01-31 10:17:51,541 - abalone - DEBUG - objective:-1668.5801
+2016-01-31 10:17:52,593 - abalone - DEBUG - objective:-1668.5898
+2016-01-31 10:17:53,659 - abalone - DEBUG - objective:-1668.6013
+2016-01-31 10:17:54,711 - abalone - DEBUG - objective:-1668.6037
+2016-01-31 10:17:55,737 - abalone - DEBUG - objective:-1668.6067
+2016-01-31 10:17:56,672 - abalone - DEBUG - objective:-1668.6090
+2016-01-31 10:17:57,561 - abalone - DEBUG - objective:-1668.6125
+2016-01-31 10:17:58,456 - abalone - DEBUG - objective:-1668.6165
+2016-01-31 10:17:59,514 - abalone - DEBUG - objective:-1668.6197
+2016-01-31 10:18:00,439 - abalone - DEBUG - objective:-1668.6236
+2016-01-31 10:18:01,496 - abalone - DEBUG - objective:-1668.6277
+2016-01-31 10:18:02,361 - abalone - DEBUG - objective:-1668.6315
+2016-01-31 10:18:03,267 - abalone - DEBUG - objective:-1668.6346
+2016-01-31 10:18:04,189 - abalone - DEBUG - objective:-1668.6391
+2016-01-31 10:18:04,964 - abalone - DEBUG - objective:-1668.6473
+2016-01-31 10:18:05,922 - abalone - DEBUG - objective:-1668.6598
+2016-01-31 10:18:06,895 - abalone - DEBUG - objective:-1668.6720
+2016-01-31 10:18:07,907 - abalone - DEBUG - objective:-1668.6836
+2016-01-31 10:18:07,915 - abalone - INFO - Saving model...
+2016-01-31 10:18:07,971 - abalone - INFO - Model saved.
+2016-01-31 10:18:07,974 - abalone - DEBUG - ftol: 0.874758228606
+2016-01-31 10:18:07,977 - abalone - INFO - diff:m:0.00197288512176 s:0.0024126788462
+2016-01-31 10:18:07,980 - abalone - INFO - ll params
+2016-01-31 10:18:08,839 - abalone - DEBUG - objective:-1668.6836
+2016-01-31 10:18:09,343 - abalone - DEBUG - objective:-1486.2908
+2016-01-31 10:18:09,951 - abalone - DEBUG - objective:-1668.6895
+2016-01-31 10:18:10,563 - abalone - DEBUG - objective:-1668.6895
+2016-01-31 10:18:11,078 - abalone - DEBUG - objective:-1668.6895
+2016-01-31 10:18:11,080 - abalone - INFO - hyp params
+2016-01-31 10:18:12,235 - abalone - DEBUG - objective:-1668.6895
+2016-01-31 10:18:12,759 - abalone - DEBUG - objective:-1106.5946
+2016-01-31 10:18:13,171 - abalone - DEBUG - objective:-1668.0662
+2016-01-31 10:18:13,531 - abalone - DEBUG - objective:-1669.0210
+2016-01-31 10:18:14,000 - abalone - DEBUG - objective:-1669.0228
+2016-01-31 10:18:14,383 - abalone - DEBUG - objective:-1669.0366
+2016-01-31 10:18:14,815 - abalone - DEBUG - objective:-1669.0585
+2016-01-31 10:18:15,200 - abalone - DEBUG - objective:-1669.0951
+2016-01-31 10:18:15,563 - abalone - DEBUG - objective:-1669.1243
+2016-01-31 10:18:15,999 - abalone - DEBUG - objective:-1669.1301
+2016-01-31 10:18:16,387 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:16,791 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:17,183 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:17,535 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:17,921 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:18,300 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:18,687 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,067 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,441 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,442 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,819 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,821 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:19,822 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:20,216 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:20,217 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:20,219 - abalone - DEBUG - objective:-1669.1304
+2016-01-31 10:18:20,220 - abalone - INFO - Iteration 12 started.
+2016-01-31 10:18:20,221 - abalone - INFO - MoG params
+2016-01-31 10:18:20,850 - abalone - DEBUG - objective:-1669.0682
+2016-01-31 10:18:21,791 - abalone - DEBUG - objective:-1397.9156
+2016-01-31 10:18:22,672 - abalone - DEBUG - objective:-1669.1926
+2016-01-31 10:18:23,565 - abalone - DEBUG - objective:-1669.2404
+2016-01-31 10:18:24,425 - abalone - DEBUG - objective:-1669.2938
+2016-01-31 10:18:25,246 - abalone - DEBUG - objective:-1669.3268
+2016-01-31 10:18:26,107 - abalone - DEBUG - objective:-1669.3538
+2016-01-31 10:18:27,139 - abalone - DEBUG - objective:-1669.3685
+2016-01-31 10:18:28,171 - abalone - DEBUG - objective:-1669.3808
+2016-01-31 10:18:29,048 - abalone - DEBUG - objective:-1669.3903
+2016-01-31 10:18:29,939 - abalone - DEBUG - objective:-1669.3918
+2016-01-31 10:18:30,790 - abalone - DEBUG - objective:-1669.3965
+2016-01-31 10:18:31,762 - abalone - DEBUG - objective:-1669.3978
+2016-01-31 10:18:32,750 - abalone - DEBUG - objective:-1669.4006
+2016-01-31 10:18:33,577 - abalone - DEBUG - objective:-1669.4033
+2016-01-31 10:18:34,374 - abalone - DEBUG - objective:-1669.4011
+2016-01-31 10:18:35,103 - abalone - DEBUG - objective:-1669.4047
+2016-01-31 10:18:35,980 - abalone - DEBUG - objective:-1669.4066
+2016-01-31 10:18:36,946 - abalone - DEBUG - objective:-1669.4080
+2016-01-31 10:18:37,810 - abalone - DEBUG - objective:-1669.4099
+2016-01-31 10:18:38,778 - abalone - DEBUG - objective:-1669.4121
+2016-01-31 10:18:39,696 - abalone - DEBUG - objective:-1669.4157
+2016-01-31 10:18:40,521 - abalone - DEBUG - objective:-1669.4202
+2016-01-31 10:18:41,560 - abalone - DEBUG - objective:-1669.4247
+2016-01-31 10:18:42,451 - abalone - DEBUG - objective:-1669.4295
+2016-01-31 10:18:43,399 - abalone - DEBUG - objective:-1669.4309
+2016-01-31 10:18:43,404 - abalone - INFO - Saving model...
+2016-01-31 10:18:43,452 - abalone - INFO - Model saved.
+2016-01-31 10:18:43,454 - abalone - DEBUG - ftol: 0.747348154129
+2016-01-31 10:18:43,455 - abalone - INFO - diff:m:0.00188537115216 s:0.00148116500904
+2016-01-31 10:18:43,463 - abalone - INFO - ll params
+2016-01-31 10:18:44,147 - abalone - DEBUG - objective:-1669.4309
+2016-01-31 10:18:44,595 - abalone - DEBUG - objective:-1486.9939
+2016-01-31 10:18:45,079 - abalone - DEBUG - objective:-1669.4365
+2016-01-31 10:18:45,688 - abalone - DEBUG - objective:-1669.4365
+2016-01-31 10:18:46,265 - abalone - DEBUG - objective:-1669.4365
+2016-01-31 10:18:46,266 - abalone - INFO - hyp params
+2016-01-31 10:18:47,443 - abalone - DEBUG - objective:-1669.4365
+2016-01-31 10:18:48,019 - abalone - DEBUG - objective:-1115.2509
+2016-01-31 10:18:48,397 - abalone - DEBUG - objective:-1668.5471
+2016-01-31 10:18:48,783 - abalone - DEBUG - objective:-1669.7065
+2016-01-31 10:18:49,196 - abalone - DEBUG - objective:-1669.7077
+2016-01-31 10:18:49,635 - abalone - DEBUG - objective:-1669.7134
+2016-01-31 10:18:50,045 - abalone - DEBUG - objective:-1669.7244
+2016-01-31 10:18:50,431 - abalone - DEBUG - objective:-1669.7460
+2016-01-31 10:18:50,823 - abalone - DEBUG - objective:-1669.7707
+2016-01-31 10:18:51,217 - abalone - DEBUG - objective:-1669.7836
+2016-01-31 10:18:51,603 - abalone - DEBUG - objective:-1669.7848
+2016-01-31 10:18:52,023 - abalone - DEBUG - objective:-1669.7848
+2016-01-31 10:18:52,419 - abalone - DEBUG - objective:-1669.7848
+2016-01-31 10:18:52,828 - abalone - DEBUG - objective:-1669.7848
+2016-01-31 10:18:53,230 - abalone - DEBUG - objective:-1669.7848
+2016-01-31 10:18:53,232 - abalone - INFO - Iteration 13 started.
+2016-01-31 10:18:53,234 - abalone - INFO - MoG params
+2016-01-31 10:18:54,055 - abalone - DEBUG - objective:-1669.7257
+2016-01-31 10:18:55,063 - abalone - DEBUG - objective:-1396.1527
+2016-01-31 10:18:56,027 - abalone - DEBUG - objective:-1669.8062
+2016-01-31 10:18:57,109 - abalone - DEBUG - objective:-1669.8367
+2016-01-31 10:18:57,949 - abalone - DEBUG - objective:-1669.8768
+2016-01-31 10:18:58,851 - abalone - DEBUG - objective:-1669.9101
+2016-01-31 10:18:59,786 - abalone - DEBUG - objective:-1669.9209
+2016-01-31 10:19:00,712 - abalone - DEBUG - objective:-1669.9419
+2016-01-31 10:19:01,683 - abalone - DEBUG - objective:-1669.9483
+2016-01-31 10:19:02,638 - abalone - DEBUG - objective:-1669.9572
+2016-01-31 10:19:03,593 - abalone - DEBUG - objective:-1669.9594
+2016-01-31 10:19:04,599 - abalone - DEBUG - objective:-1669.9651
+2016-01-31 10:19:05,712 - abalone - DEBUG - objective:-1669.9670
+2016-01-31 10:19:06,655 - abalone - DEBUG - objective:-1669.9692
+2016-01-31 10:19:07,638 - abalone - DEBUG - objective:-1669.9716
+2016-01-31 10:19:08,658 - abalone - DEBUG - objective:-1669.9725
+2016-01-31 10:19:09,621 - abalone - DEBUG - objective:-1669.9752
+2016-01-31 10:19:10,618 - abalone - DEBUG - objective:-1669.9771
+2016-01-31 10:19:11,456 - abalone - DEBUG - objective:-1669.9790
+2016-01-31 10:19:12,478 - abalone - DEBUG - objective:-1669.9809
+2016-01-31 10:19:13,436 - abalone - DEBUG - objective:-1669.9843
+2016-01-31 10:19:14,339 - abalone - DEBUG - objective:-1669.9869
+2016-01-31 10:19:15,325 - abalone - DEBUG - objective:-1669.9894
+2016-01-31 10:19:16,247 - abalone - DEBUG - objective:-1669.9885
+2016-01-31 10:19:17,219 - abalone - DEBUG - objective:-1669.9912
+2016-01-31 10:19:18,249 - abalone - DEBUG - objective:-1669.9942
+2016-01-31 10:19:18,252 - abalone - INFO - Saving model...
+2016-01-31 10:19:18,300 - abalone - INFO - Model saved.
+2016-01-31 10:19:18,302 - abalone - DEBUG - ftol: 0.563329188375
+2016-01-31 10:19:18,304 - abalone - INFO - diff:m:0.00178308465046 s:0.00109216797797
+2016-01-31 10:19:18,306 - abalone - INFO - ll params
+2016-01-31 10:19:19,111 - abalone - DEBUG - objective:-1669.9942
+2016-01-31 10:19:19,629 - abalone - DEBUG - objective:-1487.5368
+2016-01-31 10:19:20,159 - abalone - DEBUG - objective:-1669.9997
+2016-01-31 10:19:20,695 - abalone - DEBUG - objective:-1669.9997
+2016-01-31 10:19:21,255 - abalone - DEBUG - objective:-1669.9997
+2016-01-31 10:19:21,257 - abalone - INFO - hyp params
+2016-01-31 10:19:22,390 - abalone - DEBUG - objective:-1669.9997
+2016-01-31 10:19:23,115 - abalone - DEBUG - objective:-1123.4709
+2016-01-31 10:19:23,496 - abalone - DEBUG - objective:-1669.0102
+2016-01-31 10:19:23,895 - abalone - DEBUG - objective:-1670.2191
+2016-01-31 10:19:24,295 - abalone - DEBUG - objective:-1670.2196
+2016-01-31 10:19:24,699 - abalone - DEBUG - objective:-1670.2207
+2016-01-31 10:19:25,123 - abalone - DEBUG - objective:-1670.2239
+2016-01-31 10:19:25,555 - abalone - DEBUG - objective:-1670.2303
+2016-01-31 10:19:25,967 - abalone - DEBUG - objective:-1670.2405
+2016-01-31 10:19:26,387 - abalone - DEBUG - objective:-1670.2498
+2016-01-31 10:19:26,779 - abalone - DEBUG - objective:-1670.2519
+2016-01-31 10:19:27,247 - abalone - DEBUG - objective:-1670.2520
+2016-01-31 10:19:27,623 - abalone - DEBUG - objective:-1670.2520
+2016-01-31 10:19:27,987 - abalone - DEBUG - objective:-1670.2520
+2016-01-31 10:19:28,387 - abalone - DEBUG - objective:-1670.2520
+2016-01-31 10:19:28,388 - abalone - INFO - Iteration 14 started.
+2016-01-31 10:19:28,390 - abalone - INFO - MoG params
+2016-01-31 10:19:29,126 - abalone - DEBUG - objective:-1670.1987
+2016-01-31 10:19:30,190 - abalone - DEBUG - objective:-1398.1165
+2016-01-31 10:19:31,084 - abalone - DEBUG - objective:-1670.2447
+2016-01-31 10:19:32,024 - abalone - DEBUG - objective:-1670.2642
+2016-01-31 10:19:32,971 - abalone - DEBUG - objective:-1670.2987
+2016-01-31 10:19:33,954 - abalone - DEBUG - objective:-1670.3212
+2016-01-31 10:19:34,915 - abalone - DEBUG - objective:-1670.3332
+2016-01-31 10:19:35,781 - abalone - DEBUG - objective:-1670.3436
+2016-01-31 10:19:36,814 - abalone - DEBUG - objective:-1670.3505
+2016-01-31 10:19:37,802 - abalone - DEBUG - objective:-1670.3553
+2016-01-31 10:19:39,018 - abalone - DEBUG - objective:-1670.3505
+2016-01-31 10:19:39,947 - abalone - DEBUG - objective:-1670.3575
+2016-01-31 10:19:40,962 - abalone - DEBUG - objective:-1670.3598
+2016-01-31 10:19:42,018 - abalone - DEBUG - objective:-1670.3619
+2016-01-31 10:19:43,013 - abalone - DEBUG - objective:-1670.3638
+2016-01-31 10:19:43,941 - abalone - DEBUG - objective:-1670.3664
+2016-01-31 10:19:44,860 - abalone - DEBUG - objective:-1670.3684
+2016-01-31 10:19:45,826 - abalone - DEBUG - objective:-1670.3702
+2016-01-31 10:19:46,736 - abalone - DEBUG - objective:-1670.3719
+2016-01-31 10:19:47,778 - abalone - DEBUG - objective:-1670.3739
+2016-01-31 10:19:48,736 - abalone - DEBUG - objective:-1670.3749
+2016-01-31 10:19:49,657 - abalone - DEBUG - objective:-1670.3773
+2016-01-31 10:19:50,577 - abalone - DEBUG - objective:-1670.3795
+2016-01-31 10:19:51,647 - abalone - DEBUG - objective:-1670.3842
+2016-01-31 10:19:52,586 - abalone - DEBUG - objective:-1670.3851
+2016-01-31 10:19:53,634 - abalone - DEBUG - objective:-1670.3905
+2016-01-31 10:19:53,640 - abalone - INFO - Saving model...
+2016-01-31 10:19:53,685 - abalone - INFO - Model saved.
+2016-01-31 10:19:53,687 - abalone - DEBUG - ftol: 0.396257396349
+2016-01-31 10:19:53,688 - abalone - INFO - diff:m:0.00166638319048 s:0.00118339847614
+2016-01-31 10:19:53,690 - abalone - INFO - ll params
+2016-01-31 10:19:54,596 - abalone - DEBUG - objective:-1670.3905
+2016-01-31 10:19:55,135 - abalone - DEBUG - objective:-1487.7363
+2016-01-31 10:19:55,685 - abalone - DEBUG - objective:-1670.3946
+2016-01-31 10:19:56,296 - abalone - DEBUG - objective:-1670.3946
+2016-01-31 10:19:56,841 - abalone - DEBUG - objective:-1670.3946
+2016-01-31 10:19:56,842 - abalone - INFO - hyp params
+2016-01-31 10:19:58,034 - abalone - DEBUG - objective:-1670.3946
+2016-01-31 10:19:58,635 - abalone - DEBUG - objective:-1127.0328
+2016-01-31 10:19:59,005 - abalone - DEBUG - objective:-1669.3990
+2016-01-31 10:19:59,409 - abalone - DEBUG - objective:-1670.5508
+2016-01-31 10:19:59,804 - abalone - DEBUG - objective:-1670.5512
+2016-01-31 10:20:00,232 - abalone - DEBUG - objective:-1670.5515
+2016-01-31 10:20:00,659 - abalone - DEBUG - objective:-1670.5530
+2016-01-31 10:20:01,041 - abalone - DEBUG - objective:-1670.5558
+2016-01-31 10:20:01,462 - abalone - DEBUG - objective:-1670.5607
+2016-01-31 10:20:01,877 - abalone - DEBUG - objective:-1670.5656
+2016-01-31 10:20:02,319 - abalone - DEBUG - objective:-1670.5672
+2016-01-31 10:20:02,735 - abalone - DEBUG - objective:-1670.5673
+2016-01-31 10:20:03,171 - abalone - DEBUG - objective:-1670.5674
+2016-01-31 10:20:03,606 - abalone - DEBUG - objective:-1670.5674
+2016-01-31 10:20:04,007 - abalone - DEBUG - objective:-1670.5674
+2016-01-31 10:20:04,009 - abalone - INFO - Iteration 15 started.
+2016-01-31 10:20:04,010 - abalone - INFO - MoG params
+2016-01-31 10:20:04,830 - abalone - DEBUG - objective:-1670.5220
+2016-01-31 10:20:05,756 - abalone - DEBUG - objective:-1416.6644
+2016-01-31 10:20:06,675 - abalone - DEBUG - objective:-1670.5506
+2016-01-31 10:20:07,890 - abalone - DEBUG - objective:-1670.5653
+2016-01-31 10:20:08,784 - abalone - DEBUG - objective:-1670.5969
+2016-01-31 10:20:09,823 - abalone - DEBUG - objective:-1670.6131
+2016-01-31 10:20:10,818 - abalone - DEBUG - objective:-1670.6249
+2016-01-31 10:20:11,876 - abalone - DEBUG - objective:-1670.6310
+2016-01-31 10:20:12,838 - abalone - DEBUG - objective:-1670.6373
+2016-01-31 10:20:13,827 - abalone - DEBUG - objective:-1670.6385
+2016-01-31 10:20:14,753 - abalone - DEBUG - objective:-1670.6420
+2016-01-31 10:20:15,628 - abalone - DEBUG - objective:-1670.6436
+2016-01-31 10:20:16,645 - abalone - DEBUG - objective:-1670.6448
+2016-01-31 10:20:17,468 - abalone - DEBUG - objective:-1670.6470
+2016-01-31 10:20:18,485 - abalone - DEBUG - objective:-1670.6416
+2016-01-31 10:20:19,424 - abalone - DEBUG - objective:-1670.6478
+2016-01-31 10:20:20,351 - abalone - DEBUG - objective:-1670.6493
+2016-01-31 10:20:21,537 - abalone - DEBUG - objective:-1670.6511
+2016-01-31 10:20:22,519 - abalone - DEBUG - objective:-1670.6506
+2016-01-31 10:20:23,613 - abalone - DEBUG - objective:-1670.6526
+2016-01-31 10:20:24,642 - abalone - DEBUG - objective:-1670.6542
+2016-01-31 10:20:25,497 - abalone - DEBUG - objective:-1670.6550
+2016-01-31 10:20:26,499 - abalone - DEBUG - objective:-1670.6580
+2016-01-31 10:20:27,541 - abalone - DEBUG - objective:-1670.6646
+2016-01-31 10:20:28,473 - abalone - DEBUG - objective:-1670.6670
+2016-01-31 10:20:29,509 - abalone - DEBUG - objective:-1670.6705
+2016-01-31 10:20:29,516 - abalone - INFO - Saving model...
+2016-01-31 10:20:29,554 - abalone - INFO - Model saved.
+2016-01-31 10:20:29,556 - abalone - DEBUG - ftol: 0.279994024615
+2016-01-31 10:20:29,557 - abalone - INFO - diff:m:0.00163298300035 s:0.00131573996706
+2016-01-31 10:20:29,558 - abalone - INFO - ll params
+2016-01-31 10:20:30,454 - abalone - DEBUG - objective:-1670.6705
+2016-01-31 10:20:30,870 - abalone - DEBUG - objective:-1487.9975
+2016-01-31 10:20:31,391 - abalone - DEBUG - objective:-1670.6745
+2016-01-31 10:20:31,840 - abalone - DEBUG - objective:-1670.6745
+2016-01-31 10:20:32,366 - abalone - DEBUG - objective:-1670.6745
+2016-01-31 10:20:32,368 - abalone - INFO - hyp params
+2016-01-31 10:20:33,597 - abalone - DEBUG - objective:-1670.6745
+2016-01-31 10:20:34,231 - abalone - DEBUG - objective:-1139.9622
+2016-01-31 10:20:34,593 - abalone - DEBUG - objective:-1669.8122
+2016-01-31 10:20:34,975 - abalone - DEBUG - objective:-1670.8175
+2016-01-31 10:20:35,423 - abalone - DEBUG - objective:-1670.8176
+2016-01-31 10:20:35,861 - abalone - DEBUG - objective:-1670.8178
+2016-01-31 10:20:36,264 - abalone - DEBUG - objective:-1670.8185
+2016-01-31 10:20:36,657 - abalone - DEBUG - objective:-1670.8198
+2016-01-31 10:20:37,046 - abalone - DEBUG - objective:-1670.8221
+2016-01-31 10:20:37,427 - abalone - DEBUG - objective:-1670.8242
+2016-01-31 10:20:37,847 - abalone - DEBUG - objective:-1670.8249
+2016-01-31 10:20:38,264 - abalone - DEBUG - objective:-1670.8249
+2016-01-31 10:20:38,644 - abalone - DEBUG - objective:-1670.8249
+2016-01-31 10:20:39,003 - abalone - DEBUG - objective:-1670.8249
+2016-01-31 10:20:39,453 - abalone - DEBUG - objective:-1670.8249
+2016-01-31 10:20:39,455 - abalone - INFO - Iteration 16 started.
+2016-01-31 10:20:39,458 - abalone - INFO - MoG params
+2016-01-31 10:20:40,410 - abalone - DEBUG - objective:-1670.7818
+2016-01-31 10:20:41,405 - abalone - DEBUG - objective:-1426.1044
+2016-01-31 10:20:42,570 - abalone - DEBUG - objective:-1670.8011
+2016-01-31 10:20:43,557 - abalone - DEBUG - objective:-1670.8123
+2016-01-31 10:20:44,557 - abalone - DEBUG - objective:-1670.8361
+2016-01-31 10:20:45,538 - abalone - DEBUG - objective:-1670.8484
+2016-01-31 10:20:46,593 - abalone - DEBUG - objective:-1670.8565
+2016-01-31 10:20:47,606 - abalone - DEBUG - objective:-1670.8629
+2016-01-31 10:20:48,618 - abalone - DEBUG - objective:-1670.8670
+2016-01-31 10:20:49,813 - abalone - DEBUG - objective:-1670.8686
+2016-01-31 10:20:50,797 - abalone - DEBUG - objective:-1670.8699
+2016-01-31 10:20:51,804 - abalone - DEBUG - objective:-1670.8710
+2016-01-31 10:20:52,705 - abalone - DEBUG - objective:-1670.8729
+2016-01-31 10:20:53,793 - abalone - DEBUG - objective:-1670.8731
+2016-01-31 10:20:54,738 - abalone - DEBUG - objective:-1670.8741
+2016-01-31 10:20:55,777 - abalone - DEBUG - objective:-1670.8746
+2016-01-31 10:20:56,763 - abalone - DEBUG - objective:-1670.8750
+2016-01-31 10:20:57,747 - abalone - DEBUG - objective:-1670.8754
+2016-01-31 10:20:58,776 - abalone - DEBUG - objective:-1670.8766
+2016-01-31 10:20:59,802 - abalone - DEBUG - objective:-1670.8783
+2016-01-31 10:21:00,946 - abalone - DEBUG - objective:-1670.8810
+2016-01-31 10:21:01,939 - abalone - DEBUG - objective:-1670.8820
+2016-01-31 10:21:02,915 - abalone - DEBUG - objective:-1670.8842
+2016-01-31 10:21:03,798 - abalone - DEBUG - objective:-1670.8858
+2016-01-31 10:21:04,805 - abalone - DEBUG - objective:-1670.8866
+2016-01-31 10:21:05,779 - abalone - DEBUG - objective:-1670.8885
+2016-01-31 10:21:05,783 - abalone - INFO - Saving model...
+2016-01-31 10:21:05,851 - abalone - INFO - Model saved.
+2016-01-31 10:21:05,853 - abalone - DEBUG - ftol: 0.217991425802
+2016-01-31 10:21:05,857 - abalone - INFO - diff:m:0.00142738869514 s:0.00123215981351
+2016-01-31 10:21:05,860 - abalone - INFO - ll params
+2016-01-31 10:21:06,859 - abalone - DEBUG - objective:-1670.8885
+2016-01-31 10:21:07,413 - abalone - DEBUG - objective:-1488.0375
+2016-01-31 10:21:07,910 - abalone - DEBUG - objective:-1670.8914
+2016-01-31 10:21:08,488 - abalone - DEBUG - objective:-1670.8914
+2016-01-31 10:21:09,048 - abalone - DEBUG - objective:-1670.8914
+2016-01-31 10:21:09,050 - abalone - INFO - hyp params
+2016-01-31 10:21:10,254 - abalone - DEBUG - objective:-1670.8914
+2016-01-31 10:21:10,940 - abalone - DEBUG - objective:-1147.2958
+2016-01-31 10:21:11,359 - abalone - DEBUG - objective:-1670.1083
+2016-01-31 10:21:11,795 - abalone - DEBUG - objective:-1670.9940
+2016-01-31 10:21:12,244 - abalone - DEBUG - objective:-1670.9941
+2016-01-31 10:21:12,635 - abalone - DEBUG - objective:-1670.9941
+2016-01-31 10:21:13,083 - abalone - DEBUG - objective:-1670.9946
+2016-01-31 10:21:13,479 - abalone - DEBUG - objective:-1670.9952
+2016-01-31 10:21:13,901 - abalone - DEBUG - objective:-1670.9963
+2016-01-31 10:21:14,324 - abalone - DEBUG - objective:-1670.9972
+2016-01-31 10:21:14,783 - abalone - DEBUG - objective:-1670.9974
+2016-01-31 10:21:15,231 - abalone - DEBUG - objective:-1670.9974
+2016-01-31 10:21:15,630 - abalone - DEBUG - objective:-1670.9974
+2016-01-31 10:21:16,050 - abalone - DEBUG - objective:-1670.9974
+2016-01-31 10:21:16,451 - abalone - DEBUG - objective:-1670.9974
+2016-01-31 10:21:16,452 - abalone - INFO - Iteration 17 started.
+2016-01-31 10:21:16,453 - abalone - INFO - MoG params
+2016-01-31 10:21:17,202 - abalone - DEBUG - objective:-1670.9604
+2016-01-31 10:21:18,268 - abalone - DEBUG - objective:-1474.5281
+2016-01-31 10:21:19,171 - abalone - DEBUG - objective:-1670.9774
+2016-01-31 10:21:20,291 - abalone - DEBUG - objective:-1670.9890
+2016-01-31 10:21:21,244 - abalone - DEBUG - objective:-1671.0055
+2016-01-31 10:21:22,294 - abalone - DEBUG - objective:-1671.0125
+2016-01-31 10:21:23,223 - abalone - DEBUG - objective:-1671.0191
+2016-01-31 10:21:24,253 - abalone - DEBUG - objective:-1671.0237
+2016-01-31 10:21:25,152 - abalone - DEBUG - objective:-1671.0261
+2016-01-31 10:21:25,989 - abalone - DEBUG - objective:-1671.0278
+2016-01-31 10:21:27,104 - abalone - DEBUG - objective:-1671.0290
+2016-01-31 10:21:28,124 - abalone - DEBUG - objective:-1671.0298
+2016-01-31 10:21:29,317 - abalone - DEBUG - objective:-1671.0303
+2016-01-31 10:21:30,363 - abalone - DEBUG - objective:-1671.0307
+2016-01-31 10:21:31,510 - abalone - DEBUG - objective:-1671.0312
+2016-01-31 10:21:32,502 - abalone - DEBUG - objective:-1671.0319
+2016-01-31 10:21:33,465 - abalone - DEBUG - objective:-1671.0318
+2016-01-31 10:21:34,421 - abalone - DEBUG - objective:-1671.0322
+2016-01-31 10:21:35,536 - abalone - DEBUG - objective:-1671.0326
+2016-01-31 10:21:36,495 - abalone - DEBUG - objective:-1671.0332
+2016-01-31 10:21:37,361 - abalone - DEBUG - objective:-1671.0330
+2016-01-31 10:21:38,361 - abalone - DEBUG - objective:-1671.0340
+2016-01-31 10:21:39,322 - abalone - DEBUG - objective:-1671.0350
+2016-01-31 10:21:40,426 - abalone - DEBUG - objective:-1671.0343
+2016-01-31 10:21:41,395 - abalone - DEBUG - objective:-1671.0355
+2016-01-31 10:21:42,575 - abalone - DEBUG - objective:-1671.0366
+2016-01-31 10:21:42,589 - abalone - INFO - Saving model...
+2016-01-31 10:21:42,648 - abalone - INFO - Model saved.
+2016-01-31 10:21:42,650 - abalone - DEBUG - ftol: 0.148069539378
+2016-01-31 10:21:42,653 - abalone - INFO - diff:m:0.00109421206776 s:0.000653555311978
+2016-01-31 10:21:42,655 - abalone - INFO - best obj found: -1671.03655359
+2016-01-31 10:21:42,657 - abalone - DEBUG - prediction started...
+2016-01-31 10:21:49,638 - abalone - DEBUG - prediction finished

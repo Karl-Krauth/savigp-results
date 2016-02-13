@@ -1,0 +1,2261 @@
+2016-02-02 09:14:56,008 - usps - INFO - experiment started for:{'run_id': 4, 'max_iter': 300, 'optimization_config': {'hyp': 25, 'mog': 25}, 'xtol': 0.001, 'git_hash': '73ddf4f1ad84b3a00ebb14d14c2ba15e1975c81a', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 0.5, 'll': 'SoftmaxLL', 'sample_num': 2000, 'experiment': 'usps', 'git_branch': 'master', 'random_Z': True, 'method': u'mix2'}
+2016-02-02 09:15:12,935 - usps - INFO - Iteration 0 started.
+2016-02-02 09:15:12,936 - usps - INFO - MoG params
+2016-02-02 09:15:27,178 - usps - DEBUG - objective:817.3242
+2016-02-02 09:15:40,276 - usps - DEBUG - objective:783.8230
+2016-02-02 09:15:54,872 - usps - DEBUG - objective:660.1982
+2016-02-02 09:16:09,229 - usps - DEBUG - objective:761.1908
+2016-02-02 09:16:24,495 - usps - DEBUG - objective:106.9330
+2016-02-02 09:16:39,899 - usps - DEBUG - objective:-71.2335
+2016-02-02 09:16:54,017 - usps - DEBUG - objective:32.8734
+2016-02-02 09:17:07,501 - usps - DEBUG - objective:-110.9560
+2016-02-02 09:17:22,216 - usps - DEBUG - objective:-130.0939
+2016-02-02 09:17:35,260 - usps - DEBUG - objective:-185.8515
+2016-02-02 09:17:49,334 - usps - DEBUG - objective:-226.9645
+2016-02-02 09:18:02,914 - usps - DEBUG - objective:-253.1470
+2016-02-02 09:18:16,435 - usps - DEBUG - objective:-251.9835
+2016-02-02 09:18:30,116 - usps - DEBUG - objective:-260.5980
+2016-02-02 09:18:44,625 - usps - DEBUG - objective:-264.1856
+2016-02-02 09:18:57,383 - usps - DEBUG - objective:-265.5130
+2016-02-02 09:19:11,438 - usps - DEBUG - objective:-266.4656
+2016-02-02 09:19:25,984 - usps - DEBUG - objective:-267.0759
+2016-02-02 09:19:39,619 - usps - DEBUG - objective:-267.2369
+2016-02-02 09:19:53,149 - usps - DEBUG - objective:-267.5104
+2016-02-02 09:20:07,052 - usps - DEBUG - objective:-267.5113
+2016-02-02 09:20:20,789 - usps - DEBUG - objective:-267.5767
+2016-02-02 09:20:33,149 - usps - DEBUG - objective:-267.6806
+2016-02-02 09:20:47,312 - usps - DEBUG - objective:-267.7854
+2016-02-02 09:20:59,892 - usps - DEBUG - objective:-267.8947
+2016-02-02 09:21:13,530 - usps - DEBUG - objective:-268.0348
+2016-02-02 09:21:13,612 - usps - INFO - Saving model...
+2016-02-02 09:21:17,305 - usps - INFO - Model saved.
+2016-02-02 09:21:17,312 - usps - INFO - hyp params
+2016-02-02 09:21:59,292 - usps - DEBUG - objective:-268.0348
+2016-02-02 09:22:43,072 - usps - DEBUG - objective:575.3354
+2016-02-02 09:23:25,684 - usps - DEBUG - objective:-329.0383
+2016-02-02 09:24:07,663 - usps - DEBUG - objective:-339.2958
+2016-02-02 09:24:48,859 - usps - DEBUG - objective:-346.8787
+2016-02-02 09:25:29,705 - usps - DEBUG - objective:-348.8450
+2016-02-02 09:26:10,227 - usps - DEBUG - objective:-351.2667
+2016-02-02 09:26:51,353 - usps - DEBUG - objective:-351.3542
+2016-02-02 09:27:33,173 - usps - DEBUG - objective:-351.3573
+2016-02-02 09:28:13,764 - usps - DEBUG - objective:-351.3610
+2016-02-02 09:28:55,729 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:29:37,013 - usps - DEBUG - objective:-351.3613
+2016-02-02 09:30:18,282 - usps - DEBUG - objective:-351.3620
+2016-02-02 09:31:01,843 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:31:44,895 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:32:26,689 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:33:10,761 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:33:54,157 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:34:37,291 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:35:21,918 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:36:05,159 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:36:48,040 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:37:30,611 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:38:12,285 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:38:53,507 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:39:33,640 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:40:14,002 - usps - INFO - Iteration 1 started.
+2016-02-02 09:40:14,003 - usps - INFO - MoG params
+2016-02-02 09:40:26,330 - usps - DEBUG - objective:-351.3621
+2016-02-02 09:40:39,832 - usps - DEBUG - objective:-359.4238
+2016-02-02 09:40:53,288 - usps - DEBUG - objective:-358.0950
+2016-02-02 09:41:06,169 - usps - DEBUG - objective:-383.4753
+2016-02-02 09:41:19,187 - usps - DEBUG - objective:-400.9194
+2016-02-02 09:41:32,225 - usps - DEBUG - objective:-403.2514
+2016-02-02 09:41:45,565 - usps - DEBUG - objective:-407.4268
+2016-02-02 09:41:58,614 - usps - DEBUG - objective:-408.9572
+2016-02-02 09:42:12,813 - usps - DEBUG - objective:-410.6020
+2016-02-02 09:42:26,839 - usps - DEBUG - objective:-411.5063
+2016-02-02 09:42:40,563 - usps - DEBUG - objective:-412.3877
+2016-02-02 09:42:52,548 - usps - DEBUG - objective:-413.3262
+2016-02-02 09:43:05,931 - usps - DEBUG - objective:-413.7230
+2016-02-02 09:43:18,771 - usps - DEBUG - objective:-414.0694
+2016-02-02 09:43:31,785 - usps - DEBUG - objective:-414.1652
+2016-02-02 09:43:44,733 - usps - DEBUG - objective:-414.2713
+2016-02-02 09:43:59,339 - usps - DEBUG - objective:-414.3377
+2016-02-02 09:44:12,716 - usps - DEBUG - objective:-414.3960
+2016-02-02 09:44:26,345 - usps - DEBUG - objective:-414.4371
+2016-02-02 09:44:39,623 - usps - DEBUG - objective:-414.4714
+2016-02-02 09:44:54,197 - usps - DEBUG - objective:-414.5720
+2016-02-02 09:45:08,868 - usps - DEBUG - objective:-414.4373
+2016-02-02 09:45:22,105 - usps - DEBUG - objective:-414.5995
+2016-02-02 09:45:35,380 - usps - DEBUG - objective:-414.6305
+2016-02-02 09:45:48,167 - usps - DEBUG - objective:-414.6564
+2016-02-02 09:46:02,177 - usps - DEBUG - objective:-414.6878
+2016-02-02 09:46:02,211 - usps - INFO - Saving model...
+2016-02-02 09:46:06,526 - usps - INFO - Model saved.
+2016-02-02 09:46:06,532 - usps - DEBUG - ftol: 146.653013098
+2016-02-02 09:46:06,533 - usps - INFO - diff:m:0.139899140856 s:0.0821469030375
+2016-02-02 09:46:06,534 - usps - INFO - hyp params
+2016-02-02 09:46:47,878 - usps - DEBUG - objective:-414.6878
+2016-02-02 09:47:29,234 - usps - DEBUG - objective:1048.1891
+2016-02-02 09:48:11,743 - usps - DEBUG - objective:-447.4380
+2016-02-02 09:48:55,154 - usps - DEBUG - objective:-452.5489
+2016-02-02 09:49:36,684 - usps - DEBUG - objective:-454.6508
+2016-02-02 09:50:21,035 - usps - DEBUG - objective:-456.9252
+2016-02-02 09:51:04,705 - usps - DEBUG - objective:-459.6758
+2016-02-02 09:51:46,269 - usps - DEBUG - objective:-460.2460
+2016-02-02 09:52:28,097 - usps - DEBUG - objective:-460.2494
+2016-02-02 09:53:10,957 - usps - DEBUG - objective:-460.2497
+2016-02-02 09:53:55,561 - usps - DEBUG - objective:-460.2504
+2016-02-02 09:54:37,820 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:55:20,883 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:56:01,942 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:56:44,664 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:57:26,130 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:58:07,043 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:58:07,044 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:58:48,477 - usps - DEBUG - objective:-460.2506
+2016-02-02 09:59:29,048 - usps - DEBUG - objective:-460.2506
+2016-02-02 10:00:11,415 - usps - DEBUG - objective:-460.2506
+2016-02-02 10:00:53,051 - usps - DEBUG - objective:-460.2506
+2016-02-02 10:01:33,140 - usps - DEBUG - objective:-460.2506
+2016-02-02 10:01:33,141 - usps - INFO - Iteration 2 started.
+2016-02-02 10:01:33,141 - usps - INFO - MoG params
+2016-02-02 10:01:46,713 - usps - DEBUG - objective:-460.2506
+2016-02-02 10:01:59,377 - usps - DEBUG - objective:-465.8136
+2016-02-02 10:02:12,917 - usps - DEBUG - objective:-446.3934
+2016-02-02 10:02:26,786 - usps - DEBUG - objective:-475.2041
+2016-02-02 10:02:40,252 - usps - DEBUG - objective:-485.8039
+2016-02-02 10:02:53,575 - usps - DEBUG - objective:-487.7625
+2016-02-02 10:03:07,270 - usps - DEBUG - objective:-492.6679
+2016-02-02 10:03:19,516 - usps - DEBUG - objective:-492.8053
+2016-02-02 10:03:32,647 - usps - DEBUG - objective:-493.7122
+2016-02-02 10:03:45,045 - usps - DEBUG - objective:-494.0822
+2016-02-02 10:03:58,158 - usps - DEBUG - objective:-494.6924
+2016-02-02 10:04:10,285 - usps - DEBUG - objective:-495.3045
+2016-02-02 10:04:25,018 - usps - DEBUG - objective:-496.1473
+2016-02-02 10:04:38,042 - usps - DEBUG - objective:-496.4660
+2016-02-02 10:04:49,528 - usps - DEBUG - objective:-496.8739
+2016-02-02 10:05:01,022 - usps - DEBUG - objective:-496.9682
+2016-02-02 10:05:14,035 - usps - DEBUG - objective:-496.9944
+2016-02-02 10:05:26,714 - usps - DEBUG - objective:-497.1532
+2016-02-02 10:05:40,108 - usps - DEBUG - objective:-497.2169
+2016-02-02 10:05:54,100 - usps - DEBUG - objective:-497.3014
+2016-02-02 10:06:07,653 - usps - DEBUG - objective:-497.4324
+2016-02-02 10:06:21,480 - usps - DEBUG - objective:-497.5222
+2016-02-02 10:06:36,086 - usps - DEBUG - objective:-497.6679
+2016-02-02 10:06:50,691 - usps - DEBUG - objective:-497.7043
+2016-02-02 10:07:03,127 - usps - DEBUG - objective:-497.7698
+2016-02-02 10:07:16,322 - usps - DEBUG - objective:-497.8152
+2016-02-02 10:07:16,336 - usps - INFO - Saving model...
+2016-02-02 10:07:20,311 - usps - INFO - Model saved.
+2016-02-02 10:07:20,321 - usps - DEBUG - ftol: 83.1273998075
+2016-02-02 10:07:20,322 - usps - INFO - diff:m:0.119324454855 s:0.0690235547572
+2016-02-02 10:07:20,323 - usps - INFO - hyp params
+2016-02-02 10:08:01,250 - usps - DEBUG - objective:-497.8152
+2016-02-02 10:08:44,289 - usps - DEBUG - objective:1040.4496
+2016-02-02 10:09:27,076 - usps - DEBUG - objective:-515.0381
+2016-02-02 10:10:10,611 - usps - DEBUG - objective:-519.5835
+2016-02-02 10:10:54,087 - usps - DEBUG - objective:-521.0460
+2016-02-02 10:11:36,494 - usps - DEBUG - objective:-525.7645
+2016-02-02 10:12:22,221 - usps - DEBUG - objective:-525.4759
+2016-02-02 10:13:05,784 - usps - DEBUG - objective:-525.8897
+2016-02-02 10:13:49,534 - usps - DEBUG - objective:-525.9473
+2016-02-02 10:14:33,753 - usps - DEBUG - objective:-525.9709
+2016-02-02 10:15:16,678 - usps - DEBUG - objective:-525.9896
+2016-02-02 10:15:58,547 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:16:39,155 - usps - DEBUG - objective:-525.9936
+2016-02-02 10:17:20,213 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:18:00,795 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:18:42,176 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:19:23,214 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:20:04,558 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:20:47,501 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:21:30,001 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:22:11,756 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:22:53,262 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:23:33,260 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:24:15,206 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:24:57,089 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:25:41,755 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:25:41,756 - usps - INFO - Iteration 3 started.
+2016-02-02 10:25:41,756 - usps - INFO - MoG params
+2016-02-02 10:25:54,955 - usps - DEBUG - objective:-525.9937
+2016-02-02 10:26:07,962 - usps - DEBUG - objective:-529.6393
+2016-02-02 10:26:19,753 - usps - DEBUG - objective:-534.7438
+2016-02-02 10:26:33,997 - usps - DEBUG - objective:-539.8160
+2016-02-02 10:26:47,550 - usps - DEBUG - objective:-542.3560
+2016-02-02 10:27:01,420 - usps - DEBUG - objective:-545.4089
+2016-02-02 10:27:16,374 - usps - DEBUG - objective:-546.7964
+2016-02-02 10:27:28,056 - usps - DEBUG - objective:-547.7402
+2016-02-02 10:27:42,484 - usps - DEBUG - objective:-548.3469
+2016-02-02 10:27:57,295 - usps - DEBUG - objective:-548.7570
+2016-02-02 10:28:13,284 - usps - DEBUG - objective:-549.2594
+2016-02-02 10:28:28,165 - usps - DEBUG - objective:-549.7924
+2016-02-02 10:28:43,062 - usps - DEBUG - objective:-550.5436
+2016-02-02 10:28:56,942 - usps - DEBUG - objective:-550.9806
+2016-02-02 10:29:10,773 - usps - DEBUG - objective:-551.1949
+2016-02-02 10:29:24,376 - usps - DEBUG - objective:-551.1917
+2016-02-02 10:29:37,309 - usps - DEBUG - objective:-551.2639
+2016-02-02 10:29:51,894 - usps - DEBUG - objective:-551.3412
+2016-02-02 10:30:05,479 - usps - DEBUG - objective:-551.4334
+2016-02-02 10:30:18,856 - usps - DEBUG - objective:-551.5920
+2016-02-02 10:30:32,289 - usps - DEBUG - objective:-551.8245
+2016-02-02 10:30:45,922 - usps - DEBUG - objective:-552.0044
+2016-02-02 10:30:59,907 - usps - DEBUG - objective:-552.1743
+2016-02-02 10:31:13,737 - usps - DEBUG - objective:-552.2817
+2016-02-02 10:31:26,924 - usps - DEBUG - objective:-552.3725
+2016-02-02 10:31:40,252 - usps - DEBUG - objective:-552.4945
+2016-02-02 10:31:40,265 - usps - INFO - Saving model...
+2016-02-02 10:31:44,844 - usps - INFO - Model saved.
+2016-02-02 10:31:44,861 - usps - DEBUG - ftol: 54.679278623
+2016-02-02 10:31:44,864 - usps - INFO - diff:m:0.113619787398 s:0.0545724851637
+2016-02-02 10:31:44,867 - usps - INFO - hyp params
+2016-02-02 10:32:26,583 - usps - DEBUG - objective:-552.4945
+2016-02-02 10:33:08,318 - usps - DEBUG - objective:1038.5230
+2016-02-02 10:33:48,424 - usps - DEBUG - objective:-562.2167
+2016-02-02 10:34:29,770 - usps - DEBUG - objective:-566.4260
+2016-02-02 10:35:10,386 - usps - DEBUG - objective:-567.8897
+2016-02-02 10:35:52,535 - usps - DEBUG - objective:-572.5070
+2016-02-02 10:36:33,519 - usps - DEBUG - objective:-572.7966
+2016-02-02 10:37:15,065 - usps - DEBUG - objective:-572.8719
+2016-02-02 10:37:55,940 - usps - DEBUG - objective:-572.8861
+2016-02-02 10:38:40,375 - usps - DEBUG - objective:-572.8918
+2016-02-02 10:39:23,183 - usps - DEBUG - objective:-572.9015
+2016-02-02 10:40:05,173 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:40:47,558 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:41:27,847 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:42:12,380 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:42:55,434 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:43:38,187 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:44:20,841 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:45:03,408 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:45:45,607 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:46:29,120 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:47:11,076 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:47:52,193 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:48:34,479 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:48:34,479 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:49:15,592 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:49:58,340 - usps - INFO - Iteration 4 started.
+2016-02-02 10:49:58,341 - usps - INFO - MoG params
+2016-02-02 10:50:11,418 - usps - DEBUG - objective:-572.9027
+2016-02-02 10:50:25,500 - usps - DEBUG - objective:-575.6030
+2016-02-02 10:50:38,688 - usps - DEBUG - objective:-578.0582
+2016-02-02 10:50:52,480 - usps - DEBUG - objective:-580.5624
+2016-02-02 10:51:06,461 - usps - DEBUG - objective:-582.4644
+2016-02-02 10:51:20,675 - usps - DEBUG - objective:-584.4763
+2016-02-02 10:51:34,785 - usps - DEBUG - objective:-586.4679
+2016-02-02 10:51:48,410 - usps - DEBUG - objective:-586.8768
+2016-02-02 10:52:02,559 - usps - DEBUG - objective:-587.7056
+2016-02-02 10:52:15,627 - usps - DEBUG - objective:-588.0258
+2016-02-02 10:52:27,003 - usps - DEBUG - objective:-588.5915
+2016-02-02 10:52:41,137 - usps - DEBUG - objective:-589.1882
+2016-02-02 10:52:55,335 - usps - DEBUG - objective:-589.9383
+2016-02-02 10:53:07,882 - usps - DEBUG - objective:-590.4580
+2016-02-02 10:53:20,793 - usps - DEBUG - objective:-590.8889
+2016-02-02 10:53:34,137 - usps - DEBUG - objective:-591.0776
+2016-02-02 10:53:47,966 - usps - DEBUG - objective:-591.2811
+2016-02-02 10:54:01,317 - usps - DEBUG - objective:-591.4893
+2016-02-02 10:54:13,832 - usps - DEBUG - objective:-591.5697
+2016-02-02 10:54:26,911 - usps - DEBUG - objective:-591.7107
+2016-02-02 10:54:40,341 - usps - DEBUG - objective:-591.8725
+2016-02-02 10:54:53,438 - usps - DEBUG - objective:-591.9532
+2016-02-02 10:55:06,910 - usps - DEBUG - objective:-592.1306
+2016-02-02 10:55:20,991 - usps - DEBUG - objective:-592.2237
+2016-02-02 10:55:34,823 - usps - DEBUG - objective:-592.3548
+2016-02-02 10:55:47,984 - usps - DEBUG - objective:-592.5789
+2016-02-02 10:55:48,025 - usps - INFO - Saving model...
+2016-02-02 10:55:53,215 - usps - INFO - Model saved.
+2016-02-02 10:55:53,219 - usps - DEBUG - ftol: 40.0843517124
+2016-02-02 10:55:53,221 - usps - INFO - diff:m:0.107079218349 s:0.0407189426346
+2016-02-02 10:55:53,222 - usps - INFO - hyp params
+2016-02-02 10:56:34,290 - usps - DEBUG - objective:-592.5789
+2016-02-02 10:57:14,007 - usps - DEBUG - objective:758.8936
+2016-02-02 10:57:53,974 - usps - DEBUG - objective:-599.3529
+2016-02-02 10:58:38,058 - usps - DEBUG - objective:-601.8857
+2016-02-02 10:59:20,384 - usps - DEBUG - objective:-603.6422
+2016-02-02 11:00:01,833 - usps - DEBUG - objective:-607.0583
+2016-02-02 11:00:42,867 - usps - DEBUG - objective:-607.0974
+2016-02-02 11:01:25,253 - usps - DEBUG - objective:-607.3242
+2016-02-02 11:02:08,074 - usps - DEBUG - objective:-607.3378
+2016-02-02 11:02:50,100 - usps - DEBUG - objective:-607.3609
+2016-02-02 11:03:32,815 - usps - DEBUG - objective:-607.3700
+2016-02-02 11:04:15,269 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:04:59,261 - usps - DEBUG - objective:-607.3705
+2016-02-02 11:05:43,631 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:06:27,398 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:07:10,928 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:07:54,097 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:08:37,919 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:09:20,228 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:10:01,647 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:10:43,703 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:11:25,510 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:12:05,560 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:12:47,051 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:13:27,930 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:13:27,931 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:13:27,931 - usps - INFO - Iteration 5 started.
+2016-02-02 11:13:27,932 - usps - INFO - MoG params
+2016-02-02 11:13:41,315 - usps - DEBUG - objective:-607.3706
+2016-02-02 11:13:54,453 - usps - DEBUG - objective:-608.2236
+2016-02-02 11:14:07,539 - usps - DEBUG - objective:-609.8040
+2016-02-02 11:14:20,750 - usps - DEBUG - objective:-611.6048
+2016-02-02 11:14:33,439 - usps - DEBUG - objective:-612.9027
+2016-02-02 11:14:46,234 - usps - DEBUG - objective:-614.3603
+2016-02-02 11:14:58,823 - usps - DEBUG - objective:-615.5531
+2016-02-02 11:15:10,918 - usps - DEBUG - objective:-616.1066
+2016-02-02 11:15:24,429 - usps - DEBUG - objective:-616.7576
+2016-02-02 11:15:37,913 - usps - DEBUG - objective:-617.3774
+2016-02-02 11:15:51,951 - usps - DEBUG - objective:-617.8666
+2016-02-02 11:16:05,162 - usps - DEBUG - objective:-618.2508
+2016-02-02 11:16:18,857 - usps - DEBUG - objective:-618.8291
+2016-02-02 11:16:33,413 - usps - DEBUG - objective:-619.3128
+2016-02-02 11:16:47,742 - usps - DEBUG - objective:-619.8998
+2016-02-02 11:17:02,567 - usps - DEBUG - objective:-620.3570
+2016-02-02 11:17:15,664 - usps - DEBUG - objective:-620.4658
+2016-02-02 11:17:28,885 - usps - DEBUG - objective:-620.5668
+2016-02-02 11:17:43,921 - usps - DEBUG - objective:-620.6226
+2016-02-02 11:17:58,147 - usps - DEBUG - objective:-620.7945
+2016-02-02 11:18:12,491 - usps - DEBUG - objective:-620.9066
+2016-02-02 11:18:27,033 - usps - DEBUG - objective:-621.2182
+2016-02-02 11:18:40,288 - usps - DEBUG - objective:-621.4366
+2016-02-02 11:18:54,696 - usps - DEBUG - objective:-621.6711
+2016-02-02 11:19:09,085 - usps - DEBUG - objective:-621.8517
+2016-02-02 11:19:23,238 - usps - DEBUG - objective:-622.0276
+2016-02-02 11:19:23,259 - usps - INFO - Saving model...
+2016-02-02 11:19:27,966 - usps - INFO - Model saved.
+2016-02-02 11:19:27,968 - usps - DEBUG - ftol: 29.4487208501
+2016-02-02 11:19:27,970 - usps - INFO - diff:m:0.124262745427 s:0.0320038816976
+2016-02-02 11:19:27,971 - usps - INFO - hyp params
+2016-02-02 11:20:10,385 - usps - DEBUG - objective:-622.0276
+2016-02-02 11:20:52,995 - usps - DEBUG - objective:730.6053
+2016-02-02 11:21:36,869 - usps - DEBUG - objective:-626.4752
+2016-02-02 11:22:20,049 - usps - DEBUG - objective:-628.0837
+2016-02-02 11:23:04,514 - usps - DEBUG - objective:-630.2659
+2016-02-02 11:23:48,205 - usps - DEBUG - objective:-632.3325
+2016-02-02 11:24:30,209 - usps - DEBUG - objective:-632.6673
+2016-02-02 11:25:13,296 - usps - DEBUG - objective:-632.7507
+2016-02-02 11:25:56,114 - usps - DEBUG - objective:-632.7872
+2016-02-02 11:26:38,103 - usps - DEBUG - objective:-632.8028
+2016-02-02 11:27:20,237 - usps - DEBUG - objective:-632.8058
+2016-02-02 11:28:00,774 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:28:43,085 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:29:24,855 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:30:07,725 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:30:47,881 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:31:30,419 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:32:11,783 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:32:52,707 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:33:34,814 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:34:17,581 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:35:00,707 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:35:42,610 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:36:25,921 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:37:08,919 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:37:51,169 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:38:33,942 - usps - INFO - Iteration 6 started.
+2016-02-02 11:38:33,942 - usps - INFO - MoG params
+2016-02-02 11:38:47,508 - usps - DEBUG - objective:-632.8069
+2016-02-02 11:39:01,419 - usps - DEBUG - objective:-632.6074
+2016-02-02 11:39:15,553 - usps - DEBUG - objective:-633.4265
+2016-02-02 11:39:30,413 - usps - DEBUG - objective:-633.9883
+2016-02-02 11:39:44,782 - usps - DEBUG - objective:-634.4596
+2016-02-02 11:39:57,844 - usps - DEBUG - objective:-635.9171
+2016-02-02 11:40:11,296 - usps - DEBUG - objective:-636.8271
+2016-02-02 11:40:26,468 - usps - DEBUG - objective:-637.9236
+2016-02-02 11:40:39,937 - usps - DEBUG - objective:-638.3533
+2016-02-02 11:40:54,272 - usps - DEBUG - objective:-638.6462
+2016-02-02 11:41:08,550 - usps - DEBUG - objective:-639.0691
+2016-02-02 11:41:21,866 - usps - DEBUG - objective:-639.1107
+2016-02-02 11:41:35,821 - usps - DEBUG - objective:-639.2886
+2016-02-02 11:41:50,674 - usps - DEBUG - objective:-639.5614
+2016-02-02 11:42:03,865 - usps - DEBUG - objective:-639.7923
+2016-02-02 11:42:18,341 - usps - DEBUG - objective:-640.1785
+2016-02-02 11:42:33,075 - usps - DEBUG - objective:-640.5386
+2016-02-02 11:42:46,259 - usps - DEBUG - objective:-640.9552
+2016-02-02 11:43:00,833 - usps - DEBUG - objective:-641.2593
+2016-02-02 11:43:15,698 - usps - DEBUG - objective:-641.5205
+2016-02-02 11:43:28,161 - usps - DEBUG - objective:-641.6776
+2016-02-02 11:43:42,499 - usps - DEBUG - objective:-641.8192
+2016-02-02 11:43:56,510 - usps - DEBUG - objective:-642.0167
+2016-02-02 11:44:10,382 - usps - DEBUG - objective:-642.0581
+2016-02-02 11:44:24,185 - usps - DEBUG - objective:-642.1844
+2016-02-02 11:44:37,761 - usps - DEBUG - objective:-642.3632
+2016-02-02 11:44:37,771 - usps - INFO - Saving model...
+2016-02-02 11:44:42,108 - usps - INFO - Model saved.
+2016-02-02 11:44:42,119 - usps - DEBUG - ftol: 20.3356582793
+2016-02-02 11:44:42,121 - usps - INFO - diff:m:0.0949927528839 s:0.0270356041089
+2016-02-02 11:44:42,122 - usps - INFO - hyp params
+2016-02-02 11:45:22,667 - usps - DEBUG - objective:-642.3632
+2016-02-02 11:46:04,932 - usps - DEBUG - objective:610.5431
+2016-02-02 11:46:47,442 - usps - DEBUG - objective:-644.8419
+2016-02-02 11:47:28,081 - usps - DEBUG - objective:-645.6575
+2016-02-02 11:48:10,873 - usps - DEBUG - objective:-648.5493
+2016-02-02 11:48:51,307 - usps - DEBUG - objective:-649.1929
+2016-02-02 11:49:32,490 - usps - DEBUG - objective:-649.2966
+2016-02-02 11:50:15,906 - usps - DEBUG - objective:-649.3799
+2016-02-02 11:50:58,825 - usps - DEBUG - objective:-649.4357
+2016-02-02 11:51:44,400 - usps - DEBUG - objective:-649.4474
+2016-02-02 11:52:26,155 - usps - DEBUG - objective:-649.4468
+2016-02-02 11:53:08,818 - usps - DEBUG - objective:-649.4479
+2016-02-02 11:53:50,976 - usps - DEBUG - objective:-649.4476
+2016-02-02 11:54:33,273 - usps - DEBUG - objective:-649.4479
+2016-02-02 11:55:14,806 - usps - DEBUG - objective:-649.4477
+2016-02-02 11:55:56,500 - usps - DEBUG - objective:-649.4479
+2016-02-02 11:56:37,790 - usps - DEBUG - objective:-649.4477
+2016-02-02 11:57:21,694 - usps - DEBUG - objective:-649.4479
+2016-02-02 11:58:04,519 - usps - DEBUG - objective:-649.4477
+2016-02-02 11:58:43,985 - usps - DEBUG - objective:-649.4479
+2016-02-02 11:59:25,319 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:00:07,656 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:00:50,269 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:01:33,914 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:02:16,240 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:02:58,073 - usps - DEBUG - objective:-649.4477
+2016-02-02 12:03:40,696 - usps - INFO - Iteration 7 started.
+2016-02-02 12:03:40,697 - usps - INFO - MoG params
+2016-02-02 12:03:54,484 - usps - DEBUG - objective:-649.4479
+2016-02-02 12:04:09,180 - usps - DEBUG - objective:-646.2931
+2016-02-02 12:04:23,128 - usps - DEBUG - objective:-649.7022
+2016-02-02 12:04:36,644 - usps - DEBUG - objective:-649.9940
+2016-02-02 12:04:51,453 - usps - DEBUG - objective:-650.7154
+2016-02-02 12:05:04,564 - usps - DEBUG - objective:-651.4637
+2016-02-02 12:05:19,228 - usps - DEBUG - objective:-652.0106
+2016-02-02 12:05:32,592 - usps - DEBUG - objective:-652.7289
+2016-02-02 12:05:45,715 - usps - DEBUG - objective:-652.9572
+2016-02-02 12:05:59,879 - usps - DEBUG - objective:-653.3158
+2016-02-02 12:06:13,344 - usps - DEBUG - objective:-653.6961
+2016-02-02 12:06:27,563 - usps - DEBUG - objective:-653.8089
+2016-02-02 12:06:40,843 - usps - DEBUG - objective:-654.0251
+2016-02-02 12:06:53,493 - usps - DEBUG - objective:-654.1481
+2016-02-02 12:07:06,603 - usps - DEBUG - objective:-654.4409
+2016-02-02 12:07:19,519 - usps - DEBUG - objective:-654.9364
+2016-02-02 12:07:33,046 - usps - DEBUG - objective:-654.7903
+2016-02-02 12:07:46,761 - usps - DEBUG - objective:-655.2184
+2016-02-02 12:08:00,112 - usps - DEBUG - objective:-655.8212
+2016-02-02 12:08:13,939 - usps - DEBUG - objective:-656.1918
+2016-02-02 12:08:28,439 - usps - DEBUG - objective:-656.4977
+2016-02-02 12:08:41,773 - usps - DEBUG - objective:-656.7487
+2016-02-02 12:08:55,457 - usps - DEBUG - objective:-656.9678
+2016-02-02 12:09:09,452 - usps - DEBUG - objective:-657.1655
+2016-02-02 12:09:23,716 - usps - DEBUG - objective:-657.3778
+2016-02-02 12:09:38,072 - usps - DEBUG - objective:-657.4798
+2016-02-02 12:09:38,109 - usps - INFO - Saving model...
+2016-02-02 12:09:42,897 - usps - INFO - Model saved.
+2016-02-02 12:09:42,920 - usps - DEBUG - ftol: 15.1165878707
+2016-02-02 12:09:42,922 - usps - INFO - diff:m:0.113427211693 s:0.0233306777574
+2016-02-02 12:09:42,923 - usps - INFO - hyp params
+2016-02-02 12:10:25,823 - usps - DEBUG - objective:-657.4798
+2016-02-02 12:11:09,887 - usps - DEBUG - objective:152.9537
+2016-02-02 12:11:54,268 - usps - DEBUG - objective:-659.5697
+2016-02-02 12:12:38,153 - usps - DEBUG - objective:-660.3313
+2016-02-02 12:13:21,931 - usps - DEBUG - objective:-663.2582
+2016-02-02 12:14:06,633 - usps - DEBUG - objective:-661.7975
+2016-02-02 12:14:49,729 - usps - DEBUG - objective:-663.4669
+2016-02-02 12:15:33,958 - usps - DEBUG - objective:-663.5907
+2016-02-02 12:16:16,567 - usps - DEBUG - objective:-663.6324
+2016-02-02 12:16:57,589 - usps - DEBUG - objective:-663.6949
+2016-02-02 12:17:38,080 - usps - DEBUG - objective:-663.7574
+2016-02-02 12:18:18,736 - usps - DEBUG - objective:-663.7842
+2016-02-02 12:18:59,143 - usps - DEBUG - objective:-663.7840
+2016-02-02 12:19:40,312 - usps - DEBUG - objective:-663.7842
+2016-02-02 12:20:23,428 - usps - DEBUG - objective:-663.7841
+2016-02-02 12:21:04,642 - usps - DEBUG - objective:-663.7843
+2016-02-02 12:21:46,180 - usps - DEBUG - objective:-663.7842
+2016-02-02 12:22:28,317 - usps - DEBUG - objective:-663.7843
+2016-02-02 12:23:10,685 - usps - DEBUG - objective:-663.7842
+2016-02-02 12:23:54,269 - usps - DEBUG - objective:-663.7843
+2016-02-02 12:24:36,733 - usps - DEBUG - objective:-663.7841
+2016-02-02 12:25:18,793 - usps - DEBUG - objective:-663.7844
+2016-02-02 12:26:01,233 - usps - DEBUG - objective:-663.7842
+2016-02-02 12:26:45,698 - usps - DEBUG - objective:-663.7844
+2016-02-02 12:27:28,399 - usps - DEBUG - objective:-663.7844
+2016-02-02 12:28:13,026 - usps - DEBUG - objective:-663.7844
+2016-02-02 12:28:57,782 - usps - INFO - Iteration 8 started.
+2016-02-02 12:28:57,783 - usps - INFO - MoG params
+2016-02-02 12:29:13,021 - usps - DEBUG - objective:-663.7844
+2016-02-02 12:29:27,427 - usps - DEBUG - objective:-663.2225
+2016-02-02 12:29:40,507 - usps - DEBUG - objective:-664.2332
+2016-02-02 12:29:53,770 - usps - DEBUG - objective:-664.8067
+2016-02-02 12:30:07,798 - usps - DEBUG - objective:-665.7502
+2016-02-02 12:30:23,281 - usps - DEBUG - objective:-666.3037
+2016-02-02 12:30:37,234 - usps - DEBUG - objective:-666.7747
+2016-02-02 12:30:50,995 - usps - DEBUG - objective:-667.2994
+2016-02-02 12:31:04,696 - usps - DEBUG - objective:-667.5086
+2016-02-02 12:31:18,971 - usps - DEBUG - objective:-667.6979
+2016-02-02 12:31:32,623 - usps - DEBUG - objective:-667.8995
+2016-02-02 12:31:47,097 - usps - DEBUG - objective:-667.9686
+2016-02-02 12:31:59,560 - usps - DEBUG - objective:-668.2616
+2016-02-02 12:32:14,226 - usps - DEBUG - objective:-668.6567
+2016-02-02 12:32:27,991 - usps - DEBUG - objective:-669.0355
+2016-02-02 12:32:40,768 - usps - DEBUG - objective:-669.6844
+2016-02-02 12:32:55,237 - usps - DEBUG - objective:-670.0040
+2016-02-02 12:33:09,759 - usps - DEBUG - objective:-670.2791
+2016-02-02 12:33:22,940 - usps - DEBUG - objective:-670.5570
+2016-02-02 12:33:37,891 - usps - DEBUG - objective:-670.9093
+2016-02-02 12:33:51,559 - usps - DEBUG - objective:-671.3706
+2016-02-02 12:34:05,554 - usps - DEBUG - objective:-671.6496
+2016-02-02 12:34:19,698 - usps - DEBUG - objective:-671.9408
+2016-02-02 12:34:33,221 - usps - DEBUG - objective:-672.1288
+2016-02-02 12:34:46,859 - usps - DEBUG - objective:-672.2758
+2016-02-02 12:35:00,229 - usps - DEBUG - objective:-672.4241
+2016-02-02 12:35:00,246 - usps - INFO - Saving model...
+2016-02-02 12:35:04,582 - usps - INFO - Model saved.
+2016-02-02 12:35:04,590 - usps - DEBUG - ftol: 14.9442456862
+2016-02-02 12:35:04,593 - usps - INFO - diff:m:0.148786266814 s:0.0256362855904
+2016-02-02 12:35:04,594 - usps - INFO - hyp params
+2016-02-02 12:35:45,777 - usps - DEBUG - objective:-672.4241
+2016-02-02 12:36:28,659 - usps - DEBUG - objective:-194.5004
+2016-02-02 12:37:11,206 - usps - DEBUG - objective:-675.3311
+2016-02-02 12:37:53,595 - usps - DEBUG - objective:-676.5913
+2016-02-02 12:38:36,332 - usps - DEBUG - objective:-678.0748
+2016-02-02 12:39:17,853 - usps - DEBUG - objective:-679.9511
+2016-02-02 12:39:58,302 - usps - DEBUG - objective:-678.0388
+2016-02-02 12:40:39,521 - usps - DEBUG - objective:-680.2153
+2016-02-02 12:41:21,944 - usps - DEBUG - objective:-680.4545
+2016-02-02 12:42:03,609 - usps - DEBUG - objective:-680.4974
+2016-02-02 12:42:44,976 - usps - DEBUG - objective:-680.5510
+2016-02-02 12:43:27,933 - usps - DEBUG - objective:-680.6075
+2016-02-02 12:44:09,929 - usps - DEBUG - objective:-680.6437
+2016-02-02 12:44:54,792 - usps - DEBUG - objective:-680.6439
+2016-02-02 12:45:38,411 - usps - DEBUG - objective:-680.6439
+2016-02-02 12:46:19,766 - usps - DEBUG - objective:-680.6439
+2016-02-02 12:47:04,177 - usps - DEBUG - objective:-680.6439
+2016-02-02 12:47:47,304 - usps - DEBUG - objective:-680.6439
+2016-02-02 12:48:31,484 - usps - DEBUG - objective:-680.6441
+2016-02-02 12:49:14,758 - usps - DEBUG - objective:-680.6443
+2016-02-02 12:49:58,063 - usps - DEBUG - objective:-680.6446
+2016-02-02 12:50:40,774 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:51:23,919 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:52:07,219 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:52:48,982 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:53:30,804 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:54:12,555 - usps - INFO - Iteration 9 started.
+2016-02-02 12:54:12,555 - usps - INFO - MoG params
+2016-02-02 12:54:26,651 - usps - DEBUG - objective:-680.6447
+2016-02-02 12:54:41,354 - usps - DEBUG - objective:-680.8444
+2016-02-02 12:54:53,933 - usps - DEBUG - objective:-682.2066
+2016-02-02 12:55:07,493 - usps - DEBUG - objective:-682.6796
+2016-02-02 12:55:23,173 - usps - DEBUG - objective:-683.3416
+2016-02-02 12:55:36,303 - usps - DEBUG - objective:-684.2598
+2016-02-02 12:55:50,145 - usps - DEBUG - objective:-683.3826
+2016-02-02 12:56:04,302 - usps - DEBUG - objective:-684.5931
+2016-02-02 12:56:16,373 - usps - DEBUG - objective:-685.1285
+2016-02-02 12:56:29,216 - usps - DEBUG - objective:-685.3358
+2016-02-02 12:56:42,424 - usps - DEBUG - objective:-685.5303
+2016-02-02 12:56:56,082 - usps - DEBUG - objective:-685.6703
+2016-02-02 12:57:09,521 - usps - DEBUG - objective:-685.7924
+2016-02-02 12:57:22,881 - usps - DEBUG - objective:-685.8998
+2016-02-02 12:57:35,825 - usps - DEBUG - objective:-686.0411
+2016-02-02 12:57:49,709 - usps - DEBUG - objective:-686.2803
+2016-02-02 12:58:03,434 - usps - DEBUG - objective:-686.6202
+2016-02-02 12:58:18,095 - usps - DEBUG - objective:-687.0229
+2016-02-02 12:58:32,589 - usps - DEBUG - objective:-687.4667
+2016-02-02 12:58:46,603 - usps - DEBUG - objective:-687.7091
+2016-02-02 12:59:01,954 - usps - DEBUG - objective:-687.9710
+2016-02-02 12:59:16,533 - usps - DEBUG - objective:-688.3831
+2016-02-02 12:59:30,278 - usps - DEBUG - objective:-688.6649
+2016-02-02 12:59:43,597 - usps - DEBUG - objective:-689.1103
+2016-02-02 12:59:57,349 - usps - DEBUG - objective:-689.4507
+2016-02-02 13:00:11,105 - usps - DEBUG - objective:-689.7355
+2016-02-02 13:00:11,110 - usps - INFO - Saving model...
+2016-02-02 13:00:15,815 - usps - INFO - Model saved.
+2016-02-02 13:00:15,833 - usps - DEBUG - ftol: 17.3113800916
+2016-02-02 13:00:15,834 - usps - INFO - diff:m:0.14713624749 s:0.0306477830595
+2016-02-02 13:00:15,839 - usps - INFO - hyp params
+2016-02-02 13:00:59,048 - usps - DEBUG - objective:-689.7355
+2016-02-02 13:01:41,268 - usps - DEBUG - objective:-346.1911
+2016-02-02 13:02:23,442 - usps - DEBUG - objective:-693.3393
+2016-02-02 13:03:05,397 - usps - DEBUG - objective:-695.2717
+2016-02-02 13:03:47,085 - usps - DEBUG - objective:-696.1356
+2016-02-02 13:04:30,582 - usps - DEBUG - objective:-698.2639
+2016-02-02 13:05:13,428 - usps - DEBUG - objective:-697.7337
+2016-02-02 13:05:56,340 - usps - DEBUG - objective:-698.7539
+2016-02-02 13:06:39,262 - usps - DEBUG - objective:-698.9879
+2016-02-02 13:07:22,509 - usps - DEBUG - objective:-699.0295
+2016-02-02 13:08:06,773 - usps - DEBUG - objective:-699.0490
+2016-02-02 13:08:49,269 - usps - DEBUG - objective:-699.1018
+2016-02-02 13:09:31,424 - usps - DEBUG - objective:-699.1196
+2016-02-02 13:10:14,226 - usps - DEBUG - objective:-699.1212
+2016-02-02 13:10:57,216 - usps - DEBUG - objective:-699.1214
+2016-02-02 13:11:40,045 - usps - DEBUG - objective:-699.1218
+2016-02-02 13:12:21,524 - usps - DEBUG - objective:-699.1211
+2016-02-02 13:13:05,296 - usps - DEBUG - objective:-699.1218
+2016-02-02 13:13:47,067 - usps - DEBUG - objective:-699.1218
+2016-02-02 13:14:29,219 - usps - DEBUG - objective:-699.1218
+2016-02-02 13:15:11,619 - usps - DEBUG - objective:-699.1220
+2016-02-02 13:15:54,660 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:16:36,818 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:17:19,012 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:17:59,425 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:18:42,830 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:19:27,001 - usps - INFO - Iteration 10 started.
+2016-02-02 13:19:27,002 - usps - INFO - MoG params
+2016-02-02 13:19:40,675 - usps - DEBUG - objective:-699.1221
+2016-02-02 13:19:54,941 - usps - DEBUG - objective:-698.7479
+2016-02-02 13:20:09,174 - usps - DEBUG - objective:-699.7592
+2016-02-02 13:20:22,637 - usps - DEBUG - objective:-700.5982
+2016-02-02 13:20:36,585 - usps - DEBUG - objective:-702.6163
+2016-02-02 13:20:50,693 - usps - DEBUG - objective:-702.9078
+2016-02-02 13:21:05,858 - usps - DEBUG - objective:-703.6774
+2016-02-02 13:21:19,667 - usps - DEBUG - objective:-703.9575
+2016-02-02 13:21:34,558 - usps - DEBUG - objective:-704.3101
+2016-02-02 13:21:49,099 - usps - DEBUG - objective:-704.5876
+2016-02-02 13:22:02,213 - usps - DEBUG - objective:-704.4761
+2016-02-02 13:22:16,635 - usps - DEBUG - objective:-704.7162
+2016-02-02 13:22:31,244 - usps - DEBUG - objective:-704.8627
+2016-02-02 13:22:45,834 - usps - DEBUG - objective:-704.9506
+2016-02-02 13:23:00,235 - usps - DEBUG - objective:-705.1742
+2016-02-02 13:23:14,592 - usps - DEBUG - objective:-705.4072
+2016-02-02 13:23:27,868 - usps - DEBUG - objective:-705.7089
+2016-02-02 13:23:41,840 - usps - DEBUG - objective:-705.9803
+2016-02-02 13:23:54,521 - usps - DEBUG - objective:-706.3104
+2016-02-02 13:24:08,694 - usps - DEBUG - objective:-706.5771
+2016-02-02 13:24:21,641 - usps - DEBUG - objective:-706.9578
+2016-02-02 13:24:35,131 - usps - DEBUG - objective:-707.3352
+2016-02-02 13:24:48,178 - usps - DEBUG - objective:-707.7380
+2016-02-02 13:25:01,994 - usps - DEBUG - objective:-708.1456
+2016-02-02 13:25:15,370 - usps - DEBUG - objective:-708.5920
+2016-02-02 13:25:28,870 - usps - DEBUG - objective:-708.7901
+2016-02-02 13:25:28,886 - usps - INFO - Saving model...
+2016-02-02 13:25:32,895 - usps - INFO - Model saved.
+2016-02-02 13:25:32,897 - usps - DEBUG - ftol: 19.0546175359
+2016-02-02 13:25:32,899 - usps - INFO - diff:m:0.145239873627 s:0.0297828975204
+2016-02-02 13:25:32,900 - usps - INFO - hyp params
+2016-02-02 13:26:13,869 - usps - DEBUG - objective:-708.7901
+2016-02-02 13:26:56,071 - usps - DEBUG - objective:-395.7515
+2016-02-02 13:27:38,033 - usps - DEBUG - objective:-712.0680
+2016-02-02 13:28:19,822 - usps - DEBUG - objective:-715.3259
+2016-02-02 13:29:00,787 - usps - DEBUG - objective:-716.6692
+2016-02-02 13:29:43,902 - usps - DEBUG - objective:-717.3683
+2016-02-02 13:30:25,595 - usps - DEBUG - objective:-717.9170
+2016-02-02 13:31:08,051 - usps - DEBUG - objective:-718.1504
+2016-02-02 13:31:51,149 - usps - DEBUG - objective:-718.1984
+2016-02-02 13:32:33,990 - usps - DEBUG - objective:-718.2167
+2016-02-02 13:33:15,743 - usps - DEBUG - objective:-718.2530
+2016-02-02 13:33:58,337 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:34:39,740 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:35:21,487 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:36:06,311 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:36:49,893 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:37:34,271 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:38:16,605 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:39:00,905 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:39:44,619 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:40:27,113 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:40:27,114 - usps - INFO - Iteration 11 started.
+2016-02-02 13:40:27,114 - usps - INFO - MoG params
+2016-02-02 13:40:41,414 - usps - DEBUG - objective:-718.2544
+2016-02-02 13:40:55,624 - usps - DEBUG - objective:-709.9100
+2016-02-02 13:41:08,573 - usps - DEBUG - objective:-718.8888
+2016-02-02 13:41:22,413 - usps - DEBUG - objective:-719.1670
+2016-02-02 13:41:36,495 - usps - DEBUG - objective:-721.9904
+2016-02-02 13:41:50,343 - usps - DEBUG - objective:-723.0979
+2016-02-02 13:42:04,614 - usps - DEBUG - objective:-723.8931
+2016-02-02 13:42:19,468 - usps - DEBUG - objective:-724.2371
+2016-02-02 13:42:31,999 - usps - DEBUG - objective:-724.8468
+2016-02-02 13:42:46,272 - usps - DEBUG - objective:-724.9389
+2016-02-02 13:43:00,132 - usps - DEBUG - objective:-725.1364
+2016-02-02 13:43:14,909 - usps - DEBUG - objective:-725.2106
+2016-02-02 13:43:29,001 - usps - DEBUG - objective:-725.3634
+2016-02-02 13:43:43,786 - usps - DEBUG - objective:-725.5112
+2016-02-02 13:43:57,331 - usps - DEBUG - objective:-725.8477
+2016-02-02 13:44:11,061 - usps - DEBUG - objective:-725.5668
+2016-02-02 13:44:24,920 - usps - DEBUG - objective:-725.9913
+2016-02-02 13:44:38,181 - usps - DEBUG - objective:-726.1753
+2016-02-02 13:44:51,469 - usps - DEBUG - objective:-726.3316
+2016-02-02 13:45:04,304 - usps - DEBUG - objective:-726.5018
+2016-02-02 13:45:19,154 - usps - DEBUG - objective:-726.7995
+2016-02-02 13:45:32,912 - usps - DEBUG - objective:-726.4325
+2016-02-02 13:45:46,852 - usps - DEBUG - objective:-727.0574
+2016-02-02 13:46:00,765 - usps - DEBUG - objective:-727.5604
+2016-02-02 13:46:14,799 - usps - DEBUG - objective:-727.8799
+2016-02-02 13:46:28,587 - usps - DEBUG - objective:-728.3200
+2016-02-02 13:46:28,590 - usps - INFO - Saving model...
+2016-02-02 13:46:32,126 - usps - INFO - Model saved.
+2016-02-02 13:46:32,128 - usps - DEBUG - ftol: 19.5298771982
+2016-02-02 13:46:32,131 - usps - INFO - diff:m:0.110289072417 s:0.0337279707871
+2016-02-02 13:46:32,132 - usps - INFO - hyp params
+2016-02-02 13:47:13,169 - usps - DEBUG - objective:-728.3200
+2016-02-02 13:47:57,930 - usps - DEBUG - objective:-573.0686
+2016-02-02 13:48:39,781 - usps - DEBUG - objective:-731.7364
+2016-02-02 13:49:21,694 - usps - DEBUG - objective:-735.7227
+2016-02-02 13:50:03,077 - usps - DEBUG - objective:-736.7542
+2016-02-02 13:50:45,227 - usps - DEBUG - objective:-736.8613
+2016-02-02 13:51:29,498 - usps - DEBUG - objective:-736.8517
+2016-02-02 13:52:15,270 - usps - DEBUG - objective:-736.8936
+2016-02-02 13:53:00,519 - usps - DEBUG - objective:-736.8959
+2016-02-02 13:53:46,161 - usps - DEBUG - objective:-736.8995
+2016-02-02 13:54:29,767 - usps - DEBUG - objective:-736.9063
+2016-02-02 13:55:15,384 - usps - DEBUG - objective:-736.9111
+2016-02-02 13:56:02,040 - usps - DEBUG - objective:-736.9121
+2016-02-02 13:56:48,729 - usps - DEBUG - objective:-736.9123
+2016-02-02 13:57:34,324 - usps - DEBUG - objective:-736.9123
+2016-02-02 13:58:20,226 - usps - DEBUG - objective:-736.9122
+2016-02-02 13:59:07,388 - usps - DEBUG - objective:-736.9123
+2016-02-02 13:59:52,841 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:00:37,642 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:01:21,481 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:02:05,418 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:02:51,534 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:03:37,110 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:03:37,111 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:04:22,096 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:05:05,797 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:05:50,649 - usps - INFO - Iteration 12 started.
+2016-02-02 14:05:50,650 - usps - INFO - MoG params
+2016-02-02 14:06:04,969 - usps - DEBUG - objective:-736.9123
+2016-02-02 14:06:20,006 - usps - DEBUG - objective:-734.2392
+2016-02-02 14:06:34,601 - usps - DEBUG - objective:-737.3388
+2016-02-02 14:06:49,773 - usps - DEBUG - objective:-737.8366
+2016-02-02 14:07:03,542 - usps - DEBUG - objective:-739.6154
+2016-02-02 14:07:17,983 - usps - DEBUG - objective:-739.8034
+2016-02-02 14:07:32,534 - usps - DEBUG - objective:-740.4691
+2016-02-02 14:07:46,488 - usps - DEBUG - objective:-740.7235
+2016-02-02 14:08:00,580 - usps - DEBUG - objective:-741.0046
+2016-02-02 14:08:14,574 - usps - DEBUG - objective:-741.2102
+2016-02-02 14:08:29,559 - usps - DEBUG - objective:-741.3183
+2016-02-02 14:08:43,912 - usps - DEBUG - objective:-741.4715
+2016-02-02 14:08:57,853 - usps - DEBUG - objective:-741.5244
+2016-02-02 14:09:14,037 - usps - DEBUG - objective:-741.6656
+2016-02-02 14:09:29,307 - usps - DEBUG - objective:-741.6629
+2016-02-02 14:09:44,417 - usps - DEBUG - objective:-741.7254
+2016-02-02 14:09:58,715 - usps - DEBUG - objective:-741.7894
+2016-02-02 14:10:13,611 - usps - DEBUG - objective:-741.8434
+2016-02-02 14:10:26,654 - usps - DEBUG - objective:-741.8961
+2016-02-02 14:10:40,269 - usps - DEBUG - objective:-741.9510
+2016-02-02 14:10:55,375 - usps - DEBUG - objective:-742.1210
+2016-02-02 14:11:11,853 - usps - DEBUG - objective:-742.3422
+2016-02-02 14:11:26,310 - usps - DEBUG - objective:-742.5794
+2016-02-02 14:11:40,269 - usps - DEBUG - objective:-742.8492
+2016-02-02 14:11:53,729 - usps - DEBUG - objective:-743.0376
+2016-02-02 14:12:06,887 - usps - DEBUG - objective:-743.2099
+2016-02-02 14:12:06,904 - usps - INFO - Saving model...
+2016-02-02 14:12:12,033 - usps - INFO - Model saved.
+2016-02-02 14:12:12,036 - usps - DEBUG - ftol: 14.8899625926
+2016-02-02 14:12:12,039 - usps - INFO - diff:m:0.0760747159308 s:0.0260210587993
+2016-02-02 14:12:12,040 - usps - INFO - hyp params
+2016-02-02 14:12:55,982 - usps - DEBUG - objective:-743.2099
+2016-02-02 14:13:40,311 - usps - DEBUG - objective:-289.9794
+2016-02-02 14:14:27,534 - usps - DEBUG - objective:-743.6282
+2016-02-02 14:15:11,001 - usps - DEBUG - objective:-744.1450
+2016-02-02 14:15:56,002 - usps - DEBUG - objective:-744.6567
+2016-02-02 14:16:38,863 - usps - DEBUG - objective:-744.9298
+2016-02-02 14:17:21,681 - usps - DEBUG - objective:-745.0057
+2016-02-02 14:18:04,459 - usps - DEBUG - objective:-745.0933
+2016-02-02 14:18:48,393 - usps - DEBUG - objective:-745.2814
+2016-02-02 14:19:30,846 - usps - DEBUG - objective:-745.4187
+2016-02-02 14:20:14,127 - usps - DEBUG - objective:-745.5843
+2016-02-02 14:20:58,878 - usps - DEBUG - objective:-745.6890
+2016-02-02 14:21:43,013 - usps - DEBUG - objective:-745.7172
+2016-02-02 14:22:27,645 - usps - DEBUG - objective:-745.7297
+2016-02-02 14:23:11,545 - usps - DEBUG - objective:-745.7383
+2016-02-02 14:23:55,055 - usps - DEBUG - objective:-745.7403
+2016-02-02 14:24:37,551 - usps - DEBUG - objective:-745.7416
+2016-02-02 14:25:20,138 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:26:03,446 - usps - DEBUG - objective:-745.7416
+2016-02-02 14:26:45,180 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:27:28,730 - usps - DEBUG - objective:-745.7417
+2016-02-02 14:28:13,270 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:28:58,581 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:29:43,487 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:30:27,169 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:31:10,386 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:31:53,271 - usps - INFO - Iteration 13 started.
+2016-02-02 14:31:53,271 - usps - INFO - MoG params
+2016-02-02 14:32:08,273 - usps - DEBUG - objective:-745.7418
+2016-02-02 14:32:21,722 - usps - DEBUG - objective:-742.9465
+2016-02-02 14:32:35,460 - usps - DEBUG - objective:-745.9468
+2016-02-02 14:32:49,857 - usps - DEBUG - objective:-746.1823
+2016-02-02 14:33:04,429 - usps - DEBUG - objective:-746.6975
+2016-02-02 14:33:19,748 - usps - DEBUG - objective:-746.8719
+2016-02-02 14:33:32,751 - usps - DEBUG - objective:-747.0032
+2016-02-02 14:33:46,820 - usps - DEBUG - objective:-747.0769
+2016-02-02 14:34:00,695 - usps - DEBUG - objective:-747.1118
+2016-02-02 14:34:14,540 - usps - DEBUG - objective:-747.1698
+2016-02-02 14:34:28,056 - usps - DEBUG - objective:-747.2326
+2016-02-02 14:34:43,301 - usps - DEBUG - objective:-747.2559
+2016-02-02 14:34:56,531 - usps - DEBUG - objective:-747.3110
+2016-02-02 14:35:10,481 - usps - DEBUG - objective:-747.3605
+2016-02-02 14:35:24,048 - usps - DEBUG - objective:-747.3701
+2016-02-02 14:35:38,296 - usps - DEBUG - objective:-747.3902
+2016-02-02 14:35:51,158 - usps - DEBUG - objective:-747.4252
+2016-02-02 14:36:04,612 - usps - DEBUG - objective:-747.4493
+2016-02-02 14:36:17,905 - usps - DEBUG - objective:-747.4787
+2016-02-02 14:36:31,741 - usps - DEBUG - objective:-747.5297
+2016-02-02 14:36:46,795 - usps - DEBUG - objective:-747.6178
+2016-02-02 14:36:59,763 - usps - DEBUG - objective:-747.7122
+2016-02-02 14:37:13,242 - usps - DEBUG - objective:-747.8850
+2016-02-02 14:37:26,557 - usps - DEBUG - objective:-747.9909
+2016-02-02 14:37:40,493 - usps - DEBUG - objective:-748.1334
+2016-02-02 14:37:55,249 - usps - DEBUG - objective:-748.2314
+2016-02-02 14:37:55,253 - usps - INFO - Saving model...
+2016-02-02 14:37:59,724 - usps - INFO - Model saved.
+2016-02-02 14:37:59,729 - usps - DEBUG - ftol: 5.02152235897
+2016-02-02 14:37:59,730 - usps - INFO - diff:m:0.0574731537643 s:0.015650690642
+2016-02-02 14:37:59,734 - usps - INFO - hyp params
+2016-02-02 14:38:43,297 - usps - DEBUG - objective:-748.2314
+2016-02-02 14:39:27,593 - usps - DEBUG - objective:-280.4535
+2016-02-02 14:40:10,414 - usps - DEBUG - objective:-748.4661
+2016-02-02 14:40:52,972 - usps - DEBUG - objective:-748.7168
+2016-02-02 14:41:35,444 - usps - DEBUG - objective:-749.1483
+2016-02-02 14:42:16,709 - usps - DEBUG - objective:-749.1151
+2016-02-02 14:42:59,110 - usps - DEBUG - objective:-749.1698
+2016-02-02 14:43:42,001 - usps - DEBUG - objective:-749.1850
+2016-02-02 14:44:25,694 - usps - DEBUG - objective:-749.2479
+2016-02-02 14:45:09,852 - usps - DEBUG - objective:-749.2814
+2016-02-02 14:45:54,015 - usps - DEBUG - objective:-749.2990
+2016-02-02 14:46:38,930 - usps - DEBUG - objective:-749.3023
+2016-02-02 14:47:25,237 - usps - DEBUG - objective:-749.3057
+2016-02-02 14:48:11,646 - usps - DEBUG - objective:-749.3141
+2016-02-02 14:48:56,508 - usps - DEBUG - objective:-749.3262
+2016-02-02 14:49:40,341 - usps - DEBUG - objective:-749.3565
+2016-02-02 14:50:26,160 - usps - DEBUG - objective:-749.4370
+2016-02-02 14:51:12,412 - usps - DEBUG - objective:-749.3949
+2016-02-02 14:52:00,126 - usps - DEBUG - objective:-749.4636
+2016-02-02 14:52:47,834 - usps - DEBUG - objective:-749.5194
+2016-02-02 14:53:41,979 - usps - DEBUG - objective:-749.5426
+2016-02-02 14:54:36,031 - usps - DEBUG - objective:-749.5486
+2016-02-02 14:55:28,666 - usps - DEBUG - objective:-749.5511
+2016-02-02 14:56:26,037 - usps - DEBUG - objective:-749.5489
+2016-02-02 14:57:20,498 - usps - DEBUG - objective:-749.5513
+2016-02-02 14:58:15,816 - usps - DEBUG - objective:-749.5520
+2016-02-02 14:58:15,817 - usps - INFO - Iteration 14 started.
+2016-02-02 14:58:15,817 - usps - INFO - MoG params
+2016-02-02 14:58:32,429 - usps - DEBUG - objective:-749.5520
+2016-02-02 14:58:48,356 - usps - DEBUG - objective:-747.3879
+2016-02-02 14:59:06,109 - usps - DEBUG - objective:-749.6792
+2016-02-02 14:59:21,896 - usps - DEBUG - objective:-749.8316
+2016-02-02 14:59:38,545 - usps - DEBUG - objective:-750.0271
+2016-02-02 14:59:55,046 - usps - DEBUG - objective:-750.1208
+2016-02-02 15:00:11,057 - usps - DEBUG - objective:-750.2146
+2016-02-02 15:00:28,425 - usps - DEBUG - objective:-750.3322
+2016-02-02 15:00:44,223 - usps - DEBUG - objective:-750.3780
+2016-02-02 15:01:01,023 - usps - DEBUG - objective:-750.4481
+2016-02-02 15:01:17,123 - usps - DEBUG - objective:-750.4740
+2016-02-02 15:01:33,925 - usps - DEBUG - objective:-750.4954
+2016-02-02 15:01:51,120 - usps - DEBUG - objective:-750.5184
+2016-02-02 15:02:08,143 - usps - DEBUG - objective:-750.5341
+2016-02-02 15:02:23,918 - usps - DEBUG - objective:-750.5627
+2016-02-02 15:02:39,782 - usps - DEBUG - objective:-750.5615
+2016-02-02 15:02:56,528 - usps - DEBUG - objective:-750.5789
+2016-02-02 15:03:13,618 - usps - DEBUG - objective:-750.5989
+2016-02-02 15:03:29,580 - usps - DEBUG - objective:-750.6240
+2016-02-02 15:03:46,271 - usps - DEBUG - objective:-750.6657
+2016-02-02 15:04:02,247 - usps - DEBUG - objective:-750.7316
+2016-02-02 15:04:18,381 - usps - DEBUG - objective:-750.8073
+2016-02-02 15:04:34,809 - usps - DEBUG - objective:-750.8939
+2016-02-02 15:04:50,937 - usps - DEBUG - objective:-750.9631
+2016-02-02 15:05:08,602 - usps - DEBUG - objective:-751.0475
+2016-02-02 15:05:25,531 - usps - DEBUG - objective:-751.1605
+2016-02-02 15:05:25,590 - usps - INFO - Saving model...
+2016-02-02 15:05:30,270 - usps - INFO - Model saved.
+2016-02-02 15:05:30,273 - usps - DEBUG - ftol: 2.92906979813
+2016-02-02 15:05:30,275 - usps - INFO - diff:m:0.0531006227633 s:0.0122588241039
+2016-02-02 15:05:30,276 - usps - INFO - hyp params
+2016-02-02 15:06:25,576 - usps - DEBUG - objective:-751.1605
+2016-02-02 15:07:22,380 - usps - DEBUG - objective:-238.9276
+2016-02-02 15:08:21,010 - usps - DEBUG - objective:-751.2654
+2016-02-02 15:09:18,159 - usps - DEBUG - objective:-751.3682
+2016-02-02 15:10:14,279 - usps - DEBUG - objective:-751.6047
+2016-02-02 15:11:11,028 - usps - DEBUG - objective:-751.6767
+2016-02-02 15:12:08,191 - usps - DEBUG - objective:-751.6869
+2016-02-02 15:13:04,524 - usps - DEBUG - objective:-751.7027
+2016-02-02 15:14:00,520 - usps - DEBUG - objective:-751.7313
+2016-02-02 15:14:56,802 - usps - DEBUG - objective:-751.7484
+2016-02-02 15:15:52,945 - usps - DEBUG - objective:-751.7536
+2016-02-02 15:16:50,050 - usps - DEBUG - objective:-751.7542
+2016-02-02 15:17:45,041 - usps - DEBUG - objective:-751.7547
+2016-02-02 15:17:45,042 - usps - DEBUG - objective:-751.7547
+2016-02-02 15:18:26,174 - usps - DEBUG - objective:252747.6774
+2016-02-02 15:19:06,253 - usps - DEBUG - objective:245525.0065
+2016-02-02 15:19:47,261 - usps - DEBUG - objective:2941.7232
+2016-02-02 15:20:29,762 - usps - DEBUG - objective:-749.7693
+2016-02-02 15:21:15,932 - usps - DEBUG - objective:-751.5211
+2016-02-02 15:22:10,245 - usps - DEBUG - objective:-751.6999
+2016-02-02 15:23:06,266 - usps - DEBUG - objective:-751.7385
+2016-02-02 15:24:03,375 - usps - DEBUG - objective:-751.7495
+2016-02-02 15:24:59,436 - usps - DEBUG - objective:-751.7530
+2016-02-02 15:25:59,043 - usps - DEBUG - objective:-751.7541
+2016-02-02 15:26:56,872 - usps - DEBUG - objective:-751.7545
+2016-02-02 15:27:52,848 - usps - DEBUG - objective:-751.7546
+2016-02-02 15:28:47,914 - usps - INFO - Iteration 15 started.
+2016-02-02 15:28:47,915 - usps - INFO - MoG params
+2016-02-02 15:29:05,141 - usps - DEBUG - objective:-751.7547
+2016-02-02 15:29:20,885 - usps - DEBUG - objective:-743.3582
+2016-02-02 15:29:37,014 - usps - DEBUG - objective:-751.8120
+2016-02-02 15:29:52,912 - usps - DEBUG - objective:-751.8616
+2016-02-02 15:30:10,178 - usps - DEBUG - objective:-752.0521
+2016-02-02 15:30:26,637 - usps - DEBUG - objective:-752.1003
+2016-02-02 15:30:42,895 - usps - DEBUG - objective:-752.1783
+2016-02-02 15:30:58,682 - usps - DEBUG - objective:-752.2561
+2016-02-02 15:31:15,590 - usps - DEBUG - objective:-752.3169
+2016-02-02 15:31:32,895 - usps - DEBUG - objective:-752.3760
+2016-02-02 15:31:49,478 - usps - DEBUG - objective:-752.3202
+2016-02-02 15:32:05,638 - usps - DEBUG - objective:-752.3891
+2016-02-02 15:32:23,182 - usps - DEBUG - objective:-752.4056
+2016-02-02 15:32:39,710 - usps - DEBUG - objective:-752.4114
+2016-02-02 15:32:55,294 - usps - DEBUG - objective:-752.4202
+2016-02-02 15:33:12,081 - usps - DEBUG - objective:-752.4289
+2016-02-02 15:33:28,746 - usps - DEBUG - objective:-752.4429
+2016-02-02 15:33:46,607 - usps - DEBUG - objective:-752.4547
+2016-02-02 15:34:03,414 - usps - DEBUG - objective:-752.4733
+2016-02-02 15:34:20,024 - usps - DEBUG - objective:-752.4891
+2016-02-02 15:34:35,126 - usps - DEBUG - objective:-752.5080
+2016-02-02 15:34:51,033 - usps - DEBUG - objective:-752.5525
+2016-02-02 15:35:07,355 - usps - DEBUG - objective:-752.6045
+2016-02-02 15:35:23,412 - usps - DEBUG - objective:-752.6738
+2016-02-02 15:35:40,457 - usps - DEBUG - objective:-752.7097
+2016-02-02 15:35:56,346 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:35:56,393 - usps - INFO - Saving model...
+2016-02-02 15:36:01,903 - usps - INFO - Model saved.
+2016-02-02 15:36:01,904 - usps - DEBUG - ftol: 1.59972516355
+2016-02-02 15:36:01,904 - usps - INFO - diff:m:0.0333898865509 s:0.0147787834491
+2016-02-02 15:36:01,904 - usps - INFO - hyp params
+2016-02-02 15:36:56,963 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:37:39,456 - usps - DEBUG - objective:-750.5202
+2016-02-02 15:38:26,891 - usps - DEBUG - objective:-752.5775
+2016-02-02 15:39:20,564 - usps - DEBUG - objective:-752.7209
+2016-02-02 15:40:16,449 - usps - DEBUG - objective:-752.7489
+2016-02-02 15:41:15,004 - usps - DEBUG - objective:-752.7566
+2016-02-02 15:42:12,288 - usps - DEBUG - objective:-752.7591
+2016-02-02 15:43:07,813 - usps - DEBUG - objective:-752.7598
+2016-02-02 15:44:03,916 - usps - DEBUG - objective:-752.7601
+2016-02-02 15:45:00,126 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:45:56,733 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:46:53,189 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:47:49,253 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:48:43,922 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:49:40,924 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:50:36,837 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:51:34,540 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:52:30,911 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:53:26,915 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:54:23,191 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:55:20,598 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:56:18,195 - usps - INFO - Iteration 16 started.
+2016-02-02 15:56:18,195 - usps - INFO - MoG params
+2016-02-02 15:56:35,607 - usps - DEBUG - objective:-752.7602
+2016-02-02 15:56:52,734 - usps - DEBUG - objective:-746.4438
+2016-02-02 15:57:09,910 - usps - DEBUG - objective:-752.7747
+2016-02-02 15:57:25,875 - usps - DEBUG - objective:-752.7878
+2016-02-02 15:57:42,324 - usps - DEBUG - objective:-752.8196
+2016-02-02 15:57:58,377 - usps - DEBUG - objective:-752.8315
+2016-02-02 15:58:15,995 - usps - DEBUG - objective:-752.8427
+2016-02-02 15:58:33,333 - usps - DEBUG - objective:-752.8593
+2016-02-02 15:58:49,854 - usps - DEBUG - objective:-752.8727
+2016-02-02 15:59:05,877 - usps - DEBUG - objective:-752.8913
+2016-02-02 15:59:23,217 - usps - DEBUG - objective:-752.8938
+2016-02-02 15:59:39,395 - usps - DEBUG - objective:-752.9034
+2016-02-02 15:59:57,394 - usps - DEBUG - objective:-752.9194
+2016-02-02 16:00:14,272 - usps - DEBUG - objective:-752.9295
+2016-02-02 16:00:31,193 - usps - DEBUG - objective:-752.9419
+2016-02-02 16:00:48,840 - usps - DEBUG - objective:-752.9547
+2016-02-02 16:01:06,014 - usps - DEBUG - objective:-752.9709
+2016-02-02 16:01:22,402 - usps - DEBUG - objective:-752.9866
+2016-02-02 16:01:38,819 - usps - DEBUG - objective:-752.9994
+2016-02-02 16:01:55,449 - usps - DEBUG - objective:-753.0184
+2016-02-02 16:02:11,846 - usps - DEBUG - objective:-753.0183
+2016-02-02 16:02:26,931 - usps - DEBUG - objective:-753.0283
+2016-02-02 16:02:42,696 - usps - DEBUG - objective:-753.0406
+2016-02-02 16:02:58,486 - usps - DEBUG - objective:-753.0559
+2016-02-02 16:03:14,160 - usps - DEBUG - objective:-753.0677
+2016-02-02 16:03:30,522 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:03:30,526 - usps - INFO - Saving model...
+2016-02-02 16:03:34,557 - usps - INFO - Model saved.
+2016-02-02 16:03:34,557 - usps - DEBUG - ftol: 0.313421335122
+2016-02-02 16:03:34,558 - usps - INFO - diff:m:0.0192025575579 s:0.00349934059307
+2016-02-02 16:03:34,559 - usps - INFO - hyp params
+2016-02-02 16:04:27,770 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:05:10,086 - usps - DEBUG - objective:-750.9022
+2016-02-02 16:05:56,415 - usps - DEBUG - objective:-752.9017
+2016-02-02 16:06:50,346 - usps - DEBUG - objective:-753.0368
+2016-02-02 16:07:46,770 - usps - DEBUG - objective:-753.0631
+2016-02-02 16:08:41,275 - usps - DEBUG - objective:-753.0703
+2016-02-02 16:09:38,360 - usps - DEBUG - objective:-753.0726
+2016-02-02 16:10:37,534 - usps - DEBUG - objective:-753.0733
+2016-02-02 16:11:35,629 - usps - DEBUG - objective:-753.0735
+2016-02-02 16:12:34,208 - usps - DEBUG - objective:-753.0736
+2016-02-02 16:13:30,551 - usps - DEBUG - objective:-753.0736
+2016-02-02 16:14:27,659 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:15:25,915 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:16:21,366 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:17:15,614 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:18:12,475 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:19:11,387 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:20:08,300 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:21:03,543 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:21:58,450 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:22:54,809 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:23:47,519 - usps - INFO - Iteration 17 started.
+2016-02-02 16:23:47,520 - usps - INFO - MoG params
+2016-02-02 16:24:04,487 - usps - DEBUG - objective:-753.0737
+2016-02-02 16:24:19,750 - usps - DEBUG - objective:-746.9554
+2016-02-02 16:24:35,138 - usps - DEBUG - objective:-753.0780
+2016-02-02 16:24:49,999 - usps - DEBUG - objective:-753.0836
+2016-02-02 16:25:06,441 - usps - DEBUG - objective:-753.1036
+2016-02-02 16:25:23,688 - usps - DEBUG - objective:-753.1076
+2016-02-02 16:25:40,312 - usps - DEBUG - objective:-753.1150
+2016-02-02 16:25:57,207 - usps - DEBUG - objective:-753.1204
+2016-02-02 16:26:14,725 - usps - DEBUG - objective:-753.1298
+2016-02-02 16:26:31,011 - usps - DEBUG - objective:-753.1387
+2016-02-02 16:26:47,399 - usps - DEBUG - objective:-753.1562
+2016-02-02 16:27:04,282 - usps - DEBUG - objective:-753.1634
+2016-02-02 16:27:21,507 - usps - DEBUG - objective:-753.1790
+2016-02-02 16:27:37,736 - usps - DEBUG - objective:-753.1844
+2016-02-02 16:27:54,346 - usps - DEBUG - objective:-753.1928
+2016-02-02 16:28:09,380 - usps - DEBUG - objective:-753.2065
+2016-02-02 16:28:24,461 - usps - DEBUG - objective:-753.2216
+2016-02-02 16:28:40,440 - usps - DEBUG - objective:-753.2319
+2016-02-02 16:28:56,290 - usps - DEBUG - objective:-753.2408
+2016-02-02 16:29:12,058 - usps - DEBUG - objective:-753.2491
+2016-02-02 16:29:29,203 - usps - DEBUG - objective:-753.2633
+2016-02-02 16:29:45,605 - usps - DEBUG - objective:-753.2788
+2016-02-02 16:30:02,289 - usps - DEBUG - objective:-753.2896
+2016-02-02 16:30:18,175 - usps - DEBUG - objective:-753.3019
+2016-02-02 16:30:34,793 - usps - DEBUG - objective:-753.3284
+2016-02-02 16:30:52,796 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:30:52,827 - usps - INFO - Saving model...
+2016-02-02 16:30:56,831 - usps - INFO - Model saved.
+2016-02-02 16:30:56,832 - usps - DEBUG - ftol: 0.291487926635
+2016-02-02 16:30:56,833 - usps - INFO - diff:m:0.0242513931077 s:0.00082998400679
+2016-02-02 16:30:56,834 - usps - INFO - hyp params
+2016-02-02 16:31:53,755 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:32:37,299 - usps - DEBUG - objective:-751.2015
+2016-02-02 16:33:24,321 - usps - DEBUG - objective:-753.1936
+2016-02-02 16:34:19,171 - usps - DEBUG - objective:-753.3283
+2016-02-02 16:35:16,075 - usps - DEBUG - objective:-753.3546
+2016-02-02 16:36:12,810 - usps - DEBUG - objective:-753.3618
+2016-02-02 16:37:10,113 - usps - DEBUG - objective:-753.3640
+2016-02-02 16:38:05,476 - usps - DEBUG - objective:-753.3648
+2016-02-02 16:39:01,606 - usps - DEBUG - objective:-753.3650
+2016-02-02 16:39:58,737 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:40:54,485 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:41:49,900 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:42:44,667 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:43:38,430 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:44:32,386 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:45:26,767 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:46:22,675 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:47:18,807 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:48:16,924 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:49:16,283 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:50:14,370 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:51:11,516 - usps - INFO - Iteration 18 started.
+2016-02-02 16:51:11,516 - usps - INFO - MoG params
+2016-02-02 16:51:28,869 - usps - DEBUG - objective:-753.3651
+2016-02-02 16:51:46,805 - usps - DEBUG - objective:-739.1392
+2016-02-02 16:52:03,256 - usps - DEBUG - objective:-753.3817
+2016-02-02 16:52:19,561 - usps - DEBUG - objective:-753.3858
+2016-02-02 16:52:35,914 - usps - DEBUG - objective:-753.4027
+2016-02-02 16:52:54,506 - usps - DEBUG - objective:-753.4048
+2016-02-02 16:53:11,629 - usps - DEBUG - objective:-753.4134
+2016-02-02 16:53:28,648 - usps - DEBUG - objective:-753.4182
+2016-02-02 16:53:44,638 - usps - DEBUG - objective:-753.4270
+2016-02-02 16:54:01,252 - usps - DEBUG - objective:-753.4387
+2016-02-02 16:54:17,732 - usps - DEBUG - objective:-753.4573
+2016-02-02 16:54:34,281 - usps - DEBUG - objective:-753.4590
+2016-02-02 16:54:50,661 - usps - DEBUG - objective:-753.4671
+2016-02-02 16:55:07,104 - usps - DEBUG - objective:-753.4778
+2016-02-02 16:55:24,728 - usps - DEBUG - objective:-753.4836
+2016-02-02 16:55:41,150 - usps - DEBUG - objective:-753.4904
+2016-02-02 16:55:57,299 - usps - DEBUG - objective:-753.4967
+2016-02-02 16:56:13,395 - usps - DEBUG - objective:-753.5096
+2016-02-02 16:56:31,210 - usps - DEBUG - objective:-753.5189
+2016-02-02 16:56:48,257 - usps - DEBUG - objective:-753.5271
+2016-02-02 16:57:05,812 - usps - DEBUG - objective:-753.5358
+2016-02-02 16:57:22,519 - usps - DEBUG - objective:-753.5436
+2016-02-02 16:57:37,512 - usps - DEBUG - objective:-753.5469
+2016-02-02 16:57:52,069 - usps - DEBUG - objective:-753.5519
+2016-02-02 16:58:07,082 - usps - DEBUG - objective:-753.5580
+2016-02-02 16:58:23,301 - usps - DEBUG - objective:-753.5679
+2016-02-02 16:58:23,332 - usps - INFO - Saving model...
+2016-02-02 16:58:27,917 - usps - INFO - Model saved.
+2016-02-02 16:58:27,919 - usps - DEBUG - ftol: 0.202718199932
+2016-02-02 16:58:27,921 - usps - INFO - diff:m:0.0141339636732 s:0.000804021677436
+2016-02-02 16:58:27,927 - usps - INFO - hyp params
+2016-02-02 16:59:22,307 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:00:03,144 - usps - DEBUG - objective:-751.3883
+2016-02-02 17:00:48,070 - usps - DEBUG - objective:-753.3946
+2016-02-02 17:01:38,932 - usps - DEBUG - objective:-753.5307
+2016-02-02 17:02:34,461 - usps - DEBUG - objective:-753.5572
+2016-02-02 17:03:28,425 - usps - DEBUG - objective:-753.5645
+2016-02-02 17:04:24,515 - usps - DEBUG - objective:-753.5667
+2016-02-02 17:05:19,902 - usps - DEBUG - objective:-753.5675
+2016-02-02 17:06:17,542 - usps - DEBUG - objective:-753.5677
+2016-02-02 17:07:13,452 - usps - DEBUG - objective:-753.5678
+2016-02-02 17:08:11,492 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:09:10,275 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:10:08,884 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:11:04,902 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:12:01,155 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:12:57,032 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:13:54,211 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:14:49,796 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:15:45,094 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:16:42,076 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:17:39,133 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:18:35,406 - usps - INFO - Iteration 19 started.
+2016-02-02 17:18:35,406 - usps - INFO - MoG params
+2016-02-02 17:18:51,322 - usps - DEBUG - objective:-753.5679
+2016-02-02 17:19:07,067 - usps - DEBUG - objective:-746.9910
+2016-02-02 17:19:23,403 - usps - DEBUG - objective:-753.5725
+2016-02-02 17:19:40,044 - usps - DEBUG - objective:-753.5763
+2016-02-02 17:19:56,385 - usps - DEBUG - objective:-753.5838
+2016-02-02 17:20:12,741 - usps - DEBUG - objective:-753.5855
+2016-02-02 17:20:30,091 - usps - DEBUG - objective:-753.5885
+2016-02-02 17:20:46,734 - usps - DEBUG - objective:-753.5921
+2016-02-02 17:21:03,280 - usps - DEBUG - objective:-753.5945
+2016-02-02 17:21:18,883 - usps - DEBUG - objective:-753.6027
+2016-02-02 17:21:35,253 - usps - DEBUG - objective:-753.6051
+2016-02-02 17:21:53,133 - usps - DEBUG - objective:-753.6178
+2016-02-02 17:22:09,266 - usps - DEBUG - objective:-753.6221
+2016-02-02 17:22:25,245 - usps - DEBUG - objective:-753.6270
+2016-02-02 17:22:42,432 - usps - DEBUG - objective:-753.6344
+2016-02-02 17:22:59,374 - usps - DEBUG - objective:-753.6481
+2016-02-02 17:23:15,401 - usps - DEBUG - objective:-753.6399
+2016-02-02 17:23:32,247 - usps - DEBUG - objective:-753.6547
+2016-02-02 17:23:49,679 - usps - DEBUG - objective:-753.6609
+2016-02-02 17:24:04,525 - usps - DEBUG - objective:-753.6668
+2016-02-02 17:24:21,392 - usps - DEBUG - objective:-753.6728
+2016-02-02 17:24:38,308 - usps - DEBUG - objective:-753.6829
+2016-02-02 17:24:56,074 - usps - DEBUG - objective:-753.6956
+2016-02-02 17:25:12,055 - usps - DEBUG - objective:-753.7101
+2016-02-02 17:25:29,365 - usps - DEBUG - objective:-753.7154
+2016-02-02 17:25:48,027 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:25:48,044 - usps - INFO - Saving model...
+2016-02-02 17:25:52,767 - usps - INFO - Model saved.
+2016-02-02 17:25:52,769 - usps - DEBUG - ftol: 0.163384947961
+2016-02-02 17:25:52,771 - usps - INFO - diff:m:0.0163265767499 s:0.000622728024177
+2016-02-02 17:25:52,772 - usps - INFO - hyp params
+2016-02-02 17:26:47,063 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:27:30,892 - usps - DEBUG - objective:-751.5551
+2016-02-02 17:28:18,921 - usps - DEBUG - objective:-753.5580
+2016-02-02 17:29:13,589 - usps - DEBUG - objective:-753.6941
+2016-02-02 17:30:10,594 - usps - DEBUG - objective:-753.7206
+2016-02-02 17:31:07,456 - usps - DEBUG - objective:-753.7279
+2016-02-02 17:32:06,254 - usps - DEBUG - objective:-753.7301
+2016-02-02 17:33:02,906 - usps - DEBUG - objective:-753.7309
+2016-02-02 17:33:59,327 - usps - DEBUG - objective:-753.7311
+2016-02-02 17:34:53,953 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:35:46,788 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:36:42,210 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:37:39,443 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:38:32,290 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:39:29,577 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:40:26,849 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:41:25,640 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:42:21,136 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:43:18,438 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:44:13,083 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:45:09,164 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:46:05,531 - usps - INFO - Iteration 20 started.
+2016-02-02 17:46:05,531 - usps - INFO - MoG params
+2016-02-02 17:46:23,210 - usps - DEBUG - objective:-753.7312
+2016-02-02 17:46:40,326 - usps - DEBUG - objective:-744.6808
+2016-02-02 17:46:56,483 - usps - DEBUG - objective:-753.7353
+2016-02-02 17:47:12,754 - usps - DEBUG - objective:-753.7381
+2016-02-02 17:47:29,668 - usps - DEBUG - objective:-753.7485
+2016-02-02 17:47:47,878 - usps - DEBUG - objective:-753.7533
+2016-02-02 17:48:04,762 - usps - DEBUG - objective:-753.7582
+2016-02-02 17:48:22,452 - usps - DEBUG - objective:-753.7753
+2016-02-02 17:48:38,987 - usps - DEBUG - objective:-753.7822
+2016-02-02 17:48:56,046 - usps - DEBUG - objective:-753.7592
+2016-02-02 17:49:12,493 - usps - DEBUG - objective:-753.7885
+2016-02-02 17:49:27,991 - usps - DEBUG - objective:-753.7994
+2016-02-02 17:49:44,820 - usps - DEBUG - objective:-753.8039
+2016-02-02 17:50:01,491 - usps - DEBUG - objective:-753.8108
+2016-02-02 17:50:18,937 - usps - DEBUG - objective:-753.8161
+2016-02-02 17:50:35,286 - usps - DEBUG - objective:-753.8216
+2016-02-02 17:50:50,811 - usps - DEBUG - objective:-753.8318
+2016-02-02 17:51:07,705 - usps - DEBUG - objective:-753.8348
+2016-02-02 17:51:23,825 - usps - DEBUG - objective:-753.8396
+2016-02-02 17:51:39,488 - usps - DEBUG - objective:-753.8420
+2016-02-02 17:51:55,651 - usps - DEBUG - objective:-753.8444
+2016-02-02 17:52:11,655 - usps - DEBUG - objective:-753.8473
+2016-02-02 17:52:28,078 - usps - DEBUG - objective:-753.8520
+2016-02-02 17:52:44,196 - usps - DEBUG - objective:-753.8581
+2016-02-02 17:53:01,146 - usps - DEBUG - objective:-753.8632
+2016-02-02 17:53:17,139 - usps - DEBUG - objective:-753.8745
+2016-02-02 17:53:17,152 - usps - INFO - Saving model...
+2016-02-02 17:53:21,846 - usps - INFO - Model saved.
+2016-02-02 17:53:21,864 - usps - DEBUG - ftol: 0.14322114667
+2016-02-02 17:53:21,866 - usps - INFO - diff:m:0.0118139393194 s:0.000489426952844
+2016-02-02 17:53:21,868 - usps - INFO - hyp params
+2016-02-02 17:54:13,615 - usps - DEBUG - objective:-753.8745
+2016-02-02 17:54:55,024 - usps - DEBUG - objective:-751.6934
+2016-02-02 17:55:41,605 - usps - DEBUG - objective:-753.7010
+2016-02-02 17:56:34,814 - usps - DEBUG - objective:-753.8372
+2016-02-02 17:57:31,835 - usps - DEBUG - objective:-753.8638
+2016-02-02 17:58:28,727 - usps - DEBUG - objective:-753.8711
+2016-02-02 17:59:24,463 - usps - DEBUG - objective:-753.8734
+2016-02-02 18:00:18,911 - usps - DEBUG - objective:-753.8741
+2016-02-02 18:01:15,642 - usps - DEBUG - objective:-753.8743
+2016-02-02 18:02:10,663 - usps - DEBUG - objective:-753.8744
+2016-02-02 18:03:05,904 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:03:59,178 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:04:54,775 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:05:49,628 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:06:46,898 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:07:44,350 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:08:41,511 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:09:38,407 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:10:37,192 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:11:34,861 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:12:31,176 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:13:26,802 - usps - INFO - Iteration 21 started.
+2016-02-02 18:13:26,803 - usps - INFO - MoG params
+2016-02-02 18:13:42,735 - usps - DEBUG - objective:-753.8745
+2016-02-02 18:13:57,821 - usps - DEBUG - objective:-743.0704
+2016-02-02 18:14:14,289 - usps - DEBUG - objective:-753.8772
+2016-02-02 18:14:29,924 - usps - DEBUG - objective:-753.8795
+2016-02-02 18:14:45,056 - usps - DEBUG - objective:-753.8916
+2016-02-02 18:15:01,702 - usps - DEBUG - objective:-753.8910
+2016-02-02 18:15:18,440 - usps - DEBUG - objective:-753.8941
+2016-02-02 18:15:35,028 - usps - DEBUG - objective:-753.8959
+2016-02-02 18:15:50,683 - usps - DEBUG - objective:-753.9000
+2016-02-02 18:16:06,893 - usps - DEBUG - objective:-753.9027
+2016-02-02 18:16:23,056 - usps - DEBUG - objective:-753.9049
+2016-02-02 18:16:39,974 - usps - DEBUG - objective:-753.9099
+2016-02-02 18:16:55,676 - usps - DEBUG - objective:-753.9126
+2016-02-02 18:17:12,966 - usps - DEBUG - objective:-753.9179
+2016-02-02 18:17:30,610 - usps - DEBUG - objective:-753.9248
+2016-02-02 18:17:47,271 - usps - DEBUG - objective:-753.9283
+2016-02-02 18:18:05,221 - usps - DEBUG - objective:-753.9374
+2016-02-02 18:18:22,008 - usps - DEBUG - objective:-753.9424
+2016-02-02 18:18:38,436 - usps - DEBUG - objective:-753.9545
+2016-02-02 18:18:55,027 - usps - DEBUG - objective:-753.9656
+2016-02-02 18:19:10,928 - usps - DEBUG - objective:-753.9770
+2016-02-02 18:19:27,581 - usps - DEBUG - objective:-753.9910
+2016-02-02 18:19:43,084 - usps - DEBUG - objective:-753.9990
+2016-02-02 18:20:00,578 - usps - DEBUG - objective:-754.0043
+2016-02-02 18:20:17,781 - usps - DEBUG - objective:-754.0098
+2016-02-02 18:20:34,439 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:20:34,443 - usps - INFO - Saving model...
+2016-02-02 18:20:39,094 - usps - INFO - Model saved.
+2016-02-02 18:20:39,108 - usps - DEBUG - ftol: 0.146197106901
+2016-02-02 18:20:39,110 - usps - INFO - diff:m:0.015300464981 s:0.000509704215862
+2016-02-02 18:20:39,116 - usps - INFO - hyp params
+2016-02-02 18:21:32,767 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:22:12,908 - usps - DEBUG - objective:-751.8417
+2016-02-02 18:22:58,776 - usps - DEBUG - objective:-753.8472
+2016-02-02 18:23:50,762 - usps - DEBUG - objective:-753.9834
+2016-02-02 18:24:44,386 - usps - DEBUG - objective:-754.0100
+2016-02-02 18:25:43,016 - usps - DEBUG - objective:-754.0173
+2016-02-02 18:26:41,122 - usps - DEBUG - objective:-754.0195
+2016-02-02 18:27:38,991 - usps - DEBUG - objective:-754.0203
+2016-02-02 18:28:38,402 - usps - DEBUG - objective:-754.0205
+2016-02-02 18:29:36,980 - usps - DEBUG - objective:-754.0206
+2016-02-02 18:30:33,937 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:31:31,545 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:32:25,086 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:33:18,739 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:34:14,142 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:35:11,005 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:36:04,147 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:37:00,150 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:37:54,058 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:38:49,440 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:39:45,481 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:40:40,268 - usps - INFO - Iteration 22 started.
+2016-02-02 18:40:40,269 - usps - INFO - MoG params
+2016-02-02 18:40:56,289 - usps - DEBUG - objective:-754.0207
+2016-02-02 18:41:12,482 - usps - DEBUG - objective:-739.6119
+2016-02-02 18:41:28,373 - usps - DEBUG - objective:-754.0237
+2016-02-02 18:41:44,687 - usps - DEBUG - objective:-754.0250
+2016-02-02 18:42:01,179 - usps - DEBUG - objective:-754.0317
+2016-02-02 18:42:18,034 - usps - DEBUG - objective:-754.0349
+2016-02-02 18:42:34,930 - usps - DEBUG - objective:-754.0381
+2016-02-02 18:42:51,047 - usps - DEBUG - objective:-754.0484
+2016-02-02 18:43:07,175 - usps - DEBUG - objective:-754.0560
+2016-02-02 18:43:22,620 - usps - DEBUG - objective:-754.0703
+2016-02-02 18:43:38,138 - usps - DEBUG - objective:-754.0345
+2016-02-02 18:43:55,041 - usps - DEBUG - objective:-754.0739
+2016-02-02 18:44:11,685 - usps - DEBUG - objective:-754.0808
+2016-02-02 18:44:28,423 - usps - DEBUG - objective:-754.0850
+2016-02-02 18:44:44,071 - usps - DEBUG - objective:-754.0901
+2016-02-02 18:45:00,470 - usps - DEBUG - objective:-754.0939
+2016-02-02 18:45:17,037 - usps - DEBUG - objective:-754.0970
+2016-02-02 18:45:33,276 - usps - DEBUG - objective:-754.0986
+2016-02-02 18:45:48,022 - usps - DEBUG - objective:-754.1004
+2016-02-02 18:46:04,331 - usps - DEBUG - objective:-754.1024
+2016-02-02 18:46:20,331 - usps - DEBUG - objective:-754.1056
+2016-02-02 18:46:37,262 - usps - DEBUG - objective:-754.1088
+2016-02-02 18:46:53,888 - usps - DEBUG - objective:-754.1135
+2016-02-02 18:47:09,691 - usps - DEBUG - objective:-754.1177
+2016-02-02 18:47:26,585 - usps - DEBUG - objective:-754.1239
+2016-02-02 18:47:43,904 - usps - DEBUG - objective:-754.1358
+2016-02-02 18:47:43,909 - usps - INFO - Saving model...
+2016-02-02 18:47:47,942 - usps - INFO - Model saved.
+2016-02-02 18:47:47,959 - usps - DEBUG - ftol: 0.115123002533
+2016-02-02 18:47:47,962 - usps - INFO - diff:m:0.012339810812 s:0.000472545311278
+2016-02-02 18:47:47,964 - usps - INFO - hyp params
+2016-02-02 18:48:43,748 - usps - DEBUG - objective:-754.1358
+2016-02-02 18:49:26,845 - usps - DEBUG - objective:-751.9525
+2016-02-02 18:50:13,202 - usps - DEBUG - objective:-753.9621
+2016-02-02 18:51:08,194 - usps - DEBUG - objective:-754.0985
+2016-02-02 18:52:02,816 - usps - DEBUG - objective:-754.1251
+2016-02-02 18:53:00,144 - usps - DEBUG - objective:-754.1324
+2016-02-02 18:53:56,085 - usps - DEBUG - objective:-754.1347
+2016-02-02 18:54:53,452 - usps - DEBUG - objective:-754.1354
+2016-02-02 18:55:50,507 - usps - DEBUG - objective:-754.1357
+2016-02-02 18:56:47,517 - usps - DEBUG - objective:-754.1357
+2016-02-02 18:57:42,674 - usps - DEBUG - objective:-754.1358
+2016-02-02 18:58:37,067 - usps - DEBUG - objective:-754.1358
+2016-02-02 18:59:32,029 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:00:25,471 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:01:21,612 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:02:17,422 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:03:11,023 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:04:05,856 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:05:04,093 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:06:00,999 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:06:59,387 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:07:57,925 - usps - INFO - Iteration 23 started.
+2016-02-02 19:07:57,926 - usps - INFO - MoG params
+2016-02-02 19:08:14,554 - usps - DEBUG - objective:-754.1358
+2016-02-02 19:08:32,085 - usps - DEBUG - objective:-745.9079
+2016-02-02 19:08:48,933 - usps - DEBUG - objective:-754.1415
+2016-02-02 19:09:06,174 - usps - DEBUG - objective:-754.1459
+2016-02-02 19:09:23,416 - usps - DEBUG - objective:-754.1563
+2016-02-02 19:09:40,209 - usps - DEBUG - objective:-754.1595
+2016-02-02 19:09:56,800 - usps - DEBUG - objective:-754.1615
+2016-02-02 19:10:14,045 - usps - DEBUG - objective:-754.1631
+2016-02-02 19:10:30,682 - usps - DEBUG - objective:-754.1669
+2016-02-02 19:10:48,161 - usps - DEBUG - objective:-754.1700
+2016-02-02 19:11:06,379 - usps - DEBUG - objective:-754.1739
+2016-02-02 19:11:23,109 - usps - DEBUG - objective:-754.1784
+2016-02-02 19:11:39,736 - usps - DEBUG - objective:-754.1801
+2016-02-02 19:11:57,936 - usps - DEBUG - objective:-754.1821
+2016-02-02 19:12:14,677 - usps - DEBUG - objective:-754.1853
+2016-02-02 19:12:30,487 - usps - DEBUG - objective:-754.1901
+2016-02-02 19:12:46,622 - usps - DEBUG - objective:-754.1939
+2016-02-02 19:13:02,358 - usps - DEBUG - objective:-754.2004
+2016-02-02 19:13:19,114 - usps - DEBUG - objective:-754.2054
+2016-02-02 19:13:34,511 - usps - DEBUG - objective:-754.2129
+2016-02-02 19:13:50,874 - usps - DEBUG - objective:-754.2194
+2016-02-02 19:14:06,911 - usps - DEBUG - objective:-754.2261
+2016-02-02 19:14:23,774 - usps - DEBUG - objective:-754.2282
+2016-02-02 19:14:40,709 - usps - DEBUG - objective:-754.2303
+2016-02-02 19:14:57,307 - usps - DEBUG - objective:-754.2337
+2016-02-02 19:15:12,864 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:15:12,951 - usps - INFO - Saving model...
+2016-02-02 19:15:16,951 - usps - INFO - Model saved.
+2016-02-02 19:15:16,952 - usps - DEBUG - ftol: 0.104957638744
+2016-02-02 19:15:16,952 - usps - INFO - diff:m:0.0115532951524 s:0.000439317040216
+2016-02-02 19:15:16,953 - usps - INFO - hyp params
+2016-02-02 19:16:11,363 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:16:53,919 - usps - DEBUG - objective:-752.0608
+2016-02-02 19:17:38,431 - usps - DEBUG - objective:-754.0673
+2016-02-02 19:18:32,542 - usps - DEBUG - objective:-754.2035
+2016-02-02 19:19:29,812 - usps - DEBUG - objective:-754.2300
+2016-02-02 19:20:27,819 - usps - DEBUG - objective:-754.2373
+2016-02-02 19:21:24,588 - usps - DEBUG - objective:-754.2396
+2016-02-02 19:22:20,807 - usps - DEBUG - objective:-754.2404
+2016-02-02 19:23:15,215 - usps - DEBUG - objective:-754.2406
+2016-02-02 19:24:10,904 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:25:07,066 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:26:03,444 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:26:59,773 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:27:55,761 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:28:51,860 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:29:47,109 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:30:45,217 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:31:42,612 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:32:39,680 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:33:37,247 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:34:33,155 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:35:27,605 - usps - INFO - Iteration 24 started.
+2016-02-02 19:35:27,606 - usps - INFO - MoG params
+2016-02-02 19:35:44,980 - usps - DEBUG - objective:-754.2407
+2016-02-02 19:36:02,515 - usps - DEBUG - objective:-746.2772
+2016-02-02 19:36:20,344 - usps - DEBUG - objective:-754.2430
+2016-02-02 19:36:35,736 - usps - DEBUG - objective:-754.2449
+2016-02-02 19:36:51,113 - usps - DEBUG - objective:-754.2494
+2016-02-02 19:37:08,474 - usps - DEBUG - objective:-754.2509
+2016-02-02 19:37:24,577 - usps - DEBUG - objective:-754.2530
+2016-02-02 19:37:40,855 - usps - DEBUG - objective:-754.2666
+2016-02-02 19:37:55,731 - usps - DEBUG - objective:-754.2713
+2016-02-02 19:38:12,140 - usps - DEBUG - objective:-754.2775
+2016-02-02 19:38:27,593 - usps - DEBUG - objective:-754.2825
+2016-02-02 19:38:43,394 - usps - DEBUG - objective:-754.2850
+2016-02-02 19:38:58,822 - usps - DEBUG - objective:-754.2867
+2016-02-02 19:39:15,115 - usps - DEBUG - objective:-754.2903
+2016-02-02 19:39:31,207 - usps - DEBUG - objective:-754.2894
+2016-02-02 19:39:47,003 - usps - DEBUG - objective:-754.2915
+2016-02-02 19:40:03,305 - usps - DEBUG - objective:-754.2929
+2016-02-02 19:40:19,265 - usps - DEBUG - objective:-754.2951
+2016-02-02 19:40:34,864 - usps - DEBUG - objective:-754.2968
+2016-02-02 19:40:50,350 - usps - DEBUG - objective:-754.2992
+2016-02-02 19:41:05,571 - usps - DEBUG - objective:-754.3019
+2016-02-02 19:41:20,866 - usps - DEBUG - objective:-754.3051
+2016-02-02 19:41:37,150 - usps - DEBUG - objective:-754.3094
+2016-02-02 19:41:53,748 - usps - DEBUG - objective:-754.3145
+2016-02-02 19:42:08,974 - usps - DEBUG - objective:-754.3211
+2016-02-02 19:42:24,913 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:42:24,928 - usps - INFO - Saving model...
+2016-02-02 19:42:29,270 - usps - INFO - Model saved.
+2016-02-02 19:42:29,276 - usps - DEBUG - ftol: 0.0872408910886
+2016-02-02 19:42:29,277 - usps - INFO - diff:m:0.0101953222767 s:0.000349927913467
+2016-02-02 19:42:29,278 - usps - INFO - hyp params
+2016-02-02 19:43:22,454 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:44:05,461 - usps - DEBUG - objective:-752.1478
+2016-02-02 19:44:52,987 - usps - DEBUG - objective:-754.1547
+2016-02-02 19:45:51,396 - usps - DEBUG - objective:-754.2908
+2016-02-02 19:46:50,560 - usps - DEBUG - objective:-754.3173
+2016-02-02 19:47:50,785 - usps - DEBUG - objective:-754.3246
+2016-02-02 19:48:50,259 - usps - DEBUG - objective:-754.3269
+2016-02-02 19:49:46,535 - usps - DEBUG - objective:-754.3276
+2016-02-02 19:50:42,610 - usps - DEBUG - objective:-754.3279
+2016-02-02 19:51:37,561 - usps - DEBUG - objective:-754.3279
+2016-02-02 19:52:32,049 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:53:26,466 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:54:21,754 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:55:16,939 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:56:11,304 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:57:08,852 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:58:06,675 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:59:02,332 - usps - DEBUG - objective:-754.3280
+2016-02-02 19:59:58,820 - usps - DEBUG - objective:-754.3280
+2016-02-02 20:00:53,615 - usps - DEBUG - objective:-754.3280
+2016-02-02 20:01:48,952 - usps - DEBUG - objective:-754.3280
+2016-02-02 20:02:45,112 - usps - INFO - Iteration 25 started.
+2016-02-02 20:02:45,112 - usps - INFO - MoG params
+2016-02-02 20:03:01,702 - usps - DEBUG - objective:-754.3280
+2016-02-02 20:03:17,730 - usps - DEBUG - objective:-743.9781
+2016-02-02 20:03:34,943 - usps - DEBUG - objective:-754.3311
+2016-02-02 20:03:52,506 - usps - DEBUG - objective:-754.3332
+2016-02-02 20:04:09,246 - usps - DEBUG - objective:-754.3410
+2016-02-02 20:04:25,745 - usps - DEBUG - objective:-754.3432
+2016-02-02 20:04:41,136 - usps - DEBUG - objective:-754.3464
+2016-02-02 20:04:58,513 - usps - DEBUG - objective:-754.3479
+2016-02-02 20:05:16,162 - usps - DEBUG - objective:-754.3511
+2016-02-02 20:05:32,189 - usps - DEBUG - objective:-754.3528
+2016-02-02 20:05:48,429 - usps - DEBUG - objective:-754.3547
+2016-02-02 20:06:04,762 - usps - DEBUG - objective:-754.3561
+2016-02-02 20:06:21,959 - usps - DEBUG - objective:-754.3566
+2016-02-02 20:06:37,837 - usps - DEBUG - objective:-754.3579
+2016-02-02 20:06:53,945 - usps - DEBUG - objective:-754.3598
+2016-02-02 20:07:10,537 - usps - DEBUG - objective:-754.3623
+2016-02-02 20:07:27,261 - usps - DEBUG - objective:-754.3689
+2016-02-02 20:07:43,761 - usps - DEBUG - objective:-754.3728
+2016-02-02 20:07:59,485 - usps - DEBUG - objective:-754.3764
+2016-02-02 20:08:15,521 - usps - DEBUG - objective:-754.3913
+2016-02-02 20:08:32,708 - usps - DEBUG - objective:-754.3999
+2016-02-02 20:08:48,918 - usps - DEBUG - objective:-754.4019
+2016-02-02 20:09:04,684 - usps - DEBUG - objective:-754.4067
+2016-02-02 20:09:20,832 - usps - DEBUG - objective:-754.4130
+2016-02-02 20:09:37,323 - usps - DEBUG - objective:-754.4161
+2016-02-02 20:09:53,825 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:09:53,841 - usps - INFO - Saving model...
+2016-02-02 20:09:58,410 - usps - INFO - Model saved.
+2016-02-02 20:09:58,426 - usps - DEBUG - ftol: 0.0926633274488
+2016-02-02 20:09:58,428 - usps - INFO - diff:m:0.0136709293828 s:0.000501485679859
+2016-02-02 20:09:58,430 - usps - INFO - hyp params
+2016-02-02 20:10:54,109 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:11:36,856 - usps - DEBUG - objective:-752.2359
+2016-02-02 20:12:24,508 - usps - DEBUG - objective:-754.2465
+2016-02-02 20:13:20,327 - usps - DEBUG - objective:-754.3832
+2016-02-02 20:14:16,835 - usps - DEBUG - objective:-754.4099
+2016-02-02 20:15:14,519 - usps - DEBUG - objective:-754.4172
+2016-02-02 20:16:10,476 - usps - DEBUG - objective:-754.4195
+2016-02-02 20:17:06,904 - usps - DEBUG - objective:-754.4203
+2016-02-02 20:18:04,709 - usps - DEBUG - objective:-754.4205
+2016-02-02 20:18:59,088 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:19:53,216 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:20:49,669 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:21:42,867 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:22:37,006 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:23:31,687 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:24:27,692 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:25:24,936 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:26:20,761 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:27:18,981 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:28:18,664 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:29:17,491 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:30:15,105 - usps - INFO - Iteration 26 started.
+2016-02-02 20:30:15,106 - usps - INFO - MoG params
+2016-02-02 20:30:32,899 - usps - DEBUG - objective:-754.4206
+2016-02-02 20:30:49,432 - usps - DEBUG - objective:-745.0945
+2016-02-02 20:31:06,216 - usps - DEBUG - objective:-754.4220
+2016-02-02 20:31:22,920 - usps - DEBUG - objective:-754.4231
+2016-02-02 20:31:40,472 - usps - DEBUG - objective:-754.4289
+2016-02-02 20:31:56,747 - usps - DEBUG - objective:-754.4320
+2016-02-02 20:32:11,612 - usps - DEBUG - objective:-754.4361
+2016-02-02 20:32:27,679 - usps - DEBUG - objective:-754.4512
+2016-02-02 20:32:44,902 - usps - DEBUG - objective:-754.4548
+2016-02-02 20:33:00,642 - usps - DEBUG - objective:-754.4584
+2016-02-02 20:33:16,511 - usps - DEBUG - objective:-754.4635
+2016-02-02 20:33:32,434 - usps - DEBUG - objective:-754.4652
+2016-02-02 20:33:48,469 - usps - DEBUG - objective:-754.4690
+2016-02-02 20:34:04,674 - usps - DEBUG - objective:-754.4711
+2016-02-02 20:34:21,449 - usps - DEBUG - objective:-754.4725
+2016-02-02 20:34:37,756 - usps - DEBUG - objective:-754.4741
+2016-02-02 20:34:53,540 - usps - DEBUG - objective:-754.4744
+2016-02-02 20:35:09,413 - usps - DEBUG - objective:-754.4748
+2016-02-02 20:35:26,244 - usps - DEBUG - objective:-754.4754
+2016-02-02 20:35:42,175 - usps - DEBUG - objective:-754.4760
+2016-02-02 20:35:57,753 - usps - DEBUG - objective:-754.4773
+2016-02-02 20:36:14,399 - usps - DEBUG - objective:-754.4787
+2016-02-02 20:36:29,376 - usps - DEBUG - objective:-754.4816
+2016-02-02 20:36:45,634 - usps - DEBUG - objective:-754.4842
+2016-02-02 20:37:01,667 - usps - DEBUG - objective:-754.4875
+2016-02-02 20:37:19,065 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:37:19,117 - usps - INFO - Saving model...
+2016-02-02 20:37:23,458 - usps - INFO - Model saved.
+2016-02-02 20:37:23,476 - usps - DEBUG - ftol: 0.0726712075773
+2016-02-02 20:37:23,479 - usps - INFO - diff:m:0.00884863728748 s:0.000524830141042
+2016-02-02 20:37:23,494 - usps - INFO - hyp params
+2016-02-02 20:38:18,573 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:39:00,609 - usps - DEBUG - objective:-752.2995
+2016-02-02 20:39:47,250 - usps - DEBUG - objective:-754.3181
+2016-02-02 20:40:40,465 - usps - DEBUG - objective:-754.4557
+2016-02-02 20:41:34,196 - usps - DEBUG - objective:-754.4825
+2016-02-02 20:42:32,791 - usps - DEBUG - objective:-754.4899
+2016-02-02 20:43:30,264 - usps - DEBUG - objective:-754.4922
+2016-02-02 20:44:30,290 - usps - DEBUG - objective:-754.4929
+2016-02-02 20:45:29,478 - usps - DEBUG - objective:-754.4932
+2016-02-02 20:46:27,567 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:47:24,195 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:48:20,874 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:49:17,240 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:50:14,072 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:51:10,419 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:52:07,828 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:53:04,334 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:53:59,528 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:54:56,171 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:55:52,876 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:56:48,657 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:57:44,877 - usps - INFO - Iteration 27 started.
+2016-02-02 20:57:44,878 - usps - INFO - MoG params
+2016-02-02 20:58:01,327 - usps - DEBUG - objective:-754.4933
+2016-02-02 20:58:17,043 - usps - DEBUG - objective:-742.7531
+2016-02-02 20:58:33,050 - usps - DEBUG - objective:-754.4955
+2016-02-02 20:58:49,222 - usps - DEBUG - objective:-754.4968
+2016-02-02 20:59:06,539 - usps - DEBUG - objective:-754.5014
+2016-02-02 20:59:22,670 - usps - DEBUG - objective:-754.5026
+2016-02-02 20:59:38,862 - usps - DEBUG - objective:-754.5038
+2016-02-02 20:59:55,697 - usps - DEBUG - objective:-754.5045
+2016-02-02 21:00:13,168 - usps - DEBUG - objective:-754.5056
+2016-02-02 21:00:29,179 - usps - DEBUG - objective:-754.5065
+2016-02-02 21:00:45,836 - usps - DEBUG - objective:-754.5082
+2016-02-02 21:01:01,814 - usps - DEBUG - objective:-754.5098
+2016-02-02 21:01:18,413 - usps - DEBUG - objective:-754.5110
+2016-02-02 21:01:34,786 - usps - DEBUG - objective:-754.5130
+2016-02-02 21:01:51,756 - usps - DEBUG - objective:-754.5162
+2016-02-02 21:02:08,500 - usps - DEBUG - objective:-754.5169
+2016-02-02 21:02:25,432 - usps - DEBUG - objective:-754.5186
+2016-02-02 21:02:42,933 - usps - DEBUG - objective:-754.5214
+2016-02-02 21:02:59,355 - usps - DEBUG - objective:-754.5242
+2016-02-02 21:03:15,446 - usps - DEBUG - objective:-754.5274
+2016-02-02 21:03:32,496 - usps - DEBUG - objective:-754.5329
+2016-02-02 21:03:49,321 - usps - DEBUG - objective:-754.5321
+2016-02-02 21:04:06,202 - usps - DEBUG - objective:-754.5370
+2016-02-02 21:04:22,467 - usps - DEBUG - objective:-754.5419
+2016-02-02 21:04:40,652 - usps - DEBUG - objective:-754.5457
+2016-02-02 21:04:59,566 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:04:59,570 - usps - INFO - Saving model...
+2016-02-02 21:05:03,732 - usps - INFO - Model saved.
+2016-02-02 21:05:03,733 - usps - DEBUG - ftol: 0.0563464621802
+2016-02-02 21:05:03,733 - usps - INFO - diff:m:0.00948882680565 s:0.000842549307175
+2016-02-02 21:05:03,734 - usps - INFO - hyp params
+2016-02-02 21:06:01,760 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:06:43,047 - usps - DEBUG - objective:-752.3754
+2016-02-02 21:07:30,284 - usps - DEBUG - objective:-754.3772
+2016-02-02 21:08:24,307 - usps - DEBUG - objective:-754.5126
+2016-02-02 21:09:21,218 - usps - DEBUG - objective:-754.5390
+2016-02-02 21:10:18,110 - usps - DEBUG - objective:-754.5463
+2016-02-02 21:11:13,888 - usps - DEBUG - objective:-754.5486
+2016-02-02 21:12:09,025 - usps - DEBUG - objective:-754.5493
+2016-02-02 21:13:03,791 - usps - DEBUG - objective:-754.5495
+2016-02-02 21:13:59,518 - usps - DEBUG - objective:-754.5496
+2016-02-02 21:14:52,956 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:15:47,093 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:16:40,573 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:17:37,574 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:18:35,421 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:19:31,426 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:20:30,006 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:21:26,395 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:22:23,766 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:23:21,136 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:24:18,522 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:25:15,526 - usps - INFO - Iteration 28 started.
+2016-02-02 21:25:15,527 - usps - INFO - MoG params
+2016-02-02 21:25:33,108 - usps - DEBUG - objective:-754.5497
+2016-02-02 21:25:49,856 - usps - DEBUG - objective:-744.2699
+2016-02-02 21:26:07,102 - usps - DEBUG - objective:-754.5507
+2016-02-02 21:26:23,270 - usps - DEBUG - objective:-754.5515
+2016-02-02 21:26:40,552 - usps - DEBUG - objective:-754.5570
+2016-02-02 21:26:57,207 - usps - DEBUG - objective:-754.5599
+2016-02-02 21:27:14,628 - usps - DEBUG - objective:-754.5625
+2016-02-02 21:27:32,088 - usps - DEBUG - objective:-754.5650
+2016-02-02 21:27:49,046 - usps - DEBUG - objective:-754.5662
+2016-02-02 21:28:06,659 - usps - DEBUG - objective:-754.5673
+2016-02-02 21:28:24,138 - usps - DEBUG - objective:-754.5687
+2016-02-02 21:28:39,515 - usps - DEBUG - objective:-754.5695
+2016-02-02 21:28:56,427 - usps - DEBUG - objective:-754.5705
+2016-02-02 21:29:12,271 - usps - DEBUG - objective:-754.5740
+2016-02-02 21:29:29,104 - usps - DEBUG - objective:-754.5707
+2016-02-02 21:29:45,384 - usps - DEBUG - objective:-754.5751
+2016-02-02 21:30:00,816 - usps - DEBUG - objective:-754.5760
+2016-02-02 21:30:16,937 - usps - DEBUG - objective:-754.5766
+2016-02-02 21:30:34,023 - usps - DEBUG - objective:-754.5770
+2016-02-02 21:30:50,573 - usps - DEBUG - objective:-754.5777
+2016-02-02 21:31:07,281 - usps - DEBUG - objective:-754.5791
+2016-02-02 21:31:23,413 - usps - DEBUG - objective:-754.5801
+2016-02-02 21:31:40,548 - usps - DEBUG - objective:-754.5834
+2016-02-02 21:31:55,689 - usps - DEBUG - objective:-754.5866
+2016-02-02 21:32:11,337 - usps - DEBUG - objective:-754.5886
+2016-02-02 21:32:27,245 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:32:27,269 - usps - INFO - Saving model...
+2016-02-02 21:32:32,240 - usps - INFO - Model saved.
+2016-02-02 21:32:32,245 - usps - DEBUG - ftol: 0.0412707220115
+2016-02-02 21:32:32,248 - usps - INFO - diff:m:0.00613455480712 s:0.000247688706863
+2016-02-02 21:32:32,250 - usps - INFO - hyp params
+2016-02-02 21:33:26,400 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:34:10,151 - usps - DEBUG - objective:-752.4158
+2016-02-02 21:34:58,218 - usps - DEBUG - objective:-754.4185
+2016-02-02 21:35:53,354 - usps - DEBUG - objective:-754.5539
+2016-02-02 21:36:48,467 - usps - DEBUG - objective:-754.5803
+2016-02-02 21:37:45,959 - usps - DEBUG - objective:-754.5876
+2016-02-02 21:38:43,252 - usps - DEBUG - objective:-754.5898
+2016-02-02 21:39:40,840 - usps - DEBUG - objective:-754.5906
+2016-02-02 21:40:34,917 - usps - DEBUG - objective:-754.5908
+2016-02-02 21:41:29,777 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:42:26,378 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:43:22,951 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:44:17,564 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:45:16,383 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:46:13,337 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:47:11,221 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:48:06,441 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:49:03,643 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:50:00,523 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:50:53,156 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:51:52,308 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:52:49,202 - usps - INFO - Iteration 29 started.
+2016-02-02 21:52:49,202 - usps - INFO - MoG params
+2016-02-02 21:53:06,203 - usps - DEBUG - objective:-754.5909
+2016-02-02 21:53:21,958 - usps - DEBUG - objective:-750.5238
+2016-02-02 21:53:38,352 - usps - DEBUG - objective:-754.5917
+2016-02-02 21:53:54,698 - usps - DEBUG - objective:-754.5926
+2016-02-02 21:54:11,193 - usps - DEBUG - objective:-754.5934
+2016-02-02 21:54:25,720 - usps - DEBUG - objective:-754.5935
+2016-02-02 21:54:41,622 - usps - DEBUG - objective:-754.5939
+2016-02-02 21:54:58,073 - usps - DEBUG - objective:-754.5946
+2016-02-02 21:55:13,820 - usps - DEBUG - objective:-754.5949
+2016-02-02 21:55:28,602 - usps - DEBUG - objective:-754.5957
+2016-02-02 21:55:44,201 - usps - DEBUG - objective:-754.5951
+2016-02-02 21:56:00,310 - usps - DEBUG - objective:-754.5964
+2016-02-02 21:56:15,651 - usps - DEBUG - objective:-754.5973
+2016-02-02 21:56:30,933 - usps - DEBUG - objective:-754.5982
+2016-02-02 21:56:46,399 - usps - DEBUG - objective:-754.5992
+2016-02-02 21:57:02,133 - usps - DEBUG - objective:-754.6001
+2016-02-02 21:57:17,940 - usps - DEBUG - objective:-754.6009
+2016-02-02 21:57:33,216 - usps - DEBUG - objective:-754.6021
+2016-02-02 21:57:48,166 - usps - DEBUG - objective:-754.6035
+2016-02-02 21:58:02,763 - usps - DEBUG - objective:-754.6057
+2016-02-02 21:58:19,005 - usps - DEBUG - objective:-754.6089
+2016-02-02 21:58:34,734 - usps - DEBUG - objective:-754.6106
+2016-02-02 21:58:49,682 - usps - DEBUG - objective:-754.6124
+2016-02-02 21:59:05,229 - usps - DEBUG - objective:-754.6134
+2016-02-02 21:59:20,070 - usps - DEBUG - objective:-754.6149
+2016-02-02 21:59:35,785 - usps - DEBUG - objective:-754.6170
+2016-02-02 21:59:35,802 - usps - INFO - Saving model...
+2016-02-02 21:59:40,716 - usps - INFO - Model saved.
+2016-02-02 21:59:40,719 - usps - DEBUG - ftol: 0.0260263209019
+2016-02-02 21:59:40,721 - usps - INFO - diff:m:0.0070639776933 s:0.000511054652796
+2016-02-02 21:59:40,722 - usps - INFO - hyp params
+2016-02-02 22:00:36,196 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:01:19,495 - usps - DEBUG - objective:-752.4334
+2016-02-02 22:02:08,255 - usps - DEBUG - objective:-754.4432
+2016-02-02 22:03:03,831 - usps - DEBUG - objective:-754.5796
+2016-02-02 22:03:59,932 - usps - DEBUG - objective:-754.6062
+2016-02-02 22:04:58,074 - usps - DEBUG - objective:-754.6136
+2016-02-02 22:05:55,116 - usps - DEBUG - objective:-754.6158
+2016-02-02 22:06:54,267 - usps - DEBUG - objective:-754.6166
+2016-02-02 22:07:51,949 - usps - DEBUG - objective:-754.6168
+2016-02-02 22:08:47,795 - usps - DEBUG - objective:-754.6169
+2016-02-02 22:09:44,647 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:10:39,834 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:11:37,670 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:12:35,287 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:13:30,910 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:14:27,597 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:15:23,745 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:16:19,444 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:17:15,813 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:18:14,973 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:19:11,389 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:20:08,284 - usps - INFO - Iteration 30 started.
+2016-02-02 22:20:08,285 - usps - INFO - MoG params
+2016-02-02 22:20:26,046 - usps - DEBUG - objective:-754.6170
+2016-02-02 22:20:42,214 - usps - DEBUG - objective:-748.4212
+2016-02-02 22:20:59,142 - usps - DEBUG - objective:-754.6175
+2016-02-02 22:21:14,752 - usps - DEBUG - objective:-754.6182
+2016-02-02 22:21:31,437 - usps - DEBUG - objective:-754.6211
+2016-02-02 22:21:47,570 - usps - DEBUG - objective:-754.6226
+2016-02-02 22:22:03,747 - usps - DEBUG - objective:-754.6237
+2016-02-02 22:22:20,957 - usps - DEBUG - objective:-754.6264
+2016-02-02 22:22:38,520 - usps - DEBUG - objective:-754.6282
+2016-02-02 22:22:55,028 - usps - DEBUG - objective:-754.6309
+2016-02-02 22:23:11,625 - usps - DEBUG - objective:-754.6326
+2016-02-02 22:23:29,005 - usps - DEBUG - objective:-754.6336
+2016-02-02 22:23:45,688 - usps - DEBUG - objective:-754.6339
+2016-02-02 22:24:01,474 - usps - DEBUG - objective:-754.6350
+2016-02-02 22:24:19,490 - usps - DEBUG - objective:-754.6365
+2016-02-02 22:24:37,076 - usps - DEBUG - objective:-754.6379
+2016-02-02 22:24:54,554 - usps - DEBUG - objective:-754.6392
+2016-02-02 22:25:10,651 - usps - DEBUG - objective:-754.6398
+2016-02-02 22:25:26,607 - usps - DEBUG - objective:-754.6403
+2016-02-02 22:25:44,443 - usps - DEBUG - objective:-754.6408
+2016-02-02 22:26:01,552 - usps - DEBUG - objective:-754.6415
+2016-02-02 22:26:17,337 - usps - DEBUG - objective:-754.6423
+2016-02-02 22:26:34,653 - usps - DEBUG - objective:-754.6427
+2016-02-02 22:26:51,493 - usps - DEBUG - objective:-754.6433
+2016-02-02 22:27:07,484 - usps - DEBUG - objective:-754.6444
+2016-02-02 22:27:23,888 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:27:24,031 - usps - INFO - Saving model...
+2016-02-02 22:27:28,583 - usps - INFO - Model saved.
+2016-02-02 22:27:28,596 - usps - DEBUG - ftol: 0.0290454466357
+2016-02-02 22:27:28,597 - usps - INFO - diff:m:0.00517279634263 s:0.000202245378773
+2016-02-02 22:27:28,599 - usps - INFO - hyp params
+2016-02-02 22:28:25,556 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:29:11,275 - usps - DEBUG - objective:-752.4616
+2016-02-02 22:29:59,869 - usps - DEBUG - objective:-754.4722
+2016-02-02 22:30:55,391 - usps - DEBUG - objective:-754.6087
+2016-02-02 22:31:52,649 - usps - DEBUG - objective:-754.6353
+2016-02-02 22:32:49,931 - usps - DEBUG - objective:-754.6426
+2016-02-02 22:33:46,991 - usps - DEBUG - objective:-754.6449
+2016-02-02 22:34:43,507 - usps - DEBUG - objective:-754.6456
+2016-02-02 22:35:40,656 - usps - DEBUG - objective:-754.6459
+2016-02-02 22:36:36,587 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:37:30,618 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:38:22,666 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:39:17,676 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:40:10,311 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:41:08,917 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:42:06,149 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:43:03,161 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:44:00,954 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:44:56,546 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:45:55,302 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:46:54,867 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:47:53,661 - usps - INFO - Iteration 31 started.
+2016-02-02 22:47:53,661 - usps - INFO - MoG params
+2016-02-02 22:48:11,002 - usps - DEBUG - objective:-754.6460
+2016-02-02 22:48:28,358 - usps - DEBUG - objective:-744.4598
+2016-02-02 22:48:45,644 - usps - DEBUG - objective:-754.6467
+2016-02-02 22:49:02,843 - usps - DEBUG - objective:-754.6471
+2016-02-02 22:49:19,283 - usps - DEBUG - objective:-754.6479
+2016-02-02 22:49:36,992 - usps - DEBUG - objective:-754.6482
+2016-02-02 22:49:52,879 - usps - DEBUG - objective:-754.6485
+2016-02-02 22:50:10,358 - usps - DEBUG - objective:-754.6492
+2016-02-02 22:50:27,614 - usps - DEBUG - objective:-754.6494
+2016-02-02 22:50:44,055 - usps - DEBUG - objective:-754.6501
+2016-02-02 22:51:01,520 - usps - DEBUG - objective:-754.6511
+2016-02-02 22:51:19,951 - usps - DEBUG - objective:-754.6515
+2016-02-02 22:51:36,788 - usps - DEBUG - objective:-754.6524
+2016-02-02 22:51:54,305 - usps - DEBUG - objective:-754.6540
+2016-02-02 22:52:11,844 - usps - DEBUG - objective:-754.6551
+2016-02-02 22:52:28,761 - usps - DEBUG - objective:-754.6554
+2016-02-02 22:52:46,094 - usps - DEBUG - objective:-754.6569
+2016-02-02 22:53:02,678 - usps - DEBUG - objective:-754.6578
+2016-02-02 22:53:20,926 - usps - DEBUG - objective:-754.6588
+2016-02-02 22:53:38,769 - usps - DEBUG - objective:-754.6597
+2016-02-02 22:53:56,084 - usps - DEBUG - objective:-754.6610
+2016-02-02 22:54:13,454 - usps - DEBUG - objective:-754.6624
+2016-02-02 22:54:31,261 - usps - DEBUG - objective:-754.6636
+2016-02-02 22:54:47,311 - usps - DEBUG - objective:-754.6660
+2016-02-02 22:55:05,596 - usps - DEBUG - objective:-754.6665
+2016-02-02 22:55:23,310 - usps - DEBUG - objective:-754.6675
+2016-02-02 22:55:23,342 - usps - INFO - Saving model...
+2016-02-02 22:55:27,537 - usps - INFO - Model saved.
+2016-02-02 22:55:27,552 - usps - DEBUG - ftol: 0.021466086698
+2016-02-02 22:55:27,560 - usps - INFO - diff:m:0.00592814503251 s:0.000231218086093
+2016-02-02 22:55:27,560 - usps - INFO - hyp params
+2016-02-02 22:56:22,358 - usps - DEBUG - objective:-754.6675
+2016-02-02 22:57:03,745 - usps - DEBUG - objective:-752.4845
+2016-02-02 22:57:50,660 - usps - DEBUG - objective:-754.4938
+2016-02-02 22:58:44,786 - usps - DEBUG - objective:-754.6302
+2016-02-02 22:59:39,869 - usps - DEBUG - objective:-754.6568
+2016-02-02 23:00:36,071 - usps - DEBUG - objective:-754.6641
+2016-02-02 23:01:33,136 - usps - DEBUG - objective:-754.6664
+2016-02-02 23:02:32,466 - usps - DEBUG - objective:-754.6671
+2016-02-02 23:03:32,418 - usps - DEBUG - objective:-754.6674
+2016-02-02 23:04:29,260 - usps - DEBUG - objective:-754.6674
+2016-02-02 23:05:27,254 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:06:24,830 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:07:24,644 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:08:22,633 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:09:21,998 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:10:19,627 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:11:19,158 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:12:16,272 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:13:12,994 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:14:10,900 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:15:09,832 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:16:07,595 - usps - INFO - Iteration 32 started.
+2016-02-02 23:16:07,595 - usps - INFO - MoG params
+2016-02-02 23:16:24,035 - usps - DEBUG - objective:-754.6675
+2016-02-02 23:16:40,936 - usps - DEBUG - objective:-748.8016
+2016-02-02 23:16:57,491 - usps - DEBUG - objective:-754.6678
+2016-02-02 23:17:15,133 - usps - DEBUG - objective:-754.6682
+2016-02-02 23:17:31,679 - usps - DEBUG - objective:-754.6699
+2016-02-02 23:17:47,864 - usps - DEBUG - objective:-754.6712
+2016-02-02 23:18:04,901 - usps - DEBUG - objective:-754.6730
+2016-02-02 23:18:21,738 - usps - DEBUG - objective:-754.6748
+2016-02-02 23:18:38,995 - usps - DEBUG - objective:-754.6754
+2016-02-02 23:18:56,014 - usps - DEBUG - objective:-754.6760
+2016-02-02 23:19:12,417 - usps - DEBUG - objective:-754.6765
+2016-02-02 23:19:28,270 - usps - DEBUG - objective:-754.6776
+2016-02-02 23:19:45,765 - usps - DEBUG - objective:-754.6790
+2016-02-02 23:20:01,596 - usps - DEBUG - objective:-754.6803
+2016-02-02 23:20:19,802 - usps - DEBUG - objective:-754.6815
+2016-02-02 23:20:37,422 - usps - DEBUG - objective:-754.6824
+2016-02-02 23:20:55,163 - usps - DEBUG - objective:-754.6830
+2016-02-02 23:21:12,740 - usps - DEBUG - objective:-754.6834
+2016-02-02 23:21:30,603 - usps - DEBUG - objective:-754.6835
+2016-02-02 23:21:48,959 - usps - DEBUG - objective:-754.6837
+2016-02-02 23:22:06,409 - usps - DEBUG - objective:-754.6843
+2016-02-02 23:22:23,656 - usps - DEBUG - objective:-754.6848
+2016-02-02 23:22:39,776 - usps - DEBUG - objective:-754.6856
+2016-02-02 23:22:55,478 - usps - DEBUG - objective:-754.6861
+2016-02-02 23:23:13,098 - usps - DEBUG - objective:-754.6869
+2016-02-02 23:23:30,062 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:23:30,085 - usps - INFO - Saving model...
+2016-02-02 23:23:34,957 - usps - INFO - Model saved.
+2016-02-02 23:23:34,987 - usps - DEBUG - ftol: 0.0209839515541
+2016-02-02 23:23:34,988 - usps - INFO - diff:m:0.00481246740405 s:0.000190075885105
+2016-02-02 23:23:34,989 - usps - INFO - hyp params
+2016-02-02 23:24:32,230 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:25:19,222 - usps - DEBUG - objective:-752.5041
+2016-02-02 23:26:09,631 - usps - DEBUG - objective:-754.5148
+2016-02-02 23:27:07,902 - usps - DEBUG - objective:-754.6512
+2016-02-02 23:28:05,594 - usps - DEBUG - objective:-754.6777
+2016-02-02 23:29:00,838 - usps - DEBUG - objective:-754.6851
+2016-02-02 23:29:54,907 - usps - DEBUG - objective:-754.6873
+2016-02-02 23:30:52,775 - usps - DEBUG - objective:-754.6881
+2016-02-02 23:31:49,789 - usps - DEBUG - objective:-754.6883
+2016-02-02 23:32:45,406 - usps - DEBUG - objective:-754.6884
+2016-02-02 23:33:43,581 - usps - DEBUG - objective:-754.6884
+2016-02-02 23:34:38,678 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:35:31,202 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:36:30,213 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:37:29,123 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:38:27,787 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:39:25,423 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:40:24,266 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:41:22,127 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:42:19,173 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:43:16,282 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:44:13,716 - usps - INFO - Iteration 33 started.
+2016-02-02 23:44:13,717 - usps - INFO - MoG params
+2016-02-02 23:44:32,085 - usps - DEBUG - objective:-754.6885
+2016-02-02 23:44:49,180 - usps - DEBUG - objective:-743.6366
+2016-02-02 23:45:05,888 - usps - DEBUG - objective:-754.6889
+2016-02-02 23:45:21,423 - usps - DEBUG - objective:-754.6891
+2016-02-02 23:45:37,940 - usps - DEBUG - objective:-754.6899
+2016-02-02 23:45:54,732 - usps - DEBUG - objective:-754.6904
+2016-02-02 23:46:11,106 - usps - DEBUG - objective:-754.6910
+2016-02-02 23:46:28,412 - usps - DEBUG - objective:-754.6915
+2016-02-02 23:46:44,193 - usps - DEBUG - objective:-754.6917
+2016-02-02 23:47:01,837 - usps - DEBUG - objective:-754.6921
+2016-02-02 23:47:19,747 - usps - DEBUG - objective:-754.6926
+2016-02-02 23:47:37,647 - usps - DEBUG - objective:-754.6932
+2016-02-02 23:47:55,290 - usps - DEBUG - objective:-754.6943
+2016-02-02 23:48:11,503 - usps - DEBUG - objective:-754.6949
+2016-02-02 23:48:29,427 - usps - DEBUG - objective:-754.6955
+2016-02-02 23:48:47,221 - usps - DEBUG - objective:-754.6962
+2016-02-02 23:49:04,309 - usps - DEBUG - objective:-754.6966
+2016-02-02 23:49:20,824 - usps - DEBUG - objective:-754.6972
+2016-02-02 23:49:38,419 - usps - DEBUG - objective:-754.6979
+2016-02-02 23:49:55,949 - usps - DEBUG - objective:-754.6984
+2016-02-02 23:50:13,407 - usps - DEBUG - objective:-754.6991
+2016-02-02 23:50:30,989 - usps - DEBUG - objective:-754.6995
+2016-02-02 23:50:47,498 - usps - DEBUG - objective:-754.7014
+2016-02-02 23:51:02,161 - usps - DEBUG - objective:-754.7036
+2016-02-02 23:51:19,404 - usps - DEBUG - objective:-754.7067
+2016-02-02 23:51:36,470 - usps - DEBUG - objective:-754.7091
+2016-02-02 23:51:36,496 - usps - INFO - Saving model...
+2016-02-02 23:51:41,002 - usps - INFO - Model saved.
+2016-02-02 23:51:41,011 - usps - DEBUG - ftol: 0.0206683102944
+2016-02-02 23:51:41,023 - usps - INFO - diff:m:0.00625609646553 s:0.000174941371821
+2016-02-02 23:51:41,024 - usps - INFO - hyp params
+2016-02-02 23:52:35,663 - usps - DEBUG - objective:-754.7091
+2016-02-02 23:53:18,870 - usps - DEBUG - objective:-752.5265
+2016-02-02 23:54:06,864 - usps - DEBUG - objective:-754.5355
+2016-02-02 23:55:01,543 - usps - DEBUG - objective:-754.6718
+2016-02-02 23:55:57,926 - usps - DEBUG - objective:-754.6984
+2016-02-02 23:56:53,377 - usps - DEBUG - objective:-754.7057
+2016-02-02 23:57:51,538 - usps - DEBUG - objective:-754.7080
+2016-02-02 23:58:48,562 - usps - DEBUG - objective:-754.7088
+2016-02-02 23:59:48,286 - usps - DEBUG - objective:-754.7090
+2016-02-03 00:00:47,217 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:01:46,777 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:02:44,164 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:03:41,038 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:04:39,894 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:05:37,636 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:06:32,568 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:07:30,659 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:08:28,128 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:09:26,134 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:10:21,065 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:11:20,410 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:12:18,647 - usps - INFO - Iteration 34 started.
+2016-02-03 00:12:18,647 - usps - INFO - MoG params
+2016-02-03 00:12:36,181 - usps - DEBUG - objective:-754.7091
+2016-02-03 00:12:54,549 - usps - DEBUG - objective:-752.8844
+2016-02-03 00:13:12,059 - usps - DEBUG - objective:-754.7102
+2016-02-03 00:13:29,762 - usps - DEBUG - objective:-754.7118
+2016-02-03 00:13:45,689 - usps - DEBUG - objective:-754.7127
+2016-02-03 00:14:03,486 - usps - DEBUG - objective:-754.7133
+2016-02-03 00:14:21,121 - usps - DEBUG - objective:-754.7139
+2016-02-03 00:14:37,760 - usps - DEBUG - objective:-754.7145
+2016-02-03 00:14:55,541 - usps - DEBUG - objective:-754.7150
+2016-02-03 00:15:11,156 - usps - DEBUG - objective:-754.7152
+2016-02-03 00:15:26,599 - usps - DEBUG - objective:-754.7158
+2016-02-03 00:15:42,647 - usps - DEBUG - objective:-754.7165
+2016-02-03 00:15:58,909 - usps - DEBUG - objective:-754.7171
+2016-02-03 00:16:15,662 - usps - DEBUG - objective:-754.7178
+2016-02-03 00:16:32,718 - usps - DEBUG - objective:-754.7181
+2016-02-03 00:16:49,182 - usps - DEBUG - objective:-754.7189
+2016-02-03 00:17:05,899 - usps - DEBUG - objective:-754.7201
+2016-02-03 00:17:22,681 - usps - DEBUG - objective:-754.7188
+2016-02-03 00:17:39,215 - usps - DEBUG - objective:-754.7207
+2016-02-03 00:17:55,201 - usps - DEBUG - objective:-754.7218
+2016-02-03 00:18:11,029 - usps - DEBUG - objective:-754.7223
+2016-02-03 00:18:28,262 - usps - DEBUG - objective:-754.7227
+2016-02-03 00:18:44,429 - usps - DEBUG - objective:-754.7231
+2016-02-03 00:18:59,668 - usps - DEBUG - objective:-754.7233
+2016-02-03 00:19:16,264 - usps - DEBUG - objective:-754.7237
+2016-02-03 00:19:34,010 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:19:34,013 - usps - INFO - Saving model...
+2016-02-03 00:19:38,584 - usps - INFO - Model saved.
+2016-02-03 00:19:38,600 - usps - DEBUG - ftol: 0.0149629371003
+2016-02-03 00:19:38,602 - usps - INFO - diff:m:0.00342233550297 s:0.000148029490071
+2016-02-03 00:19:38,604 - usps - INFO - hyp params
+2016-02-03 00:20:34,998 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:21:19,411 - usps - DEBUG - objective:-752.5404
+2016-02-03 00:22:09,368 - usps - DEBUG - objective:-754.5505
+2016-02-03 00:23:06,404 - usps - DEBUG - objective:-754.6868
+2016-02-03 00:24:04,527 - usps - DEBUG - objective:-754.7134
+2016-02-03 00:25:02,699 - usps - DEBUG - objective:-754.7207
+2016-02-03 00:25:58,824 - usps - DEBUG - objective:-754.7230
+2016-02-03 00:26:54,635 - usps - DEBUG - objective:-754.7237
+2016-02-03 00:27:52,364 - usps - DEBUG - objective:-754.7240
+2016-02-03 00:28:49,289 - usps - DEBUG - objective:-754.7240
+2016-02-03 00:29:46,842 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:30:43,831 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:31:39,161 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:32:35,403 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:33:33,004 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:34:31,079 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:35:29,597 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:36:27,274 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:37:24,772 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:38:23,920 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:39:20,234 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:40:17,793 - usps - INFO - Iteration 35 started.
+2016-02-03 00:40:17,794 - usps - INFO - MoG params
+2016-02-03 00:40:35,604 - usps - DEBUG - objective:-754.7241
+2016-02-03 00:40:51,606 - usps - DEBUG - objective:-737.4707
+2016-02-03 00:41:09,194 - usps - DEBUG - objective:-754.7242
+2016-02-03 00:41:26,825 - usps - DEBUG - objective:-754.7243
+2016-02-03 00:41:43,350 - usps - DEBUG - objective:-754.7244
+2016-02-03 00:42:00,590 - usps - DEBUG - objective:-754.7246
+2016-02-03 00:42:18,349 - usps - DEBUG - objective:-754.7249
+2016-02-03 00:42:37,186 - usps - DEBUG - objective:-754.7251
+2016-02-03 00:42:54,161 - usps - DEBUG - objective:-754.7258
+2016-02-03 00:43:11,010 - usps - DEBUG - objective:-754.7260
+2016-02-03 00:43:29,622 - usps - DEBUG - objective:-754.7264
+2016-02-03 00:43:46,928 - usps - DEBUG - objective:-754.7267
+2016-02-03 00:44:03,401 - usps - DEBUG - objective:-754.7271
+2016-02-03 00:44:19,899 - usps - DEBUG - objective:-754.7276
+2016-02-03 00:44:36,530 - usps - DEBUG - objective:-754.7287
+2016-02-03 00:44:53,905 - usps - DEBUG - objective:-754.7291
+2016-02-03 00:45:11,571 - usps - DEBUG - objective:-754.7298
+2016-02-03 00:45:28,281 - usps - DEBUG - objective:-754.7300
+2016-02-03 00:45:45,998 - usps - DEBUG - objective:-754.7303
+2016-02-03 00:46:02,571 - usps - DEBUG - objective:-754.7308
+2016-02-03 00:46:21,077 - usps - DEBUG - objective:-754.7316
+2016-02-03 00:46:37,741 - usps - DEBUG - objective:-754.7324
+2016-02-03 00:46:55,026 - usps - DEBUG - objective:-754.7332
+2016-02-03 00:47:11,935 - usps - DEBUG - objective:-754.7339
+2016-02-03 00:47:29,396 - usps - DEBUG - objective:-754.7345
+2016-02-03 00:47:46,915 - usps - DEBUG - objective:-754.7364
+2016-02-03 00:47:46,918 - usps - INFO - Saving model...
+2016-02-03 00:47:51,791 - usps - INFO - Model saved.
+2016-02-03 00:47:51,797 - usps - DEBUG - ftol: 0.0123235817181
+2016-02-03 00:47:51,807 - usps - INFO - diff:m:0.0047792126183 s:0.000140203385799
+2016-02-03 00:47:51,807 - usps - INFO - hyp params
+2016-02-03 00:48:48,623 - usps - DEBUG - objective:-754.7364
+2016-02-03 00:49:31,994 - usps - DEBUG - objective:-752.5537
+2016-02-03 00:50:21,392 - usps - DEBUG - objective:-754.5628
+2016-02-03 00:51:18,956 - usps - DEBUG - objective:-754.6991
+2016-02-03 00:52:15,546 - usps - DEBUG - objective:-754.7257
+2016-02-03 00:53:13,409 - usps - DEBUG - objective:-754.7330
+2016-02-03 00:54:12,045 - usps - DEBUG - objective:-754.7353
+2016-02-03 00:55:10,408 - usps - DEBUG - objective:-754.7360
+2016-02-03 00:56:06,798 - usps - DEBUG - objective:-754.7363
+2016-02-03 00:57:06,001 - usps - DEBUG - objective:-754.7364
+2016-02-03 00:58:06,470 - usps - DEBUG - objective:-754.7364
+2016-02-03 00:59:05,021 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:00:00,463 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:00:58,918 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:01:57,470 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:02:56,231 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:03:54,711 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:04:50,397 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:05:45,243 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:06:43,808 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:07:37,810 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:08:35,693 - usps - INFO - Iteration 36 started.
+2016-02-03 01:08:35,693 - usps - INFO - MoG params
+2016-02-03 01:08:52,611 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:09:09,015 - usps - DEBUG - objective:-748.5514
+2016-02-03 01:09:26,128 - usps - DEBUG - objective:-754.7367
+2016-02-03 01:09:43,335 - usps - DEBUG - objective:-754.7370
+2016-02-03 01:09:59,277 - usps - DEBUG - objective:-754.7380
+2016-02-03 01:10:16,502 - usps - DEBUG - objective:-754.7383
+2016-02-03 01:10:33,318 - usps - DEBUG - objective:-754.7386
+2016-02-03 01:10:50,155 - usps - DEBUG - objective:-754.7397
+2016-02-03 01:11:08,345 - usps - DEBUG - objective:-754.7402
+2016-02-03 01:11:26,222 - usps - DEBUG - objective:-754.7397
+2016-02-03 01:11:44,805 - usps - DEBUG - objective:-754.7407
+2016-02-03 01:12:03,028 - usps - DEBUG - objective:-754.7413
+2016-02-03 01:12:22,010 - usps - DEBUG - objective:-754.7417
+2016-02-03 01:12:40,615 - usps - DEBUG - objective:-754.7423
+2016-02-03 01:12:57,835 - usps - DEBUG - objective:-754.7431
+2016-02-03 01:13:16,001 - usps - DEBUG - objective:-754.7441
+2016-02-03 01:13:33,566 - usps - DEBUG - objective:-754.7451
+2016-02-03 01:13:51,414 - usps - DEBUG - objective:-754.7453
+2016-02-03 01:14:08,738 - usps - DEBUG - objective:-754.7455
+2016-02-03 01:14:26,147 - usps - DEBUG - objective:-754.7458
+2016-02-03 01:14:42,510 - usps - DEBUG - objective:-754.7460
+2016-02-03 01:14:59,719 - usps - DEBUG - objective:-754.7463
+2016-02-03 01:15:18,186 - usps - DEBUG - objective:-754.7466
+2016-02-03 01:15:34,639 - usps - DEBUG - objective:-754.7469
+2016-02-03 01:15:52,168 - usps - DEBUG - objective:-754.7470
+2016-02-03 01:16:08,857 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:16:08,881 - usps - INFO - Saving model...
+2016-02-03 01:16:13,996 - usps - INFO - Model saved.
+2016-02-03 01:16:13,996 - usps - DEBUG - ftol: 0.0106482615105
+2016-02-03 01:16:13,997 - usps - INFO - diff:m:0.00285164853828 s:0.000126025577557
+2016-02-03 01:16:13,997 - usps - INFO - hyp params
+2016-02-03 01:17:07,816 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:17:51,706 - usps - DEBUG - objective:-752.5632
+2016-02-03 01:18:38,331 - usps - DEBUG - objective:-754.5735
+2016-02-03 01:19:33,179 - usps - DEBUG - objective:-754.7098
+2016-02-03 01:20:33,260 - usps - DEBUG - objective:-754.7364
+2016-02-03 01:21:31,598 - usps - DEBUG - objective:-754.7437
+2016-02-03 01:22:32,099 - usps - DEBUG - objective:-754.7459
+2016-02-03 01:23:30,520 - usps - DEBUG - objective:-754.7467
+2016-02-03 01:24:29,931 - usps - DEBUG - objective:-754.7469
+2016-02-03 01:25:26,338 - usps - DEBUG - objective:-754.7470
+2016-02-03 01:26:23,869 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:27:20,488 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:28:18,323 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:29:14,438 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:30:13,778 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:31:12,109 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:32:11,480 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:33:11,678 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:34:12,345 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:35:11,009 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:36:11,979 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:37:09,099 - usps - INFO - Iteration 37 started.
+2016-02-03 01:37:09,100 - usps - INFO - MoG params
+2016-02-03 01:37:26,591 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:37:42,751 - usps - DEBUG - objective:-743.5887
+2016-02-03 01:38:00,823 - usps - DEBUG - objective:-754.7471
+2016-02-03 01:38:17,469 - usps - DEBUG - objective:-754.7472
+2016-02-03 01:38:34,954 - usps - DEBUG - objective:-754.7473
+2016-02-03 01:38:51,442 - usps - DEBUG - objective:-754.7476
+2016-02-03 01:39:08,398 - usps - DEBUG - objective:-754.7478
+2016-02-03 01:39:25,622 - usps - DEBUG - objective:-754.7479
+2016-02-03 01:39:42,496 - usps - DEBUG - objective:-754.7482
+2016-02-03 01:39:59,965 - usps - DEBUG - objective:-754.7484
+2016-02-03 01:40:17,391 - usps - DEBUG - objective:-754.7487
+2016-02-03 01:40:34,039 - usps - DEBUG - objective:-754.7491
+2016-02-03 01:40:51,840 - usps - DEBUG - objective:-754.7495
+2016-02-03 01:41:09,906 - usps - DEBUG - objective:-754.7499
+2016-02-03 01:41:27,454 - usps - DEBUG - objective:-754.7503
+2016-02-03 01:41:43,110 - usps - DEBUG - objective:-754.7507
+2016-02-03 01:41:58,516 - usps - DEBUG - objective:-754.7510
+2016-02-03 01:42:15,114 - usps - DEBUG - objective:-754.7514
+2016-02-03 01:42:32,638 - usps - DEBUG - objective:-754.7519
+2016-02-03 01:42:50,203 - usps - DEBUG - objective:-754.7525
+2016-02-03 01:43:07,698 - usps - DEBUG - objective:-754.7531
+2016-02-03 01:43:26,652 - usps - DEBUG - objective:-754.7536
+2016-02-03 01:43:44,326 - usps - DEBUG - objective:-754.7541
+2016-02-03 01:44:01,621 - usps - DEBUG - objective:-754.7548
+2016-02-03 01:44:19,345 - usps - DEBUG - objective:-754.7562
+2016-02-03 01:44:37,660 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:44:37,690 - usps - INFO - Saving model...
+2016-02-03 01:44:41,599 - usps - INFO - Model saved.
+2016-02-03 01:44:41,601 - usps - DEBUG - ftol: 0.0115125391985
+2016-02-03 01:44:41,603 - usps - INFO - diff:m:0.00491822361359 s:0.000121114286718
+2016-02-03 01:44:41,604 - usps - INFO - hyp params
+2016-02-03 01:45:39,458 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:46:24,290 - usps - DEBUG - objective:-752.5762
+2016-02-03 01:47:12,906 - usps - DEBUG - objective:-754.5849
+2016-02-03 01:48:08,987 - usps - DEBUG - objective:-754.7213
+2016-02-03 01:49:06,272 - usps - DEBUG - objective:-754.7479
+2016-02-03 01:50:02,042 - usps - DEBUG - objective:-754.7552
+2016-02-03 01:51:00,977 - usps - DEBUG - objective:-754.7575
+2016-02-03 01:52:01,520 - usps - DEBUG - objective:-754.7582
+2016-02-03 01:52:58,733 - usps - DEBUG - objective:-754.7584
+2016-02-03 01:53:57,922 - usps - DEBUG - objective:-754.7585
+2016-02-03 01:54:54,994 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:55:54,979 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:56:53,901 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:57:53,939 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:58:52,667 - usps - DEBUG - objective:-754.7586
+2016-02-03 01:59:49,165 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:00:44,996 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:01:42,523 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:02:37,807 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:03:34,164 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:04:29,978 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:05:27,525 - usps - INFO - Iteration 38 started.
+2016-02-03 02:05:27,526 - usps - INFO - MoG params
+2016-02-03 02:05:44,212 - usps - DEBUG - objective:-754.7586
+2016-02-03 02:06:02,106 - usps - DEBUG - objective:-748.6691
+2016-02-03 02:06:19,581 - usps - DEBUG - objective:-754.7593
+2016-02-03 02:06:37,723 - usps - DEBUG - objective:-754.7600
+2016-02-03 02:06:55,911 - usps - DEBUG - objective:-754.7607
+2016-02-03 02:07:13,620 - usps - DEBUG - objective:-754.7609
+2016-02-03 02:07:30,805 - usps - DEBUG - objective:-754.7612
+2016-02-03 02:07:48,820 - usps - DEBUG - objective:-754.7614
+2016-02-03 02:08:06,692 - usps - DEBUG - objective:-754.7617
+2016-02-03 02:08:24,299 - usps - DEBUG - objective:-754.7620
+2016-02-03 02:08:42,212 - usps - DEBUG - objective:-754.7627
+2016-02-03 02:08:59,762 - usps - DEBUG - objective:-754.7634
+2016-02-03 02:09:17,525 - usps - DEBUG - objective:-754.7637
+2016-02-03 02:09:34,158 - usps - DEBUG - objective:-754.7644
+2016-02-03 02:09:51,706 - usps - DEBUG - objective:-754.7651
+2016-02-03 02:10:09,565 - usps - DEBUG - objective:-754.7655
+2016-02-03 02:10:26,211 - usps - DEBUG - objective:-754.7659
+2016-02-03 02:10:42,670 - usps - DEBUG - objective:-754.7661
+2016-02-03 02:10:58,220 - usps - DEBUG - objective:-754.7664
+2016-02-03 02:11:15,329 - usps - DEBUG - objective:-754.7670
+2016-02-03 02:11:32,652 - usps - DEBUG - objective:-754.7674
+2016-02-03 02:11:48,956 - usps - DEBUG - objective:-754.7675
+2016-02-03 02:12:06,207 - usps - DEBUG - objective:-754.7677
+2016-02-03 02:12:22,137 - usps - DEBUG - objective:-754.7677
+2016-02-03 02:12:38,939 - usps - DEBUG - objective:-754.7677
+2016-02-03 02:12:54,985 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:12:54,994 - usps - INFO - Saving model...
+2016-02-03 02:12:59,953 - usps - INFO - Model saved.
+2016-02-03 02:12:59,954 - usps - DEBUG - ftol: 0.00930616607309
+2016-02-03 02:12:59,954 - usps - INFO - diff:m:0.00234798698367 s:0.000104555304782
+2016-02-03 02:12:59,954 - usps - INFO - hyp params
+2016-02-03 02:13:55,543 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:14:37,403 - usps - DEBUG - objective:-752.5842
+2016-02-03 02:15:24,424 - usps - DEBUG - objective:-754.5943
+2016-02-03 02:16:19,413 - usps - DEBUG - objective:-754.7306
+2016-02-03 02:17:15,789 - usps - DEBUG - objective:-754.7572
+2016-02-03 02:18:14,870 - usps - DEBUG - objective:-754.7645
+2016-02-03 02:19:13,224 - usps - DEBUG - objective:-754.7668
+2016-02-03 02:20:12,486 - usps - DEBUG - objective:-754.7675
+2016-02-03 02:21:09,431 - usps - DEBUG - objective:-754.7678
+2016-02-03 02:22:09,340 - usps - DEBUG - objective:-754.7678
+2016-02-03 02:23:07,932 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:24:06,693 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:25:04,229 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:26:02,973 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:27:00,392 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:27:58,777 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:28:55,217 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:29:53,948 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:30:50,992 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:31:48,921 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:32:46,251 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:33:45,303 - usps - INFO - Iteration 39 started.
+2016-02-03 02:33:45,304 - usps - INFO - MoG params
+2016-02-03 02:34:02,884 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:34:20,774 - usps - DEBUG - objective:-745.5102
+2016-02-03 02:34:37,946 - usps - DEBUG - objective:-754.7679
+2016-02-03 02:34:54,899 - usps - DEBUG - objective:-754.7680
+2016-02-03 02:35:11,710 - usps - DEBUG - objective:-754.7681
+2016-02-03 02:35:28,398 - usps - DEBUG - objective:-754.7682
+2016-02-03 02:35:46,271 - usps - DEBUG - objective:-754.7684
+2016-02-03 02:36:03,625 - usps - DEBUG - objective:-754.7686
+2016-02-03 02:36:20,691 - usps - DEBUG - objective:-754.7690
+2016-02-03 02:36:38,624 - usps - DEBUG - objective:-754.7690
+2016-02-03 02:36:56,500 - usps - DEBUG - objective:-754.7692
+2016-02-03 02:37:13,535 - usps - DEBUG - objective:-754.7693
+2016-02-03 02:37:30,391 - usps - DEBUG - objective:-754.7695
+2016-02-03 02:37:46,761 - usps - DEBUG - objective:-754.7698
+2016-02-03 02:38:03,574 - usps - DEBUG - objective:-754.7701
+2016-02-03 02:38:20,986 - usps - DEBUG - objective:-754.7707
+2016-02-03 02:38:37,907 - usps - DEBUG - objective:-754.7709
+2016-02-03 02:38:54,875 - usps - DEBUG - objective:-754.7712
+2016-02-03 02:39:12,011 - usps - DEBUG - objective:-754.7714
+2016-02-03 02:39:29,572 - usps - DEBUG - objective:-754.7716
+2016-02-03 02:39:45,825 - usps - DEBUG - objective:-754.7720
+2016-02-03 02:40:01,393 - usps - DEBUG - objective:-754.7726
+2016-02-03 02:40:17,889 - usps - DEBUG - objective:-754.7732
+2016-02-03 02:40:35,469 - usps - DEBUG - objective:-754.7741
+2016-02-03 02:40:52,336 - usps - DEBUG - objective:-754.7752
+2016-02-03 02:41:08,779 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:41:08,783 - usps - INFO - Saving model...
+2016-02-03 02:41:12,930 - usps - INFO - Model saved.
+2016-02-03 02:41:12,935 - usps - DEBUG - ftol: 0.00942342801397
+2016-02-03 02:41:12,937 - usps - INFO - diff:m:0.00437404964308 s:0.00010018662355
+2016-02-03 02:41:12,939 - usps - INFO - hyp params
+2016-02-03 02:42:08,936 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:42:51,713 - usps - DEBUG - objective:-752.5944
+2016-02-03 02:43:42,327 - usps - DEBUG - objective:-754.6037
+2016-02-03 02:44:39,808 - usps - DEBUG - objective:-754.7400
+2016-02-03 02:45:39,919 - usps - DEBUG - objective:-754.7666
+2016-02-03 02:46:39,865 - usps - DEBUG - objective:-754.7739
+2016-02-03 02:47:38,483 - usps - DEBUG - objective:-754.7762
+2016-02-03 02:48:35,754 - usps - DEBUG - objective:-754.7769
+2016-02-03 02:49:35,114 - usps - DEBUG - objective:-754.7772
+2016-02-03 02:50:33,158 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:51:27,139 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:52:22,607 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:53:19,680 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:54:17,162 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:55:18,194 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:56:16,318 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:57:14,927 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:58:14,981 - usps - DEBUG - objective:-754.7773
+2016-02-03 02:59:13,331 - usps - DEBUG - objective:-754.7773
+2016-02-03 03:00:12,227 - usps - DEBUG - objective:-754.7773
+2016-02-03 03:01:10,999 - usps - DEBUG - objective:-754.7773
+2016-02-03 03:02:08,494 - usps - INFO - Iteration 40 started.
+2016-02-03 03:02:08,495 - usps - INFO - MoG params
+2016-02-03 03:02:26,823 - usps - DEBUG - objective:-754.7773
+2016-02-03 03:02:44,291 - usps - DEBUG - objective:-750.8944
+2016-02-03 03:03:01,863 - usps - DEBUG - objective:-754.7780
+2016-02-03 03:03:18,686 - usps - DEBUG - objective:-754.7786
+2016-02-03 03:03:36,851 - usps - DEBUG - objective:-754.7787
+2016-02-03 03:03:54,031 - usps - DEBUG - objective:-754.7791
+2016-02-03 03:04:11,330 - usps - DEBUG - objective:-754.7789
+2016-02-03 03:04:29,057 - usps - DEBUG - objective:-754.7792
+2016-02-03 03:04:47,959 - usps - DEBUG - objective:-754.7793
+2016-02-03 03:05:06,471 - usps - DEBUG - objective:-754.7795
+2016-02-03 03:05:24,500 - usps - DEBUG - objective:-754.7797
+2016-02-03 03:05:42,248 - usps - DEBUG - objective:-754.7801
+2016-02-03 03:05:59,455 - usps - DEBUG - objective:-754.7805
+2016-02-03 03:06:17,249 - usps - DEBUG - objective:-754.7810
+2016-02-03 03:06:35,278 - usps - DEBUG - objective:-754.7813
+2016-02-03 03:06:53,588 - usps - DEBUG - objective:-754.7817
+2016-02-03 03:07:11,058 - usps - DEBUG - objective:-754.7823
+2016-02-03 03:07:28,618 - usps - DEBUG - objective:-754.7823
+2016-02-03 03:07:46,061 - usps - DEBUG - objective:-754.7826
+2016-02-03 03:08:03,716 - usps - DEBUG - objective:-754.7829
+2016-02-03 03:08:20,706 - usps - DEBUG - objective:-754.7830
+2016-02-03 03:08:38,590 - usps - DEBUG - objective:-754.7831
+2016-02-03 03:08:56,122 - usps - DEBUG - objective:-754.7832
+2016-02-03 03:09:14,165 - usps - DEBUG - objective:-754.7833
+2016-02-03 03:09:31,902 - usps - DEBUG - objective:-754.7834
+2016-02-03 03:09:48,013 - usps - DEBUG - objective:-754.7835
+2016-02-03 03:09:48,032 - usps - INFO - Saving model...
+2016-02-03 03:09:52,066 - usps - INFO - Model saved.
+2016-02-03 03:09:52,067 - usps - DEBUG - ftol: 0.00624240224715
+2016-02-03 03:09:52,068 - usps - INFO - diff:m:0.0018110756357 s:8.24298142079e-05
+2016-02-03 03:09:52,068 - usps - INFO - best obj found: -754.783544814
+2016-02-03 03:09:52,069 - usps - DEBUG - prediction started...
+2016-02-03 03:10:35,674 - usps - DEBUG - prediction finished

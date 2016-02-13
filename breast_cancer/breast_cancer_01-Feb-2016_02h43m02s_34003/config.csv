@@ -1,0 +1,2 @@
+total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
+1520.033653974533,1,200,"{'hyp': 25, 'mog': 25}",0.001,73ddf4f1ad84b3a00ebb14d14c2ba15e1975c81a,,1e-05,0.001,0.1,LogisticLL,1893,2000,breast_cancer,master,True,full

@@ -1,0 +1,2902 @@
+2016-01-30 00:24:26,832 - creep - INFO - experiment started for:{'run_id': 2, 'max_iter': 200, 'optimization_config': {'hyp': 25, 'll': 25, 'mog': 25}, 'xtol': 0.001, 'git_hash': 'a89f7e60526a847e4cefa30be774ad3ee7bf41f8', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 0.5, 'll': 'WarpLL', 'sample_num': 2000, 'experiment': 'creep', 'git_branch': 'master', 'random_Z': True, 'method': u'mix2'}
+2016-01-30 00:24:28,021 - creep - INFO - Iteration 0 started.
+2016-01-30 00:24:28,022 - creep - INFO - MoG params
+2016-01-30 00:24:28,881 - creep - DEBUG - objective:209923.7645
+2016-01-30 00:24:29,831 - creep - DEBUG - objective:201810.1122
+2016-01-30 00:24:30,687 - creep - DEBUG - objective:159181.1383
+2016-01-30 00:24:32,192 - creep - DEBUG - objective:126415.8003
+2016-01-30 00:24:33,163 - creep - DEBUG - objective:86167.5290
+2016-01-30 00:24:34,224 - creep - DEBUG - objective:71241.7976
+2016-01-30 00:24:35,024 - creep - DEBUG - objective:58822.8785
+2016-01-30 00:24:35,631 - creep - DEBUG - objective:51635.7951
+2016-01-30 00:24:36,505 - creep - DEBUG - objective:46311.4370
+2016-01-30 00:24:37,308 - creep - DEBUG - objective:41215.9434
+2016-01-30 00:24:38,317 - creep - DEBUG - objective:45862.6376
+2016-01-30 00:24:39,363 - creep - DEBUG - objective:39484.9400
+2016-01-30 00:24:40,030 - creep - DEBUG - objective:37583.1675
+2016-01-30 00:24:40,971 - creep - DEBUG - objective:36366.4755
+2016-01-30 00:24:42,194 - creep - DEBUG - objective:34622.0988
+2016-01-30 00:24:43,112 - creep - DEBUG - objective:32901.0718
+2016-01-30 00:24:43,977 - creep - DEBUG - objective:34496.2778
+2016-01-30 00:24:44,647 - creep - DEBUG - objective:32285.0695
+2016-01-30 00:24:45,374 - creep - DEBUG - objective:31538.5320
+2016-01-30 00:24:46,132 - creep - DEBUG - objective:30894.8107
+2016-01-30 00:24:47,221 - creep - DEBUG - objective:30101.6302
+2016-01-30 00:24:48,382 - creep - DEBUG - objective:29694.7996
+2016-01-30 00:24:49,674 - creep - DEBUG - objective:29134.8729
+2016-01-30 00:24:51,138 - creep - DEBUG - objective:28783.3163
+2016-01-30 00:24:52,980 - creep - DEBUG - objective:28364.8359
+2016-01-30 00:24:54,539 - creep - DEBUG - objective:27352.9565
+2016-01-30 00:24:54,541 - creep - INFO - Saving model...
+2016-01-30 00:24:54,643 - creep - INFO - Model saved.
+2016-01-30 00:24:54,644 - creep - INFO - ll params
+2016-01-30 00:24:55,597 - creep - DEBUG - objective:27352.9565
+2016-01-30 00:24:56,371 - creep - DEBUG - objective:9657.9612
+2016-01-30 00:24:57,449 - creep - DEBUG - objective:5367.1450
+2016-01-30 00:24:58,173 - creep - DEBUG - objective:2627.7643
+2016-01-30 00:24:59,050 - creep - DEBUG - objective:1515.5777
+2016-01-30 00:25:00,058 - creep - DEBUG - objective:1037.7508
+2016-01-30 00:25:00,704 - creep - DEBUG - objective:878.1057
+2016-01-30 00:25:01,468 - creep - DEBUG - objective:840.0950
+2016-01-30 00:25:02,301 - creep - DEBUG - objective:835.5097
+2016-01-30 00:25:03,448 - creep - DEBUG - objective:835.3369
+2016-01-30 00:25:04,240 - creep - DEBUG - objective:835.3359
+2016-01-30 00:25:05,157 - creep - DEBUG - objective:835.3359
+2016-01-30 00:25:05,806 - creep - DEBUG - objective:835.3359
+2016-01-30 00:25:06,439 - creep - DEBUG - objective:835.3359
+2016-01-30 00:25:06,440 - creep - INFO - hyp params
+2016-01-30 00:25:19,427 - creep - DEBUG - objective:835.3359
+2016-01-30 00:25:33,945 - creep - DEBUG - objective:240.4719
+2016-01-30 00:25:48,628 - creep - DEBUG - objective:36.2330
+2016-01-30 00:26:04,631 - creep - DEBUG - objective:-133.4993
+2016-01-30 00:26:23,031 - creep - DEBUG - objective:-179.3950
+2016-01-30 00:26:39,213 - creep - DEBUG - objective:-233.8447
+2016-01-30 00:26:59,152 - creep - DEBUG - objective:-295.6613
+2016-01-30 00:27:14,486 - creep - DEBUG - objective:-364.6646
+2016-01-30 00:27:29,260 - creep - DEBUG - objective:-387.5295
+2016-01-30 00:27:45,085 - creep - DEBUG - objective:-404.5187
+2016-01-30 00:28:01,263 - creep - DEBUG - objective:-422.5604
+2016-01-30 00:28:21,450 - creep - DEBUG - objective:-452.8670
+2016-01-30 00:28:37,791 - creep - DEBUG - objective:-475.2780
+2016-01-30 00:28:52,664 - creep - DEBUG - objective:-493.0176
+2016-01-30 00:29:07,315 - creep - DEBUG - objective:-498.9643
+2016-01-30 00:29:22,424 - creep - DEBUG - objective:-503.7710
+2016-01-30 00:29:41,096 - creep - DEBUG - objective:-507.4352
+2016-01-30 00:29:56,331 - creep - DEBUG - objective:-509.5112
+2016-01-30 00:30:11,602 - creep - DEBUG - objective:-515.5630
+2016-01-30 00:30:26,380 - creep - DEBUG - objective:-519.4411
+2016-01-30 00:30:40,919 - creep - DEBUG - objective:-524.0865
+2016-01-30 00:30:55,763 - creep - DEBUG - objective:-526.0070
+2016-01-30 00:31:11,558 - creep - DEBUG - objective:-527.5204
+2016-01-30 00:31:27,914 - creep - DEBUG - objective:-529.4236
+2016-01-30 00:31:41,476 - creep - DEBUG - objective:-530.3247
+2016-01-30 00:31:55,771 - creep - DEBUG - objective:-530.0832
+2016-01-30 00:32:10,374 - creep - INFO - Iteration 1 started.
+2016-01-30 00:32:10,375 - creep - INFO - MoG params
+2016-01-30 00:32:11,529 - creep - DEBUG - objective:-530.3247
+2016-01-30 00:32:12,314 - creep - DEBUG - objective:-450.8282
+2016-01-30 00:32:12,983 - creep - DEBUG - objective:-577.6264
+2016-01-30 00:32:14,133 - creep - DEBUG - objective:-595.0079
+2016-01-30 00:32:15,174 - creep - DEBUG - objective:-646.1547
+2016-01-30 00:32:16,230 - creep - DEBUG - objective:-672.8151
+2016-01-30 00:32:17,330 - creep - DEBUG - objective:-699.6569
+2016-01-30 00:32:18,338 - creep - DEBUG - objective:-720.4524
+2016-01-30 00:32:19,227 - creep - DEBUG - objective:-749.5069
+2016-01-30 00:32:20,064 - creep - DEBUG - objective:-761.4773
+2016-01-30 00:32:20,820 - creep - DEBUG - objective:-780.7467
+2016-01-30 00:32:21,642 - creep - DEBUG - objective:-796.9959
+2016-01-30 00:32:22,631 - creep - DEBUG - objective:-808.7878
+2016-01-30 00:32:23,760 - creep - DEBUG - objective:-823.6565
+2016-01-30 00:32:24,989 - creep - DEBUG - objective:-843.3418
+2016-01-30 00:32:25,682 - creep - DEBUG - objective:-850.4158
+2016-01-30 00:32:26,644 - creep - DEBUG - objective:-859.6205
+2016-01-30 00:32:27,406 - creep - DEBUG - objective:-865.4065
+2016-01-30 00:32:28,252 - creep - DEBUG - objective:-874.1643
+2016-01-30 00:32:28,838 - creep - DEBUG - objective:-880.7681
+2016-01-30 00:32:29,442 - creep - DEBUG - objective:-885.9121
+2016-01-30 00:32:30,049 - creep - DEBUG - objective:-891.5563
+2016-01-30 00:32:31,003 - creep - DEBUG - objective:-896.6535
+2016-01-30 00:32:32,121 - creep - DEBUG - objective:-898.8677
+2016-01-30 00:32:33,379 - creep - DEBUG - objective:-903.9455
+2016-01-30 00:32:34,290 - creep - DEBUG - objective:-907.3874
+2016-01-30 00:32:34,292 - creep - INFO - Saving model...
+2016-01-30 00:32:34,358 - creep - INFO - Model saved.
+2016-01-30 00:32:34,364 - creep - DEBUG - ftol: 28260.3439464
+2016-01-30 00:32:34,366 - creep - INFO - diff:m:0.158431710915 s:0.140054715974
+2016-01-30 00:32:34,367 - creep - INFO - ll params
+2016-01-30 00:32:35,542 - creep - DEBUG - objective:-907.3874
+2016-01-30 00:32:36,103 - creep - DEBUG - objective:-622.4287
+2016-01-30 00:32:36,748 - creep - DEBUG - objective:-907.3898
+2016-01-30 00:32:37,313 - creep - DEBUG - objective:-907.3898
+2016-01-30 00:32:37,682 - creep - DEBUG - objective:-907.3898
+2016-01-30 00:32:37,683 - creep - INFO - hyp params
+2016-01-30 00:32:57,142 - creep - DEBUG - objective:-907.3898
+2016-01-30 00:33:12,178 - creep - DEBUG - objective:-917.6462
+2016-01-30 00:33:26,978 - creep - DEBUG - objective:-974.5841
+2016-01-30 00:33:42,031 - creep - DEBUG - objective:-990.4727
+2016-01-30 00:33:56,176 - creep - DEBUG - objective:-1004.3935
+2016-01-30 00:34:15,969 - creep - DEBUG - objective:-1012.6744
+2016-01-30 00:34:36,573 - creep - DEBUG - objective:-1015.7237
+2016-01-30 00:34:53,103 - creep - DEBUG - objective:-1017.7965
+2016-01-30 00:35:08,026 - creep - DEBUG - objective:-1018.9852
+2016-01-30 00:35:23,036 - creep - DEBUG - objective:-1021.2259
+2016-01-30 00:35:38,037 - creep - DEBUG - objective:-1021.9611
+2016-01-30 00:35:53,320 - creep - DEBUG - objective:-1022.6620
+2016-01-30 00:36:12,576 - creep - DEBUG - objective:-1023.0778
+2016-01-30 00:36:27,107 - creep - DEBUG - objective:-1023.4298
+2016-01-30 00:36:42,388 - creep - DEBUG - objective:-1023.7898
+2016-01-30 00:36:58,082 - creep - DEBUG - objective:-1023.8691
+2016-01-30 00:37:12,938 - creep - DEBUG - objective:-1023.9660
+2016-01-30 00:37:32,167 - creep - DEBUG - objective:-1024.1389
+2016-01-30 00:37:48,083 - creep - DEBUG - objective:-1023.9332
+2016-01-30 00:38:03,434 - creep - DEBUG - objective:-1024.1911
+2016-01-30 00:38:18,169 - creep - DEBUG - objective:-1024.3061
+2016-01-30 00:38:33,029 - creep - DEBUG - objective:-1024.3795
+2016-01-30 00:38:47,572 - creep - DEBUG - objective:-1024.4994
+2016-01-30 00:39:03,292 - creep - DEBUG - objective:-1024.6662
+2016-01-30 00:39:18,850 - creep - DEBUG - objective:-1024.8150
+2016-01-30 00:39:36,713 - creep - DEBUG - objective:-1024.9656
+2016-01-30 00:39:36,715 - creep - INFO - Iteration 2 started.
+2016-01-30 00:39:36,716 - creep - INFO - MoG params
+2016-01-30 00:39:37,698 - creep - DEBUG - objective:-1024.9656
+2016-01-30 00:39:38,747 - creep - DEBUG - objective:-852.2240
+2016-01-30 00:39:39,761 - creep - DEBUG - objective:-1032.8208
+2016-01-30 00:39:40,695 - creep - DEBUG - objective:-1036.9362
+2016-01-30 00:39:42,162 - creep - DEBUG - objective:-1042.7703
+2016-01-30 00:39:43,083 - creep - DEBUG - objective:-1047.2185
+2016-01-30 00:39:43,844 - creep - DEBUG - objective:-1050.8444
+2016-01-30 00:39:44,730 - creep - DEBUG - objective:-1055.2059
+2016-01-30 00:39:45,693 - creep - DEBUG - objective:-1057.8091
+2016-01-30 00:39:46,647 - creep - DEBUG - objective:-1061.4231
+2016-01-30 00:39:47,519 - creep - DEBUG - objective:-1065.8194
+2016-01-30 00:39:48,778 - creep - DEBUG - objective:-1070.6765
+2016-01-30 00:39:49,755 - creep - DEBUG - objective:-1073.6549
+2016-01-30 00:39:50,956 - creep - DEBUG - objective:-1077.5166
+2016-01-30 00:39:51,943 - creep - DEBUG - objective:-1080.6761
+2016-01-30 00:39:52,655 - creep - DEBUG - objective:-1083.9830
+2016-01-30 00:39:53,535 - creep - DEBUG - objective:-1088.3765
+2016-01-30 00:39:54,456 - creep - DEBUG - objective:-1090.7048
+2016-01-30 00:39:55,425 - creep - DEBUG - objective:-1092.6539
+2016-01-30 00:39:56,590 - creep - DEBUG - objective:-1097.9802
+2016-01-30 00:39:57,539 - creep - DEBUG - objective:-1100.0900
+2016-01-30 00:39:58,264 - creep - DEBUG - objective:-1102.6179
+2016-01-30 00:39:59,095 - creep - DEBUG - objective:-1106.8523
+2016-01-30 00:39:59,951 - creep - DEBUG - objective:-1108.5150
+2016-01-30 00:40:00,863 - creep - DEBUG - objective:-1111.1708
+2016-01-30 00:40:02,007 - creep - DEBUG - objective:-1114.0089
+2016-01-30 00:40:02,012 - creep - INFO - Saving model...
+2016-01-30 00:40:02,082 - creep - INFO - Model saved.
+2016-01-30 00:40:02,083 - creep - DEBUG - ftol: 206.621416136
+2016-01-30 00:40:02,091 - creep - INFO - diff:m:0.0761092619133 s:0.162787148811
+2016-01-30 00:40:02,092 - creep - INFO - ll params
+2016-01-30 00:40:03,025 - creep - DEBUG - objective:-1114.0089
+2016-01-30 00:40:03,938 - creep - DEBUG - objective:-1009.9445
+2016-01-30 00:40:04,893 - creep - DEBUG - objective:-1131.2786
+2016-01-30 00:40:05,451 - creep - DEBUG - objective:-1131.3936
+2016-01-30 00:40:05,915 - creep - DEBUG - objective:-1131.3968
+2016-01-30 00:40:06,330 - creep - DEBUG - objective:-1131.3968
+2016-01-30 00:40:06,884 - creep - DEBUG - objective:-1131.3968
+2016-01-30 00:40:06,885 - creep - INFO - hyp params
+2016-01-30 00:40:24,855 - creep - DEBUG - objective:-1131.3968
+2016-01-30 00:40:40,966 - creep - DEBUG - objective:-1046.7824
+2016-01-30 00:40:57,021 - creep - DEBUG - objective:-1166.4317
+2016-01-30 00:41:11,875 - creep - DEBUG - objective:-1169.0303
+2016-01-30 00:41:26,723 - creep - DEBUG - objective:-1172.6120
+2016-01-30 00:41:41,455 - creep - DEBUG - objective:-1174.7489
+2016-01-30 00:42:01,079 - creep - DEBUG - objective:-1176.2748
+2016-01-30 00:42:17,282 - creep - DEBUG - objective:-1177.0931
+2016-01-30 00:42:32,303 - creep - DEBUG - objective:-1177.6913
+2016-01-30 00:42:50,678 - creep - DEBUG - objective:-1177.6649
+2016-01-30 00:43:07,729 - creep - DEBUG - objective:-1178.0114
+2016-01-30 00:43:22,719 - creep - DEBUG - objective:-1178.4470
+2016-01-30 00:43:41,647 - creep - DEBUG - objective:-1178.9940
+2016-01-30 00:43:57,419 - creep - DEBUG - objective:-1179.4953
+2016-01-30 00:44:12,806 - creep - DEBUG - objective:-1180.1497
+2016-01-30 00:44:26,864 - creep - DEBUG - objective:-1180.8782
+2016-01-30 00:44:41,760 - creep - DEBUG - objective:-1181.1499
+2016-01-30 00:44:57,414 - creep - DEBUG - objective:-1181.4976
+2016-01-30 00:45:12,274 - creep - DEBUG - objective:-1181.6859
+2016-01-30 00:45:26,833 - creep - DEBUG - objective:-1181.7728
+2016-01-30 00:45:40,824 - creep - DEBUG - objective:-1181.8281
+2016-01-30 00:45:57,245 - creep - DEBUG - objective:-1181.9089
+2016-01-30 00:46:15,015 - creep - DEBUG - objective:-1181.9299
+2016-01-30 00:46:30,338 - creep - DEBUG - objective:-1182.0421
+2016-01-30 00:46:45,229 - creep - DEBUG - objective:-1182.0593
+2016-01-30 00:47:04,077 - creep - DEBUG - objective:-1182.0846
+2016-01-30 00:47:04,078 - creep - INFO - Iteration 3 started.
+2016-01-30 00:47:04,078 - creep - INFO - MoG params
+2016-01-30 00:47:05,063 - creep - DEBUG - objective:-1182.0846
+2016-01-30 00:47:05,658 - creep - DEBUG - objective:-1094.2841
+2016-01-30 00:47:06,617 - creep - DEBUG - objective:-1185.5714
+2016-01-30 00:47:07,419 - creep - DEBUG - objective:-1187.9934
+2016-01-30 00:47:08,440 - creep - DEBUG - objective:-1189.9068
+2016-01-30 00:47:09,384 - creep - DEBUG - objective:-1192.6678
+2016-01-30 00:47:10,473 - creep - DEBUG - objective:-1194.2833
+2016-01-30 00:47:11,646 - creep - DEBUG - objective:-1195.9274
+2016-01-30 00:47:12,673 - creep - DEBUG - objective:-1197.5843
+2016-01-30 00:47:13,648 - creep - DEBUG - objective:-1199.0122
+2016-01-30 00:47:14,389 - creep - DEBUG - objective:-1201.8069
+2016-01-30 00:47:15,102 - creep - DEBUG - objective:-1202.7634
+2016-01-30 00:47:15,857 - creep - DEBUG - objective:-1205.8485
+2016-01-30 00:47:16,866 - creep - DEBUG - objective:-1207.3001
+2016-01-30 00:47:17,985 - creep - DEBUG - objective:-1209.5188
+2016-01-30 00:47:18,741 - creep - DEBUG - objective:-1212.5851
+2016-01-30 00:47:19,313 - creep - DEBUG - objective:-1214.6239
+2016-01-30 00:47:20,634 - creep - DEBUG - objective:-1216.3669
+2016-01-30 00:47:21,313 - creep - DEBUG - objective:-1217.4252
+2016-01-30 00:47:22,162 - creep - DEBUG - objective:-1218.6681
+2016-01-30 00:47:23,015 - creep - DEBUG - objective:-1220.8248
+2016-01-30 00:47:23,814 - creep - DEBUG - objective:-1223.4582
+2016-01-30 00:47:24,719 - creep - DEBUG - objective:-1225.8326
+2016-01-30 00:47:25,561 - creep - DEBUG - objective:-1227.9877
+2016-01-30 00:47:26,554 - creep - DEBUG - objective:-1228.7435
+2016-01-30 00:47:27,741 - creep - DEBUG - objective:-1231.3389
+2016-01-30 00:47:27,744 - creep - INFO - Saving model...
+2016-01-30 00:47:27,797 - creep - INFO - Model saved.
+2016-01-30 00:47:27,803 - creep - DEBUG - ftol: 117.330063424
+2016-01-30 00:47:27,804 - creep - INFO - diff:m:0.0483290995578 s:0.148653523398
+2016-01-30 00:47:27,806 - creep - INFO - ll params
+2016-01-30 00:47:28,674 - creep - DEBUG - objective:-1231.3389
+2016-01-30 00:47:29,511 - creep - DEBUG - objective:-1105.3368
+2016-01-30 00:47:30,309 - creep - DEBUG - objective:-1244.3552
+2016-01-30 00:47:30,923 - creep - DEBUG - objective:-1244.4516
+2016-01-30 00:47:31,664 - creep - DEBUG - objective:-1244.4536
+2016-01-30 00:47:32,370 - creep - DEBUG - objective:-1244.4536
+2016-01-30 00:47:33,072 - creep - DEBUG - objective:-1244.4536
+2016-01-30 00:47:33,073 - creep - INFO - hyp params
+2016-01-30 00:47:48,708 - creep - DEBUG - objective:-1244.4536
+2016-01-30 00:48:02,848 - creep - DEBUG - objective:-1029.9673
+2016-01-30 00:48:18,411 - creep - DEBUG - objective:-1258.8015
+2016-01-30 00:48:34,023 - creep - DEBUG - objective:-1259.7658
+2016-01-30 00:48:49,321 - creep - DEBUG - objective:-1261.9655
+2016-01-30 00:49:05,097 - creep - DEBUG - objective:-1263.2502
+2016-01-30 00:49:19,633 - creep - DEBUG - objective:-1263.8430
+2016-01-30 00:49:39,311 - creep - DEBUG - objective:-1264.1771
+2016-01-30 00:50:04,119 - creep - DEBUG - objective:-1264.5745
+2016-01-30 00:50:19,642 - creep - DEBUG - objective:-1264.9913
+2016-01-30 00:50:34,659 - creep - DEBUG - objective:-1265.5877
+2016-01-30 00:50:49,372 - creep - DEBUG - objective:-1266.3118
+2016-01-30 00:51:04,116 - creep - DEBUG - objective:-1266.6245
+2016-01-30 00:51:19,508 - creep - DEBUG - objective:-1267.0024
+2016-01-30 00:51:35,865 - creep - DEBUG - objective:-1267.0709
+2016-01-30 00:51:51,551 - creep - DEBUG - objective:-1267.1586
+2016-01-30 00:52:07,042 - creep - DEBUG - objective:-1267.1823
+2016-01-30 00:52:22,186 - creep - DEBUG - objective:-1267.2137
+2016-01-30 00:52:36,772 - creep - DEBUG - objective:-1267.2246
+2016-01-30 00:52:55,277 - creep - DEBUG - objective:-1267.2674
+2016-01-30 00:53:13,546 - creep - DEBUG - objective:-1267.2346
+2016-01-30 00:53:28,388 - creep - DEBUG - objective:-1267.2708
+2016-01-30 00:53:42,759 - creep - DEBUG - objective:-1267.2870
+2016-01-30 00:53:56,228 - creep - DEBUG - objective:-1267.2953
+2016-01-30 00:54:10,778 - creep - DEBUG - objective:-1267.3138
+2016-01-30 00:54:25,651 - creep - DEBUG - objective:-1267.3204
+2016-01-30 00:54:25,652 - creep - INFO - Iteration 4 started.
+2016-01-30 00:54:25,653 - creep - INFO - MoG params
+2016-01-30 00:54:26,740 - creep - DEBUG - objective:-1267.3204
+2016-01-30 00:54:27,959 - creep - DEBUG - objective:-1139.1815
+2016-01-30 00:54:29,135 - creep - DEBUG - objective:-1269.9782
+2016-01-30 00:54:29,979 - creep - DEBUG - objective:-1272.0275
+2016-01-30 00:54:31,152 - creep - DEBUG - objective:-1274.6004
+2016-01-30 00:54:32,035 - creep - DEBUG - objective:-1276.2504
+2016-01-30 00:54:33,131 - creep - DEBUG - objective:-1277.9250
+2016-01-30 00:54:33,700 - creep - DEBUG - objective:-1279.0419
+2016-01-30 00:54:34,898 - creep - DEBUG - objective:-1279.8395
+2016-01-30 00:54:35,603 - creep - DEBUG - objective:-1280.7581
+2016-01-30 00:54:36,563 - creep - DEBUG - objective:-1282.0973
+2016-01-30 00:54:37,707 - creep - DEBUG - objective:-1283.4984
+2016-01-30 00:54:38,631 - creep - DEBUG - objective:-1284.6009
+2016-01-30 00:54:39,876 - creep - DEBUG - objective:-1286.2479
+2016-01-30 00:54:40,686 - creep - DEBUG - objective:-1287.2447
+2016-01-30 00:54:41,665 - creep - DEBUG - objective:-1288.2324
+2016-01-30 00:54:42,632 - creep - DEBUG - objective:-1289.6645
+2016-01-30 00:54:43,750 - creep - DEBUG - objective:-1290.5657
+2016-01-30 00:54:44,563 - creep - DEBUG - objective:-1291.7943
+2016-01-30 00:54:45,393 - creep - DEBUG - objective:-1293.5900
+2016-01-30 00:54:46,328 - creep - DEBUG - objective:-1294.3058
+2016-01-30 00:54:47,031 - creep - DEBUG - objective:-1295.8326
+2016-01-30 00:54:47,648 - creep - DEBUG - objective:-1296.9800
+2016-01-30 00:54:48,603 - creep - DEBUG - objective:-1298.7467
+2016-01-30 00:54:49,468 - creep - DEBUG - objective:-1300.1088
+2016-01-30 00:54:50,947 - creep - DEBUG - objective:-1301.1826
+2016-01-30 00:54:50,949 - creep - INFO - Saving model...
+2016-01-30 00:54:51,056 - creep - INFO - Model saved.
+2016-01-30 00:54:51,058 - creep - DEBUG - ftol: 69.843635872
+2016-01-30 00:54:51,063 - creep - INFO - diff:m:0.036816891091 s:0.115434591154
+2016-01-30 00:54:51,064 - creep - INFO - ll params
+2016-01-30 00:54:52,232 - creep - DEBUG - objective:-1301.1826
+2016-01-30 00:54:53,344 - creep - DEBUG - objective:-1098.1543
+2016-01-30 00:54:53,830 - creep - DEBUG - objective:-1304.4336
+2016-01-30 00:54:54,259 - creep - DEBUG - objective:-1304.4610
+2016-01-30 00:54:54,668 - creep - DEBUG - objective:-1304.4611
+2016-01-30 00:54:55,076 - creep - DEBUG - objective:-1304.4611
+2016-01-30 00:54:55,078 - creep - INFO - hyp params
+2016-01-30 00:55:09,709 - creep - DEBUG - objective:-1304.4611
+2016-01-30 00:55:24,040 - creep - DEBUG - objective:-1060.6065
+2016-01-30 00:55:39,539 - creep - DEBUG - objective:-1315.5229
+2016-01-30 00:55:55,314 - creep - DEBUG - objective:-1316.0558
+2016-01-30 00:56:13,046 - creep - DEBUG - objective:-1318.9923
+2016-01-30 00:56:32,241 - creep - DEBUG - objective:-1319.1427
+2016-01-30 00:56:46,877 - creep - DEBUG - objective:-1319.8109
+2016-01-30 00:57:01,345 - creep - DEBUG - objective:-1320.0125
+2016-01-30 00:57:17,300 - creep - DEBUG - objective:-1320.3817
+2016-01-30 00:57:32,016 - creep - DEBUG - objective:-1320.7222
+2016-01-30 00:57:47,540 - creep - DEBUG - objective:-1321.0001
+2016-01-30 00:58:06,879 - creep - DEBUG - objective:-1321.0625
+2016-01-30 00:58:24,798 - creep - DEBUG - objective:-1321.0840
+2016-01-30 00:58:39,838 - creep - DEBUG - objective:-1321.1243
+2016-01-30 00:58:59,416 - creep - DEBUG - objective:-1321.1393
+2016-01-30 00:59:13,810 - creep - DEBUG - objective:-1321.1479
+2016-01-30 00:59:27,063 - creep - DEBUG - objective:-1321.1602
+2016-01-30 00:59:45,849 - creep - DEBUG - objective:-1321.1698
+2016-01-30 01:00:02,315 - creep - DEBUG - objective:-1321.1800
+2016-01-30 01:00:17,331 - creep - DEBUG - objective:-1321.1995
+2016-01-30 01:00:31,274 - creep - DEBUG - objective:-1321.2254
+2016-01-30 01:00:45,617 - creep - DEBUG - objective:-1321.2229
+2016-01-30 01:01:00,076 - creep - DEBUG - objective:-1321.2299
+2016-01-30 01:01:15,394 - creep - DEBUG - objective:-1321.2386
+2016-01-30 01:01:30,140 - creep - DEBUG - objective:-1321.2421
+2016-01-30 01:01:44,669 - creep - DEBUG - objective:-1321.2510
+2016-01-30 01:01:44,671 - creep - INFO - Iteration 5 started.
+2016-01-30 01:01:44,672 - creep - INFO - MoG params
+2016-01-30 01:01:45,739 - creep - DEBUG - objective:-1321.2510
+2016-01-30 01:01:46,523 - creep - DEBUG - objective:-1151.5149
+2016-01-30 01:01:47,242 - creep - DEBUG - objective:-1322.6825
+2016-01-30 01:01:48,114 - creep - DEBUG - objective:-1323.7097
+2016-01-30 01:01:49,034 - creep - DEBUG - objective:-1325.4214
+2016-01-30 01:01:50,226 - creep - DEBUG - objective:-1326.5397
+2016-01-30 01:01:51,200 - creep - DEBUG - objective:-1327.6962
+2016-01-30 01:01:52,274 - creep - DEBUG - objective:-1328.6591
+2016-01-30 01:01:52,978 - creep - DEBUG - objective:-1329.4607
+2016-01-30 01:01:53,874 - creep - DEBUG - objective:-1330.3034
+2016-01-30 01:01:55,137 - creep - DEBUG - objective:-1331.3092
+2016-01-30 01:01:56,184 - creep - DEBUG - objective:-1332.3111
+2016-01-30 01:01:57,535 - creep - DEBUG - objective:-1333.3636
+2016-01-30 01:01:58,238 - creep - DEBUG - objective:-1335.0806
+2016-01-30 01:01:59,422 - creep - DEBUG - objective:-1335.1587
+2016-01-30 01:02:00,815 - creep - DEBUG - objective:-1335.8724
+2016-01-30 01:02:01,991 - creep - DEBUG - objective:-1336.5753
+2016-01-30 01:02:03,361 - creep - DEBUG - objective:-1337.6484
+2016-01-30 01:02:04,379 - creep - DEBUG - objective:-1338.6275
+2016-01-30 01:02:05,615 - creep - DEBUG - objective:-1339.8942
+2016-01-30 01:02:06,589 - creep - DEBUG - objective:-1340.9672
+2016-01-30 01:02:07,376 - creep - DEBUG - objective:-1342.0467
+2016-01-30 01:02:08,290 - creep - DEBUG - objective:-1343.6616
+2016-01-30 01:02:09,108 - creep - DEBUG - objective:-1345.1105
+2016-01-30 01:02:09,942 - creep - DEBUG - objective:-1346.3650
+2016-01-30 01:02:10,764 - creep - DEBUG - objective:-1348.2186
+2016-01-30 01:02:10,766 - creep - INFO - Saving model...
+2016-01-30 01:02:10,869 - creep - INFO - Model saved.
+2016-01-30 01:02:10,880 - creep - DEBUG - ftol: 47.035991891
+2016-01-30 01:02:10,883 - creep - INFO - diff:m:0.030414497572 s:0.125020964249
+2016-01-30 01:02:10,885 - creep - INFO - ll params
+2016-01-30 01:02:12,141 - creep - DEBUG - objective:-1348.2186
+2016-01-30 01:02:12,849 - creep - DEBUG - objective:-1149.6795
+2016-01-30 01:02:13,411 - creep - DEBUG - objective:-1351.8427
+2016-01-30 01:02:14,060 - creep - DEBUG - objective:-1351.8732
+2016-01-30 01:02:14,800 - creep - DEBUG - objective:-1351.8734
+2016-01-30 01:02:15,296 - creep - DEBUG - objective:-1351.8734
+2016-01-30 01:02:15,297 - creep - INFO - hyp params
+2016-01-30 01:02:30,534 - creep - DEBUG - objective:-1351.8734
+2016-01-30 01:02:45,031 - creep - DEBUG - objective:-1059.1665
+2016-01-30 01:02:59,863 - creep - DEBUG - objective:-1360.0271
+2016-01-30 01:03:19,767 - creep - DEBUG - objective:-1360.3704
+2016-01-30 01:03:34,999 - creep - DEBUG - objective:-1362.2049
+2016-01-30 01:03:49,671 - creep - DEBUG - objective:-1362.8923
+2016-01-30 01:04:05,087 - creep - DEBUG - objective:-1363.1516
+2016-01-30 01:04:20,048 - creep - DEBUG - objective:-1363.3286
+2016-01-30 01:04:34,315 - creep - DEBUG - objective:-1363.7789
+2016-01-30 01:04:49,367 - creep - DEBUG - objective:-1364.0077
+2016-01-30 01:05:08,128 - creep - DEBUG - objective:-1364.1615
+2016-01-30 01:05:26,148 - creep - DEBUG - objective:-1364.1925
+2016-01-30 01:05:44,942 - creep - DEBUG - objective:-1364.2283
+2016-01-30 01:05:59,165 - creep - DEBUG - objective:-1364.2425
+2016-01-30 01:06:15,375 - creep - DEBUG - objective:-1364.2510
+2016-01-30 01:06:33,701 - creep - DEBUG - objective:-1364.2607
+2016-01-30 01:06:49,427 - creep - DEBUG - objective:-1364.2655
+2016-01-30 01:07:05,639 - creep - DEBUG - objective:-1364.2726
+2016-01-30 01:07:20,819 - creep - DEBUG - objective:-1364.2777
+2016-01-30 01:07:35,424 - creep - DEBUG - objective:-1364.2866
+2016-01-30 01:07:53,178 - creep - DEBUG - objective:-1364.2926
+2016-01-30 01:08:09,939 - creep - DEBUG - objective:-1364.2976
+2016-01-30 01:08:24,841 - creep - DEBUG - objective:-1364.2907
+2016-01-30 01:08:41,197 - creep - DEBUG - objective:-1364.2974
+2016-01-30 01:08:55,098 - creep - DEBUG - objective:-1364.2976
+2016-01-30 01:09:09,910 - creep - DEBUG - objective:-1364.2975
+2016-01-30 01:09:25,052 - creep - INFO - Iteration 6 started.
+2016-01-30 01:09:25,053 - creep - INFO - MoG params
+2016-01-30 01:09:26,104 - creep - DEBUG - objective:-1364.2976
+2016-01-30 01:09:27,295 - creep - DEBUG - objective:-1197.8171
+2016-01-30 01:09:28,230 - creep - DEBUG - objective:-1366.1495
+2016-01-30 01:09:29,135 - creep - DEBUG - objective:-1367.2397
+2016-01-30 01:09:29,976 - creep - DEBUG - objective:-1368.6284
+2016-01-30 01:09:30,814 - creep - DEBUG - objective:-1369.9077
+2016-01-30 01:09:31,754 - creep - DEBUG - objective:-1370.9083
+2016-01-30 01:09:32,625 - creep - DEBUG - objective:-1371.5858
+2016-01-30 01:09:33,502 - creep - DEBUG - objective:-1372.0828
+2016-01-30 01:09:34,547 - creep - DEBUG - objective:-1372.5732
+2016-01-30 01:09:35,446 - creep - DEBUG - objective:-1373.0507
+2016-01-30 01:09:36,510 - creep - DEBUG - objective:-1373.6924
+2016-01-30 01:09:37,173 - creep - DEBUG - objective:-1374.1788
+2016-01-30 01:09:38,102 - creep - DEBUG - objective:-1374.9058
+2016-01-30 01:09:38,888 - creep - DEBUG - objective:-1376.0615
+2016-01-30 01:09:39,765 - creep - DEBUG - objective:-1377.0750
+2016-01-30 01:09:40,816 - creep - DEBUG - objective:-1377.9438
+2016-01-30 01:09:41,957 - creep - DEBUG - objective:-1378.6609
+2016-01-30 01:09:42,943 - creep - DEBUG - objective:-1379.2353
+2016-01-30 01:09:43,828 - creep - DEBUG - objective:-1380.0425
+2016-01-30 01:09:45,001 - creep - DEBUG - objective:-1381.2091
+2016-01-30 01:09:46,382 - creep - DEBUG - objective:-1381.7740
+2016-01-30 01:09:47,602 - creep - DEBUG - objective:-1382.6645
+2016-01-30 01:09:49,069 - creep - DEBUG - objective:-1383.7263
+2016-01-30 01:09:50,477 - creep - DEBUG - objective:-1384.9409
+2016-01-30 01:09:51,920 - creep - DEBUG - objective:-1385.9371
+2016-01-30 01:09:51,922 - creep - INFO - Saving model...
+2016-01-30 01:09:52,002 - creep - INFO - Model saved.
+2016-01-30 01:09:52,004 - creep - DEBUG - ftol: 37.7185162918
+2016-01-30 01:09:52,006 - creep - INFO - diff:m:0.027024461954 s:0.107636096695
+2016-01-30 01:09:52,008 - creep - INFO - ll params
+2016-01-30 01:09:53,286 - creep - DEBUG - objective:-1385.9371
+2016-01-30 01:09:54,484 - creep - DEBUG - objective:-1162.5344
+2016-01-30 01:09:55,361 - creep - DEBUG - objective:-1387.7665
+2016-01-30 01:09:56,237 - creep - DEBUG - objective:-1387.7816
+2016-01-30 01:09:57,121 - creep - DEBUG - objective:-1387.7816
+2016-01-30 01:09:57,961 - creep - DEBUG - objective:-1387.7816
+2016-01-30 01:09:57,962 - creep - INFO - hyp params
+2016-01-30 01:10:13,069 - creep - DEBUG - objective:-1387.7816
+2016-01-30 01:10:28,603 - creep - DEBUG - objective:-1044.5490
+2016-01-30 01:10:43,122 - creep - DEBUG - objective:-1394.0075
+2016-01-30 01:11:00,236 - creep - DEBUG - objective:-1394.4192
+2016-01-30 01:11:18,357 - creep - DEBUG - objective:-1395.0798
+2016-01-30 01:11:33,401 - creep - DEBUG - objective:-1395.8587
+2016-01-30 01:11:48,609 - creep - DEBUG - objective:-1396.7242
+2016-01-30 01:12:04,142 - creep - DEBUG - objective:-1397.0137
+2016-01-30 01:12:18,959 - creep - DEBUG - objective:-1397.1890
+2016-01-30 01:12:34,755 - creep - DEBUG - objective:-1397.3051
+2016-01-30 01:12:56,159 - creep - DEBUG - objective:-1397.4052
+2016-01-30 01:13:16,320 - creep - DEBUG - objective:-1397.4359
+2016-01-30 01:13:31,596 - creep - DEBUG - objective:-1397.4440
+2016-01-30 01:13:47,314 - creep - DEBUG - objective:-1397.4475
+2016-01-30 01:14:06,317 - creep - DEBUG - objective:-1397.4329
+2016-01-30 01:14:21,112 - creep - DEBUG - objective:-1397.4478
+2016-01-30 01:14:36,097 - creep - DEBUG - objective:-1397.4563
+2016-01-30 01:14:49,935 - creep - DEBUG - objective:-1397.4667
+2016-01-30 01:15:03,932 - creep - DEBUG - objective:-1397.4855
+2016-01-30 01:15:18,990 - creep - DEBUG - objective:-1397.4900
+2016-01-30 01:15:33,787 - creep - DEBUG - objective:-1397.4928
+2016-01-30 01:15:48,678 - creep - DEBUG - objective:-1397.4959
+2016-01-30 01:16:05,638 - creep - DEBUG - objective:-1397.4986
+2016-01-30 01:16:23,510 - creep - DEBUG - objective:-1397.4968
+2016-01-30 01:16:37,845 - creep - DEBUG - objective:-1397.4984
+2016-01-30 01:16:52,525 - creep - DEBUG - objective:-1397.4985
+2016-01-30 01:17:11,924 - creep - INFO - Iteration 7 started.
+2016-01-30 01:17:11,925 - creep - INFO - MoG params
+2016-01-30 01:17:13,249 - creep - DEBUG - objective:-1397.4986
+2016-01-30 01:17:14,609 - creep - DEBUG - objective:-1297.8293
+2016-01-30 01:17:15,979 - creep - DEBUG - objective:-1399.0918
+2016-01-30 01:17:16,785 - creep - DEBUG - objective:-1400.1811
+2016-01-30 01:17:18,079 - creep - DEBUG - objective:-1401.0298
+2016-01-30 01:17:19,221 - creep - DEBUG - objective:-1401.9193
+2016-01-30 01:17:19,881 - creep - DEBUG - objective:-1402.5936
+2016-01-30 01:17:20,549 - creep - DEBUG - objective:-1403.0286
+2016-01-30 01:17:21,153 - creep - DEBUG - objective:-1403.7433
+2016-01-30 01:17:22,132 - creep - DEBUG - objective:-1404.0837
+2016-01-30 01:17:23,140 - creep - DEBUG - objective:-1404.4602
+2016-01-30 01:17:24,367 - creep - DEBUG - objective:-1404.9589
+2016-01-30 01:17:25,457 - creep - DEBUG - objective:-1405.3475
+2016-01-30 01:17:26,234 - creep - DEBUG - objective:-1406.2542
+2016-01-30 01:17:27,098 - creep - DEBUG - objective:-1407.0733
+2016-01-30 01:17:28,063 - creep - DEBUG - objective:-1407.6467
+2016-01-30 01:17:29,266 - creep - DEBUG - objective:-1408.2847
+2016-01-30 01:17:29,918 - creep - DEBUG - objective:-1408.7206
+2016-01-30 01:17:30,959 - creep - DEBUG - objective:-1409.5205
+2016-01-30 01:17:31,946 - creep - DEBUG - objective:-1410.0226
+2016-01-30 01:17:33,315 - creep - DEBUG - objective:-1411.0013
+2016-01-30 01:17:34,086 - creep - DEBUG - objective:-1411.6031
+2016-01-30 01:17:35,141 - creep - DEBUG - objective:-1412.3673
+2016-01-30 01:17:36,089 - creep - DEBUG - objective:-1413.6155
+2016-01-30 01:17:37,187 - creep - DEBUG - objective:-1414.2729
+2016-01-30 01:17:38,419 - creep - DEBUG - objective:-1415.3917
+2016-01-30 01:17:38,421 - creep - INFO - Saving model...
+2016-01-30 01:17:38,505 - creep - INFO - Model saved.
+2016-01-30 01:17:38,506 - creep - DEBUG - ftol: 29.4545985521
+2016-01-30 01:17:38,508 - creep - INFO - diff:m:0.0268766093006 s:0.108575267063
+2016-01-30 01:17:38,509 - creep - INFO - ll params
+2016-01-30 01:17:39,836 - creep - DEBUG - objective:-1415.3917
+2016-01-30 01:17:40,623 - creep - DEBUG - objective:-1186.9004
+2016-01-30 01:17:41,279 - creep - DEBUG - objective:-1416.9333
+2016-01-30 01:17:42,099 - creep - DEBUG - objective:-1416.9458
+2016-01-30 01:17:42,647 - creep - DEBUG - objective:-1416.9459
+2016-01-30 01:17:42,952 - creep - DEBUG - objective:-1416.9459
+2016-01-30 01:17:42,954 - creep - INFO - hyp params
+2016-01-30 01:17:57,857 - creep - DEBUG - objective:-1416.9459
+2016-01-30 01:18:12,003 - creep - DEBUG - objective:-1034.5889
+2016-01-30 01:18:26,366 - creep - DEBUG - objective:-1422.4248
+2016-01-30 01:18:42,019 - creep - DEBUG - objective:-1422.7701
+2016-01-30 01:18:56,939 - creep - DEBUG - objective:-1423.4397
+2016-01-30 01:19:12,235 - creep - DEBUG - objective:-1424.1547
+2016-01-30 01:19:29,751 - creep - DEBUG - objective:-1424.8112
+2016-01-30 01:19:49,864 - creep - DEBUG - objective:-1424.9396
+2016-01-30 01:20:06,197 - creep - DEBUG - objective:-1425.0124
+2016-01-30 01:20:24,809 - creep - DEBUG - objective:-1425.0957
+2016-01-30 01:20:39,621 - creep - DEBUG - objective:-1425.1463
+2016-01-30 01:20:53,710 - creep - DEBUG - objective:-1425.1687
+2016-01-30 01:21:11,882 - creep - DEBUG - objective:-1425.1870
+2016-01-30 01:21:31,018 - creep - DEBUG - objective:-1425.1878
+2016-01-30 01:21:44,630 - creep - DEBUG - objective:-1425.1926
+2016-01-30 01:22:00,010 - creep - DEBUG - objective:-1425.1939
+2016-01-30 01:22:13,525 - creep - DEBUG - objective:-1425.1983
+2016-01-30 01:22:27,546 - creep - DEBUG - objective:-1425.2065
+2016-01-30 01:22:43,782 - creep - DEBUG - objective:-1425.2248
+2016-01-30 01:22:57,890 - creep - DEBUG - objective:-1425.2121
+2016-01-30 01:23:12,026 - creep - DEBUG - objective:-1425.2271
+2016-01-30 01:23:32,010 - creep - DEBUG - objective:-1425.2396
+2016-01-30 01:23:48,379 - creep - DEBUG - objective:-1425.2421
+2016-01-30 01:24:03,251 - creep - DEBUG - objective:-1425.2487
+2016-01-30 01:24:18,199 - creep - DEBUG - objective:-1425.2527
+2016-01-30 01:24:33,041 - creep - DEBUG - objective:-1425.2540
+2016-01-30 01:24:33,043 - creep - INFO - Iteration 8 started.
+2016-01-30 01:24:33,044 - creep - INFO - MoG params
+2016-01-30 01:24:33,756 - creep - DEBUG - objective:-1425.2540
+2016-01-30 01:24:34,558 - creep - DEBUG - objective:-1309.4309
+2016-01-30 01:24:35,545 - creep - DEBUG - objective:-1426.3256
+2016-01-30 01:24:36,558 - creep - DEBUG - objective:-1427.1899
+2016-01-30 01:24:37,512 - creep - DEBUG - objective:-1428.3284
+2016-01-30 01:24:38,549 - creep - DEBUG - objective:-1429.0956
+2016-01-30 01:24:39,459 - creep - DEBUG - objective:-1429.7403
+2016-01-30 01:24:40,449 - creep - DEBUG - objective:-1430.1616
+2016-01-30 01:24:41,695 - creep - DEBUG - objective:-1430.6828
+2016-01-30 01:24:42,426 - creep - DEBUG - objective:-1430.9202
+2016-01-30 01:24:42,958 - creep - DEBUG - objective:-1431.2106
+2016-01-30 01:24:43,809 - creep - DEBUG - objective:-1431.5994
+2016-01-30 01:24:44,682 - creep - DEBUG - objective:-1431.9117
+2016-01-30 01:24:45,747 - creep - DEBUG - objective:-1432.6103
+2016-01-30 01:24:46,431 - creep - DEBUG - objective:-1432.7941
+2016-01-30 01:24:47,328 - creep - DEBUG - objective:-1433.4194
+2016-01-30 01:24:48,401 - creep - DEBUG - objective:-1433.6892
+2016-01-30 01:24:49,357 - creep - DEBUG - objective:-1434.1052
+2016-01-30 01:24:50,414 - creep - DEBUG - objective:-1434.6833
+2016-01-30 01:24:51,223 - creep - DEBUG - objective:-1434.1033
+2016-01-30 01:24:52,142 - creep - DEBUG - objective:-1434.9937
+2016-01-30 01:24:52,968 - creep - DEBUG - objective:-1435.4603
+2016-01-30 01:24:53,882 - creep - DEBUG - objective:-1435.8399
+2016-01-30 01:24:54,795 - creep - DEBUG - objective:-1436.3479
+2016-01-30 01:24:55,439 - creep - DEBUG - objective:-1436.7351
+2016-01-30 01:24:56,559 - creep - DEBUG - objective:-1437.4302
+2016-01-30 01:24:56,561 - creep - INFO - Saving model...
+2016-01-30 01:24:56,640 - creep - INFO - Model saved.
+2016-01-30 01:24:56,641 - creep - DEBUG - ftol: 22.0385165886
+2016-01-30 01:24:56,641 - creep - INFO - diff:m:0.0243528409652 s:0.0655593595114
+2016-01-30 01:24:56,642 - creep - INFO - ll params
+2016-01-30 01:24:57,696 - creep - DEBUG - objective:-1437.4302
+2016-01-30 01:24:58,239 - creep - DEBUG - objective:-1189.5347
+2016-01-30 01:24:58,923 - creep - DEBUG - objective:-1438.1090
+2016-01-30 01:24:59,712 - creep - DEBUG - objective:-1438.1143
+2016-01-30 01:25:00,525 - creep - DEBUG - objective:-1438.1143
+2016-01-30 01:25:01,187 - creep - DEBUG - objective:-1438.1143
+2016-01-30 01:25:01,188 - creep - INFO - hyp params
+2016-01-30 01:25:17,381 - creep - DEBUG - objective:-1438.1143
+2016-01-30 01:25:31,373 - creep - DEBUG - objective:-851.6377
+2016-01-30 01:25:45,039 - creep - DEBUG - objective:-1440.5730
+2016-01-30 01:25:59,851 - creep - DEBUG - objective:-1440.8664
+2016-01-30 01:26:15,218 - creep - DEBUG - objective:-1441.1191
+2016-01-30 01:26:33,275 - creep - DEBUG - objective:-1441.3980
+2016-01-30 01:26:53,243 - creep - DEBUG - objective:-1441.7672
+2016-01-30 01:27:07,320 - creep - DEBUG - objective:-1441.9408
+2016-01-30 01:27:22,348 - creep - DEBUG - objective:-1442.0097
+2016-01-30 01:27:37,483 - creep - DEBUG - objective:-1442.0304
+2016-01-30 01:27:52,607 - creep - DEBUG - objective:-1442.0567
+2016-01-30 01:28:07,582 - creep - DEBUG - objective:-1442.0701
+2016-01-30 01:28:22,823 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:28:37,926 - creep - DEBUG - objective:-1442.0677
+2016-01-30 01:28:57,616 - creep - DEBUG - objective:-1442.0760
+2016-01-30 01:29:13,548 - creep - DEBUG - objective:-1442.0762
+2016-01-30 01:29:33,210 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:29:49,203 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:30:08,576 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:30:24,061 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:30:40,333 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:30:54,017 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:08,020 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:23,636 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:38,249 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:53,365 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:53,366 - creep - INFO - Iteration 9 started.
+2016-01-30 01:31:53,367 - creep - INFO - MoG params
+2016-01-30 01:31:54,253 - creep - DEBUG - objective:-1442.0763
+2016-01-30 01:31:55,371 - creep - DEBUG - objective:-1263.4470
+2016-01-30 01:31:56,670 - creep - DEBUG - objective:-1442.6929
+2016-01-30 01:31:57,466 - creep - DEBUG - objective:-1443.1496
+2016-01-30 01:31:58,519 - creep - DEBUG - objective:-1443.9199
+2016-01-30 01:31:59,742 - creep - DEBUG - objective:-1444.3045
+2016-01-30 01:32:00,384 - creep - DEBUG - objective:-1444.7382
+2016-01-30 01:32:01,154 - creep - DEBUG - objective:-1445.1517
+2016-01-30 01:32:01,695 - creep - DEBUG - objective:-1445.6077
+2016-01-30 01:32:02,718 - creep - DEBUG - objective:-1445.9039
+2016-01-30 01:32:03,939 - creep - DEBUG - objective:-1446.2115
+2016-01-30 01:32:04,999 - creep - DEBUG - objective:-1446.4779
+2016-01-30 01:32:06,099 - creep - DEBUG - objective:-1446.7812
+2016-01-30 01:32:06,906 - creep - DEBUG - objective:-1447.2860
+2016-01-30 01:32:08,019 - creep - DEBUG - objective:-1447.7405
+2016-01-30 01:32:08,813 - creep - DEBUG - objective:-1448.0337
+2016-01-30 01:32:09,443 - creep - DEBUG - objective:-1448.4312
+2016-01-30 01:32:10,354 - creep - DEBUG - objective:-1448.7673
+2016-01-30 01:32:11,219 - creep - DEBUG - objective:-1449.3660
+2016-01-30 01:32:12,065 - creep - DEBUG - objective:-1449.3714
+2016-01-30 01:32:13,150 - creep - DEBUG - objective:-1449.6226
+2016-01-30 01:32:13,903 - creep - DEBUG - objective:-1449.9169
+2016-01-30 01:32:15,208 - creep - DEBUG - objective:-1450.2454
+2016-01-30 01:32:16,438 - creep - DEBUG - objective:-1450.6865
+2016-01-30 01:32:17,459 - creep - DEBUG - objective:-1451.3567
+2016-01-30 01:32:18,424 - creep - DEBUG - objective:-1452.0965
+2016-01-30 01:32:18,426 - creep - INFO - Saving model...
+2016-01-30 01:32:18,464 - creep - INFO - Model saved.
+2016-01-30 01:32:18,464 - creep - DEBUG - ftol: 14.6662878585
+2016-01-30 01:32:18,465 - creep - INFO - diff:m:0.0196904454575 s:0.0707940137628
+2016-01-30 01:32:18,466 - creep - INFO - ll params
+2016-01-30 01:32:19,211 - creep - DEBUG - objective:-1452.0965
+2016-01-30 01:32:19,953 - creep - DEBUG - objective:-1195.6467
+2016-01-30 01:32:20,605 - creep - DEBUG - objective:-1452.5092
+2016-01-30 01:32:21,478 - creep - DEBUG - objective:-1452.5122
+2016-01-30 01:32:21,988 - creep - DEBUG - objective:-1452.5122
+2016-01-30 01:32:22,688 - creep - DEBUG - objective:-1452.5122
+2016-01-30 01:32:22,689 - creep - INFO - hyp params
+2016-01-30 01:32:42,410 - creep - DEBUG - objective:-1452.5122
+2016-01-30 01:32:57,722 - creep - DEBUG - objective:-811.2267
+2016-01-30 01:33:13,682 - creep - DEBUG - objective:-1454.3642
+2016-01-30 01:33:34,057 - creep - DEBUG - objective:-1454.5893
+2016-01-30 01:33:48,651 - creep - DEBUG - objective:-1454.8077
+2016-01-30 01:34:03,582 - creep - DEBUG - objective:-1455.0653
+2016-01-30 01:34:17,882 - creep - DEBUG - objective:-1455.3708
+2016-01-30 01:34:33,383 - creep - DEBUG - objective:-1455.4952
+2016-01-30 01:34:49,328 - creep - DEBUG - objective:-1455.5402
+2016-01-30 01:35:04,091 - creep - DEBUG - objective:-1455.5552
+2016-01-30 01:35:20,727 - creep - DEBUG - objective:-1455.5866
+2016-01-30 01:35:38,718 - creep - DEBUG - objective:-1455.5953
+2016-01-30 01:35:52,679 - creep - DEBUG - objective:-1455.6037
+2016-01-30 01:36:06,675 - creep - DEBUG - objective:-1455.6036
+2016-01-30 01:36:21,787 - creep - DEBUG - objective:-1455.6063
+2016-01-30 01:36:42,008 - creep - DEBUG - objective:-1455.6128
+2016-01-30 01:37:02,628 - creep - DEBUG - objective:-1455.6146
+2016-01-30 01:37:17,474 - creep - DEBUG - objective:-1455.6183
+2016-01-30 01:37:32,252 - creep - DEBUG - objective:-1455.6226
+2016-01-30 01:37:47,986 - creep - DEBUG - objective:-1455.6362
+2016-01-30 01:38:02,964 - creep - DEBUG - objective:-1455.6359
+2016-01-30 01:38:17,482 - creep - DEBUG - objective:-1455.6367
+2016-01-30 01:38:32,264 - creep - DEBUG - objective:-1455.6374
+2016-01-30 01:38:50,087 - creep - DEBUG - objective:-1455.6378
+2016-01-30 01:39:05,356 - creep - DEBUG - objective:-1455.6393
+2016-01-30 01:39:20,545 - creep - DEBUG - objective:-1455.6399
+2016-01-30 01:39:20,546 - creep - INFO - Iteration 10 started.
+2016-01-30 01:39:20,547 - creep - INFO - MoG params
+2016-01-30 01:39:21,575 - creep - DEBUG - objective:-1455.6399
+2016-01-30 01:39:22,393 - creep - DEBUG - objective:-1302.7177
+2016-01-30 01:39:23,279 - creep - DEBUG - objective:-1456.4456
+2016-01-30 01:39:24,131 - creep - DEBUG - objective:-1457.0632
+2016-01-30 01:39:25,438 - creep - DEBUG - objective:-1457.6938
+2016-01-30 01:39:26,215 - creep - DEBUG - objective:-1457.9943
+2016-01-30 01:39:27,137 - creep - DEBUG - objective:-1458.3549
+2016-01-30 01:39:28,095 - creep - DEBUG - objective:-1458.8385
+2016-01-30 01:39:28,991 - creep - DEBUG - objective:-1459.0428
+2016-01-30 01:39:29,987 - creep - DEBUG - objective:-1459.2509
+2016-01-30 01:39:30,551 - creep - DEBUG - objective:-1459.3855
+2016-01-30 01:39:31,048 - creep - DEBUG - objective:-1459.5469
+2016-01-30 01:39:31,718 - creep - DEBUG - objective:-1459.7893
+2016-01-30 01:39:32,724 - creep - DEBUG - objective:-1460.0938
+2016-01-30 01:39:33,780 - creep - DEBUG - objective:-1460.3884
+2016-01-30 01:39:34,887 - creep - DEBUG - objective:-1460.7637
+2016-01-30 01:39:35,783 - creep - DEBUG - objective:-1461.0881
+2016-01-30 01:39:36,710 - creep - DEBUG - objective:-1461.3074
+2016-01-30 01:39:37,431 - creep - DEBUG - objective:-1461.8004
+2016-01-30 01:39:38,211 - creep - DEBUG - objective:-1461.9387
+2016-01-30 01:39:39,131 - creep - DEBUG - objective:-1462.1425
+2016-01-30 01:39:39,833 - creep - DEBUG - objective:-1462.4072
+2016-01-30 01:39:40,580 - creep - DEBUG - objective:-1462.6455
+2016-01-30 01:39:41,916 - creep - DEBUG - objective:-1463.1127
+2016-01-30 01:39:43,227 - creep - DEBUG - objective:-1462.8450
+2016-01-30 01:39:44,305 - creep - DEBUG - objective:-1463.3988
+2016-01-30 01:39:44,307 - creep - INFO - Saving model...
+2016-01-30 01:39:44,380 - creep - INFO - Model saved.
+2016-01-30 01:39:44,383 - creep - DEBUG - ftol: 11.3023341238
+2016-01-30 01:39:44,386 - creep - INFO - diff:m:0.018400535576 s:0.0550215591215
+2016-01-30 01:39:44,388 - creep - INFO - ll params
+2016-01-30 01:39:45,261 - creep - DEBUG - objective:-1463.3988
+2016-01-30 01:39:46,007 - creep - DEBUG - objective:-1193.9956
+2016-01-30 01:39:46,668 - creep - DEBUG - objective:-1463.5360
+2016-01-30 01:39:47,407 - creep - DEBUG - objective:-1463.5370
+2016-01-30 01:39:48,015 - creep - DEBUG - objective:-1463.5370
+2016-01-30 01:39:48,548 - creep - DEBUG - objective:-1463.5370
+2016-01-30 01:39:48,918 - creep - INFO - hyp params
+2016-01-30 01:40:08,986 - creep - DEBUG - objective:-1463.5370
+2016-01-30 01:40:23,587 - creep - DEBUG - objective:-802.9056
+2016-01-30 01:40:37,603 - creep - DEBUG - objective:-1465.0416
+2016-01-30 01:40:52,692 - creep - DEBUG - objective:-1465.3688
+2016-01-30 01:41:07,370 - creep - DEBUG - objective:-1465.5504
+2016-01-30 01:41:21,807 - creep - DEBUG - objective:-1465.7471
+2016-01-30 01:41:37,352 - creep - DEBUG - objective:-1466.0299
+2016-01-30 01:41:51,823 - creep - DEBUG - objective:-1466.1844
+2016-01-30 01:42:10,801 - creep - DEBUG - objective:-1466.2652
+2016-01-30 01:42:25,543 - creep - DEBUG - objective:-1466.2804
+2016-01-30 01:42:40,545 - creep - DEBUG - objective:-1466.3134
+2016-01-30 01:42:54,844 - creep - DEBUG - objective:-1466.3271
+2016-01-30 01:43:10,222 - creep - DEBUG - objective:-1466.3387
+2016-01-30 01:43:29,903 - creep - DEBUG - objective:-1466.3297
+2016-01-30 01:43:45,707 - creep - DEBUG - objective:-1466.3386
+2016-01-30 01:44:00,901 - creep - DEBUG - objective:-1466.3387
+2016-01-30 01:44:17,041 - creep - DEBUG - objective:-1466.3387
+2016-01-30 01:44:36,874 - creep - DEBUG - objective:-1466.3387
+2016-01-30 01:44:51,477 - creep - DEBUG - objective:-1466.3387
+2016-01-30 01:45:06,624 - creep - DEBUG - objective:-1466.3425
+2016-01-30 01:45:25,116 - creep - DEBUG - objective:-1466.3480
+2016-01-30 01:45:39,055 - creep - DEBUG - objective:-1466.3501
+2016-01-30 01:45:52,890 - creep - DEBUG - objective:-1466.3537
+2016-01-30 01:46:07,982 - creep - DEBUG - objective:-1466.3660
+2016-01-30 01:46:21,811 - creep - DEBUG - objective:-1466.3643
+2016-01-30 01:46:39,957 - creep - DEBUG - objective:-1466.3663
+2016-01-30 01:46:39,958 - creep - INFO - Iteration 11 started.
+2016-01-30 01:46:39,958 - creep - INFO - MoG params
+2016-01-30 01:46:41,253 - creep - DEBUG - objective:-1466.3663
+2016-01-30 01:46:42,730 - creep - DEBUG - objective:-1225.6648
+2016-01-30 01:46:43,875 - creep - DEBUG - objective:-1466.9221
+2016-01-30 01:46:44,941 - creep - DEBUG - objective:-1467.1820
+2016-01-30 01:46:45,871 - creep - DEBUG - objective:-1467.5498
+2016-01-30 01:46:46,903 - creep - DEBUG - objective:-1467.8034
+2016-01-30 01:46:47,839 - creep - DEBUG - objective:-1468.1196
+2016-01-30 01:46:48,792 - creep - DEBUG - objective:-1468.4825
+2016-01-30 01:46:49,976 - creep - DEBUG - objective:-1468.7231
+2016-01-30 01:46:51,310 - creep - DEBUG - objective:-1468.9635
+2016-01-30 01:46:52,247 - creep - DEBUG - objective:-1469.2046
+2016-01-30 01:46:53,209 - creep - DEBUG - objective:-1469.3946
+2016-01-30 01:46:54,261 - creep - DEBUG - objective:-1469.6407
+2016-01-30 01:46:55,307 - creep - DEBUG - objective:-1469.8578
+2016-01-30 01:46:56,187 - creep - DEBUG - objective:-1470.1338
+2016-01-30 01:46:57,307 - creep - DEBUG - objective:-1470.3241
+2016-01-30 01:46:58,285 - creep - DEBUG - objective:-1470.5105
+2016-01-30 01:46:59,178 - creep - DEBUG - objective:-1470.7667
+2016-01-30 01:46:59,850 - creep - DEBUG - objective:-1470.9227
+2016-01-30 01:47:01,011 - creep - DEBUG - objective:-1471.1214
+2016-01-30 01:47:01,792 - creep - DEBUG - objective:-1471.3437
+2016-01-30 01:47:03,128 - creep - DEBUG - objective:-1471.5779
+2016-01-30 01:47:04,434 - creep - DEBUG - objective:-1471.7603
+2016-01-30 01:47:05,424 - creep - DEBUG - objective:-1472.2891
+2016-01-30 01:47:06,355 - creep - DEBUG - objective:-1472.2939
+2016-01-30 01:47:07,231 - creep - DEBUG - objective:-1472.5794
+2016-01-30 01:47:07,233 - creep - INFO - Saving model...
+2016-01-30 01:47:07,292 - creep - INFO - Model saved.
+2016-01-30 01:47:07,298 - creep - DEBUG - ftol: 9.18059258122
+2016-01-30 01:47:07,300 - creep - INFO - diff:m:0.0151270577166 s:0.0494476650447
+2016-01-30 01:47:07,301 - creep - INFO - ll params
+2016-01-30 01:47:07,949 - creep - DEBUG - objective:-1472.5794
+2016-01-30 01:47:08,372 - creep - DEBUG - objective:-1201.4849
+2016-01-30 01:47:09,216 - creep - DEBUG - objective:-1472.6918
+2016-01-30 01:47:09,846 - creep - DEBUG - objective:-1472.6925
+2016-01-30 01:47:10,924 - creep - DEBUG - objective:-1472.6925
+2016-01-30 01:47:10,926 - creep - INFO - hyp params
+2016-01-30 01:47:26,900 - creep - DEBUG - objective:-1472.6925
+2016-01-30 01:47:40,698 - creep - DEBUG - objective:-857.5535
+2016-01-30 01:47:55,772 - creep - DEBUG - objective:-1473.7676
+2016-01-30 01:48:11,685 - creep - DEBUG - objective:-1473.9653
+2016-01-30 01:48:29,579 - creep - DEBUG - objective:-1474.1266
+2016-01-30 01:48:49,103 - creep - DEBUG - objective:-1474.3419
+2016-01-30 01:49:04,350 - creep - DEBUG - objective:-1474.5815
+2016-01-30 01:49:18,862 - creep - DEBUG - objective:-1474.7139
+2016-01-30 01:49:33,319 - creep - DEBUG - objective:-1474.7776
+2016-01-30 01:49:48,466 - creep - DEBUG - objective:-1474.8045
+2016-01-30 01:50:07,021 - creep - DEBUG - objective:-1474.8410
+2016-01-30 01:50:23,713 - creep - DEBUG - objective:-1474.8752
+2016-01-30 01:50:38,833 - creep - DEBUG - objective:-1474.8911
+2016-01-30 01:50:52,940 - creep - DEBUG - objective:-1474.8934
+2016-01-30 01:51:07,670 - creep - DEBUG - objective:-1474.9029
+2016-01-30 01:51:23,626 - creep - DEBUG - objective:-1474.9036
+2016-01-30 01:51:41,666 - creep - DEBUG - objective:-1474.9041
+2016-01-30 01:52:01,215 - creep - DEBUG - objective:-1474.9048
+2016-01-30 01:52:18,718 - creep - DEBUG - objective:-1474.9080
+2016-01-30 01:52:33,826 - creep - DEBUG - objective:-1474.9134
+2016-01-30 01:52:49,228 - creep - DEBUG - objective:-1474.9043
+2016-01-30 01:53:03,688 - creep - DEBUG - objective:-1474.9137
+2016-01-30 01:53:18,933 - creep - DEBUG - objective:-1474.9207
+2016-01-30 01:53:36,855 - creep - DEBUG - objective:-1474.9256
+2016-01-30 01:53:51,868 - creep - DEBUG - objective:-1474.9306
+2016-01-30 01:54:06,658 - creep - DEBUG - objective:-1474.9292
+2016-01-30 01:54:21,262 - creep - INFO - Iteration 12 started.
+2016-01-30 01:54:21,263 - creep - INFO - MoG params
+2016-01-30 01:54:22,390 - creep - DEBUG - objective:-1474.9306
+2016-01-30 01:54:23,555 - creep - DEBUG - objective:-1231.1565
+2016-01-30 01:54:24,472 - creep - DEBUG - objective:-1475.4564
+2016-01-30 01:54:25,477 - creep - DEBUG - objective:-1475.7120
+2016-01-30 01:54:26,353 - creep - DEBUG - objective:-1476.0249
+2016-01-30 01:54:27,206 - creep - DEBUG - objective:-1476.2265
+2016-01-30 01:54:28,066 - creep - DEBUG - objective:-1476.4842
+2016-01-30 01:54:28,698 - creep - DEBUG - objective:-1476.6617
+2016-01-30 01:54:29,117 - creep - DEBUG - objective:-1476.8443
+2016-01-30 01:54:29,797 - creep - DEBUG - objective:-1476.9717
+2016-01-30 01:54:30,727 - creep - DEBUG - objective:-1477.1014
+2016-01-30 01:54:31,563 - creep - DEBUG - objective:-1477.2206
+2016-01-30 01:54:32,878 - creep - DEBUG - objective:-1477.3302
+2016-01-30 01:54:33,964 - creep - DEBUG - objective:-1477.5372
+2016-01-30 01:54:34,710 - creep - DEBUG - objective:-1477.7377
+2016-01-30 01:54:35,658 - creep - DEBUG - objective:-1478.0640
+2016-01-30 01:54:36,442 - creep - DEBUG - objective:-1478.3417
+2016-01-30 01:54:37,102 - creep - DEBUG - objective:-1478.6327
+2016-01-30 01:54:37,909 - creep - DEBUG - objective:-1478.8717
+2016-01-30 01:54:38,748 - creep - DEBUG - objective:-1479.0799
+2016-01-30 01:54:39,910 - creep - DEBUG - objective:-1479.3156
+2016-01-30 01:54:40,763 - creep - DEBUG - objective:-1479.5333
+2016-01-30 01:54:41,935 - creep - DEBUG - objective:-1479.7416
+2016-01-30 01:54:43,197 - creep - DEBUG - objective:-1479.9699
+2016-01-30 01:54:44,399 - creep - DEBUG - objective:-1480.2985
+2016-01-30 01:54:45,353 - creep - DEBUG - objective:-1480.5903
+2016-01-30 01:54:45,355 - creep - INFO - Saving model...
+2016-01-30 01:54:45,471 - creep - INFO - Model saved.
+2016-01-30 01:54:45,472 - creep - DEBUG - ftol: 8.01090559308
+2016-01-30 01:54:45,473 - creep - INFO - diff:m:0.0119021440974 s:0.0606949574024
+2016-01-30 01:54:45,473 - creep - INFO - ll params
+2016-01-30 01:54:46,825 - creep - DEBUG - objective:-1480.5903
+2016-01-30 01:54:47,752 - creep - DEBUG - objective:-1208.1603
+2016-01-30 01:54:48,842 - creep - DEBUG - objective:-1480.6848
+2016-01-30 01:54:49,787 - creep - DEBUG - objective:-1480.6855
+2016-01-30 01:54:50,733 - creep - DEBUG - objective:-1480.6855
+2016-01-30 01:54:50,734 - creep - INFO - hyp params
+2016-01-30 01:55:05,746 - creep - DEBUG - objective:-1480.6855
+2016-01-30 01:55:21,203 - creep - DEBUG - objective:-814.2701
+2016-01-30 01:55:35,903 - creep - DEBUG - objective:-1481.8053
+2016-01-30 01:55:51,259 - creep - DEBUG - objective:-1482.0229
+2016-01-30 01:56:05,362 - creep - DEBUG - objective:-1482.1846
+2016-01-30 01:56:20,250 - creep - DEBUG - objective:-1482.4131
+2016-01-30 01:56:33,746 - creep - DEBUG - objective:-1482.6847
+2016-01-30 01:56:53,174 - creep - DEBUG - objective:-1482.8272
+2016-01-30 01:57:09,201 - creep - DEBUG - objective:-1482.8982
+2016-01-30 01:57:23,812 - creep - DEBUG - objective:-1482.9106
+2016-01-30 01:57:38,454 - creep - DEBUG - objective:-1482.9374
+2016-01-30 01:57:57,204 - creep - DEBUG - objective:-1482.9660
+2016-01-30 01:58:14,321 - creep - DEBUG - objective:-1482.9984
+2016-01-30 01:58:29,443 - creep - DEBUG - objective:-1483.0245
+2016-01-30 01:58:44,146 - creep - DEBUG - objective:-1483.0355
+2016-01-30 01:59:00,849 - creep - DEBUG - objective:-1483.0451
+2016-01-30 01:59:15,328 - creep - DEBUG - objective:-1483.0537
+2016-01-30 01:59:30,399 - creep - DEBUG - objective:-1483.0551
+2016-01-30 01:59:45,339 - creep - DEBUG - objective:-1483.0594
+2016-01-30 02:00:10,066 - creep - DEBUG - objective:-1483.0606
+2016-01-30 02:00:26,819 - creep - DEBUG - objective:-1483.0616
+2016-01-30 02:00:41,787 - creep - DEBUG - objective:-1483.0628
+2016-01-30 02:01:01,547 - creep - DEBUG - objective:-1483.0666
+2016-01-30 02:01:15,889 - creep - DEBUG - objective:-1483.0660
+2016-01-30 02:01:30,611 - creep - DEBUG - objective:-1483.0668
+2016-01-30 02:01:45,383 - creep - DEBUG - objective:-1483.0706
+2016-01-30 02:01:45,384 - creep - INFO - Iteration 13 started.
+2016-01-30 02:01:45,385 - creep - INFO - MoG params
+2016-01-30 02:01:46,290 - creep - DEBUG - objective:-1483.0706
+2016-01-30 02:01:46,875 - creep - DEBUG - objective:-1258.5003
+2016-01-30 02:01:47,464 - creep - DEBUG - objective:-1483.6493
+2016-01-30 02:01:48,262 - creep - DEBUG - objective:-1483.9428
+2016-01-30 02:01:49,134 - creep - DEBUG - objective:-1484.3034
+2016-01-30 02:01:50,134 - creep - DEBUG - objective:-1484.5261
+2016-01-30 02:01:51,026 - creep - DEBUG - objective:-1484.7411
+2016-01-30 02:01:51,940 - creep - DEBUG - objective:-1484.8958
+2016-01-30 02:01:52,989 - creep - DEBUG - objective:-1485.0513
+2016-01-30 02:01:54,057 - creep - DEBUG - objective:-1485.2168
+2016-01-30 02:01:55,113 - creep - DEBUG - objective:-1485.3353
+2016-01-30 02:01:56,159 - creep - DEBUG - objective:-1485.4307
+2016-01-30 02:01:57,159 - creep - DEBUG - objective:-1485.4895
+2016-01-30 02:01:58,101 - creep - DEBUG - objective:-1485.5844
+2016-01-30 02:01:58,742 - creep - DEBUG - objective:-1485.6622
+2016-01-30 02:01:59,477 - creep - DEBUG - objective:-1485.8144
+2016-01-30 02:02:00,070 - creep - DEBUG - objective:-1485.9095
+2016-01-30 02:02:00,729 - creep - DEBUG - objective:-1486.0111
+2016-01-30 02:02:01,374 - creep - DEBUG - objective:-1486.1586
+2016-01-30 02:02:02,787 - creep - DEBUG - objective:-1486.3101
+2016-01-30 02:02:04,127 - creep - DEBUG - objective:-1486.4219
+2016-01-30 02:02:05,186 - creep - DEBUG - objective:-1486.5384
+2016-01-30 02:02:06,300 - creep - DEBUG - objective:-1486.6061
+2016-01-30 02:02:06,950 - creep - DEBUG - objective:-1486.6753
+2016-01-30 02:02:07,579 - creep - DEBUG - objective:-1486.8858
+2016-01-30 02:02:08,315 - creep - DEBUG - objective:-1487.0041
+2016-01-30 02:02:08,320 - creep - INFO - Saving model...
+2016-01-30 02:02:08,415 - creep - INFO - Model saved.
+2016-01-30 02:02:08,416 - creep - DEBUG - ftol: 6.41383298113
+2016-01-30 02:02:08,417 - creep - INFO - diff:m:0.0117780348358 s:0.030635386106
+2016-01-30 02:02:08,423 - creep - INFO - ll params
+2016-01-30 02:02:09,036 - creep - DEBUG - objective:-1487.0041
+2016-01-30 02:02:09,796 - creep - DEBUG - objective:-1205.6288
+2016-01-30 02:02:10,684 - creep - DEBUG - objective:-1487.0191
+2016-01-30 02:02:11,732 - creep - DEBUG - objective:-1487.0191
+2016-01-30 02:02:12,983 - creep - DEBUG - objective:-1487.0191
+2016-01-30 02:02:12,984 - creep - INFO - hyp params
+2016-01-30 02:02:26,591 - creep - DEBUG - objective:-1487.0191
+2016-01-30 02:02:41,795 - creep - DEBUG - objective:-1000.1844
+2016-01-30 02:02:57,237 - creep - DEBUG - objective:-1487.6917
+2016-01-30 02:03:11,599 - creep - DEBUG - objective:-1487.7997
+2016-01-30 02:03:31,149 - creep - DEBUG - objective:-1487.9115
+2016-01-30 02:03:51,951 - creep - DEBUG - objective:-1488.1237
+2016-01-30 02:04:05,513 - creep - DEBUG - objective:-1488.3187
+2016-01-30 02:04:20,247 - creep - DEBUG - objective:-1488.3894
+2016-01-30 02:04:35,235 - creep - DEBUG - objective:-1488.4219
+2016-01-30 02:04:50,491 - creep - DEBUG - objective:-1488.4276
+2016-01-30 02:05:05,027 - creep - DEBUG - objective:-1488.4433
+2016-01-30 02:05:19,335 - creep - DEBUG - objective:-1488.4650
+2016-01-30 02:05:33,633 - creep - DEBUG - objective:-1488.4940
+2016-01-30 02:05:48,102 - creep - DEBUG - objective:-1488.5142
+2016-01-30 02:06:02,895 - creep - DEBUG - objective:-1488.5114
+2016-01-30 02:06:16,868 - creep - DEBUG - objective:-1488.5185
+2016-01-30 02:06:30,507 - creep - DEBUG - objective:-1488.5219
+2016-01-30 02:06:53,187 - creep - DEBUG - objective:-1488.5290
+2016-01-30 02:07:07,762 - creep - DEBUG - objective:-1488.5234
+2016-01-30 02:07:26,553 - creep - DEBUG - objective:-1488.5355
+2016-01-30 02:07:44,525 - creep - DEBUG - objective:-1488.5359
+2016-01-30 02:07:59,224 - creep - DEBUG - objective:-1488.5356
+2016-01-30 02:08:14,258 - creep - DEBUG - objective:-1488.5360
+2016-01-30 02:08:29,030 - creep - DEBUG - objective:-1488.5365
+2016-01-30 02:08:44,373 - creep - DEBUG - objective:-1488.5387
+2016-01-30 02:08:59,531 - creep - DEBUG - objective:-1488.5402
+2016-01-30 02:08:59,533 - creep - INFO - Iteration 14 started.
+2016-01-30 02:08:59,533 - creep - INFO - MoG params
+2016-01-30 02:09:00,224 - creep - DEBUG - objective:-1488.5402
+2016-01-30 02:09:01,121 - creep - DEBUG - objective:-1264.6880
+2016-01-30 02:09:02,109 - creep - DEBUG - objective:-1488.9276
+2016-01-30 02:09:03,048 - creep - DEBUG - objective:-1489.1059
+2016-01-30 02:09:03,965 - creep - DEBUG - objective:-1489.2907
+2016-01-30 02:09:04,865 - creep - DEBUG - objective:-1489.4302
+2016-01-30 02:09:05,926 - creep - DEBUG - objective:-1489.5598
+2016-01-30 02:09:07,341 - creep - DEBUG - objective:-1489.6577
+2016-01-30 02:09:08,401 - creep - DEBUG - objective:-1489.7690
+2016-01-30 02:09:09,260 - creep - DEBUG - objective:-1489.9071
+2016-01-30 02:09:09,965 - creep - DEBUG - objective:-1489.9896
+2016-01-30 02:09:10,785 - creep - DEBUG - objective:-1490.0860
+2016-01-30 02:09:11,472 - creep - DEBUG - objective:-1490.1367
+2016-01-30 02:09:11,951 - creep - DEBUG - objective:-1490.2152
+2016-01-30 02:09:13,001 - creep - DEBUG - objective:-1490.3530
+2016-01-30 02:09:13,805 - creep - DEBUG - objective:-1490.5223
+2016-01-30 02:09:14,896 - creep - DEBUG - objective:-1490.6870
+2016-01-30 02:09:15,647 - creep - DEBUG - objective:-1490.8773
+2016-01-30 02:09:16,540 - creep - DEBUG - objective:-1491.0086
+2016-01-30 02:09:17,844 - creep - DEBUG - objective:-1491.0991
+2016-01-30 02:09:18,555 - creep - DEBUG - objective:-1491.2971
+2016-01-30 02:09:19,043 - creep - DEBUG - objective:-1491.3869
+2016-01-30 02:09:19,912 - creep - DEBUG - objective:-1491.4797
+2016-01-30 02:09:20,801 - creep - DEBUG - objective:-1491.6928
+2016-01-30 02:09:21,587 - creep - DEBUG - objective:-1491.8158
+2016-01-30 02:09:22,265 - creep - DEBUG - objective:-1491.9980
+2016-01-30 02:09:22,267 - creep - INFO - Saving model...
+2016-01-30 02:09:22,303 - creep - INFO - Model saved.
+2016-01-30 02:09:22,304 - creep - DEBUG - ftol: 4.99384924051
+2016-01-30 02:09:22,305 - creep - INFO - diff:m:0.00980262711627 s:0.0443765329235
+2016-01-30 02:09:22,306 - creep - INFO - ll params
+2016-01-30 02:09:23,351 - creep - DEBUG - objective:-1491.9980
+2016-01-30 02:09:24,221 - creep - DEBUG - objective:-1212.1835
+2016-01-30 02:09:25,151 - creep - DEBUG - objective:-1492.0218
+2016-01-30 02:09:25,901 - creep - DEBUG - objective:-1492.0220
+2016-01-30 02:09:26,752 - creep - DEBUG - objective:-1492.0220
+2016-01-30 02:09:26,753 - creep - INFO - hyp params
+2016-01-30 02:09:45,814 - creep - DEBUG - objective:-1492.0220
+2016-01-30 02:10:00,503 - creep - DEBUG - objective:-943.4433
+2016-01-30 02:10:18,678 - creep - DEBUG - objective:-1492.7422
+2016-01-30 02:10:35,189 - creep - DEBUG - objective:-1492.8550
+2016-01-30 02:10:51,987 - creep - DEBUG - objective:-1492.9554
+2016-01-30 02:11:06,719 - creep - DEBUG - objective:-1493.1574
+2016-01-30 02:11:21,043 - creep - DEBUG - objective:-1493.3755
+2016-01-30 02:11:35,412 - creep - DEBUG - objective:-1493.5184
+2016-01-30 02:11:51,203 - creep - DEBUG - objective:-1493.5572
+2016-01-30 02:12:06,906 - creep - DEBUG - objective:-1493.5709
+2016-01-30 02:12:22,702 - creep - DEBUG - objective:-1493.5974
+2016-01-30 02:12:38,247 - creep - DEBUG - objective:-1493.6181
+2016-01-30 02:12:58,065 - creep - DEBUG - objective:-1493.6674
+2016-01-30 02:13:12,076 - creep - DEBUG - objective:-1493.3680
+2016-01-30 02:13:27,848 - creep - DEBUG - objective:-1493.6671
+2016-01-30 02:13:44,543 - creep - DEBUG - objective:-1493.6679
+2016-01-30 02:13:59,309 - creep - DEBUG - objective:-1493.6966
+2016-01-30 02:14:14,003 - creep - DEBUG - objective:-1493.7095
+2016-01-30 02:14:29,089 - creep - DEBUG - objective:-1493.7211
+2016-01-30 02:14:43,755 - creep - DEBUG - objective:-1493.7289
+2016-01-30 02:14:58,657 - creep - DEBUG - objective:-1493.7361
+2016-01-30 02:15:16,871 - creep - DEBUG - objective:-1493.7372
+2016-01-30 02:15:35,151 - creep - DEBUG - objective:-1493.7450
+2016-01-30 02:15:54,575 - creep - DEBUG - objective:-1493.7457
+2016-01-30 02:16:11,082 - creep - DEBUG - objective:-1493.7552
+2016-01-30 02:16:25,859 - creep - DEBUG - objective:-1493.7589
+2016-01-30 02:16:25,861 - creep - INFO - Iteration 15 started.
+2016-01-30 02:16:25,862 - creep - INFO - MoG params
+2016-01-30 02:16:26,540 - creep - DEBUG - objective:-1493.7589
+2016-01-30 02:16:27,239 - creep - DEBUG - objective:-1220.5097
+2016-01-30 02:16:28,091 - creep - DEBUG - objective:-1494.2393
+2016-01-30 02:16:29,135 - creep - DEBUG - objective:-1494.4307
+2016-01-30 02:16:30,295 - creep - DEBUG - objective:-1494.7402
+2016-01-30 02:16:31,335 - creep - DEBUG - objective:-1494.8717
+2016-01-30 02:16:32,254 - creep - DEBUG - objective:-1495.0068
+2016-01-30 02:16:33,379 - creep - DEBUG - objective:-1495.1288
+2016-01-30 02:16:34,323 - creep - DEBUG - objective:-1495.2409
+2016-01-30 02:16:35,179 - creep - DEBUG - objective:-1495.3586
+2016-01-30 02:16:36,010 - creep - DEBUG - objective:-1495.4797
+2016-01-30 02:16:36,917 - creep - DEBUG - objective:-1495.5286
+2016-01-30 02:16:38,051 - creep - DEBUG - objective:-1495.5750
+2016-01-30 02:16:39,059 - creep - DEBUG - objective:-1495.6358
+2016-01-30 02:16:40,011 - creep - DEBUG - objective:-1495.7209
+2016-01-30 02:16:40,843 - creep - DEBUG - objective:-1495.8479
+2016-01-30 02:16:42,030 - creep - DEBUG - objective:-1495.9240
+2016-01-30 02:16:43,041 - creep - DEBUG - objective:-1496.0182
+2016-01-30 02:16:44,229 - creep - DEBUG - objective:-1496.1109
+2016-01-30 02:16:45,191 - creep - DEBUG - objective:-1496.2091
+2016-01-30 02:16:46,167 - creep - DEBUG - objective:-1496.2775
+2016-01-30 02:16:47,011 - creep - DEBUG - objective:-1496.3778
+2016-01-30 02:16:47,919 - creep - DEBUG - objective:-1496.4219
+2016-01-30 02:16:48,763 - creep - DEBUG - objective:-1496.4788
+2016-01-30 02:16:49,977 - creep - DEBUG - objective:-1496.5739
+2016-01-30 02:16:51,359 - creep - DEBUG - objective:-1496.6412
+2016-01-30 02:16:51,361 - creep - INFO - Saving model...
+2016-01-30 02:16:51,470 - creep - INFO - Model saved.
+2016-01-30 02:16:51,475 - creep - DEBUG - ftol: 4.6431832413
+2016-01-30 02:16:51,476 - creep - INFO - diff:m:0.00950426173604 s:0.0272421311678
+2016-01-30 02:16:51,483 - creep - INFO - ll params
+2016-01-30 02:16:52,964 - creep - DEBUG - objective:-1496.6412
+2016-01-30 02:16:53,908 - creep - DEBUG - objective:-1210.4558
+2016-01-30 02:16:54,665 - creep - DEBUG - objective:-1496.6417
+2016-01-30 02:16:55,496 - creep - DEBUG - objective:-1496.6417
+2016-01-30 02:16:56,274 - creep - DEBUG - objective:-1496.6417
+2016-01-30 02:16:56,275 - creep - INFO - hyp params
+2016-01-30 02:17:14,092 - creep - DEBUG - objective:-1496.6417
+2016-01-30 02:17:28,834 - creep - DEBUG - objective:-1051.9114
+2016-01-30 02:17:44,424 - creep - DEBUG - objective:-1497.1239
+2016-01-30 02:18:00,551 - creep - DEBUG - objective:-1497.2051
+2016-01-30 02:18:15,280 - creep - DEBUG - objective:-1497.2859
+2016-01-30 02:18:30,979 - creep - DEBUG - objective:-1497.4403
+2016-01-30 02:18:50,899 - creep - DEBUG - objective:-1497.5969
+2016-01-30 02:19:06,520 - creep - DEBUG - objective:-1497.6882
+2016-01-30 02:19:22,060 - creep - DEBUG - objective:-1497.7537
+2016-01-30 02:19:37,243 - creep - DEBUG - objective:-1497.7591
+2016-01-30 02:19:53,485 - creep - DEBUG - objective:-1497.7687
+2016-01-30 02:20:11,299 - creep - DEBUG - objective:-1497.7814
+2016-01-30 02:20:29,442 - creep - DEBUG - objective:-1497.7990
+2016-01-30 02:20:43,562 - creep - DEBUG - objective:-1497.8189
+2016-01-30 02:20:58,359 - creep - DEBUG - objective:-1497.7998
+2016-01-30 02:21:13,102 - creep - DEBUG - objective:-1497.8209
+2016-01-30 02:21:30,914 - creep - DEBUG - objective:-1497.8294
+2016-01-30 02:21:48,602 - creep - DEBUG - objective:-1497.8396
+2016-01-30 02:22:02,649 - creep - DEBUG - objective:-1497.8587
+2016-01-30 02:22:16,069 - creep - DEBUG - objective:-1497.8636
+2016-01-30 02:22:30,249 - creep - DEBUG - objective:-1497.8672
+2016-01-30 02:22:45,074 - creep - DEBUG - objective:-1497.8704
+2016-01-30 02:23:04,425 - creep - DEBUG - objective:-1497.8738
+2016-01-30 02:23:21,304 - creep - DEBUG - objective:-1497.8797
+2016-01-30 02:23:36,167 - creep - DEBUG - objective:-1497.8806
+2016-01-30 02:23:56,164 - creep - DEBUG - objective:-1497.8867
+2016-01-30 02:23:56,166 - creep - INFO - Iteration 16 started.
+2016-01-30 02:23:56,167 - creep - INFO - MoG params
+2016-01-30 02:23:57,400 - creep - DEBUG - objective:-1497.8867
+2016-01-30 02:23:58,485 - creep - DEBUG - objective:-1186.8649
+2016-01-30 02:23:59,438 - creep - DEBUG - objective:-1498.2321
+2016-01-30 02:24:00,625 - creep - DEBUG - objective:-1498.3597
+2016-01-30 02:24:01,163 - creep - DEBUG - objective:-1498.6067
+2016-01-30 02:24:01,671 - creep - DEBUG - objective:-1498.7121
+2016-01-30 02:24:02,369 - creep - DEBUG - objective:-1498.8032
+2016-01-30 02:24:03,154 - creep - DEBUG - objective:-1498.8681
+2016-01-30 02:24:03,925 - creep - DEBUG - objective:-1498.9640
+2016-01-30 02:24:04,731 - creep - DEBUG - objective:-1499.0318
+2016-01-30 02:24:05,755 - creep - DEBUG - objective:-1499.1126
+2016-01-30 02:24:06,675 - creep - DEBUG - objective:-1499.1645
+2016-01-30 02:24:07,998 - creep - DEBUG - objective:-1499.2123
+2016-01-30 02:24:09,027 - creep - DEBUG - objective:-1499.2974
+2016-01-30 02:24:09,952 - creep - DEBUG - objective:-1499.4007
+2016-01-30 02:24:10,691 - creep - DEBUG - objective:-1499.4886
+2016-01-30 02:24:11,287 - creep - DEBUG - objective:-1499.6021
+2016-01-30 02:24:11,949 - creep - DEBUG - objective:-1499.7002
+2016-01-30 02:24:12,401 - creep - DEBUG - objective:-1499.7997
+2016-01-30 02:24:13,240 - creep - DEBUG - objective:-1499.9499
+2016-01-30 02:24:14,338 - creep - DEBUG - objective:-1500.0201
+2016-01-30 02:24:15,359 - creep - DEBUG - objective:-1500.0813
+2016-01-30 02:24:16,704 - creep - DEBUG - objective:-1500.2098
+2016-01-30 02:24:17,749 - creep - DEBUG - objective:-1500.2855
+2016-01-30 02:24:18,775 - creep - DEBUG - objective:-1500.4588
+2016-01-30 02:24:19,472 - creep - DEBUG - objective:-1500.5760
+2016-01-30 02:24:19,474 - creep - INFO - Saving model...
+2016-01-30 02:24:19,511 - creep - INFO - Model saved.
+2016-01-30 02:24:19,512 - creep - DEBUG - ftol: 3.93479947989
+2016-01-30 02:24:19,513 - creep - INFO - diff:m:0.00800103131229 s:0.0348260523362
+2016-01-30 02:24:19,514 - creep - INFO - ll params
+2016-01-30 02:24:20,052 - creep - DEBUG - objective:-1500.5760
+2016-01-30 02:24:20,413 - creep - DEBUG - objective:-1218.2044
+2016-01-30 02:24:21,043 - creep - DEBUG - objective:-1500.5863
+2016-01-30 02:24:21,892 - creep - DEBUG - objective:-1500.5864
+2016-01-30 02:24:22,945 - creep - DEBUG - objective:-1500.5864
+2016-01-30 02:24:22,948 - creep - INFO - hyp params
+2016-01-30 02:24:37,970 - creep - DEBUG - objective:-1500.5864
+2016-01-30 02:24:56,631 - creep - DEBUG - objective:-1026.6616
+2016-01-30 02:25:12,490 - creep - DEBUG - objective:-1500.9613
+2016-01-30 02:25:27,316 - creep - DEBUG - objective:-1501.0229
+2016-01-30 02:25:41,738 - creep - DEBUG - objective:-1501.0825
+2016-01-30 02:25:56,661 - creep - DEBUG - objective:-1501.1939
+2016-01-30 02:26:10,824 - creep - DEBUG - objective:-1501.3290
+2016-01-30 02:26:25,406 - creep - DEBUG - objective:-1501.5040
+2016-01-30 02:26:40,097 - creep - DEBUG - objective:-1501.5218
+2016-01-30 02:26:54,813 - creep - DEBUG - objective:-1501.5437
+2016-01-30 02:27:13,809 - creep - DEBUG - objective:-1501.5588
+2016-01-30 02:27:27,397 - creep - DEBUG - objective:-1501.5703
+2016-01-30 02:27:40,480 - creep - DEBUG - objective:-1501.5855
+2016-01-30 02:27:58,239 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:28:14,598 - creep - DEBUG - objective:-1501.5799
+2016-01-30 02:28:29,532 - creep - DEBUG - objective:-1501.5942
+2016-01-30 02:28:43,881 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:28:58,841 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:29:14,856 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:29:30,158 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:29:45,433 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:30:00,721 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:30:22,745 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:30:43,814 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:31:02,806 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:31:17,390 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:31:17,391 - creep - INFO - Iteration 17 started.
+2016-01-30 02:31:17,392 - creep - INFO - MoG params
+2016-01-30 02:31:18,433 - creep - DEBUG - objective:-1501.5945
+2016-01-30 02:31:19,335 - creep - DEBUG - objective:-1215.8544
+2016-01-30 02:31:20,128 - creep - DEBUG - objective:-1501.9083
+2016-01-30 02:31:21,458 - creep - DEBUG - objective:-1502.0248
+2016-01-30 02:31:22,487 - creep - DEBUG - objective:-1502.2370
+2016-01-30 02:31:23,829 - creep - DEBUG - objective:-1502.3682
+2016-01-30 02:31:24,478 - creep - DEBUG - objective:-1502.4869
+2016-01-30 02:31:25,212 - creep - DEBUG - objective:-1502.5608
+2016-01-30 02:31:26,027 - creep - DEBUG - objective:-1502.6446
+2016-01-30 02:31:26,815 - creep - DEBUG - objective:-1502.7048
+2016-01-30 02:31:27,490 - creep - DEBUG - objective:-1502.7648
+2016-01-30 02:31:28,226 - creep - DEBUG - objective:-1502.8085
+2016-01-30 02:31:28,886 - creep - DEBUG - objective:-1502.8432
+2016-01-30 02:31:29,956 - creep - DEBUG - objective:-1502.9082
+2016-01-30 02:31:30,592 - creep - DEBUG - objective:-1502.9763
+2016-01-30 02:31:31,612 - creep - DEBUG - objective:-1503.0531
+2016-01-30 02:31:32,598 - creep - DEBUG - objective:-1503.1182
+2016-01-30 02:31:33,463 - creep - DEBUG - objective:-1503.1755
+2016-01-30 02:31:34,428 - creep - DEBUG - objective:-1503.2462
+2016-01-30 02:31:35,290 - creep - DEBUG - objective:-1503.3057
+2016-01-30 02:31:36,216 - creep - DEBUG - objective:-1503.3480
+2016-01-30 02:31:36,787 - creep - DEBUG - objective:-1503.3973
+2016-01-30 02:31:37,394 - creep - DEBUG - objective:-1503.4476
+2016-01-30 02:31:38,014 - creep - DEBUG - objective:-1503.5105
+2016-01-30 02:31:39,247 - creep - DEBUG - objective:-1503.5830
+2016-01-30 02:31:40,167 - creep - DEBUG - objective:-1503.6610
+2016-01-30 02:31:40,169 - creep - INFO - Saving model...
+2016-01-30 02:31:40,261 - creep - INFO - Model saved.
+2016-01-30 02:31:40,276 - creep - DEBUG - ftol: 3.08498989327
+2016-01-30 02:31:40,276 - creep - INFO - diff:m:0.00715467648621 s:0.0203020657007
+2016-01-30 02:31:40,277 - creep - INFO - ll params
+2016-01-30 02:31:41,603 - creep - DEBUG - objective:-1503.6610
+2016-01-30 02:31:42,557 - creep - DEBUG - objective:-1356.5279
+2016-01-30 02:31:43,344 - creep - DEBUG - objective:-1503.6610
+2016-01-30 02:31:43,944 - creep - DEBUG - objective:-1503.6610
+2016-01-30 02:31:43,946 - creep - INFO - hyp params
+2016-01-30 02:31:58,541 - creep - DEBUG - objective:-1503.6610
+2016-01-30 02:32:13,383 - creep - DEBUG - objective:-1085.3392
+2016-01-30 02:32:28,825 - creep - DEBUG - objective:-1503.9203
+2016-01-30 02:32:45,426 - creep - DEBUG - objective:-1503.9575
+2016-01-30 02:33:00,353 - creep - DEBUG - objective:-1503.9932
+2016-01-30 02:33:15,995 - creep - DEBUG - objective:-1504.0814
+2016-01-30 02:33:31,086 - creep - DEBUG - objective:-1504.1625
+2016-01-30 02:33:52,200 - creep - DEBUG - objective:-1504.2537
+2016-01-30 02:34:10,835 - creep - DEBUG - objective:-1504.2813
+2016-01-30 02:34:25,140 - creep - DEBUG - objective:-1504.2901
+2016-01-30 02:34:39,207 - creep - DEBUG - objective:-1504.3071
+2016-01-30 02:34:54,175 - creep - DEBUG - objective:-1504.3338
+2016-01-30 02:35:07,886 - creep - DEBUG - objective:-1504.3632
+2016-01-30 02:35:23,100 - creep - DEBUG - objective:-1504.3860
+2016-01-30 02:35:38,086 - creep - DEBUG - objective:-1504.3692
+2016-01-30 02:35:52,492 - creep - DEBUG - objective:-1504.3869
+2016-01-30 02:36:06,815 - creep - DEBUG - objective:-1504.3941
+2016-01-30 02:36:22,023 - creep - DEBUG - objective:-1504.4022
+2016-01-30 02:36:37,055 - creep - DEBUG - objective:-1504.4102
+2016-01-30 02:36:55,940 - creep - DEBUG - objective:-1504.4146
+2016-01-30 02:37:15,738 - creep - DEBUG - objective:-1504.4171
+2016-01-30 02:37:30,787 - creep - DEBUG - objective:-1504.4230
+2016-01-30 02:37:45,760 - creep - DEBUG - objective:-1504.4360
+2016-01-30 02:37:59,561 - creep - DEBUG - objective:-1504.4071
+2016-01-30 02:38:16,584 - creep - DEBUG - objective:-1504.4424
+2016-01-30 02:38:35,609 - creep - DEBUG - objective:-1504.4513
+2016-01-30 02:38:35,610 - creep - INFO - Iteration 18 started.
+2016-01-30 02:38:35,612 - creep - INFO - MoG params
+2016-01-30 02:38:36,448 - creep - DEBUG - objective:-1504.4513
+2016-01-30 02:38:37,217 - creep - DEBUG - objective:-1286.8485
+2016-01-30 02:38:37,987 - creep - DEBUG - objective:-1504.6383
+2016-01-30 02:38:38,642 - creep - DEBUG - objective:-1504.7169
+2016-01-30 02:38:39,235 - creep - DEBUG - objective:-1504.7984
+2016-01-30 02:38:40,035 - creep - DEBUG - objective:-1504.8703
+2016-01-30 02:38:41,136 - creep - DEBUG - objective:-1504.9511
+2016-01-30 02:38:42,229 - creep - DEBUG - objective:-1505.0100
+2016-01-30 02:38:43,017 - creep - DEBUG - objective:-1505.0616
+2016-01-30 02:38:44,293 - creep - DEBUG - objective:-1505.1077
+2016-01-30 02:38:45,511 - creep - DEBUG - objective:-1505.1525
+2016-01-30 02:38:46,156 - creep - DEBUG - objective:-1505.1910
+2016-01-30 02:38:46,907 - creep - DEBUG - objective:-1505.2307
+2016-01-30 02:38:47,755 - creep - DEBUG - objective:-1505.2956
+2016-01-30 02:38:48,551 - creep - DEBUG - objective:-1505.3762
+2016-01-30 02:38:49,701 - creep - DEBUG - objective:-1505.4673
+2016-01-30 02:38:50,670 - creep - DEBUG - objective:-1505.5529
+2016-01-30 02:38:51,775 - creep - DEBUG - objective:-1505.6149
+2016-01-30 02:38:52,883 - creep - DEBUG - objective:-1505.7004
+2016-01-30 02:38:54,337 - creep - DEBUG - objective:-1505.7852
+2016-01-30 02:38:55,232 - creep - DEBUG - objective:-1505.8718
+2016-01-30 02:38:56,259 - creep - DEBUG - objective:-1505.9465
+2016-01-30 02:38:56,931 - creep - DEBUG - objective:-1506.0308
+2016-01-30 02:38:57,885 - creep - DEBUG - objective:-1506.1178
+2016-01-30 02:38:58,714 - creep - DEBUG - objective:-1506.2191
+2016-01-30 02:38:59,455 - creep - DEBUG - objective:-1506.3393
+2016-01-30 02:38:59,456 - creep - INFO - Saving model...
+2016-01-30 02:38:59,520 - creep - INFO - Model saved.
+2016-01-30 02:38:59,521 - creep - DEBUG - ftol: 2.67837933465
+2016-01-30 02:38:59,522 - creep - INFO - diff:m:0.0059776796875 s:0.0315927774674
+2016-01-30 02:38:59,522 - creep - INFO - ll params
+2016-01-30 02:39:00,628 - creep - DEBUG - objective:-1506.3393
+2016-01-30 02:39:01,311 - creep - DEBUG - objective:-1221.1141
+2016-01-30 02:39:02,354 - creep - DEBUG - objective:-1506.3412
+2016-01-30 02:39:03,072 - creep - DEBUG - objective:-1506.3412
+2016-01-30 02:39:03,909 - creep - DEBUG - objective:-1506.3412
+2016-01-30 02:39:03,910 - creep - INFO - hyp params
+2016-01-30 02:39:18,522 - creep - DEBUG - objective:-1506.3412
+2016-01-30 02:39:32,679 - creep - DEBUG - objective:-1030.7147
+2016-01-30 02:39:47,848 - creep - DEBUG - objective:-1506.6443
+2016-01-30 02:40:02,459 - creep - DEBUG - objective:-1506.6856
+2016-01-30 02:40:20,985 - creep - DEBUG - objective:-1506.7182
+2016-01-30 02:40:40,230 - creep - DEBUG - objective:-1506.7864
+2016-01-30 02:40:55,400 - creep - DEBUG - objective:-1506.8592
+2016-01-30 02:41:09,640 - creep - DEBUG - objective:-1506.9732
+2016-01-30 02:41:25,262 - creep - DEBUG - objective:-1506.9821
+2016-01-30 02:41:40,778 - creep - DEBUG - objective:-1507.0281
+2016-01-30 02:41:54,699 - creep - DEBUG - objective:-1507.0471
+2016-01-30 02:42:09,394 - creep - DEBUG - objective:-1507.0650
+2016-01-30 02:42:24,358 - creep - DEBUG - objective:-1507.0841
+2016-01-30 02:42:39,141 - creep - DEBUG - objective:-1507.0936
+2016-01-30 02:42:55,323 - creep - DEBUG - objective:-1507.1056
+2016-01-30 02:43:13,990 - creep - DEBUG - objective:-1507.1064
+2016-01-30 02:43:30,005 - creep - DEBUG - objective:-1507.1090
+2016-01-30 02:43:44,589 - creep - DEBUG - objective:-1507.1151
+2016-01-30 02:44:04,232 - creep - DEBUG - objective:-1507.1241
+2016-01-30 02:44:19,007 - creep - DEBUG - objective:-1507.1224
+2016-01-30 02:44:34,034 - creep - DEBUG - objective:-1507.1253
+2016-01-30 02:44:49,001 - creep - DEBUG - objective:-1507.1329
+2016-01-30 02:45:03,481 - creep - DEBUG - objective:-1507.1449
+2016-01-30 02:45:18,695 - creep - DEBUG - objective:-1507.1508
+2016-01-30 02:45:33,810 - creep - DEBUG - objective:-1507.1551
+2016-01-30 02:45:50,748 - creep - DEBUG - objective:-1507.1593
+2016-01-30 02:45:50,749 - creep - INFO - Iteration 19 started.
+2016-01-30 02:45:50,749 - creep - INFO - MoG params
+2016-01-30 02:45:52,298 - creep - DEBUG - objective:-1507.1593
+2016-01-30 02:45:53,795 - creep - DEBUG - objective:-1305.1095
+2016-01-30 02:45:55,359 - creep - DEBUG - objective:-1507.3368
+2016-01-30 02:45:56,360 - creep - DEBUG - objective:-1507.4238
+2016-01-30 02:45:57,776 - creep - DEBUG - objective:-1507.5282
+2016-01-30 02:45:59,239 - creep - DEBUG - objective:-1507.6073
+2016-01-30 02:46:00,715 - creep - DEBUG - objective:-1507.6970
+2016-01-30 02:46:02,160 - creep - DEBUG - objective:-1507.7572
+2016-01-30 02:46:03,194 - creep - DEBUG - objective:-1507.8066
+2016-01-30 02:46:04,460 - creep - DEBUG - objective:-1507.8519
+2016-01-30 02:46:05,589 - creep - DEBUG - objective:-1507.8848
+2016-01-30 02:46:06,921 - creep - DEBUG - objective:-1507.9195
+2016-01-30 02:46:08,315 - creep - DEBUG - objective:-1507.9389
+2016-01-30 02:46:09,352 - creep - DEBUG - objective:-1507.9784
+2016-01-30 02:46:10,867 - creep - DEBUG - objective:-1508.0213
+2016-01-30 02:46:12,047 - creep - DEBUG - objective:-1508.0755
+2016-01-30 02:46:13,463 - creep - DEBUG - objective:-1508.1330
+2016-01-30 02:46:14,195 - creep - DEBUG - objective:-1508.1689
+2016-01-30 02:46:15,299 - creep - DEBUG - objective:-1508.2092
+2016-01-30 02:46:16,290 - creep - DEBUG - objective:-1508.2478
+2016-01-30 02:46:17,399 - creep - DEBUG - objective:-1508.2868
+2016-01-30 02:46:18,543 - creep - DEBUG - objective:-1508.3251
+2016-01-30 02:46:19,603 - creep - DEBUG - objective:-1508.3576
+2016-01-30 02:46:20,745 - creep - DEBUG - objective:-1508.4217
+2016-01-30 02:46:21,463 - creep - DEBUG - objective:-1508.4630
+2016-01-30 02:46:22,466 - creep - DEBUG - objective:-1508.5204
+2016-01-30 02:46:22,470 - creep - INFO - Saving model...
+2016-01-30 02:46:22,549 - creep - INFO - Model saved.
+2016-01-30 02:46:22,551 - creep - DEBUG - ftol: 2.18110812904
+2016-01-30 02:46:22,553 - creep - INFO - diff:m:0.00583728929057 s:0.0178111594341
+2016-01-30 02:46:22,555 - creep - INFO - ll params
+2016-01-30 02:46:23,419 - creep - DEBUG - objective:-1508.5204
+2016-01-30 02:46:23,926 - creep - DEBUG - objective:-1361.7687
+2016-01-30 02:46:24,223 - creep - DEBUG - objective:-1508.5209
+2016-01-30 02:46:24,546 - creep - DEBUG - objective:-1508.5209
+2016-01-30 02:46:24,971 - creep - DEBUG - objective:-1508.5209
+2016-01-30 02:46:25,252 - creep - INFO - hyp params
+2016-01-30 02:46:40,495 - creep - DEBUG - objective:-1508.5209
+2016-01-30 02:46:55,857 - creep - DEBUG - objective:-1089.7405
+2016-01-30 02:47:10,503 - creep - DEBUG - objective:-1508.7327
+2016-01-30 02:47:29,527 - creep - DEBUG - objective:-1508.7587
+2016-01-30 02:47:50,351 - creep - DEBUG - objective:-1508.7800
+2016-01-30 02:48:06,621 - creep - DEBUG - objective:-1508.8363
+2016-01-30 02:48:22,055 - creep - DEBUG - objective:-1508.8811
+2016-01-30 02:48:38,093 - creep - DEBUG - objective:-1508.9425
+2016-01-30 02:48:53,952 - creep - DEBUG - objective:-1508.9540
+2016-01-30 02:49:13,887 - creep - DEBUG - objective:-1508.9621
+2016-01-30 02:49:29,573 - creep - DEBUG - objective:-1508.9768
+2016-01-30 02:49:44,820 - creep - DEBUG - objective:-1508.9971
+2016-01-30 02:50:01,139 - creep - DEBUG - objective:-1509.0217
+2016-01-30 02:50:17,287 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:50:32,084 - creep - DEBUG - objective:-1509.0011
+2016-01-30 02:50:47,581 - creep - DEBUG - objective:-1509.0382
+2016-01-30 02:51:03,266 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:51:19,348 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:51:36,237 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:51:50,503 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:52:15,818 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:52:30,352 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:52:46,018 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:52:59,486 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:53:14,875 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:53:30,177 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:53:49,524 - creep - INFO - Iteration 20 started.
+2016-01-30 02:53:49,525 - creep - INFO - MoG params
+2016-01-30 02:53:50,478 - creep - DEBUG - objective:-1509.0386
+2016-01-30 02:53:51,678 - creep - DEBUG - objective:-1310.6241
+2016-01-30 02:53:52,791 - creep - DEBUG - objective:-1509.1357
+2016-01-30 02:53:53,952 - creep - DEBUG - objective:-1509.1867
+2016-01-30 02:53:55,083 - creep - DEBUG - objective:-1509.2583
+2016-01-30 02:53:56,088 - creep - DEBUG - objective:-1509.3015
+2016-01-30 02:53:57,464 - creep - DEBUG - objective:-1509.3464
+2016-01-30 02:53:58,411 - creep - DEBUG - objective:-1509.3872
+2016-01-30 02:53:59,329 - creep - DEBUG - objective:-1509.4180
+2016-01-30 02:54:00,382 - creep - DEBUG - objective:-1509.4526
+2016-01-30 02:54:01,259 - creep - DEBUG - objective:-1509.4835
+2016-01-30 02:54:02,541 - creep - DEBUG - objective:-1509.5074
+2016-01-30 02:54:03,876 - creep - DEBUG - objective:-1509.5292
+2016-01-30 02:54:04,799 - creep - DEBUG - objective:-1509.5802
+2016-01-30 02:54:05,742 - creep - DEBUG - objective:-1509.6012
+2016-01-30 02:54:06,622 - creep - DEBUG - objective:-1509.6507
+2016-01-30 02:54:07,646 - creep - DEBUG - objective:-1509.6876
+2016-01-30 02:54:08,580 - creep - DEBUG - objective:-1509.7243
+2016-01-30 02:54:09,076 - creep - DEBUG - objective:-1509.7897
+2016-01-30 02:54:09,849 - creep - DEBUG - objective:-1509.7590
+2016-01-30 02:54:10,898 - creep - DEBUG - objective:-1509.8283
+2016-01-30 02:54:11,692 - creep - DEBUG - objective:-1509.8795
+2016-01-30 02:54:12,796 - creep - DEBUG - objective:-1509.9244
+2016-01-30 02:54:13,947 - creep - DEBUG - objective:-1509.9761
+2016-01-30 02:54:15,434 - creep - DEBUG - objective:-1510.0258
+2016-01-30 02:54:16,351 - creep - DEBUG - objective:-1510.0683
+2016-01-30 02:54:16,356 - creep - INFO - Saving model...
+2016-01-30 02:54:16,456 - creep - INFO - Model saved.
+2016-01-30 02:54:16,457 - creep - DEBUG - ftol: 1.54789753251
+2016-01-30 02:54:16,458 - creep - INFO - diff:m:0.0048738076845 s:0.0189663009105
+2016-01-30 02:54:16,463 - creep - INFO - ll params
+2016-01-30 02:54:17,711 - creep - DEBUG - objective:-1510.0683
+2016-01-30 02:54:18,295 - creep - DEBUG - objective:-1362.9274
+2016-01-30 02:54:18,668 - creep - DEBUG - objective:-1510.0683
+2016-01-30 02:54:19,108 - creep - DEBUG - objective:-1510.0683
+2016-01-30 02:54:19,109 - creep - INFO - hyp params
+2016-01-30 02:54:33,373 - creep - DEBUG - objective:-1510.0683
+2016-01-30 02:54:48,891 - creep - DEBUG - objective:-1075.3094
+2016-01-30 02:55:05,103 - creep - DEBUG - objective:-1510.2268
+2016-01-30 02:55:20,134 - creep - DEBUG - objective:-1510.2420
+2016-01-30 02:55:39,385 - creep - DEBUG - objective:-1510.2537
+2016-01-30 02:55:55,180 - creep - DEBUG - objective:-1510.2946
+2016-01-30 02:56:11,115 - creep - DEBUG - objective:-1510.3269
+2016-01-30 02:56:29,525 - creep - DEBUG - objective:-1510.3736
+2016-01-30 02:56:49,679 - creep - DEBUG - objective:-1510.3804
+2016-01-30 02:57:03,803 - creep - DEBUG - objective:-1510.3902
+2016-01-30 02:57:18,562 - creep - DEBUG - objective:-1510.4059
+2016-01-30 02:57:34,683 - creep - DEBUG - objective:-1510.4195
+2016-01-30 02:57:50,423 - creep - DEBUG - objective:-1510.4442
+2016-01-30 02:58:05,836 - creep - DEBUG - objective:-1510.4476
+2016-01-30 02:58:20,924 - creep - DEBUG - objective:-1510.4639
+2016-01-30 02:58:38,970 - creep - DEBUG - objective:-1510.4650
+2016-01-30 02:58:57,112 - creep - DEBUG - objective:-1510.4663
+2016-01-30 02:59:12,735 - creep - DEBUG - objective:-1510.4681
+2016-01-30 02:59:26,953 - creep - DEBUG - objective:-1510.4742
+2016-01-30 02:59:43,610 - creep - DEBUG - objective:-1510.4695
+2016-01-30 02:59:58,819 - creep - DEBUG - objective:-1510.4748
+2016-01-30 03:00:14,723 - creep - DEBUG - objective:-1510.4814
+2016-01-30 03:00:30,059 - creep - DEBUG - objective:-1510.4900
+2016-01-30 03:00:48,971 - creep - DEBUG - objective:-1510.5074
+2016-01-30 03:01:05,659 - creep - DEBUG - objective:-1510.7356
+2016-01-30 03:01:24,070 - creep - DEBUG - objective:-1518.1392
+2016-01-30 03:01:24,071 - creep - INFO - Iteration 21 started.
+2016-01-30 03:01:24,072 - creep - INFO - MoG params
+2016-01-30 03:01:25,208 - creep - DEBUG - objective:-1518.1392
+2016-01-30 03:01:26,453 - creep - DEBUG - objective:-1312.8480
+2016-01-30 03:01:27,803 - creep - DEBUG - objective:-1520.3093
+2016-01-30 03:01:29,130 - creep - DEBUG - objective:-1520.8560
+2016-01-30 03:01:30,089 - creep - DEBUG - objective:-1521.6382
+2016-01-30 03:01:31,178 - creep - DEBUG - objective:-1522.0919
+2016-01-30 03:01:32,374 - creep - DEBUG - objective:-1522.4868
+2016-01-30 03:01:33,477 - creep - DEBUG - objective:-1522.8577
+2016-01-30 03:01:34,361 - creep - DEBUG - objective:-1523.0474
+2016-01-30 03:01:35,234 - creep - DEBUG - objective:-1523.2815
+2016-01-30 03:01:36,560 - creep - DEBUG - objective:-1523.3831
+2016-01-30 03:01:37,753 - creep - DEBUG - objective:-1523.4738
+2016-01-30 03:01:38,959 - creep - DEBUG - objective:-1523.5584
+2016-01-30 03:01:39,810 - creep - DEBUG - objective:-1523.6329
+2016-01-30 03:01:41,103 - creep - DEBUG - objective:-1523.6682
+2016-01-30 03:01:42,264 - creep - DEBUG - objective:-1523.7450
+2016-01-30 03:01:43,386 - creep - DEBUG - objective:-1523.7744
+2016-01-30 03:01:44,328 - creep - DEBUG - objective:-1523.8118
+2016-01-30 03:01:45,642 - creep - DEBUG - objective:-1523.8467
+2016-01-30 03:01:46,535 - creep - DEBUG - objective:-1523.8857
+2016-01-30 03:01:47,827 - creep - DEBUG - objective:-1523.9086
+2016-01-30 03:01:48,424 - creep - DEBUG - objective:-1523.9382
+2016-01-30 03:01:49,235 - creep - DEBUG - objective:-1523.9697
+2016-01-30 03:01:50,186 - creep - DEBUG - objective:-1524.0077
+2016-01-30 03:01:50,698 - creep - DEBUG - objective:-1524.0608
+2016-01-30 03:01:51,418 - creep - DEBUG - objective:-1524.0982
+2016-01-30 03:01:51,420 - creep - INFO - Saving model...
+2016-01-30 03:01:51,458 - creep - INFO - Model saved.
+2016-01-30 03:01:51,459 - creep - DEBUG - ftol: 14.0298930738
+2016-01-30 03:01:51,460 - creep - INFO - diff:m:0.0105448942126 s:0.00985160498229
+2016-01-30 03:01:51,461 - creep - INFO - ll params
+2016-01-30 03:01:52,749 - creep - DEBUG - objective:-1524.0982
+2016-01-30 03:01:53,701 - creep - DEBUG - objective:-1248.2105
+2016-01-30 03:01:54,922 - creep - DEBUG - objective:-1524.1537
+2016-01-30 03:01:56,169 - creep - DEBUG - objective:-1524.1541
+2016-01-30 03:01:57,080 - creep - DEBUG - objective:-1524.1541
+2016-01-30 03:01:57,081 - creep - INFO - hyp params
+2016-01-30 03:02:14,696 - creep - DEBUG - objective:-1524.1541
+2016-01-30 03:02:30,578 - creep - DEBUG - objective:-1355.9536
+2016-01-30 03:02:46,814 - creep - DEBUG - objective:-1525.4381
+2016-01-30 03:03:02,029 - creep - DEBUG - objective:-1526.9187
+2016-01-30 03:03:17,503 - creep - DEBUG - objective:-1530.8314
+2016-01-30 03:03:33,075 - creep - DEBUG - objective:-1530.9101
+2016-01-30 03:03:48,803 - creep - DEBUG - objective:-1531.8966
+2016-01-30 03:04:03,204 - creep - DEBUG - objective:-1531.9526
+2016-01-30 03:04:18,349 - creep - DEBUG - objective:-1532.0248
+2016-01-30 03:04:33,074 - creep - DEBUG - objective:-1532.0772
+2016-01-30 03:04:48,596 - creep - DEBUG - objective:-1532.1670
+2016-01-30 03:05:03,174 - creep - DEBUG - objective:-1532.1919
+2016-01-30 03:05:24,991 - creep - DEBUG - objective:-1532.2136
+2016-01-30 03:05:44,070 - creep - DEBUG - objective:-1532.2192
+2016-01-30 03:05:59,424 - creep - DEBUG - objective:-1532.2224
+2016-01-30 03:06:14,431 - creep - DEBUG - objective:-1532.2303
+2016-01-30 03:06:30,810 - creep - DEBUG - objective:-1532.2321
+2016-01-30 03:06:46,559 - creep - DEBUG - objective:-1532.2333
+2016-01-30 03:07:02,696 - creep - DEBUG - objective:-1532.2350
+2016-01-30 03:07:17,401 - creep - DEBUG - objective:-1532.2376
+2016-01-30 03:07:32,945 - creep - DEBUG - objective:-1532.2431
+2016-01-30 03:07:49,345 - creep - DEBUG - objective:-1532.2427
+2016-01-30 03:08:06,294 - creep - DEBUG - objective:-1532.2431
+2016-01-30 03:08:22,524 - creep - DEBUG - objective:-1532.2436
+2016-01-30 03:08:41,559 - creep - DEBUG - objective:-1532.2437
+2016-01-30 03:08:57,714 - creep - DEBUG - objective:-1532.2449
+2016-01-30 03:08:57,715 - creep - INFO - Iteration 22 started.
+2016-01-30 03:08:57,716 - creep - INFO - MoG params
+2016-01-30 03:08:58,905 - creep - DEBUG - objective:-1532.2449
+2016-01-30 03:08:59,910 - creep - DEBUG - objective:-1293.3761
+2016-01-30 03:09:01,640 - creep - DEBUG - objective:-1533.4549
+2016-01-30 03:09:02,621 - creep - DEBUG - objective:-1533.7846
+2016-01-30 03:09:04,030 - creep - DEBUG - objective:-1534.2702
+2016-01-30 03:09:04,990 - creep - DEBUG - objective:-1534.3581
+2016-01-30 03:09:05,840 - creep - DEBUG - objective:-1534.5434
+2016-01-30 03:09:06,441 - creep - DEBUG - objective:-1534.6457
+2016-01-30 03:09:07,142 - creep - DEBUG - objective:-1534.7567
+2016-01-30 03:09:07,698 - creep - DEBUG - objective:-1534.9228
+2016-01-30 03:09:08,250 - creep - DEBUG - objective:-1535.0601
+2016-01-30 03:09:08,834 - creep - DEBUG - objective:-1535.1574
+2016-01-30 03:09:09,627 - creep - DEBUG - objective:-1535.2040
+2016-01-30 03:09:10,442 - creep - DEBUG - objective:-1535.2331
+2016-01-30 03:09:11,632 - creep - DEBUG - objective:-1535.2781
+2016-01-30 03:09:12,688 - creep - DEBUG - objective:-1535.3279
+2016-01-30 03:09:14,279 - creep - DEBUG - objective:-1535.3916
+2016-01-30 03:09:15,338 - creep - DEBUG - objective:-1535.4463
+2016-01-30 03:09:16,295 - creep - DEBUG - objective:-1535.5066
+2016-01-30 03:09:16,922 - creep - DEBUG - objective:-1535.5747
+2016-01-30 03:09:17,559 - creep - DEBUG - objective:-1535.6487
+2016-01-30 03:09:18,123 - creep - DEBUG - objective:-1535.7459
+2016-01-30 03:09:18,974 - creep - DEBUG - objective:-1535.8249
+2016-01-30 03:09:19,701 - creep - DEBUG - objective:-1535.8973
+2016-01-30 03:09:20,727 - creep - DEBUG - objective:-1536.0802
+2016-01-30 03:09:22,095 - creep - DEBUG - objective:-1536.1769
+2016-01-30 03:09:22,097 - creep - INFO - Saving model...
+2016-01-30 03:09:22,196 - creep - INFO - Model saved.
+2016-01-30 03:09:22,199 - creep - DEBUG - ftol: 12.0786856051
+2016-01-30 03:09:22,201 - creep - INFO - diff:m:0.00794433725329 s:0.0214472654105
+2016-01-30 03:09:22,203 - creep - INFO - ll params
+2016-01-30 03:09:23,482 - creep - DEBUG - objective:-1536.1769
+2016-01-30 03:09:24,573 - creep - DEBUG - objective:-1266.8887
+2016-01-30 03:09:25,871 - creep - DEBUG - objective:-1536.3159
+2016-01-30 03:09:26,781 - creep - DEBUG - objective:-1536.3169
+2016-01-30 03:09:27,926 - creep - DEBUG - objective:-1536.3169
+2016-01-30 03:09:28,670 - creep - DEBUG - objective:-1536.3169
+2016-01-30 03:09:28,675 - creep - INFO - hyp params
+2016-01-30 03:09:53,091 - creep - DEBUG - objective:-1536.3169
+2016-01-30 03:10:11,137 - creep - DEBUG - objective:-775.4685
+2016-01-30 03:10:26,493 - creep - DEBUG - objective:-1536.5752
+2016-01-30 03:10:42,130 - creep - DEBUG - objective:-1536.7152
+2016-01-30 03:10:57,937 - creep - DEBUG - objective:-1537.0969
+2016-01-30 03:11:14,091 - creep - DEBUG - objective:-1537.6075
+2016-01-30 03:11:29,180 - creep - DEBUG - objective:-1537.7748
+2016-01-30 03:11:44,261 - creep - DEBUG - objective:-1537.9496
+2016-01-30 03:12:04,086 - creep - DEBUG - objective:-1537.9667
+2016-01-30 03:12:20,512 - creep - DEBUG - objective:-1537.9789
+2016-01-30 03:12:35,802 - creep - DEBUG - objective:-1538.0078
+2016-01-30 03:12:51,993 - creep - DEBUG - objective:-1538.0432
+2016-01-30 03:13:08,693 - creep - DEBUG - objective:-1538.0698
+2016-01-30 03:13:24,800 - creep - DEBUG - objective:-1538.0977
+2016-01-30 03:13:41,165 - creep - DEBUG - objective:-1538.0958
+2016-01-30 03:14:01,738 - creep - DEBUG - objective:-1538.0982
+2016-01-30 03:14:18,107 - creep - DEBUG - objective:-1538.0952
+2016-01-30 03:14:34,049 - creep - DEBUG - objective:-1538.0983
+2016-01-30 03:14:50,585 - creep - DEBUG - objective:-1538.0953
+2016-01-30 03:15:10,275 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:15:25,558 - creep - DEBUG - objective:-1538.0946
+2016-01-30 03:15:40,703 - creep - DEBUG - objective:-1538.0982
+2016-01-30 03:15:56,079 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:16:12,311 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:16:28,404 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:16:45,447 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:17:02,235 - creep - INFO - Iteration 23 started.
+2016-01-30 03:17:02,237 - creep - INFO - MoG params
+2016-01-30 03:17:02,971 - creep - DEBUG - objective:-1538.0984
+2016-01-30 03:17:03,813 - creep - DEBUG - objective:-1281.9858
+2016-01-30 03:17:05,215 - creep - DEBUG - objective:-1538.4185
+2016-01-30 03:17:06,490 - creep - DEBUG - objective:-1538.5521
+2016-01-30 03:17:07,910 - creep - DEBUG - objective:-1538.7555
+2016-01-30 03:17:09,073 - creep - DEBUG - objective:-1538.8314
+2016-01-30 03:17:09,996 - creep - DEBUG - objective:-1538.9064
+2016-01-30 03:17:10,808 - creep - DEBUG - objective:-1538.9642
+2016-01-30 03:17:12,022 - creep - DEBUG - objective:-1539.0097
+2016-01-30 03:17:12,877 - creep - DEBUG - objective:-1539.0709
+2016-01-30 03:17:14,091 - creep - DEBUG - objective:-1539.1354
+2016-01-30 03:17:15,034 - creep - DEBUG - objective:-1539.1572
+2016-01-30 03:17:16,326 - creep - DEBUG - objective:-1539.1899
+2016-01-30 03:17:17,545 - creep - DEBUG - objective:-1539.2236
+2016-01-30 03:17:18,798 - creep - DEBUG - objective:-1539.2691
+2016-01-30 03:17:19,740 - creep - DEBUG - objective:-1539.3415
+2016-01-30 03:17:20,927 - creep - DEBUG - objective:-1539.4218
+2016-01-30 03:17:22,163 - creep - DEBUG - objective:-1539.5082
+2016-01-30 03:17:23,401 - creep - DEBUG - objective:-1539.5972
+2016-01-30 03:17:24,117 - creep - DEBUG - objective:-1539.6971
+2016-01-30 03:17:25,345 - creep - DEBUG - objective:-1539.7764
+2016-01-30 03:17:26,332 - creep - DEBUG - objective:-1539.8827
+2016-01-30 03:17:27,411 - creep - DEBUG - objective:-1539.9778
+2016-01-30 03:17:28,550 - creep - DEBUG - objective:-1540.0643
+2016-01-30 03:17:29,907 - creep - DEBUG - objective:-1540.1542
+2016-01-30 03:17:30,714 - creep - DEBUG - objective:-1540.2360
+2016-01-30 03:17:30,716 - creep - INFO - Saving model...
+2016-01-30 03:17:30,798 - creep - INFO - Model saved.
+2016-01-30 03:17:30,810 - creep - DEBUG - ftol: 4.05908471384
+2016-01-30 03:17:30,812 - creep - INFO - diff:m:0.00635945280955 s:0.0272780790506
+2016-01-30 03:17:30,814 - creep - INFO - ll params
+2016-01-30 03:17:31,924 - creep - DEBUG - objective:-1540.2360
+2016-01-30 03:17:32,372 - creep - DEBUG - objective:-1260.0868
+2016-01-30 03:17:33,187 - creep - DEBUG - objective:-1540.2577
+2016-01-30 03:17:33,842 - creep - DEBUG - objective:-1540.2579
+2016-01-30 03:17:34,643 - creep - DEBUG - objective:-1540.2579
+2016-01-30 03:17:34,647 - creep - INFO - hyp params
+2016-01-30 03:17:51,992 - creep - DEBUG - objective:-1540.2579
+2016-01-30 03:18:12,454 - creep - DEBUG - objective:-549.6488
+2016-01-30 03:18:37,211 - creep - DEBUG - objective:-1540.5120
+2016-01-30 03:18:53,839 - creep - DEBUG - objective:-1540.5799
+2016-01-30 03:19:10,115 - creep - DEBUG - objective:-1540.6353
+2016-01-30 03:19:25,618 - creep - DEBUG - objective:-1540.7441
+2016-01-30 03:19:41,703 - creep - DEBUG - objective:-1540.8880
+2016-01-30 03:19:56,917 - creep - DEBUG - objective:-1540.9588
+2016-01-30 03:20:12,875 - creep - DEBUG - objective:-1541.0211
+2016-01-30 03:20:28,860 - creep - DEBUG - objective:-1541.0270
+2016-01-30 03:20:44,323 - creep - DEBUG - objective:-1541.0319
+2016-01-30 03:21:00,273 - creep - DEBUG - objective:-1541.0366
+2016-01-30 03:21:14,869 - creep - DEBUG - objective:-1541.0441
+2016-01-30 03:21:37,146 - creep - DEBUG - objective:-1541.0466
+2016-01-30 03:21:56,504 - creep - DEBUG - objective:-1541.0507
+2016-01-30 03:22:12,362 - creep - DEBUG - objective:-1541.0501
+2016-01-30 03:22:27,354 - creep - DEBUG - objective:-1541.0510
+2016-01-30 03:22:43,483 - creep - DEBUG - objective:-1541.0516
+2016-01-30 03:23:04,165 - creep - DEBUG - objective:-1541.0505
+2016-01-30 03:23:20,087 - creep - DEBUG - objective:-1541.0516
+2016-01-30 03:23:35,488 - creep - DEBUG - objective:-1541.0520
+2016-01-30 03:23:51,487 - creep - DEBUG - objective:-1541.0533
+2016-01-30 03:24:06,692 - creep - DEBUG - objective:-1541.0506
+2016-01-30 03:24:22,422 - creep - DEBUG - objective:-1541.0533
+2016-01-30 03:24:38,471 - creep - DEBUG - objective:-1541.0533
+2016-01-30 03:24:55,060 - creep - DEBUG - objective:-1541.0533
+2016-01-30 03:25:14,490 - creep - INFO - Iteration 24 started.
+2016-01-30 03:25:14,491 - creep - INFO - MoG params
+2016-01-30 03:25:15,228 - creep - DEBUG - objective:-1541.0533
+2016-01-30 03:25:16,253 - creep - DEBUG - objective:-1255.4826
+2016-01-30 03:25:17,478 - creep - DEBUG - objective:-1541.2246
+2016-01-30 03:25:18,834 - creep - DEBUG - objective:-1541.2912
+2016-01-30 03:25:19,897 - creep - DEBUG - objective:-1541.4004
+2016-01-30 03:25:21,287 - creep - DEBUG - objective:-1541.4476
+2016-01-30 03:25:22,186 - creep - DEBUG - objective:-1541.4960
+2016-01-30 03:25:23,151 - creep - DEBUG - objective:-1541.5435
+2016-01-30 03:25:23,930 - creep - DEBUG - objective:-1541.5785
+2016-01-30 03:25:24,570 - creep - DEBUG - objective:-1541.6272
+2016-01-30 03:25:25,398 - creep - DEBUG - objective:-1541.6644
+2016-01-30 03:25:26,257 - creep - DEBUG - objective:-1541.6917
+2016-01-30 03:25:27,764 - creep - DEBUG - objective:-1541.7019
+2016-01-30 03:25:29,212 - creep - DEBUG - objective:-1541.7162
+2016-01-30 03:25:30,463 - creep - DEBUG - objective:-1541.7334
+2016-01-30 03:25:31,409 - creep - DEBUG - objective:-1541.7585
+2016-01-30 03:25:32,167 - creep - DEBUG - objective:-1541.7814
+2016-01-30 03:25:32,731 - creep - DEBUG - objective:-1541.7947
+2016-01-30 03:25:33,446 - creep - DEBUG - objective:-1541.8096
+2016-01-30 03:25:34,220 - creep - DEBUG - objective:-1541.8227
+2016-01-30 03:25:34,890 - creep - DEBUG - objective:-1541.8391
+2016-01-30 03:25:35,798 - creep - DEBUG - objective:-1541.8563
+2016-01-30 03:25:36,802 - creep - DEBUG - objective:-1541.8789
+2016-01-30 03:25:38,113 - creep - DEBUG - objective:-1541.9137
+2016-01-30 03:25:39,254 - creep - DEBUG - objective:-1541.9520
+2016-01-30 03:25:40,351 - creep - DEBUG - objective:-1542.0033
+2016-01-30 03:25:40,353 - creep - INFO - Saving model...
+2016-01-30 03:25:40,444 - creep - INFO - Model saved.
+2016-01-30 03:25:40,448 - creep - DEBUG - ftol: 1.76729762459
+2016-01-30 03:25:40,450 - creep - INFO - diff:m:0.00553795420166 s:0.0127551864746
+2016-01-30 03:25:40,452 - creep - INFO - ll params
+2016-01-30 03:25:41,332 - creep - DEBUG - objective:-1542.0033
+2016-01-30 03:25:42,089 - creep - DEBUG - objective:-1257.2212
+2016-01-30 03:25:42,748 - creep - DEBUG - objective:-1542.0060
+2016-01-30 03:25:43,280 - creep - DEBUG - objective:-1542.0060
+2016-01-30 03:25:43,797 - creep - DEBUG - objective:-1542.0060
+2016-01-30 03:25:43,799 - creep - INFO - hyp params
+2016-01-30 03:26:05,135 - creep - DEBUG - objective:-1542.0060
+2016-01-30 03:26:22,732 - creep - DEBUG - objective:-764.5284
+2016-01-30 03:26:37,626 - creep - DEBUG - objective:-1542.1235
+2016-01-30 03:26:52,495 - creep - DEBUG - objective:-1542.1545
+2016-01-30 03:27:08,188 - creep - DEBUG - objective:-1542.1725
+2016-01-30 03:27:29,634 - creep - DEBUG - objective:-1542.2162
+2016-01-30 03:27:45,921 - creep - DEBUG - objective:-1542.2600
+2016-01-30 03:28:02,310 - creep - DEBUG - objective:-1542.2625
+2016-01-30 03:28:18,773 - creep - DEBUG - objective:-1542.2987
+2016-01-30 03:28:39,220 - creep - DEBUG - objective:-1542.3014
+2016-01-30 03:28:54,884 - creep - DEBUG - objective:-1542.3036
+2016-01-30 03:29:10,481 - creep - DEBUG - objective:-1542.3088
+2016-01-30 03:29:26,276 - creep - DEBUG - objective:-1542.3150
+2016-01-30 03:29:42,394 - creep - DEBUG - objective:-1542.3137
+2016-01-30 03:29:58,531 - creep - DEBUG - objective:-1542.3154
+2016-01-30 03:30:14,495 - creep - DEBUG - objective:-1542.3175
+2016-01-30 03:30:30,467 - creep - DEBUG - objective:-1542.3178
+2016-01-30 03:30:46,262 - creep - DEBUG - objective:-1542.3184
+2016-01-30 03:31:02,087 - creep - DEBUG - objective:-1542.3185
+2016-01-30 03:31:21,527 - creep - DEBUG - objective:-1542.3200
+2016-01-30 03:31:43,595 - creep - DEBUG - objective:-1542.3183
+2016-01-30 03:32:00,833 - creep - DEBUG - objective:-1542.3201
+2016-01-30 03:32:16,686 - creep - DEBUG - objective:-1542.3228
+2016-01-30 03:32:32,429 - creep - DEBUG - objective:-1542.3277
+2016-01-30 03:32:46,998 - creep - DEBUG - objective:-1542.3346
+2016-01-30 03:33:02,261 - creep - DEBUG - objective:-1542.3337
+2016-01-30 03:33:17,242 - creep - INFO - Iteration 25 started.
+2016-01-30 03:33:17,243 - creep - INFO - MoG params
+2016-01-30 03:33:18,834 - creep - DEBUG - objective:-1542.3346
+2016-01-30 03:33:19,513 - creep - DEBUG - objective:-1310.2707
+2016-01-30 03:33:20,227 - creep - DEBUG - objective:-1542.4094
+2016-01-30 03:33:20,988 - creep - DEBUG - objective:-1542.4460
+2016-01-30 03:33:21,748 - creep - DEBUG - objective:-1542.4901
+2016-01-30 03:33:22,566 - creep - DEBUG - objective:-1542.5158
+2016-01-30 03:33:23,741 - creep - DEBUG - objective:-1542.5458
+2016-01-30 03:33:25,246 - creep - DEBUG - objective:-1542.5769
+2016-01-30 03:33:26,711 - creep - DEBUG - objective:-1542.5997
+2016-01-30 03:33:28,494 - creep - DEBUG - objective:-1542.6085
+2016-01-30 03:33:29,399 - creep - DEBUG - objective:-1542.6302
+2016-01-30 03:33:30,604 - creep - DEBUG - objective:-1542.6333
+2016-01-30 03:33:31,763 - creep - DEBUG - objective:-1542.6477
+2016-01-30 03:33:32,735 - creep - DEBUG - objective:-1542.6547
+2016-01-30 03:33:33,867 - creep - DEBUG - objective:-1542.6697
+2016-01-30 03:33:34,964 - creep - DEBUG - objective:-1542.6905
+2016-01-30 03:33:36,138 - creep - DEBUG - objective:-1542.7276
+2016-01-30 03:33:37,071 - creep - DEBUG - objective:-1542.7693
+2016-01-30 03:33:38,227 - creep - DEBUG - objective:-1542.7920
+2016-01-30 03:33:39,283 - creep - DEBUG - objective:-1542.8221
+2016-01-30 03:33:40,654 - creep - DEBUG - objective:-1542.8420
+2016-01-30 03:33:42,010 - creep - DEBUG - objective:-1542.8673
+2016-01-30 03:33:43,407 - creep - DEBUG - objective:-1542.9051
+2016-01-30 03:33:44,577 - creep - DEBUG - objective:-1542.9202
+2016-01-30 03:33:45,977 - creep - DEBUG - objective:-1542.9355
+2016-01-30 03:33:47,084 - creep - DEBUG - objective:-1542.9826
+2016-01-30 03:33:47,088 - creep - INFO - Saving model...
+2016-01-30 03:33:47,143 - creep - INFO - Model saved.
+2016-01-30 03:33:47,145 - creep - DEBUG - ftol: 0.979316665987
+2016-01-30 03:33:47,147 - creep - INFO - diff:m:0.00447665994135 s:0.0141673700851
+2016-01-30 03:33:47,148 - creep - INFO - ll params
+2016-01-30 03:33:48,238 - creep - DEBUG - objective:-1542.9826
+2016-01-30 03:33:48,916 - creep - DEBUG - objective:-1256.5167
+2016-01-30 03:33:49,550 - creep - DEBUG - objective:-1542.9829
+2016-01-30 03:33:50,214 - creep - DEBUG - objective:-1542.9829
+2016-01-30 03:33:51,088 - creep - DEBUG - objective:-1542.9829
+2016-01-30 03:33:51,090 - creep - INFO - hyp params
+2016-01-30 03:34:07,079 - creep - DEBUG - objective:-1542.9829
+2016-01-30 03:34:22,273 - creep - DEBUG - objective:-697.6215
+2016-01-30 03:34:38,357 - creep - DEBUG - objective:-1543.0858
+2016-01-30 03:34:54,587 - creep - DEBUG - objective:-1543.1123
+2016-01-30 03:35:14,981 - creep - DEBUG - objective:-1543.1220
+2016-01-30 03:35:29,660 - creep - DEBUG - objective:-1543.1413
+2016-01-30 03:35:44,423 - creep - DEBUG - objective:-1543.1631
+2016-01-30 03:36:03,141 - creep - DEBUG - objective:-1543.1703
+2016-01-30 03:36:22,274 - creep - DEBUG - objective:-1543.1859
+2016-01-30 03:36:37,188 - creep - DEBUG - objective:-1543.1873
+2016-01-30 03:36:51,853 - creep - DEBUG - objective:-1543.1911
+2016-01-30 03:37:07,696 - creep - DEBUG - objective:-1543.1921
+2016-01-30 03:37:24,248 - creep - DEBUG - objective:-1543.1957
+2016-01-30 03:37:39,317 - creep - DEBUG - objective:-1543.1973
+2016-01-30 03:37:53,344 - creep - DEBUG - objective:-1543.2005
+2016-01-30 03:38:08,532 - creep - DEBUG - objective:-1543.2011
+2016-01-30 03:38:27,815 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:38:45,175 - creep - DEBUG - objective:-1543.1997
+2016-01-30 03:39:01,411 - creep - DEBUG - objective:-1543.2019
+2016-01-30 03:39:17,810 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:39:34,401 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:39:51,334 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:40:08,256 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:40:28,397 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:40:45,769 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:41:00,291 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:41:17,314 - creep - INFO - Iteration 26 started.
+2016-01-30 03:41:17,315 - creep - INFO - MoG params
+2016-01-30 03:41:18,804 - creep - DEBUG - objective:-1543.2020
+2016-01-30 03:41:20,303 - creep - DEBUG - objective:-1297.9642
+2016-01-30 03:41:21,516 - creep - DEBUG - objective:-1543.2482
+2016-01-30 03:41:22,814 - creep - DEBUG - objective:-1543.2697
+2016-01-30 03:41:23,779 - creep - DEBUG - objective:-1543.2997
+2016-01-30 03:41:24,699 - creep - DEBUG - objective:-1543.3151
+2016-01-30 03:41:25,749 - creep - DEBUG - objective:-1543.3325
+2016-01-30 03:41:26,863 - creep - DEBUG - objective:-1543.3552
+2016-01-30 03:41:28,227 - creep - DEBUG - objective:-1543.3657
+2016-01-30 03:41:29,470 - creep - DEBUG - objective:-1543.3766
+2016-01-30 03:41:30,759 - creep - DEBUG - objective:-1543.3920
+2016-01-30 03:41:32,263 - creep - DEBUG - objective:-1543.3955
+2016-01-30 03:41:33,641 - creep - DEBUG - objective:-1543.4033
+2016-01-30 03:41:35,019 - creep - DEBUG - objective:-1543.4118
+2016-01-30 03:41:36,024 - creep - DEBUG - objective:-1543.4188
+2016-01-30 03:41:36,923 - creep - DEBUG - objective:-1543.4268
+2016-01-30 03:41:37,915 - creep - DEBUG - objective:-1543.4440
+2016-01-30 03:41:38,980 - creep - DEBUG - objective:-1543.4541
+2016-01-30 03:41:39,774 - creep - DEBUG - objective:-1543.4681
+2016-01-30 03:41:40,513 - creep - DEBUG - objective:-1543.4787
+2016-01-30 03:41:41,727 - creep - DEBUG - objective:-1543.4921
+2016-01-30 03:41:42,915 - creep - DEBUG - objective:-1543.5011
+2016-01-30 03:41:44,719 - creep - DEBUG - objective:-1543.5097
+2016-01-30 03:41:46,205 - creep - DEBUG - objective:-1543.5234
+2016-01-30 03:41:47,357 - creep - DEBUG - objective:-1543.5419
+2016-01-30 03:41:48,495 - creep - DEBUG - objective:-1543.5627
+2016-01-30 03:41:48,496 - creep - INFO - Saving model...
+2016-01-30 03:41:48,590 - creep - INFO - Model saved.
+2016-01-30 03:41:48,594 - creep - DEBUG - ftol: 0.580089617595
+2016-01-30 03:41:48,596 - creep - INFO - diff:m:0.00380645712825 s:0.00987858004886
+2016-01-30 03:41:48,603 - creep - INFO - ll params
+2016-01-30 03:41:49,530 - creep - DEBUG - objective:-1543.5627
+2016-01-30 03:41:50,567 - creep - DEBUG - objective:-1256.8884
+2016-01-30 03:41:51,446 - creep - DEBUG - objective:-1543.5629
+2016-01-30 03:41:52,345 - creep - DEBUG - objective:-1543.5629
+2016-01-30 03:41:53,339 - creep - DEBUG - objective:-1543.5629
+2016-01-30 03:41:53,340 - creep - INFO - hyp params
+2016-01-30 03:42:13,489 - creep - DEBUG - objective:-1543.5629
+2016-01-30 03:42:30,635 - creep - DEBUG - objective:-740.4859
+2016-01-30 03:42:46,717 - creep - DEBUG - objective:-1543.6159
+2016-01-30 03:43:02,466 - creep - DEBUG - objective:-1543.6293
+2016-01-30 03:43:18,681 - creep - DEBUG - objective:-1543.6344
+2016-01-30 03:43:35,298 - creep - DEBUG - objective:-1543.6447
+2016-01-30 03:43:52,178 - creep - DEBUG - objective:-1543.6541
+2016-01-30 03:44:07,567 - creep - DEBUG - objective:-1543.6463
+2016-01-30 03:44:23,303 - creep - DEBUG - objective:-1543.6547
+2016-01-30 03:44:43,671 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:45:04,434 - creep - DEBUG - objective:-1543.6534
+2016-01-30 03:45:21,545 - creep - DEBUG - objective:-1543.6556
+2016-01-30 03:45:36,103 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:45:51,519 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:46:07,575 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:46:23,758 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:46:39,394 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:46:54,577 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:47:10,318 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:47:25,747 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:47:40,843 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:48:01,160 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:48:16,322 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:48:33,378 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:48:49,657 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:49:05,340 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:49:27,094 - creep - INFO - Iteration 27 started.
+2016-01-30 03:49:27,095 - creep - INFO - MoG params
+2016-01-30 03:49:28,342 - creep - DEBUG - objective:-1543.6557
+2016-01-30 03:49:29,444 - creep - DEBUG - objective:-1352.0740
+2016-01-30 03:49:30,353 - creep - DEBUG - objective:-1543.6855
+2016-01-30 03:49:31,177 - creep - DEBUG - objective:-1543.7044
+2016-01-30 03:49:32,059 - creep - DEBUG - objective:-1543.7326
+2016-01-30 03:49:32,972 - creep - DEBUG - objective:-1543.7452
+2016-01-30 03:49:33,839 - creep - DEBUG - objective:-1543.7578
+2016-01-30 03:49:34,790 - creep - DEBUG - objective:-1543.7718
+2016-01-30 03:49:36,067 - creep - DEBUG - objective:-1543.7794
+2016-01-30 03:49:37,165 - creep - DEBUG - objective:-1543.7884
+2016-01-30 03:49:38,119 - creep - DEBUG - objective:-1543.7977
+2016-01-30 03:49:39,275 - creep - DEBUG - objective:-1543.8028
+2016-01-30 03:49:40,319 - creep - DEBUG - objective:-1543.8115
+2016-01-30 03:49:41,483 - creep - DEBUG - objective:-1543.8221
+2016-01-30 03:49:42,378 - creep - DEBUG - objective:-1543.8323
+2016-01-30 03:49:43,400 - creep - DEBUG - objective:-1543.8470
+2016-01-30 03:49:44,616 - creep - DEBUG - objective:-1543.8586
+2016-01-30 03:49:45,932 - creep - DEBUG - objective:-1543.8719
+2016-01-30 03:49:46,604 - creep - DEBUG - objective:-1543.8827
+2016-01-30 03:49:47,300 - creep - DEBUG - objective:-1543.8882
+2016-01-30 03:49:48,200 - creep - DEBUG - objective:-1543.8955
+2016-01-30 03:49:49,036 - creep - DEBUG - objective:-1543.9025
+2016-01-30 03:49:49,701 - creep - DEBUG - objective:-1543.9137
+2016-01-30 03:49:50,496 - creep - DEBUG - objective:-1543.9233
+2016-01-30 03:49:51,647 - creep - DEBUG - objective:-1543.9350
+2016-01-30 03:49:52,537 - creep - DEBUG - objective:-1543.9561
+2016-01-30 03:49:52,539 - creep - INFO - Saving model...
+2016-01-30 03:49:52,684 - creep - INFO - Model saved.
+2016-01-30 03:49:52,685 - creep - DEBUG - ftol: 0.393396172007
+2016-01-30 03:49:52,686 - creep - INFO - diff:m:0.00326734369996 s:0.00870336928476
+2016-01-30 03:49:52,695 - creep - INFO - ll params
+2016-01-30 03:49:53,645 - creep - DEBUG - objective:-1543.9561
+2016-01-30 03:49:54,571 - creep - DEBUG - objective:-1396.8850
+2016-01-30 03:49:55,231 - creep - DEBUG - objective:-1543.9561
+2016-01-30 03:49:55,920 - creep - DEBUG - objective:-1543.9561
+2016-01-30 03:49:55,922 - creep - INFO - hyp params
+2016-01-30 03:50:14,422 - creep - DEBUG - objective:-1543.9561
+2016-01-30 03:50:33,577 - creep - DEBUG - objective:-846.3177
+2016-01-30 03:50:49,896 - creep - DEBUG - objective:-1544.0041
+2016-01-30 03:51:07,575 - creep - DEBUG - objective:-1544.0157
+2016-01-30 03:51:24,464 - creep - DEBUG - objective:-1544.0191
+2016-01-30 03:51:40,611 - creep - DEBUG - objective:-1544.0300
+2016-01-30 03:51:56,371 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:52:13,274 - creep - DEBUG - objective:-1544.0219
+2016-01-30 03:52:29,491 - creep - DEBUG - objective:-1544.0357
+2016-01-30 03:52:44,807 - creep - DEBUG - objective:-1544.0363
+2016-01-30 03:52:59,123 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:53:15,164 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:53:30,375 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:53:48,847 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:54:06,487 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:54:26,728 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:54:43,653 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:54:58,934 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:55:15,044 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:55:31,226 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:55:47,094 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:56:01,720 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:56:16,431 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:56:32,967 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:56:49,262 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:57:06,207 - creep - DEBUG - objective:-1543.9138
+2016-01-30 03:57:23,267 - creep - INFO - Iteration 28 started.
+2016-01-30 03:57:23,269 - creep - INFO - MoG params
+2016-01-30 03:57:24,396 - creep - DEBUG - objective:-1544.0364
+2016-01-30 03:57:25,552 - creep - DEBUG - objective:-1325.8654
+2016-01-30 03:57:26,729 - creep - DEBUG - objective:-1544.0553
+2016-01-30 03:57:28,180 - creep - DEBUG - objective:-1544.0647
+2016-01-30 03:57:29,632 - creep - DEBUG - objective:-1544.0755
+2016-01-30 03:57:31,375 - creep - DEBUG - objective:-1544.0825
+2016-01-30 03:57:32,825 - creep - DEBUG - objective:-1544.0910
+2016-01-30 03:57:34,411 - creep - DEBUG - objective:-1544.1004
+2016-01-30 03:57:35,679 - creep - DEBUG - objective:-1544.1052
+2016-01-30 03:57:36,535 - creep - DEBUG - objective:-1544.1093
+2016-01-30 03:57:37,514 - creep - DEBUG - objective:-1544.1159
+2016-01-30 03:57:38,595 - creep - DEBUG - objective:-1544.1155
+2016-01-30 03:57:39,567 - creep - DEBUG - objective:-1544.1173
+2016-01-30 03:57:40,509 - creep - DEBUG - objective:-1544.1192
+2016-01-30 03:57:41,679 - creep - DEBUG - objective:-1544.1228
+2016-01-30 03:57:43,026 - creep - DEBUG - objective:-1544.1246
+2016-01-30 03:57:44,252 - creep - DEBUG - objective:-1544.1325
+2016-01-30 03:57:45,260 - creep - DEBUG - objective:-1544.1404
+2016-01-30 03:57:46,550 - creep - DEBUG - objective:-1544.1487
+2016-01-30 03:57:47,388 - creep - DEBUG - objective:-1544.1532
+2016-01-30 03:57:48,199 - creep - DEBUG - objective:-1544.1637
+2016-01-30 03:57:49,055 - creep - DEBUG - objective:-1544.1661
+2016-01-30 03:57:49,743 - creep - DEBUG - objective:-1544.1700
+2016-01-30 03:57:50,291 - creep - DEBUG - objective:-1544.1768
+2016-01-30 03:57:51,011 - creep - DEBUG - objective:-1544.1802
+2016-01-30 03:57:51,672 - creep - DEBUG - objective:-1544.1939
+2016-01-30 03:57:51,674 - creep - INFO - Saving model...
+2016-01-30 03:57:51,721 - creep - INFO - Model saved.
+2016-01-30 03:57:51,723 - creep - DEBUG - ftol: 0.237805306562
+2016-01-30 03:57:51,724 - creep - INFO - diff:m:0.00281787763179 s:0.00675437049727
+2016-01-30 03:57:51,725 - creep - INFO - ll params
+2016-01-30 03:57:52,947 - creep - DEBUG - objective:-1544.1939
+2016-01-30 03:57:53,989 - creep - DEBUG - objective:-1397.1979
+2016-01-30 03:57:55,190 - creep - DEBUG - objective:-1544.1940
+2016-01-30 03:57:56,435 - creep - DEBUG - objective:-1544.1940
+2016-01-30 03:57:56,436 - creep - INFO - hyp params
+2016-01-30 03:58:17,144 - creep - DEBUG - objective:-1544.1940
+2016-01-30 03:58:34,187 - creep - DEBUG - objective:-725.3530
+2016-01-30 03:58:53,219 - creep - DEBUG - objective:-1544.2204
+2016-01-30 03:59:08,944 - creep - DEBUG - objective:-1544.2275
+2016-01-30 03:59:24,509 - creep - DEBUG - objective:-1544.2309
+2016-01-30 03:59:39,847 - creep - DEBUG - objective:-1544.2380
+2016-01-30 03:59:56,123 - creep - DEBUG - objective:-1544.2444
+2016-01-30 04:00:12,287 - creep - DEBUG - objective:-1544.2424
+2016-01-30 04:00:27,765 - creep - DEBUG - objective:-1544.2453
+2016-01-30 04:00:42,418 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:00:57,523 - creep - DEBUG - objective:-1544.2440
+2016-01-30 04:01:18,274 - creep - DEBUG - objective:-1544.2462
+2016-01-30 04:01:34,502 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:01:49,873 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:02:05,145 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:02:23,667 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:02:42,894 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:02:58,627 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:03:13,886 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:03:27,922 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:03:43,179 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:03:59,873 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:04:16,327 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:04:35,133 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:04:51,637 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:05:07,846 - creep - DEBUG - objective:-1544.1249
+2016-01-30 04:05:23,554 - creep - INFO - Iteration 29 started.
+2016-01-30 04:05:23,555 - creep - INFO - MoG params
+2016-01-30 04:05:24,581 - creep - DEBUG - objective:-1544.2463
+2016-01-30 04:05:25,206 - creep - DEBUG - objective:-1360.6329
+2016-01-30 04:05:25,854 - creep - DEBUG - objective:-1544.2659
+2016-01-30 04:05:26,686 - creep - DEBUG - objective:-1544.2779
+2016-01-30 04:05:27,322 - creep - DEBUG - objective:-1544.2945
+2016-01-30 04:05:28,158 - creep - DEBUG - objective:-1544.3025
+2016-01-30 04:05:29,187 - creep - DEBUG - objective:-1544.3104
+2016-01-30 04:05:30,304 - creep - DEBUG - objective:-1544.3169
+2016-01-30 04:05:31,497 - creep - DEBUG - objective:-1544.3214
+2016-01-30 04:05:32,518 - creep - DEBUG - objective:-1544.3263
+2016-01-30 04:05:33,662 - creep - DEBUG - objective:-1544.3321
+2016-01-30 04:05:34,869 - creep - DEBUG - objective:-1544.3358
+2016-01-30 04:05:35,714 - creep - DEBUG - objective:-1544.3416
+2016-01-30 04:05:36,401 - creep - DEBUG - objective:-1544.3487
+2016-01-30 04:05:37,270 - creep - DEBUG - objective:-1544.3552
+2016-01-30 04:05:38,185 - creep - DEBUG - objective:-1544.3625
+2016-01-30 04:05:39,151 - creep - DEBUG - objective:-1544.3679
+2016-01-30 04:05:40,121 - creep - DEBUG - objective:-1544.3753
+2016-01-30 04:05:40,748 - creep - DEBUG - objective:-1544.3812
+2016-01-30 04:05:41,545 - creep - DEBUG - objective:-1544.3857
+2016-01-30 04:05:42,625 - creep - DEBUG - objective:-1544.3909
+2016-01-30 04:05:43,667 - creep - DEBUG - objective:-1544.3976
+2016-01-30 04:05:45,124 - creep - DEBUG - objective:-1544.4048
+2016-01-30 04:05:46,041 - creep - DEBUG - objective:-1544.4141
+2016-01-30 04:05:47,190 - creep - DEBUG - objective:-1544.4221
+2016-01-30 04:05:48,090 - creep - DEBUG - objective:-1544.4307
+2016-01-30 04:05:48,092 - creep - INFO - Saving model...
+2016-01-30 04:05:48,180 - creep - INFO - Model saved.
+2016-01-30 04:05:48,182 - creep - DEBUG - ftol: 0.236828027852
+2016-01-30 04:05:48,184 - creep - INFO - diff:m:0.00247107793683 s:0.00684971152029
+2016-01-30 04:05:48,186 - creep - INFO - ll params
+2016-01-30 04:05:48,824 - creep - DEBUG - objective:-1544.4307
+2016-01-30 04:05:49,320 - creep - DEBUG - objective:-1397.3681
+2016-01-30 04:05:49,742 - creep - DEBUG - objective:-1544.4308
+2016-01-30 04:05:50,328 - creep - DEBUG - objective:-1544.4308
+2016-01-30 04:05:50,330 - creep - INFO - hyp params
+2016-01-30 04:06:05,575 - creep - DEBUG - objective:-1544.4308
+2016-01-30 04:06:20,123 - creep - DEBUG - objective:-471.4439
+2016-01-30 04:06:38,775 - creep - DEBUG - objective:-1544.4572
+2016-01-30 04:07:03,232 - creep - DEBUG - objective:-1544.4631
+2016-01-30 04:07:19,414 - creep - DEBUG - objective:-1544.4664
+2016-01-30 04:07:34,349 - creep - DEBUG - objective:-1544.4698
+2016-01-30 04:07:53,142 - creep - DEBUG - objective:-1544.4752
+2016-01-30 04:08:09,256 - creep - DEBUG - objective:-1544.4758
+2016-01-30 04:08:24,652 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:08:40,920 - creep - DEBUG - objective:-1544.4710
+2016-01-30 04:08:56,659 - creep - DEBUG - objective:-1544.4763
+2016-01-30 04:09:12,750 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:09:27,830 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:09:42,673 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:09:58,788 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:10:15,357 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:10:31,234 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:10:46,370 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:11:06,087 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:11:26,053 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:11:44,593 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:11:59,817 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:12:15,838 - creep - DEBUG - objective:-1544.4767
+2016-01-30 04:12:31,822 - creep - DEBUG - objective:-1544.4731
+2016-01-30 04:12:48,546 - creep - DEBUG - objective:-1544.4769
+2016-01-30 04:13:03,835 - creep - DEBUG - objective:-1544.4723
+2016-01-30 04:13:19,387 - creep - INFO - Iteration 30 started.
+2016-01-30 04:13:19,388 - creep - INFO - MoG params
+2016-01-30 04:13:20,272 - creep - DEBUG - objective:-1544.4769
+2016-01-30 04:13:21,139 - creep - DEBUG - objective:-1370.7417
+2016-01-30 04:13:21,854 - creep - DEBUG - objective:-1544.4927
+2016-01-30 04:13:22,769 - creep - DEBUG - objective:-1544.5022
+2016-01-30 04:13:23,876 - creep - DEBUG - objective:-1544.5112
+2016-01-30 04:13:24,836 - creep - DEBUG - objective:-1544.5172
+2016-01-30 04:13:26,316 - creep - DEBUG - objective:-1544.5236
+2016-01-30 04:13:27,289 - creep - DEBUG - objective:-1544.5285
+2016-01-30 04:13:28,446 - creep - DEBUG - objective:-1544.5310
+2016-01-30 04:13:29,572 - creep - DEBUG - objective:-1544.5338
+2016-01-30 04:13:30,414 - creep - DEBUG - objective:-1544.5341
+2016-01-30 04:13:31,439 - creep - DEBUG - objective:-1544.5380
+2016-01-30 04:13:32,167 - creep - DEBUG - objective:-1544.5400
+2016-01-30 04:13:33,217 - creep - DEBUG - objective:-1544.5428
+2016-01-30 04:13:33,883 - creep - DEBUG - objective:-1544.5468
+2016-01-30 04:13:34,867 - creep - DEBUG - objective:-1544.5512
+2016-01-30 04:13:35,618 - creep - DEBUG - objective:-1544.5551
+2016-01-30 04:13:36,365 - creep - DEBUG - objective:-1544.5584
+2016-01-30 04:13:37,523 - creep - DEBUG - objective:-1544.5613
+2016-01-30 04:13:38,475 - creep - DEBUG - objective:-1544.5649
+2016-01-30 04:13:39,642 - creep - DEBUG - objective:-1544.5727
+2016-01-30 04:13:40,596 - creep - DEBUG - objective:-1544.5771
+2016-01-30 04:13:41,561 - creep - DEBUG - objective:-1544.5810
+2016-01-30 04:13:42,680 - creep - DEBUG - objective:-1544.5868
+2016-01-30 04:13:43,495 - creep - DEBUG - objective:-1544.5909
+2016-01-30 04:13:44,391 - creep - DEBUG - objective:-1544.5982
+2016-01-30 04:13:44,395 - creep - INFO - Saving model...
+2016-01-30 04:13:44,503 - creep - INFO - Model saved.
+2016-01-30 04:13:44,510 - creep - DEBUG - ftol: 0.167508376551
+2016-01-30 04:13:44,513 - creep - INFO - diff:m:0.0023547589317 s:0.00634400700884
+2016-01-30 04:13:44,515 - creep - INFO - ll params
+2016-01-30 04:13:45,332 - creep - DEBUG - objective:-1544.5982
+2016-01-30 04:13:46,029 - creep - DEBUG - objective:-1397.8032
+2016-01-30 04:13:46,693 - creep - DEBUG - objective:-1544.5986
+2016-01-30 04:13:47,681 - creep - DEBUG - objective:-1544.5986
+2016-01-30 04:13:48,312 - creep - DEBUG - objective:-1544.5986
+2016-01-30 04:13:48,314 - creep - INFO - hyp params
+2016-01-30 04:14:03,740 - creep - DEBUG - objective:-1544.5986
+2016-01-30 04:14:19,632 - creep - DEBUG - objective:-791.7840
+2016-01-30 04:14:39,835 - creep - DEBUG - objective:-1544.6272
+2016-01-30 04:15:00,372 - creep - DEBUG - objective:-1544.6343
+2016-01-30 04:15:19,739 - creep - DEBUG - objective:-1544.6367
+2016-01-30 04:15:36,663 - creep - DEBUG - objective:-1544.6424
+2016-01-30 04:15:55,998 - creep - DEBUG - objective:-1544.6478
+2016-01-30 04:16:12,509 - creep - DEBUG - objective:-1544.6459
+2016-01-30 04:16:26,674 - creep - DEBUG - objective:-1544.6481
+2016-01-30 04:16:42,854 - creep - DEBUG - objective:-1544.6454
+2016-01-30 04:16:58,804 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:17:14,855 - creep - DEBUG - objective:-1544.6424
+2016-01-30 04:17:30,823 - creep - DEBUG - objective:-1544.6514
+2016-01-30 04:17:49,793 - creep - DEBUG - objective:-1544.6519
+2016-01-30 04:18:05,456 - creep - DEBUG - objective:-1544.6519
+2016-01-30 04:18:20,608 - creep - DEBUG - objective:-1544.6519
+2016-01-30 04:18:35,752 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:18:51,315 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:19:06,756 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:19:23,179 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:19:41,100 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:19:59,798 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:20:15,678 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:20:32,120 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:20:47,990 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:21:08,525 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:21:24,599 - creep - INFO - Iteration 31 started.
+2016-01-30 04:21:24,600 - creep - INFO - MoG params
+2016-01-30 04:21:25,183 - creep - DEBUG - objective:-1544.6520
+2016-01-30 04:21:26,380 - creep - DEBUG - objective:-1344.3541
+2016-01-30 04:21:27,068 - creep - DEBUG - objective:-1544.6613
+2016-01-30 04:21:28,018 - creep - DEBUG - objective:-1544.6673
+2016-01-30 04:21:28,643 - creep - DEBUG - objective:-1544.6767
+2016-01-30 04:21:29,747 - creep - DEBUG - objective:-1544.6815
+2016-01-30 04:21:30,753 - creep - DEBUG - objective:-1544.6857
+2016-01-30 04:21:31,714 - creep - DEBUG - objective:-1544.6891
+2016-01-30 04:21:32,939 - creep - DEBUG - objective:-1544.6924
+2016-01-30 04:21:33,975 - creep - DEBUG - objective:-1544.6974
+2016-01-30 04:21:34,983 - creep - DEBUG - objective:-1544.7017
+2016-01-30 04:21:35,877 - creep - DEBUG - objective:-1544.7037
+2016-01-30 04:21:36,646 - creep - DEBUG - objective:-1544.7053
+2016-01-30 04:21:37,379 - creep - DEBUG - objective:-1544.7070
+2016-01-30 04:21:38,173 - creep - DEBUG - objective:-1544.7105
+2016-01-30 04:21:38,994 - creep - DEBUG - objective:-1544.7137
+2016-01-30 04:21:39,646 - creep - DEBUG - objective:-1544.7191
+2016-01-30 04:21:40,361 - creep - DEBUG - objective:-1544.7217
+2016-01-30 04:21:41,470 - creep - DEBUG - objective:-1544.7248
+2016-01-30 04:21:42,372 - creep - DEBUG - objective:-1544.7290
+2016-01-30 04:21:43,558 - creep - DEBUG - objective:-1544.7336
+2016-01-30 04:21:44,516 - creep - DEBUG - objective:-1544.7371
+2016-01-30 04:21:45,831 - creep - DEBUG - objective:-1544.7412
+2016-01-30 04:21:46,810 - creep - DEBUG - objective:-1544.7451
+2016-01-30 04:21:47,573 - creep - DEBUG - objective:-1544.7484
+2016-01-30 04:21:48,315 - creep - DEBUG - objective:-1544.7519
+2016-01-30 04:21:48,316 - creep - INFO - Saving model...
+2016-01-30 04:21:48,396 - creep - INFO - Model saved.
+2016-01-30 04:21:48,397 - creep - DEBUG - ftol: 0.153618207048
+2016-01-30 04:21:48,398 - creep - INFO - diff:m:0.00177135885945 s:0.0043625214644
+2016-01-30 04:21:48,400 - creep - INFO - ll params
+2016-01-30 04:21:49,052 - creep - DEBUG - objective:-1544.7519
+2016-01-30 04:21:49,385 - creep - DEBUG - objective:-1397.7499
+2016-01-30 04:21:50,026 - creep - DEBUG - objective:-1544.7519
+2016-01-30 04:21:50,735 - creep - DEBUG - objective:-1544.7519
+2016-01-30 04:21:50,736 - creep - INFO - hyp params
+2016-01-30 04:22:07,090 - creep - DEBUG - objective:-1544.7519
+2016-01-30 04:22:22,488 - creep - DEBUG - objective:-690.5281
+2016-01-30 04:22:38,394 - creep - DEBUG - objective:-1544.7647
+2016-01-30 04:22:58,404 - creep - DEBUG - objective:-1544.7683
+2016-01-30 04:23:16,601 - creep - DEBUG - objective:-1544.7702
+2016-01-30 04:23:33,195 - creep - DEBUG - objective:-1544.7734
+2016-01-30 04:23:48,782 - creep - DEBUG - objective:-1544.7754
+2016-01-30 04:24:08,811 - creep - DEBUG - objective:-1544.7726
+2016-01-30 04:24:30,666 - creep - DEBUG - objective:-1544.7755
+2016-01-30 04:24:50,902 - creep - DEBUG - objective:-1544.7735
+2016-01-30 04:25:06,791 - creep - DEBUG - objective:-1544.7770
+2016-01-30 04:25:22,524 - creep - DEBUG - objective:-1544.7712
+2016-01-30 04:25:38,790 - creep - DEBUG - objective:-1544.7771
+2016-01-30 04:25:54,563 - creep - DEBUG - objective:-1544.7720
+2016-01-30 04:26:10,383 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:26:25,335 - creep - DEBUG - objective:-1544.7716
+2016-01-30 04:26:40,830 - creep - DEBUG - objective:-1544.7770
+2016-01-30 04:26:56,653 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:27:12,303 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:27:28,531 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:27:47,724 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:00,136 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:10,399 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:20,565 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:31,522 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:41,565 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:50,409 - creep - INFO - Iteration 32 started.
+2016-01-30 04:28:50,410 - creep - INFO - MoG params
+2016-01-30 04:28:50,876 - creep - DEBUG - objective:-1544.7772
+2016-01-30 04:28:51,550 - creep - DEBUG - objective:-1343.1810
+2016-01-30 04:28:52,119 - creep - DEBUG - objective:-1544.7853
+2016-01-30 04:28:52,512 - creep - DEBUG - objective:-1544.7900
+2016-01-30 04:28:52,835 - creep - DEBUG - objective:-1544.7959
+2016-01-30 04:28:53,611 - creep - DEBUG - objective:-1544.7988
+2016-01-30 04:28:54,597 - creep - DEBUG - objective:-1544.8019
+2016-01-30 04:28:54,899 - creep - DEBUG - objective:-1544.8046
+2016-01-30 04:28:55,249 - creep - DEBUG - objective:-1544.8055
+2016-01-30 04:28:56,005 - creep - DEBUG - objective:-1544.8069
+2016-01-30 04:28:56,539 - creep - DEBUG - objective:-1544.8073
+2016-01-30 04:28:56,892 - creep - DEBUG - objective:-1544.8089
+2016-01-30 04:28:57,321 - creep - DEBUG - objective:-1544.8101
+2016-01-30 04:28:57,619 - creep - DEBUG - objective:-1544.8133
+2016-01-30 04:28:57,929 - creep - DEBUG - objective:-1544.8148
+2016-01-30 04:28:58,272 - creep - DEBUG - objective:-1544.8174
+2016-01-30 04:28:58,561 - creep - DEBUG - objective:-1544.8201
+2016-01-30 04:28:58,987 - creep - DEBUG - objective:-1544.8219
+2016-01-30 04:28:59,403 - creep - DEBUG - objective:-1544.8233
+2016-01-30 04:28:59,927 - creep - DEBUG - objective:-1544.8276
+2016-01-30 04:29:00,423 - creep - DEBUG - objective:-1544.8300
+2016-01-30 04:29:00,987 - creep - DEBUG - objective:-1544.8340
+2016-01-30 04:29:01,542 - creep - DEBUG - objective:-1544.8386
+2016-01-30 04:29:02,129 - creep - DEBUG - objective:-1544.8435
+2016-01-30 04:29:03,079 - creep - DEBUG - objective:-1544.8460
+2016-01-30 04:29:03,566 - creep - DEBUG - objective:-1544.8500
+2016-01-30 04:29:03,568 - creep - INFO - Saving model...
+2016-01-30 04:29:03,610 - creep - INFO - Model saved.
+2016-01-30 04:29:03,615 - creep - DEBUG - ftol: 0.0981819927777
+2016-01-30 04:29:03,616 - creep - INFO - diff:m:0.00170591686498 s:0.00525600556429
+2016-01-30 04:29:03,617 - creep - INFO - ll params
+2016-01-30 04:29:04,033 - creep - DEBUG - objective:-1544.8500
+2016-01-30 04:29:04,321 - creep - DEBUG - objective:-1397.9250
+2016-01-30 04:29:04,586 - creep - DEBUG - objective:-1544.8502
+2016-01-30 04:29:05,040 - creep - DEBUG - objective:-1544.8502
+2016-01-30 04:29:05,043 - creep - INFO - hyp params
+2016-01-30 04:29:13,661 - creep - DEBUG - objective:-1544.8502
+2016-01-30 04:29:22,736 - creep - DEBUG - objective:-656.7310
+2016-01-30 04:29:32,302 - creep - DEBUG - objective:-1544.8656
+2016-01-30 04:29:41,097 - creep - DEBUG - objective:-1544.8703
+2016-01-30 04:29:53,794 - creep - DEBUG - objective:-1544.8730
+2016-01-30 04:30:04,757 - creep - DEBUG - objective:-1544.8775
+2016-01-30 04:30:14,314 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:30:24,478 - creep - DEBUG - objective:-1544.8774
+2016-01-30 04:30:33,418 - creep - DEBUG - objective:-1544.8816
+2016-01-30 04:30:43,495 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:31:00,402 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:31:17,659 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:31:38,922 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:31:55,775 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:32:13,132 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:32:34,331 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:32:50,649 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:33:06,504 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:33:22,934 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:33:39,203 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:33:55,478 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:34:11,317 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:34:28,143 - creep - DEBUG - objective:-1544.8818
+2016-01-30 04:34:45,085 - creep - DEBUG - objective:-1544.8821
+2016-01-30 04:35:01,614 - creep - DEBUG - objective:-1544.8820
+2016-01-30 04:35:20,399 - creep - DEBUG - objective:-1544.8821
+2016-01-30 04:35:20,400 - creep - INFO - Iteration 33 started.
+2016-01-30 04:35:20,401 - creep - INFO - MoG params
+2016-01-30 04:35:21,462 - creep - DEBUG - objective:-1544.8821
+2016-01-30 04:35:22,652 - creep - DEBUG - objective:-1321.4366
+2016-01-30 04:35:23,775 - creep - DEBUG - objective:-1544.8872
+2016-01-30 04:35:24,882 - creep - DEBUG - objective:-1544.8905
+2016-01-30 04:35:25,691 - creep - DEBUG - objective:-1544.8956
+2016-01-30 04:35:26,825 - creep - DEBUG - objective:-1544.8985
+2016-01-30 04:35:28,239 - creep - DEBUG - objective:-1544.9013
+2016-01-30 04:35:29,666 - creep - DEBUG - objective:-1544.9042
+2016-01-30 04:35:31,044 - creep - DEBUG - objective:-1544.9057
+2016-01-30 04:35:32,387 - creep - DEBUG - objective:-1544.9074
+2016-01-30 04:35:33,868 - creep - DEBUG - objective:-1544.9073
+2016-01-30 04:35:34,899 - creep - DEBUG - objective:-1544.9091
+2016-01-30 04:35:35,883 - creep - DEBUG - objective:-1544.9107
+2016-01-30 04:35:36,800 - creep - DEBUG - objective:-1544.9115
+2016-01-30 04:35:37,751 - creep - DEBUG - objective:-1544.9137
+2016-01-30 04:35:38,873 - creep - DEBUG - objective:-1544.9164
+2016-01-30 04:35:40,139 - creep - DEBUG - objective:-1544.9196
+2016-01-30 04:35:41,404 - creep - DEBUG - objective:-1544.9216
+2016-01-30 04:35:42,820 - creep - DEBUG - objective:-1544.9231
+2016-01-30 04:35:44,079 - creep - DEBUG - objective:-1544.9251
+2016-01-30 04:35:45,715 - creep - DEBUG - objective:-1544.9283
+2016-01-30 04:35:46,944 - creep - DEBUG - objective:-1544.9305
+2016-01-30 04:35:48,148 - creep - DEBUG - objective:-1544.9329
+2016-01-30 04:35:49,317 - creep - DEBUG - objective:-1544.9349
+2016-01-30 04:35:50,163 - creep - DEBUG - objective:-1544.9369
+2016-01-30 04:35:51,393 - creep - DEBUG - objective:-1544.9387
+2016-01-30 04:35:51,395 - creep - INFO - Saving model...
+2016-01-30 04:35:51,503 - creep - INFO - Model saved.
+2016-01-30 04:35:51,522 - creep - DEBUG - ftol: 0.0886284653068
+2016-01-30 04:35:51,525 - creep - INFO - diff:m:0.00129854800118 s:0.00321216060665
+2016-01-30 04:35:51,528 - creep - INFO - ll params
+2016-01-30 04:35:52,627 - creep - DEBUG - objective:-1544.9387
+2016-01-30 04:35:53,552 - creep - DEBUG - objective:-1397.9411
+2016-01-30 04:35:54,349 - creep - DEBUG - objective:-1544.9388
+2016-01-30 04:35:55,088 - creep - DEBUG - objective:-1544.9388
+2016-01-30 04:35:55,089 - creep - INFO - hyp params
+2016-01-30 04:36:10,545 - creep - DEBUG - objective:-1544.9388
+2016-01-30 04:36:26,364 - creep - DEBUG - objective:-819.3442
+2016-01-30 04:36:42,202 - creep - DEBUG - objective:-1544.9465
+2016-01-30 04:36:58,675 - creep - DEBUG - objective:-1544.9490
+2016-01-30 04:37:14,040 - creep - DEBUG - objective:-1544.9521
+2016-01-30 04:37:28,003 - creep - DEBUG - objective:-1544.9567
+2016-01-30 04:37:44,797 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:38:05,477 - creep - DEBUG - objective:-1544.9529
+2016-01-30 04:38:24,476 - creep - DEBUG - objective:-1544.9572
+2016-01-30 04:38:40,635 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:38:57,556 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:39:17,833 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:39:34,604 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:39:53,588 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:40:12,321 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:40:29,419 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:40:46,161 - creep - DEBUG - objective:-1544.9573
+2016-01-30 04:41:02,358 - creep - DEBUG - objective:-1544.9535
+2016-01-30 04:41:19,670 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:41:37,331 - creep - DEBUG - objective:-1544.9498
+2016-01-30 04:41:54,279 - creep - DEBUG - objective:-1544.9591
+2016-01-30 04:42:12,462 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:42:31,126 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:42:46,469 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:43:02,360 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:43:18,701 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:43:35,854 - creep - INFO - Iteration 34 started.
+2016-01-30 04:43:35,855 - creep - INFO - MoG params
+2016-01-30 04:43:36,762 - creep - DEBUG - objective:-1544.9594
+2016-01-30 04:43:37,638 - creep - DEBUG - objective:-1358.3115
+2016-01-30 04:43:38,424 - creep - DEBUG - objective:-1544.9657
+2016-01-30 04:43:39,329 - creep - DEBUG - objective:-1544.9694
+2016-01-30 04:43:40,286 - creep - DEBUG - objective:-1544.9741
+2016-01-30 04:43:41,268 - creep - DEBUG - objective:-1544.9763
+2016-01-30 04:43:42,529 - creep - DEBUG - objective:-1544.9786
+2016-01-30 04:43:43,810 - creep - DEBUG - objective:-1544.9800
+2016-01-30 04:43:44,962 - creep - DEBUG - objective:-1544.9806
+2016-01-30 04:43:45,851 - creep - DEBUG - objective:-1544.9812
+2016-01-30 04:43:46,761 - creep - DEBUG - objective:-1544.9816
+2016-01-30 04:43:47,399 - creep - DEBUG - objective:-1544.9824
+2016-01-30 04:43:48,164 - creep - DEBUG - objective:-1544.9832
+2016-01-30 04:43:48,831 - creep - DEBUG - objective:-1544.9846
+2016-01-30 04:43:49,846 - creep - DEBUG - objective:-1544.9856
+2016-01-30 04:43:51,205 - creep - DEBUG - objective:-1544.9869
+2016-01-30 04:43:52,614 - creep - DEBUG - objective:-1544.9883
+2016-01-30 04:43:53,458 - creep - DEBUG - objective:-1544.9895
+2016-01-30 04:43:54,634 - creep - DEBUG - objective:-1544.9913
+2016-01-30 04:43:55,871 - creep - DEBUG - objective:-1544.9938
+2016-01-30 04:43:56,791 - creep - DEBUG - objective:-1544.9967
+2016-01-30 04:43:57,478 - creep - DEBUG - objective:-1545.0003
+2016-01-30 04:43:58,243 - creep - DEBUG - objective:-1545.0037
+2016-01-30 04:43:58,932 - creep - DEBUG - objective:-1545.0054
+2016-01-30 04:43:59,959 - creep - DEBUG - objective:-1545.0072
+2016-01-30 04:44:00,786 - creep - DEBUG - objective:-1545.0092
+2016-01-30 04:44:00,788 - creep - INFO - Saving model...
+2016-01-30 04:44:00,853 - creep - INFO - Model saved.
+2016-01-30 04:44:00,859 - creep - DEBUG - ftol: 0.0705425206613
+2016-01-30 04:44:00,860 - creep - INFO - diff:m:0.00134318108731 s:0.00414899376278
+2016-01-30 04:44:00,861 - creep - INFO - ll params
+2016-01-30 04:44:01,919 - creep - DEBUG - objective:-1545.0092
+2016-01-30 04:44:02,800 - creep - DEBUG - objective:-1398.1001
+2016-01-30 04:44:03,711 - creep - DEBUG - objective:-1545.0094
+2016-01-30 04:44:04,599 - creep - DEBUG - objective:-1545.0094
+2016-01-30 04:44:05,507 - creep - DEBUG - objective:-1545.0094
+2016-01-30 04:44:05,509 - creep - INFO - hyp params
+2016-01-30 04:44:28,427 - creep - DEBUG - objective:-1545.0094
+2016-01-30 04:44:43,735 - creep - DEBUG - objective:-641.3547
+2016-01-30 04:44:59,701 - creep - DEBUG - objective:-1545.0175
+2016-01-30 04:45:16,624 - creep - DEBUG - objective:-1545.0204
+2016-01-30 04:45:36,755 - creep - DEBUG - objective:-1545.0245
+2016-01-30 04:45:51,922 - creep - DEBUG - objective:-1545.0302
+2016-01-30 04:46:07,969 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:46:24,676 - creep - DEBUG - objective:-1545.0213
+2016-01-30 04:46:45,704 - creep - DEBUG - objective:-1545.0323
+2016-01-30 04:47:02,832 - creep - DEBUG - objective:-1545.0329
+2016-01-30 04:47:18,179 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:47:33,885 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:47:49,002 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:48:04,575 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:48:20,095 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:48:42,638 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:49:03,111 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:49:18,636 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:49:34,017 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:49:50,109 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:50:06,460 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:50:22,774 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:50:22,775 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:50:38,088 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:50:54,137 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:51:11,066 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:51:28,100 - creep - INFO - Iteration 35 started.
+2016-01-30 04:51:28,101 - creep - INFO - MoG params
+2016-01-30 04:51:28,772 - creep - DEBUG - objective:-1545.0330
+2016-01-30 04:51:29,615 - creep - DEBUG - objective:-1341.8634
+2016-01-30 04:51:30,527 - creep - DEBUG - objective:-1545.0383
+2016-01-30 04:51:31,559 - creep - DEBUG - objective:-1545.0419
+2016-01-30 04:51:33,076 - creep - DEBUG - objective:-1545.0465
+2016-01-30 04:51:34,271 - creep - DEBUG - objective:-1545.0488
+2016-01-30 04:51:35,568 - creep - DEBUG - objective:-1545.0510
+2016-01-30 04:51:36,818 - creep - DEBUG - objective:-1545.0524
+2016-01-30 04:51:37,811 - creep - DEBUG - objective:-1545.0529
+2016-01-30 04:51:38,980 - creep - DEBUG - objective:-1545.0535
+2016-01-30 04:51:39,891 - creep - DEBUG - objective:-1545.0541
+2016-01-30 04:51:40,681 - creep - DEBUG - objective:-1545.0549
+2016-01-30 04:51:41,943 - creep - DEBUG - objective:-1545.0557
+2016-01-30 04:51:43,328 - creep - DEBUG - objective:-1545.0569
+2016-01-30 04:51:44,700 - creep - DEBUG - objective:-1545.0579
+2016-01-30 04:51:45,827 - creep - DEBUG - objective:-1545.0598
+2016-01-30 04:51:47,094 - creep - DEBUG - objective:-1545.0609
+2016-01-30 04:51:48,868 - creep - DEBUG - objective:-1545.0622
+2016-01-30 04:51:50,135 - creep - DEBUG - objective:-1545.0632
+2016-01-30 04:51:51,198 - creep - DEBUG - objective:-1545.0643
+2016-01-30 04:51:52,282 - creep - DEBUG - objective:-1545.0673
+2016-01-30 04:51:53,466 - creep - DEBUG - objective:-1545.0698
+2016-01-30 04:51:54,529 - creep - DEBUG - objective:-1545.0712
+2016-01-30 04:51:55,255 - creep - DEBUG - objective:-1545.0731
+2016-01-30 04:51:55,744 - creep - DEBUG - objective:-1545.0743
+2016-01-30 04:51:56,485 - creep - DEBUG - objective:-1545.0754
+2016-01-30 04:51:56,488 - creep - INFO - Saving model...
+2016-01-30 04:51:56,574 - creep - INFO - Model saved.
+2016-01-30 04:51:56,576 - creep - DEBUG - ftol: 0.0661790262122
+2016-01-30 04:51:56,579 - creep - INFO - diff:m:0.00111671001285 s:0.00258502944881
+2016-01-30 04:51:56,581 - creep - INFO - ll params
+2016-01-30 04:51:57,344 - creep - DEBUG - objective:-1545.0754
+2016-01-30 04:51:57,961 - creep - DEBUG - objective:-1398.1938
+2016-01-30 04:51:58,681 - creep - DEBUG - objective:-1545.0756
+2016-01-30 04:51:59,306 - creep - DEBUG - objective:-1545.0756
+2016-01-30 04:52:00,437 - creep - DEBUG - objective:-1545.0756
+2016-01-30 04:52:01,520 - creep - INFO - hyp params
+2016-01-30 04:52:18,125 - creep - DEBUG - objective:-1545.0756
+2016-01-30 04:52:33,240 - creep - DEBUG - objective:-848.4222
+2016-01-30 04:52:48,803 - creep - DEBUG - objective:-1545.0804
+2016-01-30 04:53:03,923 - creep - DEBUG - objective:-1545.0824
+2016-01-30 04:53:26,155 - creep - DEBUG - objective:-1545.0869
+2016-01-30 04:53:41,812 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:53:58,118 - creep - DEBUG - objective:-1545.0874
+2016-01-30 04:54:14,796 - creep - DEBUG - objective:-1545.0914
+2016-01-30 04:54:29,552 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:54:44,735 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:55:05,893 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:55:28,224 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:55:44,624 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:56:00,732 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:56:17,038 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:56:34,132 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:56:51,098 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:57:06,014 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:57:20,937 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:57:38,509 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:57:58,520 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:58:16,380 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:58:35,792 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:58:52,407 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:59:07,810 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:59:23,683 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:59:41,001 - creep - INFO - Iteration 36 started.
+2016-01-30 04:59:41,004 - creep - INFO - MoG params
+2016-01-30 04:59:41,939 - creep - DEBUG - objective:-1545.0916
+2016-01-30 04:59:42,630 - creep - DEBUG - objective:-1333.2805
+2016-01-30 04:59:43,743 - creep - DEBUG - objective:-1545.0941
+2016-01-30 04:59:44,865 - creep - DEBUG - objective:-1545.0955
+2016-01-30 04:59:45,906 - creep - DEBUG - objective:-1545.0976
+2016-01-30 04:59:46,722 - creep - DEBUG - objective:-1545.0986
+2016-01-30 04:59:47,728 - creep - DEBUG - objective:-1545.0997
+2016-01-30 04:59:48,687 - creep - DEBUG - objective:-1545.1005
+2016-01-30 04:59:49,694 - creep - DEBUG - objective:-1545.1009
+2016-01-30 04:59:50,587 - creep - DEBUG - objective:-1545.1009
+2016-01-30 04:59:51,223 - creep - DEBUG - objective:-1545.1012
+2016-01-30 04:59:52,062 - creep - DEBUG - objective:-1545.1014
+2016-01-30 04:59:52,945 - creep - DEBUG - objective:-1545.1005
+2016-01-30 04:59:53,804 - creep - DEBUG - objective:-1545.1015
+2016-01-30 04:59:54,990 - creep - DEBUG - objective:-1545.1019
+2016-01-30 04:59:56,406 - creep - DEBUG - objective:-1545.1026
+2016-01-30 04:59:57,435 - creep - DEBUG - objective:-1545.1030
+2016-01-30 04:59:58,458 - creep - DEBUG - objective:-1545.1044
+2016-01-30 04:59:59,370 - creep - DEBUG - objective:-1545.1057
+2016-01-30 05:00:00,202 - creep - DEBUG - objective:-1545.1068
+2016-01-30 05:00:00,742 - creep - DEBUG - objective:-1545.1077
+2016-01-30 05:00:01,447 - creep - DEBUG - objective:-1545.1091
+2016-01-30 05:00:02,451 - creep - DEBUG - objective:-1545.1100
+2016-01-30 05:00:03,442 - creep - DEBUG - objective:-1545.1111
+2016-01-30 05:00:04,497 - creep - DEBUG - objective:-1545.1130
+2016-01-30 05:00:05,434 - creep - DEBUG - objective:-1545.1138
+2016-01-30 05:00:05,436 - creep - INFO - Saving model...
+2016-01-30 05:00:05,554 - creep - INFO - Model saved.
+2016-01-30 05:00:05,569 - creep - DEBUG - ftol: 0.0384496593761
+2016-01-30 05:00:05,571 - creep - INFO - diff:m:0.00109954202188 s:0.00274667478479
+2016-01-30 05:00:05,572 - creep - INFO - ll params
+2016-01-30 05:00:06,623 - creep - DEBUG - objective:-1545.1138
+2016-01-30 05:00:07,498 - creep - DEBUG - objective:-1398.1187
+2016-01-30 05:00:08,199 - creep - DEBUG - objective:-1545.1139
+2016-01-30 05:00:08,865 - creep - DEBUG - objective:-1545.1139
+2016-01-30 05:00:08,866 - creep - INFO - hyp params
+2016-01-30 05:00:24,149 - creep - DEBUG - objective:-1545.1139
+2016-01-30 05:00:40,285 - creep - DEBUG - objective:-1029.0733
+2016-01-30 05:00:56,347 - creep - DEBUG - objective:-1545.1180
+2016-01-30 05:01:13,259 - creep - DEBUG - objective:-1545.1197
+2016-01-30 05:01:33,686 - creep - DEBUG - objective:-1545.1260
+2016-01-30 05:01:50,308 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:02:12,324 - creep - DEBUG - objective:-1545.1128
+2016-01-30 05:02:28,447 - creep - DEBUG - objective:-1545.1270
+2016-01-30 05:02:44,049 - creep - DEBUG - objective:-1545.1278
+2016-01-30 05:02:59,493 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:03:15,260 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:03:37,291 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:03:53,541 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:04:09,027 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:04:24,876 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:04:43,788 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:05:00,512 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:05:17,125 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:05:34,562 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:05:51,176 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:05,837 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:05,838 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:24,934 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:24,935 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:24,937 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:06:43,592 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:07:00,151 - creep - INFO - Iteration 37 started.
+2016-01-30 05:07:00,152 - creep - INFO - MoG params
+2016-01-30 05:07:01,076 - creep - DEBUG - objective:-1545.1279
+2016-01-30 05:07:02,338 - creep - DEBUG - objective:-1234.9986
+2016-01-30 05:07:03,577 - creep - DEBUG - objective:-1545.1330
+2016-01-30 05:07:04,876 - creep - DEBUG - objective:-1545.1352
+2016-01-30 05:07:05,937 - creep - DEBUG - objective:-1545.1405
+2016-01-30 05:07:06,921 - creep - DEBUG - objective:-1545.1419
+2016-01-30 05:07:07,740 - creep - DEBUG - objective:-1545.1435
+2016-01-30 05:07:08,568 - creep - DEBUG - objective:-1545.1444
+2016-01-30 05:07:09,508 - creep - DEBUG - objective:-1545.1451
+2016-01-30 05:07:10,515 - creep - DEBUG - objective:-1545.1462
+2016-01-30 05:07:11,926 - creep - DEBUG - objective:-1545.1427
+2016-01-30 05:07:12,602 - creep - DEBUG - objective:-1545.1466
+2016-01-30 05:07:13,381 - creep - DEBUG - objective:-1545.1472
+2016-01-30 05:07:14,570 - creep - DEBUG - objective:-1545.1477
+2016-01-30 05:07:15,571 - creep - DEBUG - objective:-1545.1486
+2016-01-30 05:07:16,471 - creep - DEBUG - objective:-1545.1494
+2016-01-30 05:07:17,414 - creep - DEBUG - objective:-1545.1506
+2016-01-30 05:07:18,816 - creep - DEBUG - objective:-1545.1516
+2016-01-30 05:07:20,133 - creep - DEBUG - objective:-1545.1523
+2016-01-30 05:07:21,263 - creep - DEBUG - objective:-1545.1533
+2016-01-30 05:07:22,235 - creep - DEBUG - objective:-1545.1546
+2016-01-30 05:07:23,241 - creep - DEBUG - objective:-1545.1562
+2016-01-30 05:07:24,107 - creep - DEBUG - objective:-1545.1595
+2016-01-30 05:07:24,839 - creep - DEBUG - objective:-1545.1613
+2016-01-30 05:07:25,879 - creep - DEBUG - objective:-1545.1619
+2016-01-30 05:07:26,846 - creep - DEBUG - objective:-1545.1634
+2016-01-30 05:07:26,848 - creep - INFO - Saving model...
+2016-01-30 05:07:26,945 - creep - INFO - Model saved.
+2016-01-30 05:07:26,949 - creep - DEBUG - ftol: 0.0495609441664
+2016-01-30 05:07:26,952 - creep - INFO - diff:m:0.0009340222637 s:0.00212662616624
+2016-01-30 05:07:26,954 - creep - INFO - ll params
+2016-01-30 05:07:27,894 - creep - DEBUG - objective:-1545.1634
+2016-01-30 05:07:28,598 - creep - DEBUG - objective:-1398.2433
+2016-01-30 05:07:29,353 - creep - DEBUG - objective:-1545.1636
+2016-01-30 05:07:29,965 - creep - DEBUG - objective:-1545.1636
+2016-01-30 05:07:30,681 - creep - DEBUG - objective:-1545.1636
+2016-01-30 05:07:30,682 - creep - INFO - hyp params
+2016-01-30 05:07:49,552 - creep - DEBUG - objective:-1545.1636
+2016-01-30 05:08:06,868 - creep - DEBUG - objective:-1148.2075
+2016-01-30 05:08:22,880 - creep - DEBUG - objective:-1545.1672
+2016-01-30 05:08:39,071 - creep - DEBUG - objective:-1545.1692
+2016-01-30 05:08:54,469 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:09:09,096 - creep - DEBUG - objective:-1545.1575
+2016-01-30 05:09:25,563 - creep - DEBUG - objective:-1545.1801
+2016-01-30 05:09:41,933 - creep - DEBUG - objective:-1545.1810
+2016-01-30 05:09:57,703 - creep - DEBUG - objective:-1545.1810
+2016-01-30 05:10:12,253 - creep - DEBUG - objective:-1545.1810
+2016-01-30 05:10:30,133 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:10:49,452 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:11:10,240 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:11:26,819 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:11:42,432 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:12:04,054 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:12:20,292 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:12:36,228 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:12:53,347 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:13:09,445 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:13:26,381 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:13:47,779 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:14:03,671 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:14:20,155 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:14:20,156 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:14:35,438 - creep - DEBUG - objective:-906.7070
+2016-01-30 05:14:52,229 - creep - INFO - Iteration 38 started.
+2016-01-30 05:14:52,231 - creep - INFO - MoG params
+2016-01-30 05:14:53,104 - creep - DEBUG - objective:-1545.1811
+2016-01-30 05:14:54,207 - creep - DEBUG - objective:-1375.0232
+2016-01-30 05:14:55,004 - creep - DEBUG - objective:-1545.1849
+2016-01-30 05:14:55,974 - creep - DEBUG - objective:-1545.1872
+2016-01-30 05:14:56,798 - creep - DEBUG - objective:-1545.1895
+2016-01-30 05:14:58,241 - creep - DEBUG - objective:-1545.1911
+2016-01-30 05:14:59,395 - creep - DEBUG - objective:-1545.1921
+2016-01-30 05:15:00,375 - creep - DEBUG - objective:-1545.1927
+2016-01-30 05:15:01,352 - creep - DEBUG - objective:-1545.1929
+2016-01-30 05:15:02,708 - creep - DEBUG - objective:-1545.1930
+2016-01-30 05:15:03,697 - creep - DEBUG - objective:-1545.1935
+2016-01-30 05:15:05,147 - creep - DEBUG - objective:-1545.1940
+2016-01-30 05:15:06,494 - creep - DEBUG - objective:-1545.1947
+2016-01-30 05:15:07,943 - creep - DEBUG - objective:-1545.1953
+2016-01-30 05:15:09,907 - creep - DEBUG - objective:-1545.1958
+2016-01-30 05:15:11,012 - creep - DEBUG - objective:-1545.1962
+2016-01-30 05:15:11,874 - creep - DEBUG - objective:-1545.1966
+2016-01-30 05:15:12,853 - creep - DEBUG - objective:-1545.1972
+2016-01-30 05:15:13,812 - creep - DEBUG - objective:-1545.1986
+2016-01-30 05:15:14,901 - creep - DEBUG - objective:-1545.2007
+2016-01-30 05:15:16,079 - creep - DEBUG - objective:-1545.2022
+2016-01-30 05:15:17,698 - creep - DEBUG - objective:-1545.2041
+2016-01-30 05:15:19,167 - creep - DEBUG - objective:-1545.2054
+2016-01-30 05:15:20,838 - creep - DEBUG - objective:-1545.2072
+2016-01-30 05:15:21,937 - creep - DEBUG - objective:-1545.2084
+2016-01-30 05:15:22,917 - creep - DEBUG - objective:-1545.2092
+2016-01-30 05:15:22,919 - creep - INFO - Saving model...
+2016-01-30 05:15:23,019 - creep - INFO - Model saved.
+2016-01-30 05:15:23,029 - creep - DEBUG - ftol: 0.0457418867222
+2016-01-30 05:15:23,032 - creep - INFO - diff:m:0.000979584522235 s:0.00277177715325
+2016-01-30 05:15:23,034 - creep - INFO - ll params
+2016-01-30 05:15:23,901 - creep - DEBUG - objective:-1545.2092
+2016-01-30 05:15:24,543 - creep - DEBUG - objective:-1398.2554
+2016-01-30 05:15:25,159 - creep - DEBUG - objective:-1545.2093
+2016-01-30 05:15:25,783 - creep - DEBUG - objective:-1545.2093
+2016-01-30 05:15:25,784 - creep - INFO - hyp params
+2016-01-30 05:15:42,122 - creep - DEBUG - objective:-1545.2093
+2016-01-30 05:15:58,359 - creep - DEBUG - objective:-1352.4815
+2016-01-30 05:16:18,399 - creep - DEBUG - objective:-1545.2143
+2016-01-30 05:16:34,985 - creep - DEBUG - objective:-1545.2155
+2016-01-30 05:16:52,071 - creep - DEBUG - objective:-1545.2181
+2016-01-30 05:17:09,031 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:17:26,298 - creep - DEBUG - objective:-1545.2119
+2016-01-30 05:17:43,086 - creep - DEBUG - objective:-1545.2217
+2016-01-30 05:17:59,026 - creep - DEBUG - objective:-1545.2222
+2016-01-30 05:18:14,900 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:18:34,914 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:18:51,810 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:19:07,982 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:19:29,316 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:19:49,210 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:20:08,936 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:20:24,648 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:20:40,395 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:20:55,478 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:21:11,261 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:21:28,148 - creep - DEBUG - objective:-1545.2223
+2016-01-30 05:21:47,496 - creep - DEBUG - objective:-1545.2219
+2016-01-30 05:22:02,949 - creep - DEBUG - objective:-1545.2225
+2016-01-30 05:22:18,817 - creep - DEBUG - objective:-1545.2214
+2016-01-30 05:22:34,686 - creep - DEBUG - objective:-1545.2228
+2016-01-30 05:22:51,231 - creep - DEBUG - objective:-1545.2207
+2016-01-30 05:23:04,594 - creep - INFO - Iteration 39 started.
+2016-01-30 05:23:04,595 - creep - INFO - MoG params
+2016-01-30 05:23:05,636 - creep - DEBUG - objective:-1545.2228
+2016-01-30 05:23:06,842 - creep - DEBUG - objective:-1370.6525
+2016-01-30 05:23:07,934 - creep - DEBUG - objective:-1545.2261
+2016-01-30 05:23:08,979 - creep - DEBUG - objective:-1545.2287
+2016-01-30 05:23:09,760 - creep - DEBUG - objective:-1545.2314
+2016-01-30 05:23:10,555 - creep - DEBUG - objective:-1545.2333
+2016-01-30 05:23:11,300 - creep - DEBUG - objective:-1545.2347
+2016-01-30 05:23:11,931 - creep - DEBUG - objective:-1545.2352
+2016-01-30 05:23:12,729 - creep - DEBUG - objective:-1545.2353
+2016-01-30 05:23:13,516 - creep - DEBUG - objective:-1545.2353
+2016-01-30 05:23:14,452 - creep - DEBUG - objective:-1545.2357
+2016-01-30 05:23:15,519 - creep - DEBUG - objective:-1545.2362
+2016-01-30 05:23:16,404 - creep - DEBUG - objective:-1545.2367
+2016-01-30 05:23:17,109 - creep - DEBUG - objective:-1545.2371
+2016-01-30 05:23:18,032 - creep - DEBUG - objective:-1545.2375
+2016-01-30 05:23:19,131 - creep - DEBUG - objective:-1545.2380
+2016-01-30 05:23:20,096 - creep - DEBUG - objective:-1545.2385
+2016-01-30 05:23:21,085 - creep - DEBUG - objective:-1545.2390
+2016-01-30 05:23:22,351 - creep - DEBUG - objective:-1545.2398
+2016-01-30 05:23:23,387 - creep - DEBUG - objective:-1545.2408
+2016-01-30 05:23:24,202 - creep - DEBUG - objective:-1545.2426
+2016-01-30 05:23:25,151 - creep - DEBUG - objective:-1545.2438
+2016-01-30 05:23:26,083 - creep - DEBUG - objective:-1545.2447
+2016-01-30 05:23:27,000 - creep - DEBUG - objective:-1545.2455
+2016-01-30 05:23:27,942 - creep - DEBUG - objective:-1545.2463
+2016-01-30 05:23:28,861 - creep - DEBUG - objective:-1545.2471
+2016-01-30 05:23:28,862 - creep - INFO - Saving model...
+2016-01-30 05:23:28,973 - creep - INFO - Model saved.
+2016-01-30 05:23:28,978 - creep - DEBUG - ftol: 0.0379343008058
+2016-01-30 05:23:28,980 - creep - INFO - diff:m:0.000839597418103 s:0.00187086405742
+2016-01-30 05:23:28,981 - creep - INFO - ll params
+2016-01-30 05:23:29,696 - creep - DEBUG - objective:-1545.2471
+2016-01-30 05:23:30,550 - creep - DEBUG - objective:-1398.2786
+2016-01-30 05:23:31,324 - creep - DEBUG - objective:-1545.2472
+2016-01-30 05:23:32,260 - creep - DEBUG - objective:-1545.2472
+2016-01-30 05:23:32,261 - creep - INFO - hyp params
+2016-01-30 05:23:50,921 - creep - DEBUG - objective:-1545.2472
+2016-01-30 05:24:10,271 - creep - DEBUG - objective:-1254.5421
+2016-01-30 05:24:31,233 - creep - DEBUG - objective:-1545.2519
+2016-01-30 05:24:53,175 - creep - DEBUG - objective:-1545.2530
+2016-01-30 05:25:11,081 - creep - DEBUG - objective:-1545.2551
+2016-01-30 05:25:28,717 - creep - DEBUG - objective:-1545.2598
+2016-01-30 05:25:45,977 - creep - DEBUG - objective:-1545.2588
+2016-01-30 05:26:02,731 - creep - DEBUG - objective:-1545.2602
+2016-01-30 05:26:18,671 - creep - DEBUG - objective:-1545.2563
+2016-01-30 05:26:35,930 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:26:51,336 - creep - DEBUG - objective:-1545.2554
+2016-01-30 05:27:07,348 - creep - DEBUG - objective:-1545.2602
+2016-01-30 05:27:24,100 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:27:41,839 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:28:03,579 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:28:26,690 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:28:42,948 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:28:59,094 - creep - DEBUG - objective:-1545.2547
+2016-01-30 05:29:21,949 - creep - DEBUG - objective:-1545.2602
+2016-01-30 05:29:37,947 - creep - DEBUG - objective:-1545.2604
+2016-01-30 05:29:54,347 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:30:09,203 - creep - DEBUG - objective:-1545.2604
+2016-01-30 05:30:25,383 - creep - DEBUG - objective:-1545.2604
+2016-01-30 05:30:41,372 - creep - DEBUG - objective:-1545.2604
+2016-01-30 05:30:57,500 - creep - DEBUG - objective:-1545.2543
+2016-01-30 05:31:13,752 - creep - DEBUG - objective:-1545.2603
+2016-01-30 05:31:28,742 - creep - INFO - Iteration 40 started.
+2016-01-30 05:31:28,743 - creep - INFO - MoG params
+2016-01-30 05:31:29,988 - creep - DEBUG - objective:-1545.2604
+2016-01-30 05:31:31,157 - creep - DEBUG - objective:-1380.8153
+2016-01-30 05:31:32,561 - creep - DEBUG - objective:-1545.2641
+2016-01-30 05:31:33,486 - creep - DEBUG - objective:-1545.2665
+2016-01-30 05:31:34,339 - creep - DEBUG - objective:-1545.2687
+2016-01-30 05:31:35,326 - creep - DEBUG - objective:-1545.2704
+2016-01-30 05:31:36,526 - creep - DEBUG - objective:-1545.2715
+2016-01-30 05:31:37,413 - creep - DEBUG - objective:-1545.2720
+2016-01-30 05:31:38,236 - creep - DEBUG - objective:-1545.2721
+2016-01-30 05:31:39,430 - creep - DEBUG - objective:-1545.2723
+2016-01-30 05:31:40,472 - creep - DEBUG - objective:-1545.2723
+2016-01-30 05:31:41,536 - creep - DEBUG - objective:-1545.2728
+2016-01-30 05:31:42,954 - creep - DEBUG - objective:-1545.2731
+2016-01-30 05:31:44,039 - creep - DEBUG - objective:-1545.2734
+2016-01-30 05:31:45,235 - creep - DEBUG - objective:-1545.2734
+2016-01-30 05:31:46,123 - creep - DEBUG - objective:-1545.2738
+2016-01-30 05:31:46,819 - creep - DEBUG - objective:-1545.2740
+2016-01-30 05:31:47,789 - creep - DEBUG - objective:-1545.2742
+2016-01-30 05:31:48,611 - creep - DEBUG - objective:-1545.2750
+2016-01-30 05:31:49,642 - creep - DEBUG - objective:-1545.2759
+2016-01-30 05:31:50,435 - creep - DEBUG - objective:-1545.2777
+2016-01-30 05:31:51,555 - creep - DEBUG - objective:-1545.2790
+2016-01-30 05:31:52,593 - creep - DEBUG - objective:-1545.2801
+2016-01-30 05:31:53,656 - creep - DEBUG - objective:-1545.2810
+2016-01-30 05:31:54,614 - creep - DEBUG - objective:-1545.2815
+2016-01-30 05:31:55,819 - creep - DEBUG - objective:-1545.2820
+2016-01-30 05:31:55,821 - creep - INFO - Saving model...
+2016-01-30 05:31:55,927 - creep - INFO - Model saved.
+2016-01-30 05:31:55,928 - creep - DEBUG - ftol: 0.0349237644059
+2016-01-30 05:31:55,929 - creep - INFO - diff:m:0.000888498262984 s:0.00210292567668
+2016-01-30 05:31:55,930 - creep - INFO - ll params
+2016-01-30 05:31:56,927 - creep - DEBUG - objective:-1545.2820
+2016-01-30 05:31:57,808 - creep - DEBUG - objective:-1398.3819
+2016-01-30 05:31:58,406 - creep - DEBUG - objective:-1545.2822
+2016-01-30 05:31:58,776 - creep - DEBUG - objective:-1545.2822
+2016-01-30 05:31:59,528 - creep - DEBUG - objective:-1545.2822
+2016-01-30 05:31:59,529 - creep - INFO - hyp params
+2016-01-30 05:32:16,530 - creep - DEBUG - objective:-1545.2822
+2016-01-30 05:32:34,386 - creep - DEBUG - objective:-592.3004
+2016-01-30 05:32:56,375 - creep - DEBUG - objective:-1545.2868
+2016-01-30 05:33:12,247 - creep - DEBUG - objective:-1545.2882
+2016-01-30 05:33:30,187 - creep - DEBUG - objective:-1545.2974
+2016-01-30 05:33:51,740 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:34:08,077 - creep - DEBUG - objective:-1545.2953
+2016-01-30 05:34:25,377 - creep - DEBUG - objective:-1545.3016
+2016-01-30 05:34:42,686 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:35:00,011 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:35:15,551 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:35:31,963 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:35:48,720 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:36:05,643 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:36:23,507 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:36:43,298 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:37:04,118 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:37:22,890 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:37:39,766 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:37:57,231 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:38:13,236 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:38:36,344 - creep - DEBUG - objective:-1545.3019
+2016-01-30 05:38:53,118 - creep - DEBUG - objective:-1545.2892
+2016-01-30 05:39:10,292 - creep - DEBUG - objective:-1545.3021
+2016-01-30 05:39:27,116 - creep - DEBUG - objective:-1545.2911
+2016-01-30 05:39:42,871 - creep - DEBUG - objective:-1545.3016
+2016-01-30 05:39:59,773 - creep - INFO - Iteration 41 started.
+2016-01-30 05:39:59,774 - creep - INFO - MoG params
+2016-01-30 05:40:00,861 - creep - DEBUG - objective:-1545.3021
+2016-01-30 05:40:01,820 - creep - DEBUG - objective:-1380.9581
+2016-01-30 05:40:02,828 - creep - DEBUG - objective:-1545.3051
+2016-01-30 05:40:03,625 - creep - DEBUG - objective:-1545.3073
+2016-01-30 05:40:04,615 - creep - DEBUG - objective:-1545.3094
+2016-01-30 05:40:05,279 - creep - DEBUG - objective:-1545.3111
+2016-01-30 05:40:06,065 - creep - DEBUG - objective:-1545.3122
+2016-01-30 05:40:07,063 - creep - DEBUG - objective:-1545.3127
+2016-01-30 05:40:08,061 - creep - DEBUG - objective:-1545.3129
+2016-01-30 05:40:09,101 - creep - DEBUG - objective:-1545.3131
+2016-01-30 05:40:10,168 - creep - DEBUG - objective:-1545.3134
+2016-01-30 05:40:11,165 - creep - DEBUG - objective:-1545.3139
+2016-01-30 05:40:12,177 - creep - DEBUG - objective:-1545.3143
+2016-01-30 05:40:13,178 - creep - DEBUG - objective:-1545.3147
+2016-01-30 05:40:14,274 - creep - DEBUG - objective:-1545.3151
+2016-01-30 05:40:15,032 - creep - DEBUG - objective:-1545.3155
+2016-01-30 05:40:16,063 - creep - DEBUG - objective:-1545.3159
+2016-01-30 05:40:17,154 - creep - DEBUG - objective:-1545.3162
+2016-01-30 05:40:18,038 - creep - DEBUG - objective:-1545.3169
+2016-01-30 05:40:19,051 - creep - DEBUG - objective:-1545.3177
+2016-01-30 05:40:19,906 - creep - DEBUG - objective:-1545.3193
+2016-01-30 05:40:20,842 - creep - DEBUG - objective:-1545.3205
+2016-01-30 05:40:22,152 - creep - DEBUG - objective:-1545.3223
+2016-01-30 05:40:23,102 - creep - DEBUG - objective:-1545.3231
+2016-01-30 05:40:24,221 - creep - DEBUG - objective:-1545.3232
+2016-01-30 05:40:25,152 - creep - DEBUG - objective:-1545.3235
+2016-01-30 05:40:25,155 - creep - INFO - Saving model...
+2016-01-30 05:40:25,283 - creep - INFO - Model saved.
+2016-01-30 05:40:25,296 - creep - DEBUG - ftol: 0.0415194598677
+2016-01-30 05:40:25,296 - creep - INFO - diff:m:0.000727763601761 s:0.00150984382247
+2016-01-30 05:40:25,297 - creep - INFO - ll params
+2016-01-30 05:40:26,461 - creep - DEBUG - objective:-1545.3235
+2016-01-30 05:40:27,145 - creep - DEBUG - objective:-1398.3780
+2016-01-30 05:40:27,832 - creep - DEBUG - objective:-1545.3237
+2016-01-30 05:40:28,539 - creep - DEBUG - objective:-1545.3237
+2016-01-30 05:40:28,540 - creep - INFO - hyp params
+2016-01-30 05:40:44,582 - creep - DEBUG - objective:-1545.3237
+2016-01-30 05:40:59,958 - creep - DEBUG - objective:-605.1644
+2016-01-30 05:41:17,885 - creep - DEBUG - objective:-1545.3270
+2016-01-30 05:41:38,715 - creep - DEBUG - objective:-1545.3280
+2016-01-30 05:41:56,651 - creep - DEBUG - objective:-1545.3377
+2016-01-30 05:42:14,231 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:42:32,013 - creep - DEBUG - objective:-1545.3316
+2016-01-30 05:42:50,138 - creep - DEBUG - objective:-1545.3378
+2016-01-30 05:43:12,123 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:43:28,093 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:43:44,589 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:44:01,490 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:44:17,391 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:44:36,840 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:44:57,731 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:45:13,236 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:45:29,367 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:45:46,913 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:46:07,190 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:46:27,862 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:46:48,542 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:47:07,834 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:47:29,845 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:47:54,298 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:48:14,810 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:48:36,681 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:48:56,573 - creep - INFO - Iteration 42 started.
+2016-01-30 05:48:56,573 - creep - INFO - MoG params
+2016-01-30 05:48:57,839 - creep - DEBUG - objective:-1545.3382
+2016-01-30 05:48:59,043 - creep - DEBUG - objective:-1374.5224
+2016-01-30 05:49:00,451 - creep - DEBUG - objective:-1545.3422
+2016-01-30 05:49:01,702 - creep - DEBUG - objective:-1545.3448
+2016-01-30 05:49:02,928 - creep - DEBUG - objective:-1545.3471
+2016-01-30 05:49:04,375 - creep - DEBUG - objective:-1545.3487
+2016-01-30 05:49:05,683 - creep - DEBUG - objective:-1545.3495
+2016-01-30 05:49:06,864 - creep - DEBUG - objective:-1545.3501
+2016-01-30 05:49:07,699 - creep - DEBUG - objective:-1545.3503
+2016-01-30 05:49:08,569 - creep - DEBUG - objective:-1545.3506
+2016-01-30 05:49:09,572 - creep - DEBUG - objective:-1545.3503
+2016-01-30 05:49:10,872 - creep - DEBUG - objective:-1545.3508
+2016-01-30 05:49:12,015 - creep - DEBUG - objective:-1545.3510
+2016-01-30 05:49:12,828 - creep - DEBUG - objective:-1545.3512
+2016-01-30 05:49:13,872 - creep - DEBUG - objective:-1545.3514
+2016-01-30 05:49:15,565 - creep - DEBUG - objective:-1545.3515
+2016-01-30 05:49:16,855 - creep - DEBUG - objective:-1545.3515
+2016-01-30 05:49:17,925 - creep - DEBUG - objective:-1545.3517
+2016-01-30 05:49:19,045 - creep - DEBUG - objective:-1545.3521
+2016-01-30 05:49:20,071 - creep - DEBUG - objective:-1545.3528
+2016-01-30 05:49:21,053 - creep - DEBUG - objective:-1545.3540
+2016-01-30 05:49:22,014 - creep - DEBUG - objective:-1545.3553
+2016-01-30 05:49:23,113 - creep - DEBUG - objective:-1545.3566
+2016-01-30 05:49:24,257 - creep - DEBUG - objective:-1545.3577
+2016-01-30 05:49:25,718 - creep - DEBUG - objective:-1545.3583
+2016-01-30 05:49:26,811 - creep - DEBUG - objective:-1545.3590
+2016-01-30 05:49:26,814 - creep - INFO - Saving model...
+2016-01-30 05:49:26,914 - creep - INFO - Model saved.
+2016-01-30 05:49:26,927 - creep - DEBUG - ftol: 0.0354714334542
+2016-01-30 05:49:26,928 - creep - INFO - diff:m:0.000837286039238 s:0.00170371684283
+2016-01-30 05:49:26,939 - creep - INFO - ll params
+2016-01-30 05:49:28,032 - creep - DEBUG - objective:-1545.3590
+2016-01-30 05:49:29,254 - creep - DEBUG - objective:-1398.4226
+2016-01-30 05:49:30,116 - creep - DEBUG - objective:-1545.3591
+2016-01-30 05:49:30,924 - creep - DEBUG - objective:-1545.3591
+2016-01-30 05:49:30,925 - creep - INFO - hyp params
+2016-01-30 05:49:51,628 - creep - DEBUG - objective:-1545.3591
+2016-01-30 05:50:10,356 - creep - DEBUG - objective:-1016.4847
+2016-01-30 05:50:30,744 - creep - DEBUG - objective:-1545.3627
+2016-01-30 05:50:52,147 - creep - DEBUG - objective:-1545.3643
+2016-01-30 05:51:12,770 - creep - DEBUG - objective:-1545.3711
+2016-01-30 05:51:34,778 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:51:55,305 - creep - DEBUG - objective:-1545.3532
+2016-01-30 05:52:15,389 - creep - DEBUG - objective:-1545.3739
+2016-01-30 05:52:37,165 - creep - DEBUG - objective:-1545.3749
+2016-01-30 05:52:56,755 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:53:21,161 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:53:42,697 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:54:02,631 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:54:21,562 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:54:47,779 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:55:10,256 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:55:30,949 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:55:53,224 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:56:12,180 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:56:33,615 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:56:53,908 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:57:12,843 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:57:33,449 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:57:53,307 - creep - DEBUG - objective:-1545.3532
+2016-01-30 05:58:11,916 - creep - DEBUG - objective:-1545.3739
+2016-01-30 05:58:34,823 - creep - DEBUG - objective:-1545.3749
+2016-01-30 05:58:58,792 - creep - INFO - Iteration 43 started.
+2016-01-30 05:58:58,793 - creep - INFO - MoG params
+2016-01-30 05:58:59,862 - creep - DEBUG - objective:-1545.3750
+2016-01-30 05:59:01,115 - creep - DEBUG - objective:-1371.4192
+2016-01-30 05:59:02,099 - creep - DEBUG - objective:-1545.3779
+2016-01-30 05:59:03,529 - creep - DEBUG - objective:-1545.3799
+2016-01-30 05:59:04,706 - creep - DEBUG - objective:-1545.3821
+2016-01-30 05:59:05,962 - creep - DEBUG - objective:-1545.3836
+2016-01-30 05:59:07,538 - creep - DEBUG - objective:-1545.3847
+2016-01-30 05:59:08,855 - creep - DEBUG - objective:-1545.3852
+2016-01-30 05:59:09,969 - creep - DEBUG - objective:-1545.3855
+2016-01-30 05:59:11,281 - creep - DEBUG - objective:-1545.3859
+2016-01-30 05:59:12,267 - creep - DEBUG - objective:-1545.3860
+2016-01-30 05:59:13,115 - creep - DEBUG - objective:-1545.3864
+2016-01-30 05:59:14,092 - creep - DEBUG - objective:-1545.3866
+2016-01-30 05:59:14,991 - creep - DEBUG - objective:-1545.3870
+2016-01-30 05:59:15,934 - creep - DEBUG - objective:-1545.3874
+2016-01-30 05:59:16,849 - creep - DEBUG - objective:-1545.3879
+2016-01-30 05:59:18,150 - creep - DEBUG - objective:-1545.3884
+2016-01-30 05:59:19,431 - creep - DEBUG - objective:-1545.3889
+2016-01-30 05:59:20,823 - creep - DEBUG - objective:-1545.3897
+2016-01-30 05:59:22,020 - creep - DEBUG - objective:-1545.3907
+2016-01-30 05:59:23,643 - creep - DEBUG - objective:-1545.3930
+2016-01-30 05:59:24,759 - creep - DEBUG - objective:-1545.3947
+2016-01-30 05:59:25,552 - creep - DEBUG - objective:-1545.3951
+2016-01-30 05:59:26,578 - creep - DEBUG - objective:-1545.3957
+2016-01-30 05:59:27,604 - creep - DEBUG - objective:-1545.3964
+2016-01-30 05:59:28,693 - creep - DEBUG - objective:-1545.3975
+2016-01-30 05:59:28,694 - creep - INFO - Saving model...
+2016-01-30 05:59:28,791 - creep - INFO - Model saved.
+2016-01-30 05:59:28,795 - creep - DEBUG - ftol: 0.038497692075
+2016-01-30 05:59:28,796 - creep - INFO - diff:m:0.000764530296136 s:0.00195472117178
+2016-01-30 05:59:28,798 - creep - INFO - ll params
+2016-01-30 05:59:29,811 - creep - DEBUG - objective:-1545.3975
+2016-01-30 05:59:31,081 - creep - DEBUG - objective:-1398.4795
+2016-01-30 05:59:32,394 - creep - DEBUG - objective:-1545.3977
+2016-01-30 05:59:33,524 - creep - DEBUG - objective:-1545.3977
+2016-01-30 05:59:34,603 - creep - DEBUG - objective:-1545.3977
+2016-01-30 05:59:34,604 - creep - INFO - hyp params
+2016-01-30 05:59:55,838 - creep - DEBUG - objective:-1545.3977
+2016-01-30 06:00:14,558 - creep - DEBUG - objective:-1437.5344
+2016-01-30 06:00:34,169 - creep - DEBUG - objective:-1545.4030
+2016-01-30 06:00:55,555 - creep - DEBUG - objective:-1545.4053
+2016-01-30 06:01:13,777 - creep - DEBUG - objective:-1545.4102
+2016-01-30 06:01:33,548 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:01:54,711 - creep - DEBUG - objective:-1545.4032
+2016-01-30 06:02:13,502 - creep - DEBUG - objective:-1545.4129
+2016-01-30 06:02:34,619 - creep - DEBUG - objective:-1545.4134
+2016-01-30 06:02:55,032 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:03:13,755 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:03:34,412 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:03:56,872 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:04:24,334 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:04:47,773 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:05:08,558 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:05:27,868 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:05:49,440 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:06:09,247 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:06:28,995 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:06:50,155 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:07:10,190 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:07:28,652 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:07:49,683 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:07:49,684 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:08:10,771 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:08:10,772 - creep - INFO - Iteration 44 started.
+2016-01-30 06:08:10,773 - creep - INFO - MoG params
+2016-01-30 06:08:11,585 - creep - DEBUG - objective:-1545.4135
+2016-01-30 06:08:12,367 - creep - DEBUG - objective:-1337.4832
+2016-01-30 06:08:13,456 - creep - DEBUG - objective:-1545.4174
+2016-01-30 06:08:14,436 - creep - DEBUG - objective:-1545.4198
+2016-01-30 06:08:15,365 - creep - DEBUG - objective:-1545.4226
+2016-01-30 06:08:16,757 - creep - DEBUG - objective:-1545.4242
+2016-01-30 06:08:18,372 - creep - DEBUG - objective:-1545.4254
+2016-01-30 06:08:19,784 - creep - DEBUG - objective:-1545.4260
+2016-01-30 06:08:21,232 - creep - DEBUG - objective:-1545.4262
+2016-01-30 06:08:22,716 - creep - DEBUG - objective:-1545.4264
+2016-01-30 06:08:23,616 - creep - DEBUG - objective:-1545.4267
+2016-01-30 06:08:24,481 - creep - DEBUG - objective:-1545.4270
+2016-01-30 06:08:25,532 - creep - DEBUG - objective:-1545.4272
+2016-01-30 06:08:26,504 - creep - DEBUG - objective:-1545.4273
+2016-01-30 06:08:27,274 - creep - DEBUG - objective:-1545.4273
+2016-01-30 06:08:28,359 - creep - DEBUG - objective:-1545.4274
+2016-01-30 06:08:29,071 - creep - DEBUG - objective:-1545.4271
+2016-01-30 06:08:30,422 - creep - DEBUG - objective:-1545.4274
+2016-01-30 06:08:31,832 - creep - DEBUG - objective:-1545.4266
+2016-01-30 06:08:33,275 - creep - DEBUG - objective:-1545.4276
+2016-01-30 06:08:34,627 - creep - DEBUG - objective:-1545.4274
+2016-01-30 06:08:36,175 - creep - DEBUG - objective:-1545.4277
+2016-01-30 06:08:37,259 - creep - DEBUG - objective:-1545.4277
+2016-01-30 06:08:38,157 - creep - DEBUG - objective:-1545.4279
+2016-01-30 06:08:39,087 - creep - DEBUG - objective:-1545.4279
+2016-01-30 06:08:40,093 - creep - DEBUG - objective:-1545.4285
+2016-01-30 06:08:40,095 - creep - INFO - Saving model...
+2016-01-30 06:08:40,160 - creep - INFO - Model saved.
+2016-01-30 06:08:40,163 - creep - DEBUG - ftol: 0.0310325531766
+2016-01-30 06:08:40,165 - creep - INFO - diff:m:0.000767009682278 s:0.000798728074471
+2016-01-30 06:08:40,167 - creep - INFO - best obj found: -1545.42853147
+2016-01-30 06:08:40,169 - creep - DEBUG - prediction started...
+2016-01-30 06:08:49,873 - creep - DEBUG - prediction finished
