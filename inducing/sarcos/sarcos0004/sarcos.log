@@ -1,0 +1,313 @@
+2016-03-11 07:25:31,296 - sarcos - INFO - experiment started for:{'run_id': 0, 'max_iter': 200, 'optimization_config': {'hyp': 10, 'inducing': 6, 'll': 10, 'mog': 50}, 'xtol': 0.001, 'git_hash': '363f8b260fcbc47f2a6291c81686221e79ff1707', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 0.004, 'll': 'CogLL', 'sample_num': 2000, 'experiment': 'sarcos', 'git_branch': 'master', 'random_Z': True, 'method': 'full'}
+2016-03-11 07:25:48,048 - sarcos - INFO - Iteration 1 started.
+2016-03-11 07:25:48,048 - sarcos - INFO - Optimizing: mog
+2016-03-11 07:25:48,065 - sarcos - DEBUG - Objective:456431991667.5642
+2016-03-11 07:26:04,425 - sarcos - DEBUG - Objective:286221669403.7784
+2016-03-11 07:26:20,921 - sarcos - DEBUG - Objective:207478005875.2066
+2016-03-11 07:26:36,945 - sarcos - DEBUG - Objective:140145118181.5082
+2016-03-11 07:26:53,139 - sarcos - DEBUG - Objective:100933238067.5022
+2016-03-11 07:27:09,231 - sarcos - DEBUG - Objective:74508343753.5757
+2016-03-11 07:27:25,142 - sarcos - DEBUG - Objective:58436149016.0287
+2016-03-11 07:27:41,182 - sarcos - DEBUG - Objective:47824094235.4482
+2016-03-11 07:27:57,133 - sarcos - DEBUG - Objective:40838354518.4878
+2016-03-11 07:28:13,311 - sarcos - DEBUG - Objective:35104514127.6064
+2016-03-11 07:28:29,505 - sarcos - DEBUG - Objective:28836438363.5993
+2016-03-11 07:28:45,338 - sarcos - DEBUG - Objective:19488096066.9857
+2016-03-11 07:29:01,341 - sarcos - DEBUG - Objective:10036428977.1593
+2016-03-11 07:29:17,179 - sarcos - DEBUG - Objective:4767682411.0163
+2016-03-11 07:29:33,450 - sarcos - DEBUG - Objective:2435236124.5046
+2016-03-11 07:29:49,984 - sarcos - DEBUG - Objective:1381501080.9014
+2016-03-11 07:30:06,303 - sarcos - DEBUG - Objective:885550232.1274
+2016-03-11 07:30:22,332 - sarcos - DEBUG - Objective:701746310.7452
+2016-03-11 07:30:38,185 - sarcos - DEBUG - Objective:373438430.6554
+2016-03-11 07:30:54,805 - sarcos - DEBUG - Objective:278572733.8647
+2016-03-11 07:31:10,611 - sarcos - DEBUG - Objective:185690962.9488
+2016-03-11 07:31:26,557 - sarcos - DEBUG - Objective:153782649.8097
+2016-03-11 07:31:42,671 - sarcos - DEBUG - Objective:122322547.3997
+2016-03-11 07:31:58,777 - sarcos - DEBUG - Objective:87199785.7707
+2016-03-11 07:32:15,167 - sarcos - DEBUG - Objective:122606666.6725
+2016-03-11 07:32:31,215 - sarcos - DEBUG - Objective:75686996.8746
+2016-03-11 07:32:48,127 - sarcos - DEBUG - Objective:57369185.0654
+2016-03-11 07:33:04,493 - sarcos - DEBUG - Objective:46014965.9768
+2016-03-11 07:33:20,379 - sarcos - DEBUG - Objective:37428067.6960
+2016-03-11 07:33:36,624 - sarcos - DEBUG - Objective:30618941.5383
+2016-03-11 07:33:52,640 - sarcos - DEBUG - Objective:28419630.4685
+2016-03-11 07:34:08,575 - sarcos - DEBUG - Objective:25053895.4666
+2016-03-11 07:34:24,777 - sarcos - DEBUG - Objective:22090603.2860
+2016-03-11 07:34:40,676 - sarcos - DEBUG - Objective:19158176.7439
+2016-03-11 07:34:57,450 - sarcos - DEBUG - Objective:16983995.4719
+2016-03-11 07:35:13,776 - sarcos - DEBUG - Objective:14728050.9948
+2016-03-11 07:35:29,777 - sarcos - DEBUG - Objective:13172003.4832
+2016-03-11 07:35:45,945 - sarcos - DEBUG - Objective:11863552.0957
+2016-03-11 07:36:02,266 - sarcos - DEBUG - Objective:10730112.9603
+2016-03-11 07:36:18,949 - sarcos - DEBUG - Objective:9440728.2493
+2016-03-11 07:36:35,148 - sarcos - DEBUG - Objective:8458671.6056
+2016-03-11 07:36:51,262 - sarcos - DEBUG - Objective:7644935.6552
+2016-03-11 07:37:07,582 - sarcos - DEBUG - Objective:7011646.7456
+2016-03-11 07:37:24,129 - sarcos - DEBUG - Objective:6241514.1654
+2016-03-11 07:37:40,858 - sarcos - DEBUG - Objective:5551230.0611
+2016-03-11 07:37:57,152 - sarcos - DEBUG - Objective:5017905.8664
+2016-03-11 07:38:13,632 - sarcos - DEBUG - Objective:4359054.5763
+2016-03-11 07:38:29,566 - sarcos - DEBUG - Objective:4341968.5290
+2016-03-11 07:38:46,101 - sarcos - DEBUG - Objective:3997336.0694
+2016-03-11 07:39:02,525 - sarcos - DEBUG - Objective:3549171.4518
+2016-03-11 07:39:18,624 - sarcos - DEBUG - Objective:3242308.0367
+2016-03-11 07:39:18,632 - sarcos - INFO - Optimizing: hyp
+2016-03-11 07:39:41,428 - sarcos - DEBUG - Objective:3247261.5521
+2016-03-11 07:40:04,397 - sarcos - DEBUG - Objective:1308944.7212
+2016-03-11 07:40:27,155 - sarcos - DEBUG - Objective:1157285.8718
+2016-03-11 07:40:50,064 - sarcos - DEBUG - Objective:836817.3273
+2016-03-11 07:41:12,962 - sarcos - DEBUG - Objective:727594.7881
+2016-03-11 07:41:35,846 - sarcos - DEBUG - Objective:685694.6704
+2016-03-11 07:41:58,871 - sarcos - DEBUG - Objective:675478.8994
+2016-03-11 07:42:22,134 - sarcos - DEBUG - Objective:671742.5652
+2016-03-11 07:42:46,048 - sarcos - DEBUG - Objective:670947.9875
+2016-03-11 07:43:11,080 - sarcos - DEBUG - Objective:668089.7403
+2016-03-11 07:43:34,085 - sarcos - DEBUG - Objective:684903.7617
+2016-03-11 07:43:59,087 - sarcos - INFO - Optimizing: ll
+2016-03-11 07:44:15,729 - sarcos - DEBUG - Objective:665816.2095
+2016-03-11 07:44:32,361 - sarcos - DEBUG - Objective:362228.4983
+2016-03-11 07:44:48,911 - sarcos - DEBUG - Objective:307754.8445
+2016-03-11 07:45:05,580 - sarcos - DEBUG - Objective:278962.7413
+2016-03-11 07:45:22,099 - sarcos - DEBUG - Objective:271971.6082
+2016-03-11 07:45:39,060 - sarcos - DEBUG - Objective:270880.3875
+2016-03-11 07:45:55,407 - sarcos - DEBUG - Objective:270766.6786
+2016-03-11 07:46:12,404 - sarcos - DEBUG - Objective:270758.3855
+2016-03-11 07:46:29,260 - sarcos - DEBUG - Objective:270804.1413
+2016-03-11 07:46:45,485 - sarcos - DEBUG - Objective:270769.9997
+2016-03-11 07:47:02,275 - sarcos - DEBUG - Objective:270835.9828
+2016-03-11 07:47:02,276 - sarcos - INFO - Optimizing: inducing
+2016-03-11 07:49:43,197 - sarcos - DEBUG - Objective:270819.4385
+2016-03-11 07:52:24,295 - sarcos - DEBUG - Objective:270504.8572
+2016-03-11 07:55:06,233 - sarcos - DEBUG - Objective:270689.4611
+2016-03-11 07:57:47,967 - sarcos - DEBUG - Objective:270671.4599
+2016-03-11 08:00:29,309 - sarcos - DEBUG - Objective:270599.2305
+2016-03-11 08:03:10,114 - sarcos - DEBUG - Objective:270587.1210
+2016-03-11 08:05:52,066 - sarcos - DEBUG - Objective:270583.0260
+2016-03-11 08:08:33,233 - sarcos - INFO - Iteration 2 started.
+2016-03-11 08:08:33,233 - sarcos - INFO - Optimizing: mog
+2016-03-11 08:08:50,215 - sarcos - DEBUG - Objective:270612.2390
+2016-03-11 08:09:06,929 - sarcos - DEBUG - Objective:269434.2443
+2016-03-11 08:09:22,821 - sarcos - DEBUG - Objective:264714.3402
+2016-03-11 08:09:39,226 - sarcos - DEBUG - Objective:246991.5561
+2016-03-11 08:09:55,815 - sarcos - DEBUG - Objective:137957.7283
+2016-03-11 08:10:12,332 - sarcos - DEBUG - Objective:130552.3060
+2016-03-11 08:10:28,054 - sarcos - DEBUG - Objective:130049.3743
+2016-03-11 08:10:44,436 - sarcos - DEBUG - Objective:129414.3997
+2016-03-11 08:11:00,445 - sarcos - DEBUG - Objective:129395.3190
+2016-03-11 08:11:16,780 - sarcos - DEBUG - Objective:129325.0255
+2016-03-11 08:11:32,986 - sarcos - DEBUG - Objective:129250.2324
+2016-03-11 08:11:49,416 - sarcos - DEBUG - Objective:129253.2752
+2016-03-11 08:12:05,577 - sarcos - DEBUG - Objective:129229.5926
+2016-03-11 08:12:21,687 - sarcos - DEBUG - Objective:129194.1198
+2016-03-11 08:12:38,090 - sarcos - DEBUG - Objective:129165.4900
+2016-03-11 08:12:53,926 - sarcos - DEBUG - Objective:129141.2596
+2016-03-11 08:13:10,497 - sarcos - DEBUG - Objective:129114.6002
+2016-03-11 08:13:27,084 - sarcos - DEBUG - Objective:129098.0148
+2016-03-11 08:13:43,905 - sarcos - DEBUG - Objective:129079.3506
+2016-03-11 08:13:59,522 - sarcos - DEBUG - Objective:129074.3893
+2016-03-11 08:14:16,233 - sarcos - DEBUG - Objective:129072.2903
+2016-03-11 08:14:32,333 - sarcos - DEBUG - Objective:129063.3241
+2016-03-11 08:14:48,827 - sarcos - DEBUG - Objective:129057.9794
+2016-03-11 08:15:05,011 - sarcos - DEBUG - Objective:129056.0013
+2016-03-11 08:15:21,507 - sarcos - DEBUG - Objective:129052.1840
+2016-03-11 08:15:37,630 - sarcos - DEBUG - Objective:129052.3151
+2016-03-11 08:15:53,974 - sarcos - DEBUG - Objective:129050.1154
+2016-03-11 08:16:10,327 - sarcos - DEBUG - Objective:129052.0511
+2016-03-11 08:16:26,939 - sarcos - DEBUG - Objective:129052.4302
+2016-03-11 08:16:42,802 - sarcos - DEBUG - Objective:129052.5627
+2016-03-11 08:16:59,257 - sarcos - DEBUG - Objective:129051.9557
+2016-03-11 08:17:15,325 - sarcos - DEBUG - Objective:129050.9526
+2016-03-11 08:17:31,394 - sarcos - DEBUG - Objective:129050.8848
+2016-03-11 08:17:31,395 - sarcos - DEBUG - Objective:129050.8848
+2016-03-11 08:17:31,396 - sarcos - INFO - Optimizing: hyp
+2016-03-11 08:17:56,240 - sarcos - DEBUG - Objective:129053.0349
+2016-03-11 08:18:19,465 - sarcos - DEBUG - Objective:129053.2487
+2016-03-11 08:18:44,141 - sarcos - DEBUG - Objective:129051.8024
+2016-03-11 08:19:08,520 - sarcos - DEBUG - Objective:129053.2336
+2016-03-11 08:19:33,543 - sarcos - DEBUG - Objective:129051.3058
+2016-03-11 08:19:57,410 - sarcos - DEBUG - Objective:129052.3446
+2016-03-11 08:20:22,387 - sarcos - DEBUG - Objective:129051.1374
+2016-03-11 08:20:47,100 - sarcos - DEBUG - Objective:129051.3293
+2016-03-11 08:21:11,139 - sarcos - DEBUG - Objective:129054.5917
+2016-03-11 08:21:35,900 - sarcos - DEBUG - Objective:129053.3731
+2016-03-11 08:22:00,545 - sarcos - DEBUG - Objective:129051.5029
+2016-03-11 08:22:24,793 - sarcos - INFO - Optimizing: ll
+2016-03-11 08:22:40,989 - sarcos - DEBUG - Objective:129052.2492
+2016-03-11 08:22:57,269 - sarcos - DEBUG - Objective:148993.8611
+2016-03-11 08:23:13,418 - sarcos - DEBUG - Objective:128442.8887
+2016-03-11 08:23:28,988 - sarcos - DEBUG - Objective:128437.3301
+2016-03-11 08:23:45,045 - sarcos - DEBUG - Objective:128438.6866
+2016-03-11 08:24:01,427 - sarcos - DEBUG - Objective:128437.7206
+2016-03-11 08:24:17,990 - sarcos - DEBUG - Objective:128436.4778
+2016-03-11 08:24:34,782 - sarcos - DEBUG - Objective:128439.0222
+2016-03-11 08:24:50,656 - sarcos - DEBUG - Objective:128436.1502
+2016-03-11 08:25:07,014 - sarcos - DEBUG - Objective:128435.8118
+2016-03-11 08:25:23,371 - sarcos - DEBUG - Objective:128436.4691
+2016-03-11 08:25:39,973 - sarcos - INFO - Optimizing: inducing
+2016-03-11 08:28:22,650 - sarcos - DEBUG - Objective:128438.8147
+2016-03-11 08:31:05,672 - sarcos - DEBUG - Objective:128437.2599
+2016-03-11 08:33:48,087 - sarcos - DEBUG - Objective:128450.5501
+2016-03-11 08:36:30,991 - sarcos - DEBUG - Objective:128439.8857
+2016-03-11 08:39:13,156 - sarcos - DEBUG - Objective:128439.2949
+2016-03-11 08:41:55,700 - sarcos - DEBUG - Objective:128434.8843
+2016-03-11 08:44:38,799 - sarcos - DEBUG - Objective:128436.5316
+2016-03-11 08:47:21,020 - sarcos - DEBUG - Objective difference: 142198.263817
+2016-03-11 08:47:21,020 - sarcos - INFO - Mean difference: 0.220026
+2016-03-11 08:47:21,020 - sarcos - INFO - Covariance difference: 0.783931
+2016-03-11 08:47:21,020 - sarcos - INFO - Iteration 3 started.
+2016-03-11 08:47:21,020 - sarcos - INFO - Optimizing: mog
+2016-03-11 08:47:37,227 - sarcos - DEBUG - Objective:128438.1192
+2016-03-11 08:47:53,972 - sarcos - DEBUG - Objective:128435.1380
+2016-03-11 08:48:10,245 - sarcos - DEBUG - Objective:128433.7809
+2016-03-11 08:48:26,507 - sarcos - DEBUG - Objective:128433.6089
+2016-03-11 08:48:42,847 - sarcos - DEBUG - Objective:128429.1824
+2016-03-11 08:48:59,559 - sarcos - DEBUG - Objective:128428.8040
+2016-03-11 08:49:15,867 - sarcos - DEBUG - Objective:128423.1464
+2016-03-11 08:49:32,304 - sarcos - DEBUG - Objective:2646832447.6630
+2016-03-11 08:49:48,664 - sarcos - DEBUG - Objective:128415.3664
+2016-03-11 08:50:05,059 - sarcos - DEBUG - Objective:26961506443662573568.0000
+2016-03-11 08:50:21,372 - sarcos - DEBUG - Objective:712839.1902
+2016-03-11 08:50:37,587 - sarcos - DEBUG - Objective:128426.9054
+2016-03-11 08:50:53,615 - sarcos - DEBUG - Objective:128414.2842
+2016-03-11 08:51:10,223 - sarcos - DEBUG - Objective:128410.3235
+2016-03-11 08:51:26,493 - sarcos - DEBUG - Objective:128414.0639
+2016-03-11 08:51:42,759 - sarcos - DEBUG - Objective:128406.0091
+2016-03-11 08:51:59,065 - sarcos - DEBUG - Objective:128401.8003
+2016-03-11 08:52:15,423 - sarcos - DEBUG - Objective:128402.7443
+2016-03-11 08:52:31,933 - sarcos - DEBUG - Objective:128403.9903
+2016-03-11 08:52:48,382 - sarcos - DEBUG - Objective:128402.8971
+2016-03-11 08:53:04,710 - sarcos - DEBUG - Objective:128402.3330
+2016-03-11 08:53:21,449 - sarcos - DEBUG - Objective:128402.6963
+2016-03-11 08:53:37,807 - sarcos - DEBUG - Objective:128403.8443
+2016-03-11 08:53:37,808 - sarcos - DEBUG - Objective:128403.8443
+2016-03-11 08:53:37,809 - sarcos - INFO - Optimizing: hyp
+2016-03-11 08:54:02,208 - sarcos - DEBUG - Objective:128403.1047
+2016-03-11 08:54:25,622 - sarcos - DEBUG - Objective:128405.5553
+2016-03-11 08:54:50,706 - sarcos - DEBUG - Objective:128403.1181
+2016-03-11 08:55:15,577 - sarcos - DEBUG - Objective:128403.9652
+2016-03-11 08:55:40,176 - sarcos - DEBUG - Objective:128402.9473
+2016-03-11 08:56:04,732 - sarcos - DEBUG - Objective:128407.3883
+2016-03-11 08:56:29,273 - sarcos - DEBUG - Objective:128404.6277
+2016-03-11 08:56:53,836 - sarcos - DEBUG - Objective:128406.3491
+2016-03-11 08:57:18,483 - sarcos - DEBUG - Objective:128405.9923
+2016-03-11 08:57:42,889 - sarcos - DEBUG - Objective:128406.1381
+2016-03-11 08:58:07,340 - sarcos - DEBUG - Objective:128404.8560
+2016-03-11 08:58:31,955 - sarcos - INFO - Optimizing: ll
+2016-03-11 08:58:47,853 - sarcos - DEBUG - Objective:128404.8467
+2016-03-11 08:59:04,074 - sarcos - DEBUG - Objective:144731.2107
+2016-03-11 08:59:20,070 - sarcos - DEBUG - Objective:128402.5997
+2016-03-11 08:59:36,051 - sarcos - DEBUG - Objective:128402.9035
+2016-03-11 08:59:52,284 - sarcos - DEBUG - Objective:128401.3919
+2016-03-11 09:00:08,146 - sarcos - DEBUG - Objective:128403.4359
+2016-03-11 09:00:24,074 - sarcos - DEBUG - Objective:128407.0420
+2016-03-11 09:00:40,240 - sarcos - DEBUG - Objective:128402.6970
+2016-03-11 09:00:40,240 - sarcos - INFO - Optimizing: inducing
+2016-03-11 09:03:25,521 - sarcos - DEBUG - Objective:128404.1518
+2016-03-11 09:06:11,084 - sarcos - DEBUG - Objective:128430.8288
+2016-03-11 09:08:56,585 - sarcos - DEBUG - Objective:128405.5671
+2016-03-11 09:11:41,947 - sarcos - DEBUG - Objective:128404.9040
+2016-03-11 09:14:27,826 - sarcos - DEBUG - Objective:128403.0839
+2016-03-11 09:17:13,278 - sarcos - DEBUG - Objective:128404.1283
+2016-03-11 09:19:58,814 - sarcos - DEBUG - Objective:128405.4633
+2016-03-11 09:22:44,966 - sarcos - DEBUG - Objective difference: 31.246709
+2016-03-11 09:22:44,966 - sarcos - INFO - Mean difference: 0.011951
+2016-03-11 09:22:44,966 - sarcos - INFO - Covariance difference: 0.001616
+2016-03-11 09:22:44,966 - sarcos - INFO - Iteration 4 started.
+2016-03-11 09:22:44,966 - sarcos - INFO - Optimizing: mog
+2016-03-11 09:23:01,714 - sarcos - DEBUG - Objective:128404.5824
+2016-03-11 09:23:17,959 - sarcos - DEBUG - Objective:128404.5949
+2016-03-11 09:23:34,552 - sarcos - DEBUG - Objective:128404.6030
+2016-03-11 09:23:51,153 - sarcos - DEBUG - Objective:128403.6556
+2016-03-11 09:24:07,334 - sarcos - DEBUG - Objective:128403.4768
+2016-03-11 09:24:23,376 - sarcos - DEBUG - Objective:128402.7189
+2016-03-11 09:24:40,064 - sarcos - DEBUG - Objective:128404.5490
+2016-03-11 09:24:56,008 - sarcos - DEBUG - Objective:128402.0420
+2016-03-11 09:25:12,201 - sarcos - DEBUG - Objective:128401.6425
+2016-03-11 09:25:28,331 - sarcos - DEBUG - Objective:128403.1907
+2016-03-11 09:25:44,432 - sarcos - DEBUG - Objective:128403.8396
+2016-03-11 09:26:00,716 - sarcos - DEBUG - Objective:128402.8306
+2016-03-11 09:26:17,089 - sarcos - DEBUG - Objective:128402.2034
+2016-03-11 09:26:33,346 - sarcos - DEBUG - Objective:128401.9117
+2016-03-11 09:26:33,347 - sarcos - DEBUG - Objective:128401.9117
+2016-03-11 09:26:33,347 - sarcos - INFO - Optimizing: hyp
+2016-03-11 09:26:57,818 - sarcos - DEBUG - Objective:128402.4540
+2016-03-11 09:27:21,255 - sarcos - DEBUG - Objective:128401.1511
+2016-03-11 09:27:46,221 - sarcos - DEBUG - Objective:128403.8078
+2016-03-11 09:28:10,609 - sarcos - DEBUG - Objective:128404.9191
+2016-03-11 09:28:35,306 - sarcos - DEBUG - Objective:128403.3836
+2016-03-11 09:28:59,943 - sarcos - DEBUG - Objective:128400.6456
+2016-03-11 09:29:24,687 - sarcos - DEBUG - Objective:128402.0335
+2016-03-11 09:29:49,439 - sarcos - DEBUG - Objective:128403.2374
+2016-03-11 09:30:13,930 - sarcos - DEBUG - Objective:128402.9811
+2016-03-11 09:30:38,628 - sarcos - DEBUG - Objective:128401.9687
+2016-03-11 09:31:03,053 - sarcos - DEBUG - Objective:128401.2322
+2016-03-11 09:31:27,853 - sarcos - INFO - Optimizing: ll
+2016-03-11 09:31:44,056 - sarcos - DEBUG - Objective:128401.7246
+2016-03-11 09:32:00,750 - sarcos - DEBUG - Objective:160347.6253
+2016-03-11 09:32:16,908 - sarcos - DEBUG - Objective:128402.4061
+2016-03-11 09:32:32,773 - sarcos - DEBUG - Objective:128404.8676
+2016-03-11 09:32:48,700 - sarcos - DEBUG - Objective:128400.8054
+2016-03-11 09:33:05,197 - sarcos - DEBUG - Objective:128402.3104
+2016-03-11 09:33:21,487 - sarcos - DEBUG - Objective:128401.1601
+2016-03-11 09:33:37,601 - sarcos - DEBUG - Objective:12599931.6482
+2016-03-11 09:33:53,735 - sarcos - DEBUG - Objective:200212.4940
+2016-03-11 09:34:09,887 - sarcos - DEBUG - Objective:128402.7140
+2016-03-11 09:34:26,376 - sarcos - DEBUG - Objective:128403.9419
+2016-03-11 09:34:42,485 - sarcos - INFO - Optimizing: inducing
+2016-03-11 09:37:28,009 - sarcos - DEBUG - Objective:128402.8851
+2016-03-11 09:40:13,448 - sarcos - DEBUG - Objective:128401.7104
+2016-03-11 09:42:58,944 - sarcos - DEBUG - Objective:128401.7344
+2016-03-11 09:45:44,502 - sarcos - DEBUG - Objective:128400.4098
+2016-03-11 09:48:30,043 - sarcos - DEBUG - Objective:128400.8066
+2016-03-11 09:51:15,510 - sarcos - DEBUG - Objective:128403.1008
+2016-03-11 09:54:01,057 - sarcos - DEBUG - Objective:128403.4399
+2016-03-11 09:56:46,668 - sarcos - DEBUG - Objective difference: 0.820200
+2016-03-11 09:56:46,668 - sarcos - INFO - Mean difference: 0.014672
+2016-03-11 09:56:46,668 - sarcos - INFO - Covariance difference: 0.000464
+2016-03-11 09:56:46,669 - sarcos - INFO - Iteration 5 started.
+2016-03-11 09:56:46,669 - sarcos - INFO - Optimizing: mog
+2016-03-11 09:57:02,783 - sarcos - DEBUG - Objective:128402.4435
+2016-03-11 09:57:19,231 - sarcos - DEBUG - Objective:128404.8701
+2016-03-11 09:57:35,443 - sarcos - DEBUG - Objective:128404.7057
+2016-03-11 09:57:51,787 - sarcos - DEBUG - Objective:128405.1800
+2016-03-11 09:58:07,839 - sarcos - DEBUG - Objective:128400.3136
+2016-03-11 09:58:24,275 - sarcos - DEBUG - Objective:128400.9632
+2016-03-11 09:58:40,590 - sarcos - DEBUG - Objective:128403.7783
+2016-03-11 09:58:40,591 - sarcos - INFO - Optimizing: hyp
+2016-03-11 09:59:05,206 - sarcos - DEBUG - Objective:128403.8492
+2016-03-11 09:59:29,436 - sarcos - DEBUG - Objective:127061.2817
+2016-03-11 09:59:54,244 - sarcos - DEBUG - Objective:127902.6565
+2016-03-11 10:00:18,535 - sarcos - DEBUG - Objective:128169.7249
+2016-03-11 10:00:43,282 - sarcos - DEBUG - Objective:128311.8590
+2016-03-11 10:01:07,823 - sarcos - DEBUG - Objective:128388.2573
+2016-03-11 10:01:32,564 - sarcos - DEBUG - Objective:128399.6026
+2016-03-11 10:01:57,441 - sarcos - DEBUG - Objective:128401.0148
+2016-03-11 10:02:21,928 - sarcos - DEBUG - Objective:128404.6860
+2016-03-11 10:02:46,373 - sarcos - DEBUG - Objective:128401.9348
+2016-03-11 10:03:11,113 - sarcos - DEBUG - Objective:128402.2687
+2016-03-11 10:03:35,312 - sarcos - INFO - Optimizing: ll
+2016-03-11 10:03:51,770 - sarcos - DEBUG - Objective:127060.2459
+2016-03-11 10:04:07,618 - sarcos - DEBUG - Objective:156634.5529
+2016-03-11 10:04:23,659 - sarcos - DEBUG - Objective:127040.3268
+2016-03-11 10:04:39,331 - sarcos - DEBUG - Objective:127039.0462
+2016-03-11 10:04:55,054 - sarcos - DEBUG - Objective:127040.1431
+2016-03-11 10:05:10,675 - sarcos - DEBUG - Objective:127039.2742
+2016-03-11 10:05:26,667 - sarcos - DEBUG - Objective:127037.8632
+2016-03-11 10:05:26,667 - sarcos - DEBUG - Objective:127037.8632
+2016-03-11 10:05:26,667 - sarcos - DEBUG - Objective:127037.8632
+2016-03-11 10:05:42,926 - sarcos - DEBUG - Objective:138390.1104
+2016-03-11 10:05:58,702 - sarcos - DEBUG - Objective:127038.8627
+2016-03-11 10:06:14,426 - sarcos - INFO - Optimizing: inducing
+2016-03-11 10:08:54,696 - sarcos - DEBUG - Objective:127039.2605
+2016-03-11 10:11:34,617 - sarcos - DEBUG - Objective:127039.2057
+2016-03-11 10:14:14,728 - sarcos - DEBUG - Objective:127042.0645
+2016-03-11 10:16:54,256 - sarcos - DEBUG - Objective:127039.3947
+2016-03-11 10:19:33,933 - sarcos - DEBUG - Objective:127038.8099
+2016-03-11 10:22:13,429 - sarcos - DEBUG - Objective:127038.1776
+2016-03-11 10:24:52,999 - sarcos - DEBUG - Objective:127037.1289
+2016-03-11 10:24:53,027 - sarcos - DEBUG - Objective difference: 1366.724410
+2016-03-11 10:24:53,027 - sarcos - INFO - Mean difference: 0.000000
+2016-03-11 10:24:53,027 - sarcos - INFO - Covariance difference: 0.000000
+2016-03-11 10:24:53,027 - sarcos - DEBUG - prediction started...
+2016-03-11 10:25:27,889 - sarcos - DEBUG - prediction finished
