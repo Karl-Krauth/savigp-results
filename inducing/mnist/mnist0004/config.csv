@@ -1,0 +1,2 @@
+total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
+76.99375915527344,0,300,"{'hyp': 10, 'inducing': 6, 'mog': 50}",0.001,319ff124a2b2a5f0fe769095fc144a6858ef715a,../results/mnist_10-May-2016_02h55m20s_1644/,10,0.001,0.004,SoftmaxLL,0,100,mnist,master,False,full

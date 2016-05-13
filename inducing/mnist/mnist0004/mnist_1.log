@@ -1,0 +1,313 @@
+2016-05-07 00:24:09,454 - mnist - INFO - experiment started for:{'run_id': 0, 'max_iter': 300, 'optimization_config': {'hyp': 10, 'inducing': 6, 'mog': 50}, 'xtol': 0.001, 'git_hash': '319ff124a2b2a5f0fe769095fc144a6858ef715a', 'model_init': None, 'ftol': 10, 'latent_noise:': 0.001, 'sparsity_factor': 0.004, 'll': 'SoftmaxLL', 'sample_num': 100, 'experiment': 'mnist', 'git_branch': 'master', 'random_Z': False, 'method': 'full'}
+2016-05-07 00:25:10,196 - mnist - INFO - Iteration 1 started.
+2016-05-07 00:25:10,197 - mnist - INFO - Optimizing: mog
+2016-05-07 00:25:10,414 - mnist - DEBUG - Objective:198156.6138
+2016-05-07 00:25:59,110 - mnist - DEBUG - Objective:193734.1522
+2016-05-07 00:26:33,594 - mnist - DEBUG - Objective:177111.5842
+2016-05-07 00:27:08,066 - mnist - DEBUG - Objective:124780.5126
+2016-05-07 00:27:42,860 - mnist - DEBUG - Objective:51866.8558
+2016-05-07 00:28:16,575 - mnist - DEBUG - Objective:39869.0694
+2016-05-07 00:28:51,091 - mnist - DEBUG - Objective:29704.3757
+2016-05-07 00:29:26,161 - mnist - DEBUG - Objective:26511.1996
+2016-05-07 00:29:59,918 - mnist - DEBUG - Objective:24172.4239
+2016-05-07 00:30:34,609 - mnist - DEBUG - Objective:22783.2915
+2016-05-07 00:31:10,014 - mnist - DEBUG - Objective:21963.9721
+2016-05-07 00:31:43,466 - mnist - DEBUG - Objective:21510.0580
+2016-05-07 00:32:19,582 - mnist - DEBUG - Objective:21032.5158
+2016-05-07 00:32:53,219 - mnist - DEBUG - Objective:20726.7621
+2016-05-07 00:33:29,996 - mnist - DEBUG - Objective:20403.1985
+2016-05-07 00:34:05,706 - mnist - DEBUG - Objective:20108.0488
+2016-05-07 00:34:42,409 - mnist - DEBUG - Objective:19889.4757
+2016-05-07 00:35:17,062 - mnist - DEBUG - Objective:19705.3231
+2016-05-07 00:35:51,881 - mnist - DEBUG - Objective:19548.3136
+2016-05-07 00:36:27,873 - mnist - DEBUG - Objective:19420.9574
+2016-05-07 00:37:01,609 - mnist - DEBUG - Objective:19314.0695
+2016-05-07 00:37:37,237 - mnist - DEBUG - Objective:19208.9199
+2016-05-07 00:38:11,215 - mnist - DEBUG - Objective:19120.7495
+2016-05-07 00:38:46,853 - mnist - DEBUG - Objective:19004.8623
+2016-05-07 00:39:22,252 - mnist - DEBUG - Objective:18944.7256
+2016-05-07 00:40:14,939 - mnist - DEBUG - Objective:18896.8440
+2016-05-07 00:40:49,412 - mnist - DEBUG - Objective:18817.5065
+2016-05-07 00:41:25,985 - mnist - DEBUG - Objective:18784.1401
+2016-05-07 00:42:00,261 - mnist - DEBUG - Objective:18753.8320
+2016-05-07 00:42:35,980 - mnist - DEBUG - Objective:18723.6655
+2016-05-07 00:43:12,139 - mnist - DEBUG - Objective:18674.6710
+2016-05-07 00:44:04,559 - mnist - DEBUG - Objective:18652.1409
+2016-05-07 00:44:54,251 - mnist - DEBUG - Objective:18632.4337
+2016-05-07 00:45:46,362 - mnist - DEBUG - Objective:18609.3785
+2016-05-07 00:46:21,799 - mnist - DEBUG - Objective:18589.2249
+2016-05-07 00:47:14,011 - mnist - DEBUG - Objective:18566.7096
+2016-05-07 00:47:47,810 - mnist - DEBUG - Objective:18557.8647
+2016-05-07 00:48:22,404 - mnist - DEBUG - Objective:18539.8101
+2016-05-07 00:48:58,059 - mnist - DEBUG - Objective:18527.7099
+2016-05-07 00:49:32,320 - mnist - DEBUG - Objective:18515.2838
+2016-05-07 00:50:05,850 - mnist - DEBUG - Objective:18519.2935
+2016-05-07 00:50:38,368 - mnist - DEBUG - Objective:18534.9314
+2016-05-07 00:51:11,202 - mnist - DEBUG - Objective:18523.1937
+2016-05-07 00:51:43,374 - mnist - DEBUG - Objective:18519.7351
+2016-05-07 00:52:19,827 - mnist - DEBUG - Objective:18532.4120
+2016-05-07 00:52:55,854 - mnist - DEBUG - Objective:18534.1014
+2016-05-07 00:53:44,705 - mnist - DEBUG - Objective:18528.3302
+2016-05-07 00:53:44,710 - mnist - INFO - Optimizing: hyp
+2016-05-07 00:57:15,537 - mnist - DEBUG - Objective:18536.3140
+2016-05-07 01:00:20,591 - mnist - DEBUG - Objective:20537.9454
+2016-05-07 01:03:36,187 - mnist - DEBUG - Objective:18491.1723
+2016-05-07 01:06:52,110 - mnist - DEBUG - Objective:18457.9927
+2016-05-07 01:10:28,902 - mnist - DEBUG - Objective:18448.0671
+2016-05-07 01:13:51,012 - mnist - DEBUG - Objective:18389.8822
+2016-05-07 01:17:19,871 - mnist - DEBUG - Objective:18363.0358
+2016-05-07 01:22:23,678 - mnist - DEBUG - Objective:18344.0109
+2016-05-07 01:25:37,232 - mnist - DEBUG - Objective:18325.8997
+2016-05-07 01:28:55,741 - mnist - DEBUG - Objective:18328.5189
+2016-05-07 01:32:22,036 - mnist - DEBUG - Objective:18317.9598
+2016-05-07 01:32:22,037 - mnist - INFO - Optimizing: inducing
+2016-05-07 02:36:53,508 - mnist - DEBUG - Objective:18328.8898
+2016-05-07 03:41:06,573 - mnist - DEBUG - Objective:17705.8152
+2016-05-07 04:45:42,582 - mnist - DEBUG - Objective:17311.0818
+2016-05-07 05:50:16,058 - mnist - DEBUG - Objective:17040.8504
+2016-05-07 06:55:16,080 - mnist - DEBUG - Objective:16852.5380
+2016-05-07 08:00:21,208 - mnist - DEBUG - Objective:16663.5340
+2016-05-07 09:05:23,482 - mnist - DEBUG - Objective:16514.0851
+2016-05-07 09:05:24,352 - mnist - INFO - Iteration 2 started.
+2016-05-07 09:05:24,352 - mnist - INFO - Optimizing: mog
+2016-05-07 09:06:02,951 - mnist - DEBUG - Objective:16510.2009
+2016-05-07 09:06:37,228 - mnist - DEBUG - Objective:16444.2912
+2016-05-07 09:07:10,829 - mnist - DEBUG - Objective:16396.8740
+2016-05-07 09:07:44,796 - mnist - DEBUG - Objective:16363.1675
+2016-05-07 09:08:17,956 - mnist - DEBUG - Objective:16339.3452
+2016-05-07 09:08:55,047 - mnist - DEBUG - Objective:16335.2076
+2016-05-07 09:09:31,657 - mnist - DEBUG - Objective:16327.3374
+2016-05-07 09:10:06,990 - mnist - DEBUG - Objective:16321.3743
+2016-05-07 09:11:00,955 - mnist - DEBUG - Objective:16297.5669
+2016-05-07 09:11:35,385 - mnist - DEBUG - Objective:16297.0341
+2016-05-07 09:12:12,413 - mnist - DEBUG - Objective:16289.1895
+2016-05-07 09:12:47,905 - mnist - DEBUG - Objective:16293.1964
+2016-05-07 09:13:23,671 - mnist - DEBUG - Objective:16303.3929
+2016-05-07 09:13:59,643 - mnist - DEBUG - Objective:16300.1598
+2016-05-07 09:14:33,563 - mnist - DEBUG - Objective:16304.2020
+2016-05-07 09:15:09,742 - mnist - DEBUG - Objective:16299.2469
+2016-05-07 09:15:45,638 - mnist - DEBUG - Objective:16294.6211
+2016-05-07 09:15:45,641 - mnist - DEBUG - Objective:16294.6211
+2016-05-07 09:15:45,646 - mnist - INFO - Optimizing: hyp
+2016-05-07 09:20:04,301 - mnist - DEBUG - Objective:16289.1408
+2016-05-07 09:24:43,534 - mnist - DEBUG - Objective:21645.8597
+2016-05-07 09:28:40,888 - mnist - DEBUG - Objective:16289.8298
+2016-05-07 09:33:28,571 - mnist - DEBUG - Objective:16279.1386
+2016-05-07 09:36:27,102 - mnist - DEBUG - Objective:16325.0251
+2016-05-07 09:39:58,343 - mnist - DEBUG - Objective:16293.2187
+2016-05-07 09:43:28,415 - mnist - DEBUG - Objective:16284.4561
+2016-05-07 09:46:53,446 - mnist - DEBUG - Objective:16289.3266
+2016-05-07 09:51:59,920 - mnist - DEBUG - Objective:16289.2459
+2016-05-07 09:56:37,815 - mnist - DEBUG - Objective:16288.2883
+2016-05-07 09:56:37,815 - mnist - DEBUG - Objective:16288.2883
+2016-05-07 09:56:37,816 - mnist - INFO - Optimizing: inducing
+2016-05-07 11:02:29,006 - mnist - DEBUG - Objective:16294.8310
+2016-05-07 12:07:25,747 - mnist - DEBUG - Objective:16329.2249
+2016-05-07 13:12:36,933 - mnist - DEBUG - Objective:16251.0581
+2016-05-07 14:18:15,979 - mnist - DEBUG - Objective:16178.9891
+2016-05-07 15:23:32,534 - mnist - DEBUG - Objective:16152.5582
+2016-05-07 16:28:48,426 - mnist - DEBUG - Objective:16091.1774
+2016-05-07 17:34:08,149 - mnist - DEBUG - Objective:16033.5660
+2016-05-07 17:34:10,466 - mnist - DEBUG - Objective difference: 480.519144
+2016-05-07 17:34:10,466 - mnist - INFO - Mean difference: 0.102457
+2016-05-07 17:34:10,467 - mnist - INFO - Covariance difference: 0.002695
+2016-05-07 17:34:10,467 - mnist - INFO - Iteration 3 started.
+2016-05-07 17:34:10,467 - mnist - INFO - Optimizing: mog
+2016-05-07 17:34:43,839 - mnist - DEBUG - Objective:16042.5583
+2016-05-07 17:35:17,205 - mnist - DEBUG - Objective:16016.7874
+2016-05-07 17:35:50,792 - mnist - DEBUG - Objective:15985.7492
+2016-05-07 17:36:24,843 - mnist - DEBUG - Objective:15994.8476
+2016-05-07 17:37:00,952 - mnist - DEBUG - Objective:15999.4050
+2016-05-07 17:37:34,863 - mnist - DEBUG - Objective:16008.9049
+2016-05-07 17:38:10,418 - mnist - DEBUG - Objective:15999.8182
+2016-05-07 17:38:45,994 - mnist - DEBUG - Objective:15991.5128
+2016-05-07 17:39:20,483 - mnist - DEBUG - Objective:16004.2625
+2016-05-07 17:39:56,141 - mnist - DEBUG - Objective:16009.9889
+2016-05-07 17:39:56,145 - mnist - INFO - Optimizing: hyp
+2016-05-07 17:43:37,775 - mnist - DEBUG - Objective:15996.7003
+2016-05-07 17:46:40,452 - mnist - DEBUG - Objective:23556.8204
+2016-05-07 17:50:08,004 - mnist - DEBUG - Objective:16006.6357
+2016-05-07 17:53:10,784 - mnist - DEBUG - Objective:16016.1908
+2016-05-07 17:56:43,327 - mnist - DEBUG - Objective:16008.1910
+2016-05-07 18:00:23,876 - mnist - DEBUG - Objective:15998.1556
+2016-05-07 18:03:32,730 - mnist - DEBUG - Objective:15997.2332
+2016-05-07 18:06:51,239 - mnist - DEBUG - Objective:15998.2223
+2016-05-07 18:06:51,239 - mnist - DEBUG - Objective:15998.2223
+2016-05-07 18:06:51,239 - mnist - INFO - Optimizing: inducing
+2016-05-07 19:12:03,512 - mnist - DEBUG - Objective:16007.0753
+2016-05-07 20:17:27,267 - mnist - DEBUG - Objective:16092.9529
+2016-05-07 21:23:01,752 - mnist - DEBUG - Objective:15966.9401
+2016-05-07 22:28:28,594 - mnist - DEBUG - Objective:15927.1710
+2016-05-07 23:33:44,541 - mnist - DEBUG - Objective:15891.1262
+2016-05-08 00:39:23,388 - mnist - DEBUG - Objective:15875.1819
+2016-05-08 01:44:57,742 - mnist - DEBUG - Objective:15850.7439
+2016-05-08 01:44:59,923 - mnist - DEBUG - Objective difference: 182.822093
+2016-05-08 01:44:59,923 - mnist - INFO - Mean difference: 0.025099
+2016-05-08 01:44:59,923 - mnist - INFO - Covariance difference: 0.000700
+2016-05-08 01:44:59,923 - mnist - INFO - Iteration 4 started.
+2016-05-08 01:44:59,923 - mnist - INFO - Optimizing: mog
+2016-05-08 01:45:32,896 - mnist - DEBUG - Objective:15878.9236
+2016-05-08 01:46:16,472 - mnist - DEBUG - Objective:15833.3433
+2016-05-08 01:46:48,089 - mnist - DEBUG - Objective:15843.1560
+2016-05-08 01:47:22,031 - mnist - DEBUG - Objective:15828.5809
+2016-05-08 01:47:55,815 - mnist - DEBUG - Objective:15825.1728
+2016-05-08 01:48:29,677 - mnist - DEBUG - Objective:15816.7965
+2016-05-08 01:49:04,971 - mnist - DEBUG - Objective:15820.4267
+2016-05-08 01:49:41,095 - mnist - DEBUG - Objective:15826.8418
+2016-05-08 01:50:13,867 - mnist - DEBUG - Objective:15822.2012
+2016-05-08 01:50:46,211 - mnist - DEBUG - Objective:15826.5514
+2016-05-08 01:51:21,243 - mnist - DEBUG - Objective:15833.8299
+2016-05-08 01:51:54,062 - mnist - DEBUG - Objective:15823.0946
+2016-05-08 01:51:54,066 - mnist - DEBUG - Objective:15823.0946
+2016-05-08 01:51:54,069 - mnist - INFO - Optimizing: hyp
+2016-05-08 01:55:31,726 - mnist - DEBUG - Objective:15822.0610
+2016-05-08 01:58:28,010 - mnist - DEBUG - Objective:23569.5659
+2016-05-08 02:02:07,293 - mnist - DEBUG - Objective:15828.1902
+2016-05-08 02:05:11,545 - mnist - DEBUG - Objective:15829.6269
+2016-05-08 02:08:25,026 - mnist - DEBUG - Objective:15820.6260
+2016-05-08 02:11:18,489 - mnist - DEBUG - Objective:15801.7960
+2016-05-08 02:14:44,956 - mnist - DEBUG - Objective:15832.0554
+2016-05-08 02:18:18,877 - mnist - DEBUG - Objective:15819.6076
+2016-05-08 02:21:44,443 - mnist - DEBUG - Objective:15822.2873
+2016-05-08 02:25:16,048 - mnist - DEBUG - Objective:15815.0234
+2016-05-08 02:25:16,048 - mnist - DEBUG - Objective:15815.0234
+2016-05-08 02:25:16,049 - mnist - INFO - Optimizing: inducing
+2016-05-08 03:30:41,008 - mnist - DEBUG - Objective:15827.7364
+2016-05-08 04:35:59,731 - mnist - DEBUG - Objective:15947.3040
+2016-05-08 05:41:14,666 - mnist - DEBUG - Objective:15795.5279
+2016-05-08 06:46:51,000 - mnist - DEBUG - Objective:15781.9898
+2016-05-08 07:52:13,160 - mnist - DEBUG - Objective:15768.4717
+2016-05-08 08:57:32,708 - mnist - DEBUG - Objective:15737.0591
+2016-05-08 10:03:05,817 - mnist - DEBUG - Objective:15737.1433
+2016-05-08 11:08:12,241 - mnist - DEBUG - Objective difference: 112.705209
+2016-05-08 11:08:12,241 - mnist - INFO - Mean difference: 0.019005
+2016-05-08 11:08:12,241 - mnist - INFO - Covariance difference: 0.000575
+2016-05-08 11:08:12,241 - mnist - INFO - Iteration 5 started.
+2016-05-08 11:08:12,241 - mnist - INFO - Optimizing: mog
+2016-05-08 11:08:44,411 - mnist - DEBUG - Objective:15744.9430
+2016-05-08 11:09:17,440 - mnist - DEBUG - Objective:15723.9046
+2016-05-08 11:09:49,372 - mnist - DEBUG - Objective:15731.5116
+2016-05-08 11:10:23,675 - mnist - DEBUG - Objective:15719.9210
+2016-05-08 11:10:56,899 - mnist - DEBUG - Objective:15739.0442
+2016-05-08 11:11:31,749 - mnist - DEBUG - Objective:15740.7769
+2016-05-08 11:12:05,322 - mnist - DEBUG - Objective:15735.0293
+2016-05-08 11:12:39,288 - mnist - DEBUG - Objective:15714.5887
+2016-05-08 11:13:29,026 - mnist - DEBUG - Objective:15735.4939
+2016-05-08 11:14:04,102 - mnist - DEBUG - Objective:15727.4459
+2016-05-08 11:14:39,506 - mnist - DEBUG - Objective:15728.2059
+2016-05-08 11:15:14,714 - mnist - DEBUG - Objective:15731.5883
+2016-05-08 11:15:47,795 - mnist - DEBUG - Objective:15717.1345
+2016-05-08 11:15:47,800 - mnist - INFO - Optimizing: hyp
+2016-05-08 11:20:15,752 - mnist - DEBUG - Objective:15725.5128
+2016-05-08 11:23:27,756 - mnist - DEBUG - Objective:23203.1296
+2016-05-08 11:27:29,590 - mnist - DEBUG - Objective:15725.9331
+2016-05-08 11:31:58,012 - mnist - DEBUG - Objective:15712.1063
+2016-05-08 11:36:10,533 - mnist - DEBUG - Objective:15714.0784
+2016-05-08 11:40:14,645 - mnist - DEBUG - Objective:15721.9317
+2016-05-08 11:44:39,924 - mnist - DEBUG - Objective:15737.8277
+2016-05-08 11:48:56,440 - mnist - DEBUG - Objective:15731.2106
+2016-05-08 11:53:34,202 - mnist - DEBUG - Objective:15728.1415
+2016-05-08 11:56:57,956 - mnist - DEBUG - Objective:15732.9211
+2016-05-08 11:56:57,956 - mnist - DEBUG - Objective:15732.9211
+2016-05-08 11:56:57,956 - mnist - INFO - Optimizing: inducing
+2016-05-08 13:02:00,962 - mnist - DEBUG - Objective:15724.9226
+2016-05-08 14:07:08,410 - mnist - DEBUG - Objective:15859.3959
+2016-05-08 15:12:19,478 - mnist - DEBUG - Objective:15706.8906
+2016-05-08 16:18:03,578 - mnist - DEBUG - Objective:15686.1592
+2016-05-08 17:23:30,994 - mnist - DEBUG - Objective:15676.6793
+2016-05-08 18:28:45,891 - mnist - DEBUG - Objective:15655.7443
+2016-05-08 19:33:59,673 - mnist - DEBUG - Objective:15631.4731
+2016-05-08 19:34:01,863 - mnist - DEBUG - Objective difference: 106.565531
+2016-05-08 19:34:01,864 - mnist - INFO - Mean difference: 0.015339
+2016-05-08 19:34:01,864 - mnist - INFO - Covariance difference: 0.000540
+2016-05-08 19:34:01,864 - mnist - INFO - Iteration 6 started.
+2016-05-08 19:34:01,864 - mnist - INFO - Optimizing: mog
+2016-05-08 19:34:37,519 - mnist - DEBUG - Objective:15638.9812
+2016-05-08 19:35:11,035 - mnist - DEBUG - Objective:15638.8318
+2016-05-08 19:35:47,935 - mnist - DEBUG - Objective:15630.2287
+2016-05-08 19:36:24,711 - mnist - DEBUG - Objective:15633.6601
+2016-05-08 19:37:02,651 - mnist - DEBUG - Objective:15634.1179
+2016-05-08 19:37:38,149 - mnist - DEBUG - Objective:15638.5668
+2016-05-08 19:38:12,111 - mnist - DEBUG - Objective:15640.1522
+2016-05-08 19:38:45,798 - mnist - DEBUG - Objective:15631.5342
+2016-05-08 19:39:19,270 - mnist - DEBUG - Objective:15644.4149
+2016-05-08 19:39:54,926 - mnist - DEBUG - Objective:15634.3856
+2016-05-08 19:39:54,930 - mnist - INFO - Optimizing: hyp
+2016-05-08 19:43:00,629 - mnist - DEBUG - Objective:15623.1742
+2016-05-08 19:46:25,665 - mnist - DEBUG - Objective:22666.0891
+2016-05-08 19:49:31,092 - mnist - DEBUG - Objective:15650.3386
+2016-05-08 19:53:00,533 - mnist - DEBUG - Objective:15640.7153
+2016-05-08 19:56:24,340 - mnist - DEBUG - Objective:15636.2027
+2016-05-08 19:59:52,126 - mnist - DEBUG - Objective:15632.0762
+2016-05-08 20:03:24,368 - mnist - DEBUG - Objective:15633.5085
+2016-05-08 20:03:24,368 - mnist - DEBUG - Objective:15633.5085
+2016-05-08 20:03:24,368 - mnist - INFO - Optimizing: inducing
+2016-05-08 21:08:35,916 - mnist - DEBUG - Objective:15633.2906
+2016-05-08 22:14:16,267 - mnist - DEBUG - Objective:15823.0745
+2016-05-08 23:19:29,633 - mnist - DEBUG - Objective:15624.7471
+2016-05-09 00:24:52,272 - mnist - DEBUG - Objective:15611.4349
+2016-05-09 01:30:19,869 - mnist - DEBUG - Objective:15595.7324
+2016-05-09 02:35:45,149 - mnist - DEBUG - Objective:15577.8360
+2016-05-09 03:40:57,790 - mnist - DEBUG - Objective:15570.9917
+2016-05-09 03:40:59,966 - mnist - DEBUG - Objective difference: 60.481433
+2016-05-09 03:40:59,966 - mnist - INFO - Mean difference: 0.019555
+2016-05-09 03:40:59,966 - mnist - INFO - Covariance difference: 0.000699
+2016-05-09 03:40:59,967 - mnist - INFO - Iteration 7 started.
+2016-05-09 03:40:59,967 - mnist - INFO - Optimizing: mog
+2016-05-09 03:41:35,195 - mnist - DEBUG - Objective:15562.5468
+2016-05-09 03:42:06,784 - mnist - DEBUG - Objective:15570.1185
+2016-05-09 03:43:00,859 - mnist - DEBUG - Objective:15557.1018
+2016-05-09 03:43:36,924 - mnist - DEBUG - Objective:15563.6138
+2016-05-09 03:44:11,792 - mnist - DEBUG - Objective:15565.1440
+2016-05-09 03:44:47,978 - mnist - DEBUG - Objective:15563.3107
+2016-05-09 03:45:23,499 - mnist - DEBUG - Objective:15562.5532
+2016-05-09 03:46:01,297 - mnist - DEBUG - Objective:15567.9626
+2016-05-09 03:46:35,434 - mnist - DEBUG - Objective:15557.7577
+2016-05-09 03:47:13,213 - mnist - DEBUG - Objective:15561.3925
+2016-05-09 03:47:13,217 - mnist - INFO - Optimizing: hyp
+2016-05-09 03:50:42,877 - mnist - DEBUG - Objective:15562.0526
+2016-05-09 03:53:53,213 - mnist - DEBUG - Objective:22345.7890
+2016-05-09 03:57:19,249 - mnist - DEBUG - Objective:15558.5150
+2016-05-09 04:00:32,685 - mnist - DEBUG - Objective:15580.9976
+2016-05-09 04:03:45,944 - mnist - DEBUG - Objective:15554.7752
+2016-05-09 04:06:59,375 - mnist - DEBUG - Objective:15570.9841
+2016-05-09 04:10:05,980 - mnist - DEBUG - Objective:15575.5234
+2016-05-09 04:13:13,476 - mnist - DEBUG - Objective:15578.4674
+2016-05-09 04:16:20,376 - mnist - DEBUG - Objective:15573.6141
+2016-05-09 04:20:36,150 - mnist - DEBUG - Objective:15565.8289
+2016-05-09 04:20:36,151 - mnist - DEBUG - Objective:15565.8289
+2016-05-09 04:20:36,151 - mnist - INFO - Optimizing: inducing
+2016-05-09 05:26:09,381 - mnist - DEBUG - Objective:15573.5425
+2016-05-09 06:31:28,065 - mnist - DEBUG - Objective:15724.5678
+2016-05-09 07:36:56,244 - mnist - DEBUG - Objective:15539.3170
+2016-05-09 08:42:28,055 - mnist - DEBUG - Objective:15536.0863
+2016-05-09 09:47:43,913 - mnist - DEBUG - Objective:15529.5616
+2016-05-09 10:53:07,049 - mnist - DEBUG - Objective:15509.3488
+2016-05-09 11:58:36,459 - mnist - DEBUG - Objective:15480.0822
+2016-05-09 11:58:38,625 - mnist - DEBUG - Objective difference: 90.909535
+2016-05-09 11:58:38,626 - mnist - INFO - Mean difference: 0.003862
+2016-05-09 11:58:38,626 - mnist - INFO - Covariance difference: 0.000147
+2016-05-09 11:58:38,626 - mnist - INFO - Iteration 8 started.
+2016-05-09 11:58:38,626 - mnist - INFO - Optimizing: mog
+2016-05-09 11:59:12,585 - mnist - DEBUG - Objective:15497.5831
+2016-05-09 11:59:46,324 - mnist - DEBUG - Objective:15485.8898
+2016-05-09 12:00:19,575 - mnist - DEBUG - Objective:15495.8021
+2016-05-09 12:00:52,342 - mnist - DEBUG - Objective:15471.6699
+2016-05-09 12:01:26,738 - mnist - DEBUG - Objective:15484.8871
+2016-05-09 12:01:59,957 - mnist - DEBUG - Objective:15483.5737
+2016-05-09 12:02:35,481 - mnist - DEBUG - Objective:15494.3627
+2016-05-09 12:03:09,314 - mnist - DEBUG - Objective:15499.7272
+2016-05-09 12:03:43,831 - mnist - DEBUG - Objective:15499.2443
+2016-05-09 12:03:43,834 - mnist - DEBUG - Objective:15499.2443
+2016-05-09 12:03:43,838 - mnist - INFO - Optimizing: hyp
+2016-05-09 12:07:07,721 - mnist - DEBUG - Objective:15486.2867
+2016-05-09 12:09:59,756 - mnist - DEBUG - Objective:21418.4598
+2016-05-09 12:13:21,753 - mnist - DEBUG - Objective:15469.1037
+2016-05-09 12:16:13,807 - mnist - DEBUG - Objective:15480.1081
+2016-05-09 12:19:13,665 - mnist - DEBUG - Objective:15488.6632
+2016-05-09 12:22:48,791 - mnist - DEBUG - Objective:15478.9083
+2016-05-09 12:25:53,328 - mnist - DEBUG - Objective:15494.3615
+2016-05-09 12:29:33,881 - mnist - DEBUG - Objective:15485.9698
+2016-05-09 12:29:33,882 - mnist - DEBUG - Objective:15485.9698
+2016-05-09 12:29:33,882 - mnist - INFO - Optimizing: inducing
+2016-05-09 13:35:05,801 - mnist - DEBUG - Objective:15494.4823
