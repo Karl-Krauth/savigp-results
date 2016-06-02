@@ -1,0 +1,2 @@
+total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
+23347.551938056946,0,300,"{'hyp': 1, 'mog': 8}",0.001,30a6e624d6e81f0a3d3479c387e52213ea0394c9,,10,0.001,0.004,LogisticLL,336960,100,mnist_binary,master,False,full
