@@ -1,0 +1,2 @@
+total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
+24.256054878234863,0,200,"{'hyp': 2, 'inducing': 1, 'll': 2, 'mog': 10}",0.001,24e0821a8f5adadf7d8bbd1efbef90455fbc1380,../results/sarcos_04-Jun-2016_17h08m34s_16066/,1e-05,0.001,0.004,CogLL,0,100,sarcos,master,True,full
