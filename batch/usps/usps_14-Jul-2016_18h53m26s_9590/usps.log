@@ -1,0 +1,541 @@
+2016-07-14 18:53:26,226 - usps - INFO - experiment started for:{'run_id': 3, 'max_iter': 300, 'optimization_config': {'hyp': 25, 'mog': 25}, 'xtol': 1e-07, 'git_hash': '56b400bf485c09994800ecf66753736a8f1efd98', 'model_init': None, 'ftol': 1e-05, 'latent_noise:': 0.001, 'sparsity_factor': 0.2, 'll': 'SoftmaxLL', 'sample_num': 2000, 'experiment': 'usps', 'git_branch': 'master', 'random_Z': True, 'method': 'full'}
+2016-07-14 18:53:26,541 - usps - INFO - Iteration 1 started.
+2016-07-14 18:53:26,541 - usps - INFO - Optimizing: mog
+2016-07-14 18:53:26,933 - usps - DEBUG - Objective: 2375.4297
+2016-07-14 18:53:27,925 - usps - DEBUG - Objective: 2335.3187
+2016-07-14 18:53:28,914 - usps - DEBUG - Objective: 2196.2879
+2016-07-14 18:53:29,900 - usps - DEBUG - Objective: 1712.6174
+2016-07-14 18:53:30,894 - usps - DEBUG - Objective: 1671.0504
+2016-07-14 18:53:31,883 - usps - DEBUG - Objective: 1641.9406
+2016-07-14 18:53:32,871 - usps - DEBUG - Objective: 1635.3810
+2016-07-14 18:53:33,859 - usps - DEBUG - Objective: 1627.6221
+2016-07-14 18:53:34,850 - usps - DEBUG - Objective: 1625.4863
+2016-07-14 18:53:35,838 - usps - DEBUG - Objective: 1624.9893
+2016-07-14 18:53:36,647 - usps - DEBUG - Objective: 1625.2748
+2016-07-14 18:53:37,462 - usps - DEBUG - Objective: 1623.7186
+2016-07-14 18:53:38,454 - usps - DEBUG - Objective: 1624.4369
+2016-07-14 18:53:39,445 - usps - DEBUG - Objective: 1624.6406
+2016-07-14 18:53:40,439 - usps - DEBUG - Objective: 1623.6984
+2016-07-14 18:53:41,247 - usps - DEBUG - Objective: 1623.9304
+2016-07-14 18:53:42,055 - usps - DEBUG - Objective: 1624.0440
+2016-07-14 18:53:43,041 - usps - DEBUG - Objective: 1623.4905
+2016-07-14 18:53:43,853 - usps - DEBUG - Objective: 1624.9677
+2016-07-14 18:53:44,664 - usps - DEBUG - Objective: 1623.6843
+2016-07-14 18:53:45,302 - usps - INFO - Optimizing: hyp
+2016-07-14 18:53:46,526 - usps - DEBUG - Objective: 1623.9292
+2016-07-14 18:53:48,023 - usps - DEBUG - Objective: 1451.3174
+2016-07-14 18:53:49,533 - usps - DEBUG - Objective: 1324.5801
+2016-07-14 18:53:51,053 - usps - DEBUG - Objective: 1309.8431
+2016-07-14 18:53:52,554 - usps - DEBUG - Objective: 1302.7968
+2016-07-14 18:53:54,020 - usps - DEBUG - Objective: 1302.0883
+2016-07-14 18:53:55,514 - usps - DEBUG - Objective: 1301.0981
+2016-07-14 18:53:57,012 - usps - DEBUG - Objective: 1301.6335
+2016-07-14 18:53:58,515 - usps - DEBUG - Objective: 1301.7510
+2016-07-14 18:54:00,015 - usps - DEBUG - Objective: 1300.1606
+2016-07-14 18:54:01,515 - usps - DEBUG - Objective: 1301.5547
+2016-07-14 18:54:01,850 - usps - DEBUG - Objective: 1301.5192
+2016-07-14 18:54:02,185 - usps - DEBUG - Objective: 1300.7404
+2016-07-14 18:54:02,525 - usps - INFO - Iteration 2 started.
+2016-07-14 18:54:02,525 - usps - INFO - Optimizing: mog
+2016-07-14 18:54:03,181 - usps - DEBUG - Objective: 1300.8784
+2016-07-14 18:54:04,129 - usps - DEBUG - Objective: 1276.2111
+2016-07-14 18:54:05,075 - usps - DEBUG - Objective: 1180.2070
+2016-07-14 18:54:06,029 - usps - DEBUG - Objective: 1151.6141
+2016-07-14 18:54:06,978 - usps - DEBUG - Objective: 1139.7029
+2016-07-14 18:54:07,934 - usps - DEBUG - Objective: 1129.3087
+2016-07-14 18:54:08,893 - usps - DEBUG - Objective: 1125.6648
+2016-07-14 18:54:09,844 - usps - DEBUG - Objective: 1122.9184
+2016-07-14 18:54:10,793 - usps - DEBUG - Objective: 1121.0243
+2016-07-14 18:54:11,737 - usps - DEBUG - Objective: 1119.4355
+2016-07-14 18:54:12,699 - usps - DEBUG - Objective: 1118.8861
+2016-07-14 18:54:13,659 - usps - DEBUG - Objective: 1118.5519
+2016-07-14 18:54:14,623 - usps - DEBUG - Objective: 1118.3671
+2016-07-14 18:54:15,621 - usps - DEBUG - Objective: 1117.5812
+2016-07-14 18:54:16,516 - usps - DEBUG - Objective: 1118.2597
+2016-07-14 18:54:17,296 - usps - DEBUG - Objective: 1116.9515
+2016-07-14 18:54:18,063 - usps - DEBUG - Objective: 1118.2037
+2016-07-14 18:54:18,844 - usps - DEBUG - Objective: 1117.4354
+2016-07-14 18:54:19,799 - usps - DEBUG - Objective: 1117.3310
+2016-07-14 18:54:20,135 - usps - DEBUG - Objective: 1118.3666
+2016-07-14 18:54:20,309 - usps - INFO - Optimizing: hyp
+2016-07-14 18:54:21,434 - usps - DEBUG - Objective: 1117.9830
+2016-07-14 18:54:22,759 - usps - DEBUG - Objective: 1397.8184
+2016-07-14 18:54:24,349 - usps - DEBUG - Objective: 1034.7674
+2016-07-14 18:54:25,916 - usps - DEBUG - Objective: 1020.1498
+2016-07-14 18:54:27,464 - usps - DEBUG - Objective: 1013.2727
+2016-07-14 18:54:29,032 - usps - DEBUG - Objective: 998.7734
+2016-07-14 18:54:30,586 - usps - DEBUG - Objective: 994.1886
+2016-07-14 18:54:32,118 - usps - DEBUG - Objective: 991.2394
+2016-07-14 18:54:33,679 - usps - DEBUG - Objective: 990.8030
+2016-07-14 18:54:35,240 - usps - DEBUG - Objective: 992.1443
+2016-07-14 18:54:36,628 - usps - DEBUG - Objective: 992.7860
+2016-07-14 18:54:38,185 - usps - DEBUG - Objective: 991.7379
+2016-07-14 18:54:39,551 - usps - DEBUG - Objective: 992.4804
+2016-07-14 18:54:41,110 - usps - DEBUG - Objective: 991.7930
+2016-07-14 18:54:41,453 - usps - DEBUG - Objective: 991.6884
+2016-07-14 18:54:41,799 - usps - DEBUG - Objective difference: 309.790558
+2016-07-14 18:54:41,800 - usps - INFO - Mean difference: 0.581799
+2016-07-14 18:54:41,800 - usps - INFO - Covariance difference: 0.010115
+2016-07-14 18:54:41,800 - usps - INFO - Iteration 3 started.
+2016-07-14 18:54:41,800 - usps - INFO - Optimizing: mog
+2016-07-14 18:54:42,458 - usps - DEBUG - Objective: 992.1489
+2016-07-14 18:54:43,423 - usps - DEBUG - Objective: 976.6791
+2016-07-14 18:54:44,379 - usps - DEBUG - Objective: 939.3382
+2016-07-14 18:54:45,347 - usps - DEBUG - Objective: 936.3508
+2016-07-14 18:54:46,315 - usps - DEBUG - Objective: 925.5800
+2016-07-14 18:54:47,286 - usps - DEBUG - Objective: 920.6980
+2016-07-14 18:54:48,253 - usps - DEBUG - Objective: 915.4059
+2016-07-14 18:54:49,231 - usps - DEBUG - Objective: 909.4352
+2016-07-14 18:54:50,209 - usps - DEBUG - Objective: 909.4859
+2016-07-14 18:54:51,177 - usps - DEBUG - Objective: 906.4801
+2016-07-14 18:54:52,159 - usps - DEBUG - Objective: 904.4254
+2016-07-14 18:54:53,136 - usps - DEBUG - Objective: 903.3490
+2016-07-14 18:54:54,108 - usps - DEBUG - Objective: 901.9247
+2016-07-14 18:54:55,091 - usps - DEBUG - Objective: 900.4604
+2016-07-14 18:54:55,902 - usps - DEBUG - Objective: 901.1257
+2016-07-14 18:54:56,865 - usps - DEBUG - Objective: 900.2226
+2016-07-14 18:54:57,831 - usps - DEBUG - Objective: 900.6075
+2016-07-14 18:54:58,642 - usps - DEBUG - Objective: 899.5030
+2016-07-14 18:54:59,606 - usps - DEBUG - Objective: 900.3847
+2016-07-14 18:55:00,582 - usps - DEBUG - Objective: 898.4336
+2016-07-14 18:55:01,384 - usps - DEBUG - Objective: 899.0131
+2016-07-14 18:55:02,187 - usps - DEBUG - Objective: 899.6727
+2016-07-14 18:55:02,984 - usps - DEBUG - Objective: 899.6275
+2016-07-14 18:55:03,784 - usps - DEBUG - Objective: 899.6175
+2016-07-14 18:55:04,583 - usps - DEBUG - Objective: 899.7051
+2016-07-14 18:55:04,927 - usps - DEBUG - Objective: 900.3115
+2016-07-14 18:55:05,719 - usps - INFO - Optimizing: hyp
+2016-07-14 18:55:06,920 - usps - DEBUG - Objective: 899.0565
+2016-07-14 18:55:08,252 - usps - DEBUG - Objective: 1599.0654
+2016-07-14 18:55:09,738 - usps - DEBUG - Objective: 862.6857
+2016-07-14 18:55:11,201 - usps - DEBUG - Objective: 856.1591
+2016-07-14 18:55:12,688 - usps - DEBUG - Objective: 852.5193
+2016-07-14 18:55:14,175 - usps - DEBUG - Objective: 835.9809
+2016-07-14 18:55:15,502 - usps - DEBUG - Objective: 864.6778
+2016-07-14 18:55:16,962 - usps - DEBUG - Objective: 833.3717
+2016-07-14 18:55:18,447 - usps - DEBUG - Objective: 833.0211
+2016-07-14 18:55:19,932 - usps - DEBUG - Objective: 832.1557
+2016-07-14 18:55:21,420 - usps - DEBUG - Objective: 832.4905
+2016-07-14 18:55:22,729 - usps - DEBUG - Objective: 832.8254
+2016-07-14 18:55:24,218 - usps - DEBUG - Objective: 833.4389
+2016-07-14 18:55:24,556 - usps - DEBUG - Objective difference: 159.615723
+2016-07-14 18:55:24,556 - usps - INFO - Mean difference: 0.441045
+2016-07-14 18:55:24,556 - usps - INFO - Covariance difference: 0.010410
+2016-07-14 18:55:24,556 - usps - INFO - Iteration 4 started.
+2016-07-14 18:55:24,556 - usps - INFO - Optimizing: mog
+2016-07-14 18:55:25,203 - usps - DEBUG - Objective: 832.1669
+2016-07-14 18:55:26,155 - usps - DEBUG - Objective: 822.9987
+2016-07-14 18:55:27,093 - usps - DEBUG - Objective: 812.9233
+2016-07-14 18:55:28,030 - usps - DEBUG - Objective: 808.9660
+2016-07-14 18:55:28,979 - usps - DEBUG - Objective: 807.3652
+2016-07-14 18:55:29,935 - usps - DEBUG - Objective: 804.3222
+2016-07-14 18:55:30,890 - usps - DEBUG - Objective: 802.7816
+2016-07-14 18:55:31,826 - usps - DEBUG - Objective: 799.8191
+2016-07-14 18:55:32,599 - usps - DEBUG - Objective: 798.6655
+2016-07-14 18:55:33,558 - usps - DEBUG - Objective: 796.5959
+2016-07-14 18:55:34,499 - usps - DEBUG - Objective: 794.9344
+2016-07-14 18:55:35,440 - usps - DEBUG - Objective: 793.4738
+2016-07-14 18:55:36,393 - usps - DEBUG - Objective: 791.8356
+2016-07-14 18:55:37,187 - usps - DEBUG - Objective: 791.1951
+2016-07-14 18:55:38,130 - usps - DEBUG - Objective: 790.4517
+2016-07-14 18:55:39,072 - usps - DEBUG - Objective: 790.0117
+2016-07-14 18:55:40,033 - usps - DEBUG - Objective: 789.7029
+2016-07-14 18:55:40,977 - usps - DEBUG - Objective: 789.0279
+2016-07-14 18:55:41,936 - usps - DEBUG - Objective: 787.6371
+2016-07-14 18:55:42,702 - usps - DEBUG - Objective: 788.7893
+2016-07-14 18:55:43,467 - usps - DEBUG - Objective: 788.2642
+2016-07-14 18:55:44,241 - usps - DEBUG - Objective: 789.5667
+2016-07-14 18:55:45,006 - usps - DEBUG - Objective: 789.1591
+2016-07-14 18:55:45,771 - usps - DEBUG - Objective: 789.0358
+2016-07-14 18:55:46,546 - usps - DEBUG - Objective: 788.3906
+2016-07-14 18:55:46,882 - usps - DEBUG - Objective: 788.6581
+2016-07-14 18:55:47,509 - usps - INFO - Optimizing: hyp
+2016-07-14 18:55:48,622 - usps - DEBUG - Objective: 788.5828
+2016-07-14 18:55:49,941 - usps - DEBUG - Objective: 1912.8300
+2016-07-14 18:55:51,455 - usps - DEBUG - Objective: 774.9760
+2016-07-14 18:55:52,944 - usps - DEBUG - Objective: 773.3650
+2016-07-14 18:55:54,417 - usps - DEBUG - Objective: 769.4420
+2016-07-14 18:55:55,911 - usps - DEBUG - Objective: 762.7364
+2016-07-14 18:55:57,398 - usps - DEBUG - Objective: 757.8377
+2016-07-14 18:55:58,698 - usps - DEBUG - Objective: 757.3576
+2016-07-14 18:56:00,015 - usps - DEBUG - Objective: 758.7561
+2016-07-14 18:56:01,340 - usps - DEBUG - Objective: 757.5348
+2016-07-14 18:56:02,832 - usps - DEBUG - Objective: 757.5903
+2016-07-14 18:56:04,153 - usps - DEBUG - Objective: 757.2838
+2016-07-14 18:56:05,648 - usps - DEBUG - Objective: 757.5391
+2016-07-14 18:56:05,981 - usps - DEBUG - Objective: 757.8215
+2016-07-14 18:56:06,321 - usps - DEBUG - Objective difference: 74.860596
+2016-07-14 18:56:06,322 - usps - INFO - Mean difference: 0.313227
+2016-07-14 18:56:06,322 - usps - INFO - Covariance difference: 0.009657
+2016-07-14 18:56:06,322 - usps - INFO - Iteration 5 started.
+2016-07-14 18:56:06,322 - usps - INFO - Optimizing: mog
+2016-07-14 18:56:06,956 - usps - DEBUG - Objective: 756.6897
+2016-07-14 18:56:07,902 - usps - DEBUG - Objective: 753.7784
+2016-07-14 18:56:08,858 - usps - DEBUG - Objective: 750.5290
+2016-07-14 18:56:09,793 - usps - DEBUG - Objective: 748.8804
+2016-07-14 18:56:10,740 - usps - DEBUG - Objective: 746.8991
+2016-07-14 18:56:11,695 - usps - DEBUG - Objective: 745.7365
+2016-07-14 18:56:12,634 - usps - DEBUG - Objective: 744.0588
+2016-07-14 18:56:13,419 - usps - DEBUG - Objective: 743.9542
+2016-07-14 18:56:14,210 - usps - DEBUG - Objective: 742.9861
+2016-07-14 18:56:14,977 - usps - DEBUG - Objective: 743.8702
+2016-07-14 18:56:15,762 - usps - DEBUG - Objective: 745.0105
+2016-07-14 18:56:16,712 - usps - DEBUG - Objective: 744.3901
+2016-07-14 18:56:17,478 - usps - DEBUG - Objective: 744.3154
+2016-07-14 18:56:18,087 - usps - INFO - Optimizing: hyp
+2016-07-14 18:56:19,231 - usps - DEBUG - Objective: 744.3316
+2016-07-14 18:56:20,529 - usps - DEBUG - Objective: 1706.3165
+2016-07-14 18:56:22,018 - usps - DEBUG - Objective: 737.4932
+2016-07-14 18:56:23,342 - usps - DEBUG - Objective: 737.0656
+2016-07-14 18:56:24,828 - usps - DEBUG - Objective: 737.4549
+2016-07-14 18:56:26,294 - usps - DEBUG - Objective: 735.8396
+2016-07-14 18:56:27,625 - usps - DEBUG - Objective: 735.2559
+2016-07-14 18:56:29,115 - usps - DEBUG - Objective: 735.3386
+2016-07-14 18:56:30,443 - usps - DEBUG - Objective: 735.1150
+2016-07-14 18:56:31,928 - usps - DEBUG - Objective: 734.6285
+2016-07-14 18:56:33,226 - usps - DEBUG - Objective: 735.0685
+2016-07-14 18:56:34,714 - usps - DEBUG - Objective: 735.3181
+2016-07-14 18:56:36,211 - usps - DEBUG - Objective: 735.1298
+2016-07-14 18:56:36,544 - usps - DEBUG - Objective: 734.7136
+2016-07-14 18:56:36,884 - usps - DEBUG - Objective difference: 22.606537
+2016-07-14 18:56:36,884 - usps - INFO - Mean difference: 0.054023
+2016-07-14 18:56:36,884 - usps - INFO - Covariance difference: 0.004003
+2016-07-14 18:56:36,884 - usps - INFO - Iteration 6 started.
+2016-07-14 18:56:36,884 - usps - INFO - Optimizing: mog
+2016-07-14 18:56:37,521 - usps - DEBUG - Objective: 735.0163
+2016-07-14 18:56:38,299 - usps - DEBUG - Objective: 736.1043
+2016-07-14 18:56:39,248 - usps - DEBUG - Objective: 733.3236
+2016-07-14 18:56:40,181 - usps - DEBUG - Objective: 732.1364
+2016-07-14 18:56:41,136 - usps - DEBUG - Objective: 730.8212
+2016-07-14 18:56:42,091 - usps - DEBUG - Objective: 729.2705
+2016-07-14 18:56:43,030 - usps - DEBUG - Objective: 728.3208
+2016-07-14 18:56:43,977 - usps - DEBUG - Objective: 728.0799
+2016-07-14 18:56:44,763 - usps - DEBUG - Objective: 727.5495
+2016-07-14 18:56:45,705 - usps - DEBUG - Objective: 727.5498
+2016-07-14 18:56:46,650 - usps - DEBUG - Objective: 726.7286
+2016-07-14 18:56:47,606 - usps - DEBUG - Objective: 725.3562
+2016-07-14 18:56:48,556 - usps - DEBUG - Objective: 725.2215
+2016-07-14 18:56:49,505 - usps - DEBUG - Objective: 723.4688
+2016-07-14 18:56:50,275 - usps - DEBUG - Objective: 724.4230
+2016-07-14 18:56:51,227 - usps - DEBUG - Objective: 724.1678
+2016-07-14 18:56:52,183 - usps - DEBUG - Objective: 722.7032
+2016-07-14 18:56:53,125 - usps - DEBUG - Objective: 722.4124
+2016-07-14 18:56:54,083 - usps - DEBUG - Objective: 721.7668
+2016-07-14 18:56:55,031 - usps - DEBUG - Objective: 720.8255
+2016-07-14 18:56:55,982 - usps - DEBUG - Objective: 719.7796
+2016-07-14 18:56:56,940 - usps - DEBUG - Objective: 719.9067
+2016-07-14 18:56:57,893 - usps - DEBUG - Objective: 719.7203
+2016-07-14 18:56:58,848 - usps - DEBUG - Objective: 718.9872
+2016-07-14 18:56:59,810 - usps - DEBUG - Objective: 718.6159
+2016-07-14 18:57:00,578 - usps - DEBUG - Objective: 719.0177
+2016-07-14 18:57:01,357 - usps - INFO - Optimizing: hyp
+2016-07-14 18:57:02,500 - usps - DEBUG - Objective: 718.9599
+2016-07-14 18:57:03,794 - usps - DEBUG - Objective: 2074.4051
+2016-07-14 18:57:05,281 - usps - DEBUG - Objective: 715.6168
+2016-07-14 18:57:06,768 - usps - DEBUG - Objective: 715.3564
+2016-07-14 18:57:08,256 - usps - DEBUG - Objective: 714.7128
+2016-07-14 18:57:09,573 - usps - DEBUG - Objective: 714.5294
+2016-07-14 18:57:10,903 - usps - DEBUG - Objective: 714.8093
+2016-07-14 18:57:12,208 - usps - DEBUG - Objective: 714.9824
+2016-07-14 18:57:13,526 - usps - DEBUG - Objective: 715.6290
+2016-07-14 18:57:14,850 - usps - DEBUG - Objective: 715.6843
+2016-07-14 18:57:16,316 - usps - DEBUG - Objective: 715.2147
+2016-07-14 18:57:17,669 - usps - DEBUG - Objective: 1480.0295
+2016-07-14 18:57:19,137 - usps - DEBUG - Objective: 714.7914
+2016-07-14 18:57:20,622 - usps - DEBUG - Objective: 713.3716
+2016-07-14 18:57:22,100 - usps - DEBUG - Objective: 711.0635
+2016-07-14 18:57:23,590 - usps - DEBUG - Objective: 710.8344
+2016-07-14 18:57:25,081 - usps - DEBUG - Objective: 711.0600
+2016-07-14 18:57:26,393 - usps - DEBUG - Objective: 710.8428
+2016-07-14 18:57:27,875 - usps - DEBUG - Objective: 710.2411
+2016-07-14 18:57:29,361 - usps - DEBUG - Objective: 711.0329
+2016-07-14 18:57:30,679 - usps - DEBUG - Objective: 710.8653
+2016-07-14 18:57:32,134 - usps - DEBUG - Objective: 710.3566
+2016-07-14 18:57:33,619 - usps - DEBUG - Objective: 710.9331
+2016-07-14 18:57:34,934 - usps - DEBUG - Objective: 710.5512
+2016-07-14 18:57:35,267 - usps - DEBUG - Objective: 710.8788
+2016-07-14 18:57:35,598 - usps - DEBUG - Objective: 710.2379
+2016-07-14 18:57:37,093 - usps - DEBUG - Objective difference: 24.585953
+2016-07-14 18:57:37,093 - usps - INFO - Mean difference: 0.245172
+2016-07-14 18:57:37,093 - usps - INFO - Covariance difference: 0.009421
+2016-07-14 18:57:37,093 - usps - INFO - Iteration 7 started.
+2016-07-14 18:57:37,093 - usps - INFO - Optimizing: mog
+2016-07-14 18:57:37,746 - usps - DEBUG - Objective: 711.5113
+2016-07-14 18:57:38,694 - usps - DEBUG - Objective: 711.7183
+2016-07-14 18:57:39,627 - usps - DEBUG - Objective: 709.8622
+2016-07-14 18:57:40,579 - usps - DEBUG - Objective: 708.3103
+2016-07-14 18:57:41,527 - usps - DEBUG - Objective: 707.6104
+2016-07-14 18:57:42,306 - usps - DEBUG - Objective: 707.7738
+2016-07-14 18:57:43,243 - usps - DEBUG - Objective: 706.6436
+2016-07-14 18:57:44,199 - usps - DEBUG - Objective: 706.8534
+2016-07-14 18:57:45,139 - usps - DEBUG - Objective: 705.8428
+2016-07-14 18:57:45,914 - usps - DEBUG - Objective: 706.1040
+2016-07-14 18:57:46,685 - usps - DEBUG - Objective: 706.3442
+2016-07-14 18:57:47,470 - usps - DEBUG - Objective: 705.8826
+2016-07-14 18:57:48,242 - usps - DEBUG - Objective: 706.9045
+2016-07-14 18:57:48,578 - usps - DEBUG - Objective: 706.2908
+2016-07-14 18:57:48,912 - usps - DEBUG - Objective: 706.8505
+2016-07-14 18:57:49,517 - usps - INFO - Optimizing: hyp
+2016-07-14 18:57:50,660 - usps - DEBUG - Objective: 706.5350
+2016-07-14 18:57:51,980 - usps - DEBUG - Objective: 2094.5477
+2016-07-14 18:57:53,445 - usps - DEBUG - Objective: 704.7666
+2016-07-14 18:57:54,929 - usps - DEBUG - Objective: 703.4984
+2016-07-14 18:57:56,417 - usps - DEBUG - Objective: 703.3875
+2016-07-14 18:57:57,753 - usps - DEBUG - Objective: 704.1274
+2016-07-14 18:57:59,050 - usps - DEBUG - Objective: 703.8607
+2016-07-14 18:58:00,542 - usps - DEBUG - Objective: 703.4236
+2016-07-14 18:58:02,006 - usps - DEBUG - Objective: 703.3596
+2016-07-14 18:58:03,491 - usps - DEBUG - Objective: 703.8969
+2016-07-14 18:58:04,812 - usps - DEBUG - Objective: 704.1290
+2016-07-14 18:58:06,280 - usps - DEBUG - Objective: 704.0412
+2016-07-14 18:58:07,601 - usps - DEBUG - Objective: 704.2691
+2016-07-14 18:58:09,090 - usps - DEBUG - Objective: 704.4690
+2016-07-14 18:58:10,395 - usps - DEBUG - Objective: 703.9350
+2016-07-14 18:58:11,691 - usps - DEBUG - Objective: 704.0187
+2016-07-14 18:58:13,015 - usps - DEBUG - Objective: 703.8554
+2016-07-14 18:58:14,317 - usps - DEBUG - Objective: 703.9850
+2016-07-14 18:58:15,637 - usps - DEBUG - Objective: 703.8339
+2016-07-14 18:58:15,968 - usps - DEBUG - Objective: 703.5788
+2016-07-14 18:58:16,307 - usps - DEBUG - Objective difference: 5.985748
+2016-07-14 18:58:16,307 - usps - INFO - Mean difference: 0.022730
+2016-07-14 18:58:16,307 - usps - INFO - Covariance difference: 0.002132
+2016-07-14 18:58:16,307 - usps - INFO - Iteration 8 started.
+2016-07-14 18:58:16,307 - usps - INFO - Optimizing: mog
+2016-07-14 18:58:16,959 - usps - DEBUG - Objective: 703.6758
+2016-07-14 18:58:17,736 - usps - DEBUG - Objective: 707.0501
+2016-07-14 18:58:18,681 - usps - DEBUG - Objective: 702.8219
+2016-07-14 18:58:19,615 - usps - DEBUG - Objective: 704.1538
+2016-07-14 18:58:20,625 - usps - DEBUG - Objective: 703.7853
+2016-07-14 18:58:21,406 - usps - DEBUG - Objective: 703.7640
+2016-07-14 18:58:22,174 - usps - DEBUG - Objective: 703.8978
+2016-07-14 18:58:22,510 - usps - DEBUG - Objective: 704.6777
+2016-07-14 18:58:22,845 - usps - DEBUG - Objective: 703.9889
+2016-07-14 18:58:23,468 - usps - INFO - Optimizing: hyp
+2016-07-14 18:58:24,608 - usps - DEBUG - Objective: 704.1430
+2016-07-14 18:58:25,902 - usps - DEBUG - Objective: 796.1879
+2016-07-14 18:58:27,397 - usps - DEBUG - Objective: 704.1548
+2016-07-14 18:58:28,883 - usps - DEBUG - Objective: 703.1266
+2016-07-14 18:58:30,203 - usps - DEBUG - Objective: 703.9243
+2016-07-14 18:58:31,496 - usps - DEBUG - Objective: 703.7446
+2016-07-14 18:58:32,815 - usps - DEBUG - Objective: 703.0301
+2016-07-14 18:58:34,141 - usps - DEBUG - Objective: 704.0823
+2016-07-14 18:58:35,440 - usps - DEBUG - Objective: 703.7390
+2016-07-14 18:58:35,774 - usps - DEBUG - Objective: 703.6827
+2016-07-14 18:58:37,105 - usps - DEBUG - Objective difference: 0.932877
+2016-07-14 18:58:37,105 - usps - INFO - Mean difference: 0.000007
+2016-07-14 18:58:37,105 - usps - INFO - Covariance difference: 0.000001
+2016-07-14 18:58:37,105 - usps - INFO - Iteration 9 started.
+2016-07-14 18:58:37,105 - usps - INFO - Optimizing: mog
+2016-07-14 18:58:37,758 - usps - DEBUG - Objective: 703.4482
+2016-07-14 18:58:38,537 - usps - DEBUG - Objective: 705.0869
+2016-07-14 18:58:39,321 - usps - DEBUG - Objective: 702.8853
+2016-07-14 18:58:40,271 - usps - DEBUG - Objective: 701.8632
+2016-07-14 18:58:41,044 - usps - DEBUG - Objective: 702.2521
+2016-07-14 18:58:41,979 - usps - DEBUG - Objective: 701.6313
+2016-07-14 18:58:42,928 - usps - DEBUG - Objective: 701.9441
+2016-07-14 18:58:43,878 - usps - DEBUG - Objective: 700.8195
+2016-07-14 18:58:44,643 - usps - DEBUG - Objective: 701.0355
+2016-07-14 18:58:45,427 - usps - DEBUG - Objective: 701.4359
+2016-07-14 18:58:46,202 - usps - DEBUG - Objective: 701.7010
+2016-07-14 18:58:46,992 - usps - DEBUG - Objective: 701.4412
+2016-07-14 18:58:47,768 - usps - DEBUG - Objective: 701.5014
+2016-07-14 18:58:48,716 - usps - DEBUG - Objective: 700.6050
+2016-07-14 18:58:49,665 - usps - DEBUG - Objective: 700.9821
+2016-07-14 18:58:50,598 - usps - DEBUG - Objective: 701.2477
+2016-07-14 18:58:51,383 - usps - DEBUG - Objective: 701.3276
+2016-07-14 18:58:52,146 - usps - DEBUG - Objective: 700.9691
+2016-07-14 18:58:52,319 - usps - INFO - Optimizing: hyp
+2016-07-14 18:58:53,454 - usps - DEBUG - Objective: 700.6257
+2016-07-14 18:58:54,772 - usps - DEBUG - Objective: 2153.2004
+2016-07-14 18:58:56,267 - usps - DEBUG - Objective: 700.6110
+2016-07-14 18:58:57,755 - usps - DEBUG - Objective: 699.5229
+2016-07-14 18:58:59,227 - usps - DEBUG - Objective: 699.2191
+2016-07-14 18:59:00,532 - usps - DEBUG - Objective: 699.3197
+2016-07-14 18:59:01,856 - usps - DEBUG - Objective: 699.8756
+2016-07-14 18:59:03,148 - usps - DEBUG - Objective: 699.2331
+2016-07-14 18:59:04,468 - usps - DEBUG - Objective: 699.5903
+2016-07-14 18:59:05,772 - usps - DEBUG - Objective: 699.3720
+2016-07-14 18:59:07,090 - usps - DEBUG - Objective: 697.9801
+2016-07-14 18:59:08,383 - usps - DEBUG - Objective: 698.6382
+2016-07-14 18:59:09,703 - usps - DEBUG - Objective: 698.1997
+2016-07-14 18:59:11,022 - usps - DEBUG - Objective: 698.8259
+2016-07-14 18:59:12,511 - usps - DEBUG - Objective: 698.2959
+2016-07-14 18:59:13,971 - usps - DEBUG - Objective: 699.0942
+2016-07-14 18:59:14,305 - usps - DEBUG - Objective: 698.6206
+2016-07-14 18:59:14,644 - usps - DEBUG - Objective difference: 4.899429
+2016-07-14 18:59:14,644 - usps - INFO - Mean difference: 0.018422
+2016-07-14 18:59:14,644 - usps - INFO - Covariance difference: 0.001516
+2016-07-14 18:59:14,644 - usps - INFO - Iteration 10 started.
+2016-07-14 18:59:14,644 - usps - INFO - Optimizing: mog
+2016-07-14 18:59:15,289 - usps - DEBUG - Objective: 698.2365
+2016-07-14 18:59:16,076 - usps - DEBUG - Objective: 715.9095
+2016-07-14 18:59:16,845 - usps - DEBUG - Objective: 697.9947
+2016-07-14 18:59:17,797 - usps - DEBUG - Objective: 697.5758
+2016-07-14 18:59:18,574 - usps - DEBUG - Objective: 697.9059
+2016-07-14 18:59:19,341 - usps - DEBUG - Objective: 698.8682
+2016-07-14 18:59:20,114 - usps - DEBUG - Objective: 698.1882
+2016-07-14 18:59:20,904 - usps - DEBUG - Objective: 698.7240
+2016-07-14 18:59:21,687 - usps - DEBUG - Objective: 698.5126
+2016-07-14 18:59:22,303 - usps - INFO - Optimizing: hyp
+2016-07-14 18:59:23,449 - usps - DEBUG - Objective: 698.3253
+2016-07-14 18:59:24,745 - usps - DEBUG - Objective: 2354.7523
+2016-07-14 18:59:26,084 - usps - DEBUG - Objective: 698.3881
+2016-07-14 18:59:27,415 - usps - DEBUG - Objective: 698.0062
+2016-07-14 18:59:28,872 - usps - DEBUG - Objective: 697.6295
+2016-07-14 18:59:30,355 - usps - DEBUG - Objective: 698.1708
+2016-07-14 18:59:31,675 - usps - DEBUG - Objective: 698.9682
+2016-07-14 18:59:32,999 - usps - DEBUG - Objective: 698.1669
+2016-07-14 18:59:34,459 - usps - DEBUG - Objective: 698.3793
+2016-07-14 18:59:35,785 - usps - DEBUG - Objective: 698.1237
+2016-07-14 18:59:37,273 - usps - DEBUG - Objective: 698.2672
+2016-07-14 18:59:37,606 - usps - DEBUG - Objective: 698.1441
+2016-07-14 18:59:37,945 - usps - DEBUG - Objective difference: 0.801132
+2016-07-14 18:59:37,945 - usps - INFO - Mean difference: 0.002252
+2016-07-14 18:59:37,945 - usps - INFO - Covariance difference: 0.000200
+2016-07-14 18:59:37,945 - usps - INFO - Iteration 11 started.
+2016-07-14 18:59:37,945 - usps - INFO - Optimizing: mog
+2016-07-14 18:59:38,590 - usps - DEBUG - Objective: 698.3792
+2016-07-14 18:59:39,377 - usps - DEBUG - Objective: 711.5899
+2016-07-14 18:59:40,159 - usps - DEBUG - Objective: 697.8216
+2016-07-14 18:59:41,100 - usps - DEBUG - Objective: 697.8555
+2016-07-14 18:59:42,056 - usps - DEBUG - Objective: 696.7947
+2016-07-14 18:59:43,006 - usps - DEBUG - Objective: 697.1598
+2016-07-14 18:59:43,961 - usps - DEBUG - Objective: 695.7732
+2016-07-14 18:59:44,733 - usps - DEBUG - Objective: 696.5003
+2016-07-14 18:59:45,510 - usps - DEBUG - Objective: 695.5882
+2016-07-14 18:59:46,461 - usps - DEBUG - Objective: 695.4955
+2016-07-14 18:59:47,228 - usps - DEBUG - Objective: 696.2861
+2016-07-14 18:59:48,013 - usps - DEBUG - Objective: 696.1811
+2016-07-14 18:59:48,789 - usps - DEBUG - Objective: 696.5897
+2016-07-14 18:59:49,408 - usps - INFO - Optimizing: hyp
+2016-07-14 18:59:50,518 - usps - DEBUG - Objective: 696.8884
+2016-07-14 18:59:51,834 - usps - DEBUG - Objective: 2130.9440
+2016-07-14 18:59:53,317 - usps - DEBUG - Objective: 695.8314
+2016-07-14 18:59:54,635 - usps - DEBUG - Objective: 695.4160
+2016-07-14 18:59:55,931 - usps - DEBUG - Objective: 695.9104
+2016-07-14 18:59:57,256 - usps - DEBUG - Objective: 695.8705
+2016-07-14 18:59:58,713 - usps - DEBUG - Objective: 695.3146
+2016-07-14 19:00:00,034 - usps - DEBUG - Objective: 695.4251
+2016-07-14 19:00:01,359 - usps - DEBUG - Objective: 694.9016
+2016-07-14 19:00:02,655 - usps - DEBUG - Objective: 694.5544
+2016-07-14 19:00:04,142 - usps - DEBUG - Objective: 695.1548
+2016-07-14 19:00:05,644 - usps - DEBUG - Objective: 695.0385
+2016-07-14 19:00:06,950 - usps - DEBUG - Objective: 695.4264
+2016-07-14 19:00:08,442 - usps - DEBUG - Objective: 695.0043
+2016-07-14 19:00:09,905 - usps - DEBUG - Objective: 695.3170
+2016-07-14 19:00:11,227 - usps - DEBUG - Objective: 695.7935
+2016-07-14 19:00:12,549 - usps - DEBUG - Objective: nan
+2016-07-14 19:00:12,732 - usps - WARNING - Invalid value encountered. Optimization restarted.
+2016-07-14 19:00:14,032 - usps - DEBUG - Objective: 696.2046
+2016-07-14 19:00:15,363 - usps - DEBUG - Objective: 2129.6787
+2016-07-14 19:00:16,687 - usps - DEBUG - Objective: 695.4245
+2016-07-14 19:00:18,151 - usps - DEBUG - Objective: 695.8258
+2016-07-14 19:00:18,490 - usps - DEBUG - Objective difference: 2.834061
+2016-07-14 19:00:18,490 - usps - INFO - Mean difference: 0.018729
+2016-07-14 19:00:18,490 - usps - INFO - Covariance difference: 0.001577
+2016-07-14 19:00:18,490 - usps - INFO - Iteration 12 started.
+2016-07-14 19:00:18,490 - usps - INFO - Optimizing: mog
+2016-07-14 19:00:19,136 - usps - DEBUG - Objective: 695.4632
+2016-07-14 19:00:19,923 - usps - DEBUG - Objective: 708.6419
+2016-07-14 19:00:20,857 - usps - DEBUG - Objective: 695.4590
+2016-07-14 19:00:21,632 - usps - DEBUG - Objective: 696.0275
+2016-07-14 19:00:22,589 - usps - DEBUG - Objective: 695.4368
+2016-07-14 19:00:23,523 - usps - DEBUG - Objective: 694.8821
+2016-07-14 19:00:24,468 - usps - DEBUG - Objective: 694.6259
+2016-07-14 19:00:25,245 - usps - DEBUG - Objective: 695.4665
+2016-07-14 19:00:26,009 - usps - DEBUG - Objective: 696.2356
+2016-07-14 19:00:26,793 - usps - DEBUG - Objective: 695.4458
+2016-07-14 19:00:27,735 - usps - DEBUG - Objective: 695.8138
+2016-07-14 19:00:28,667 - usps - DEBUG - Objective: 695.3940
+2016-07-14 19:00:29,004 - usps - DEBUG - Objective: 695.5867
+2016-07-14 19:00:29,174 - usps - INFO - Optimizing: hyp
+2016-07-14 19:00:30,329 - usps - DEBUG - Objective: 694.3283
+2016-07-14 19:00:31,649 - usps - DEBUG - Objective: 1027.0882
+2016-07-14 19:00:33,155 - usps - DEBUG - Objective: 695.2803
+2016-07-14 19:00:34,659 - usps - DEBUG - Objective: 695.4811
+2016-07-14 19:00:35,978 - usps - DEBUG - Objective: 694.8042
+2016-07-14 19:00:37,315 - usps - DEBUG - Objective: 694.6085
+2016-07-14 19:00:38,613 - usps - DEBUG - Objective: 695.7025
+2016-07-14 19:00:39,942 - usps - DEBUG - Objective: 695.2950
+2016-07-14 19:00:40,276 - usps - DEBUG - Objective: 694.8306
+2016-07-14 19:00:41,605 - usps - DEBUG - Objective difference: -0.341248
+2016-07-14 19:00:41,605 - usps - INFO - Mean difference: 0.000269
+2016-07-14 19:00:41,605 - usps - INFO - Covariance difference: 0.000026
+2016-07-14 19:00:41,605 - usps - INFO - Iteration 13 started.
+2016-07-14 19:00:41,605 - usps - INFO - Optimizing: mog
+2016-07-14 19:00:42,248 - usps - DEBUG - Objective: 695.7032
+2016-07-14 19:00:43,012 - usps - DEBUG - Objective: 699.4189
+2016-07-14 19:00:43,960 - usps - DEBUG - Objective: 694.8206
+2016-07-14 19:00:44,733 - usps - DEBUG - Objective: 695.2229
+2016-07-14 19:00:45,668 - usps - DEBUG - Objective: 694.6432
+2016-07-14 19:00:46,619 - usps - DEBUG - Objective: 693.8254
+2016-07-14 19:00:47,568 - usps - DEBUG - Objective: 694.8510
+2016-07-14 19:00:48,501 - usps - DEBUG - Objective: 694.6936
+2016-07-14 19:00:49,271 - usps - DEBUG - Objective: 694.8255
+2016-07-14 19:00:50,221 - usps - DEBUG - Objective: 694.3904
+2016-07-14 19:00:51,152 - usps - DEBUG - Objective: 694.6084
+2016-07-14 19:00:51,325 - usps - INFO - Optimizing: hyp
+2016-07-14 19:00:52,457 - usps - DEBUG - Objective: 694.3773
+2016-07-14 19:00:53,778 - usps - DEBUG - Objective: 1003.2127
+2016-07-14 19:00:55,265 - usps - DEBUG - Objective: 695.1818
+2016-07-14 19:00:56,726 - usps - DEBUG - Objective: 694.7770
+2016-07-14 19:00:58,209 - usps - DEBUG - Objective: 694.9719
+2016-07-14 19:00:59,534 - usps - DEBUG - Objective: 694.2476
+2016-07-14 19:01:00,990 - usps - DEBUG - Objective: 694.8231
+2016-07-14 19:01:02,311 - usps - DEBUG - Objective: 694.5581
+2016-07-14 19:01:02,643 - usps - DEBUG - Objective: 694.6435
+2016-07-14 19:01:03,974 - usps - DEBUG - Objective difference: 0.417801
+2016-07-14 19:01:03,974 - usps - INFO - Mean difference: 0.003823
+2016-07-14 19:01:03,974 - usps - INFO - Covariance difference: 0.000358
+2016-07-14 19:01:03,974 - usps - INFO - Iteration 14 started.
+2016-07-14 19:01:03,974 - usps - INFO - Optimizing: mog
+2016-07-14 19:01:04,620 - usps - DEBUG - Objective: 694.6967
+2016-07-14 19:01:05,395 - usps - DEBUG - Objective: 721.2946
+2016-07-14 19:01:06,168 - usps - DEBUG - Objective: 694.6406
+2016-07-14 19:01:06,956 - usps - DEBUG - Objective: 694.5361
+2016-07-14 19:01:07,740 - usps - DEBUG - Objective: 694.6319
+2016-07-14 19:01:08,506 - usps - DEBUG - Objective: 694.2374
+2016-07-14 19:01:09,284 - usps - DEBUG - Objective: 695.4031
+2016-07-14 19:01:10,058 - usps - DEBUG - Objective: 694.3270
+2016-07-14 19:01:10,829 - usps - DEBUG - Objective: 695.1374
+2016-07-14 19:01:11,616 - usps - DEBUG - Objective: 695.2937
+2016-07-14 19:01:12,383 - usps - DEBUG - Objective: 695.1753
+2016-07-14 19:01:13,154 - usps - DEBUG - Objective: 694.5704
+2016-07-14 19:01:13,931 - usps - DEBUG - Objective: 694.3549
+2016-07-14 19:01:14,867 - usps - DEBUG - Objective: 694.9222
+2016-07-14 19:01:15,811 - usps - DEBUG - Objective: 695.0774
+2016-07-14 19:01:16,754 - usps - DEBUG - Objective: 694.2543
+2016-07-14 19:01:17,089 - usps - DEBUG - Objective: 694.8632
+2016-07-14 19:01:17,426 - usps - DEBUG - Objective: 694.6547
+2016-07-14 19:01:17,596 - usps - INFO - Optimizing: hyp
+2016-07-14 19:01:18,724 - usps - DEBUG - Objective: 694.6324
+2016-07-14 19:01:20,024 - usps - DEBUG - Objective: 1115.4594
+2016-07-14 19:01:21,530 - usps - DEBUG - Objective: 694.2953
+2016-07-14 19:01:23,017 - usps - DEBUG - Objective: 694.3414
+2016-07-14 19:01:24,343 - usps - DEBUG - Objective: 694.1014
+2016-07-14 19:01:25,639 - usps - DEBUG - Objective: 694.3803
+2016-07-14 19:01:27,150 - usps - DEBUG - Objective: 694.6860
+2016-07-14 19:01:27,487 - usps - DEBUG - Objective: 695.3910
+2016-07-14 19:01:27,821 - usps - DEBUG - Objective: 694.3938
+2016-07-14 19:01:29,319 - usps - DEBUG - Objective: 177576.4355
+2016-07-14 19:01:30,667 - usps - DEBUG - Objective: 7306.7377
+2016-07-14 19:01:31,989 - usps - DEBUG - Objective: 722.4779
+2016-07-14 19:01:33,477 - usps - DEBUG - Objective: 694.7327
+2016-07-14 19:01:34,964 - usps - DEBUG - Objective: 694.1536
+2016-07-14 19:01:36,263 - usps - DEBUG - Objective: 694.9458
+2016-07-14 19:01:37,767 - usps - DEBUG - Objective: 695.3792
+2016-07-14 19:01:38,101 - usps - DEBUG - Objective: 694.4414
+2016-07-14 19:01:38,440 - usps - DEBUG - Objective difference: 0.263931
+2016-07-14 19:01:38,440 - usps - INFO - Mean difference: 0.000850
+2016-07-14 19:01:38,440 - usps - INFO - Covariance difference: 0.000086
+2016-07-14 19:01:38,441 - usps - INFO - Iteration 15 started.
+2016-07-14 19:01:38,441 - usps - INFO - Optimizing: mog
+2016-07-14 19:01:39,085 - usps - DEBUG - Objective: 694.9059
+2016-07-14 19:01:39,875 - usps - DEBUG - Objective: 714.3641
+2016-07-14 19:01:40,641 - usps - DEBUG - Objective: 694.5468
+2016-07-14 19:01:41,415 - usps - DEBUG - Objective: 694.1447
+2016-07-14 19:01:42,369 - usps - DEBUG - Objective: 694.4106
+2016-07-14 19:01:43,128 - usps - INFO - Interrupted by the user.
+2016-07-14 19:01:43,296 - usps - INFO - Last objective value: 694.505417
+2016-07-14 19:01:43,298 - usps - DEBUG - prediction started...
+2016-07-14 19:01:50,324 - usps - DEBUG - prediction finished
