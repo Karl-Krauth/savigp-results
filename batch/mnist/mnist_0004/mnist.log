@@ -1,0 +1,473 @@
+2016-02-04 06:55:38,730 - mnist - INFO - experiment started for:{'run_id': 0, 'max_iter': 300, 'optimization_config': {'hyp': 10, 'mog': 50}, 'xtol': 0.001, 'git_hash': '5a20a6cbfa2bc18023bde97098007afb912d59fd', 'model_init': None, 'ftol': 10, 'latent_noise:': 0.001, 'sparsity_factor': 0.004, 'll': 'SoftmaxLL', 'sample_num': 2000, 'experiment': 'mnist', 'git_branch': 'exp_framework', 'random_Z': False, 'method': 'full'}
+2016-02-04 06:56:15,150 - mnist - INFO - Iteration 0 started.
+2016-02-04 06:56:15,150 - mnist - INFO - MoG params
+2016-02-04 06:56:44,875 - mnist - DEBUG - objective:289216.3568
+2016-02-04 06:57:13,711 - mnist - DEBUG - objective:285083.3077
+2016-02-04 06:57:43,068 - mnist - DEBUG - objective:268991.9255
+2016-02-04 06:58:12,136 - mnist - DEBUG - objective:212091.3526
+2016-02-04 06:58:40,972 - mnist - DEBUG - objective:104665.5048
+2016-02-04 06:59:10,495 - mnist - DEBUG - objective:105963.9959
+2016-02-04 06:59:39,594 - mnist - DEBUG - objective:91222.1283
+2016-02-04 07:00:08,576 - mnist - DEBUG - objective:79782.9404
+2016-02-04 07:00:37,959 - mnist - DEBUG - objective:29787963.4126
+2016-02-04 07:01:07,546 - mnist - DEBUG - objective:66664.3311
+2016-02-04 07:01:37,494 - mnist - DEBUG - objective:77626.7989
+2016-02-04 07:02:06,693 - mnist - DEBUG - objective:55835.8723
+2016-02-04 07:02:35,912 - mnist - DEBUG - objective:52916.9599
+2016-02-04 07:03:05,017 - mnist - DEBUG - objective:38089.6429
+2016-02-04 07:03:34,604 - mnist - DEBUG - objective:31017.4435
+2016-02-04 07:04:04,159 - mnist - DEBUG - objective:26306.6734
+2016-02-04 07:04:33,535 - mnist - DEBUG - objective:23619.1923
+2016-02-04 07:05:03,404 - mnist - DEBUG - objective:21605.6350
+2016-02-04 07:05:33,574 - mnist - DEBUG - objective:20731.0219
+2016-02-04 07:06:03,068 - mnist - DEBUG - objective:19712.7651
+2016-02-04 07:06:32,551 - mnist - DEBUG - objective:19162.1320
+2016-02-04 07:07:02,161 - mnist - DEBUG - objective:18821.4801
+2016-02-04 07:07:31,906 - mnist - DEBUG - objective:18426.6887
+2016-02-04 07:08:01,401 - mnist - DEBUG - objective:18069.7224
+2016-02-04 07:08:30,960 - mnist - DEBUG - objective:17693.4864
+2016-02-04 07:09:00,550 - mnist - DEBUG - objective:17468.5122
+2016-02-04 07:09:29,956 - mnist - DEBUG - objective:17195.0244
+2016-02-04 07:09:59,729 - mnist - DEBUG - objective:17043.6336
+2016-02-04 07:10:29,348 - mnist - DEBUG - objective:16878.7187
+2016-02-04 07:10:58,835 - mnist - DEBUG - objective:16794.9301
+2016-02-04 07:11:28,325 - mnist - DEBUG - objective:16577.2395
+2016-02-04 07:11:57,922 - mnist - DEBUG - objective:16498.5695
+2016-02-04 07:12:27,227 - mnist - DEBUG - objective:16395.2571
+2016-02-04 07:12:56,640 - mnist - DEBUG - objective:16275.4318
+2016-02-04 07:13:26,397 - mnist - DEBUG - objective:16174.6093
+2016-02-04 07:13:56,001 - mnist - DEBUG - objective:16107.6207
+2016-02-04 07:14:25,375 - mnist - DEBUG - objective:16045.5959
+2016-02-04 07:14:54,881 - mnist - DEBUG - objective:15998.3982
+2016-02-04 07:15:24,706 - mnist - DEBUG - objective:15940.6515
+2016-02-04 07:15:54,230 - mnist - DEBUG - objective:15891.8754
+2016-02-04 07:16:23,737 - mnist - DEBUG - objective:15861.4193
+2016-02-04 07:16:53,524 - mnist - DEBUG - objective:15829.6528
+2016-02-04 07:17:23,408 - mnist - DEBUG - objective:15791.2496
+2016-02-04 07:17:53,107 - mnist - DEBUG - objective:15755.7382
+2016-02-04 07:18:22,768 - mnist - DEBUG - objective:15739.8615
+2016-02-04 07:18:52,425 - mnist - DEBUG - objective:15710.0570
+2016-02-04 07:19:21,883 - mnist - DEBUG - objective:15697.4650
+2016-02-04 07:19:51,589 - mnist - DEBUG - objective:15679.2256
+2016-02-04 07:20:20,968 - mnist - DEBUG - objective:15665.8637
+2016-02-04 07:20:50,672 - mnist - DEBUG - objective:15654.4025
+2016-02-04 07:21:20,321 - mnist - DEBUG - objective:15633.2127
+2016-02-04 07:21:20,405 - mnist - INFO - Saving model...
+2016-02-04 07:21:22,718 - mnist - INFO - Model saved.
+2016-02-04 07:21:22,718 - mnist - INFO - hyp params
+2016-02-04 07:22:40,189 - mnist - DEBUG - objective:15633.2127
+2016-02-04 07:23:57,876 - mnist - DEBUG - objective:15860.8545
+2016-02-04 07:25:16,128 - mnist - DEBUG - objective:15514.0174
+2016-02-04 07:26:33,751 - mnist - DEBUG - objective:15494.5779
+2016-02-04 07:27:51,552 - mnist - DEBUG - objective:15470.1265
+2016-02-04 07:29:09,455 - mnist - DEBUG - objective:15434.0914
+2016-02-04 07:30:27,224 - mnist - DEBUG - objective:15465.9530
+2016-02-04 07:31:45,420 - mnist - DEBUG - objective:15430.2647
+2016-02-04 07:33:02,930 - mnist - DEBUG - objective:15427.9666
+2016-02-04 07:34:20,543 - mnist - DEBUG - objective:15426.2148
+2016-02-04 07:35:38,546 - mnist - DEBUG - objective:15423.5639
+2016-02-04 07:35:38,546 - mnist - INFO - Iteration 1 started.
+2016-02-04 07:35:38,546 - mnist - INFO - MoG params
+2016-02-04 07:36:07,913 - mnist - DEBUG - objective:15423.5639
+2016-02-04 07:36:36,963 - mnist - DEBUG - objective:15398.4425
+2016-02-04 07:37:06,100 - mnist - DEBUG - objective:15382.4212
+2016-02-04 07:37:34,989 - mnist - DEBUG - objective:15363.9631
+2016-02-04 07:38:04,468 - mnist - DEBUG - objective:15350.5249
+2016-02-04 07:38:34,440 - mnist - DEBUG - objective:15338.1835
+2016-02-04 07:39:03,360 - mnist - DEBUG - objective:15324.5087
+2016-02-04 07:39:32,474 - mnist - DEBUG - objective:15318.0516
+2016-02-04 07:40:01,782 - mnist - DEBUG - objective:15307.5626
+2016-02-04 07:40:30,812 - mnist - DEBUG - objective:15303.2201
+2016-02-04 07:41:00,125 - mnist - DEBUG - objective:15291.0184
+2016-02-04 07:41:29,829 - mnist - DEBUG - objective:15285.5267
+2016-02-04 07:41:59,169 - mnist - DEBUG - objective:15279.4280
+2016-02-04 07:42:28,547 - mnist - DEBUG - objective:15270.4627
+2016-02-04 07:42:57,725 - mnist - DEBUG - objective:15271.6832
+2016-02-04 07:43:26,727 - mnist - DEBUG - objective:15264.4472
+2016-02-04 07:43:55,594 - mnist - DEBUG - objective:15254.0658
+2016-02-04 07:44:24,908 - mnist - DEBUG - objective:15247.6799
+2016-02-04 07:44:53,773 - mnist - DEBUG - objective:15241.2757
+2016-02-04 07:45:23,270 - mnist - DEBUG - objective:15235.2856
+2016-02-04 07:45:52,298 - mnist - DEBUG - objective:15231.1536
+2016-02-04 07:46:21,029 - mnist - DEBUG - objective:15224.4163
+2016-02-04 07:46:50,128 - mnist - DEBUG - objective:15221.9184
+2016-02-04 07:47:19,588 - mnist - DEBUG - objective:15217.5840
+2016-02-04 07:47:48,907 - mnist - DEBUG - objective:15214.2112
+2016-02-04 07:48:18,059 - mnist - DEBUG - objective:15211.6206
+2016-02-04 07:48:47,443 - mnist - DEBUG - objective:15207.0051
+2016-02-04 07:49:16,852 - mnist - DEBUG - objective:15203.4609
+2016-02-04 07:49:46,512 - mnist - DEBUG - objective:15200.6419
+2016-02-04 07:50:15,782 - mnist - DEBUG - objective:15197.6159
+2016-02-04 07:50:44,992 - mnist - DEBUG - objective:15194.5316
+2016-02-04 07:51:14,162 - mnist - DEBUG - objective:15191.4320
+2016-02-04 07:51:43,446 - mnist - DEBUG - objective:15187.1738
+2016-02-04 07:52:12,429 - mnist - DEBUG - objective:15185.1128
+2016-02-04 07:52:41,655 - mnist - DEBUG - objective:15182.0091
+2016-02-04 07:53:10,823 - mnist - DEBUG - objective:15179.5187
+2016-02-04 07:53:40,467 - mnist - DEBUG - objective:15175.7152
+2016-02-04 07:54:09,976 - mnist - DEBUG - objective:15174.0207
+2016-02-04 07:54:38,961 - mnist - DEBUG - objective:15172.3704
+2016-02-04 07:55:08,157 - mnist - DEBUG - objective:15170.2760
+2016-02-04 07:55:37,459 - mnist - DEBUG - objective:15167.4742
+2016-02-04 07:56:06,651 - mnist - DEBUG - objective:15165.1571
+2016-02-04 07:56:35,758 - mnist - DEBUG - objective:15163.1951
+2016-02-04 07:57:05,070 - mnist - DEBUG - objective:15161.3129
+2016-02-04 07:57:34,312 - mnist - DEBUG - objective:15161.5642
+2016-02-04 07:58:03,730 - mnist - DEBUG - objective:15159.7405
+2016-02-04 07:58:32,883 - mnist - DEBUG - objective:15157.7175
+2016-02-04 07:59:02,161 - mnist - DEBUG - objective:15156.5700
+2016-02-04 07:59:31,388 - mnist - DEBUG - objective:15155.0045
+2016-02-04 08:00:00,606 - mnist - DEBUG - objective:15153.6192
+2016-02-04 08:00:29,673 - mnist - DEBUG - objective:15152.4841
+2016-02-04 08:00:29,754 - mnist - INFO - Saving model...
+2016-02-04 08:00:32,412 - mnist - INFO - Model saved.
+2016-02-04 08:00:32,414 - mnist - DEBUG - ftol: 480.728667229
+2016-02-04 08:00:32,414 - mnist - INFO - diff:m:0.67643774894 s:0.00708171088321
+2016-02-04 08:00:32,414 - mnist - INFO - hyp params
+2016-02-04 08:01:49,435 - mnist - DEBUG - objective:15152.4841
+2016-02-04 08:03:07,181 - mnist - DEBUG - objective:15913.2603
+2016-02-04 08:04:24,876 - mnist - DEBUG - objective:15112.1618
+2016-02-04 08:05:42,244 - mnist - DEBUG - objective:15107.7589
+2016-02-04 08:06:59,884 - mnist - DEBUG - objective:15104.9639
+2016-02-04 08:08:17,114 - mnist - DEBUG - objective:15096.9966
+2016-02-04 08:09:35,104 - mnist - DEBUG - objective:15101.8453
+2016-02-04 08:10:52,527 - mnist - DEBUG - objective:15095.2900
+2016-02-04 08:12:09,827 - mnist - DEBUG - objective:15094.3911
+2016-02-04 08:13:27,086 - mnist - DEBUG - objective:15094.1048
+2016-02-04 08:14:45,139 - mnist - DEBUG - objective:15093.9694
+2016-02-04 08:14:45,139 - mnist - INFO - Iteration 2 started.
+2016-02-04 08:14:45,140 - mnist - INFO - MoG params
+2016-02-04 08:15:14,509 - mnist - DEBUG - objective:15093.9694
+2016-02-04 08:15:43,666 - mnist - DEBUG - objective:15085.5217
+2016-02-04 08:16:12,425 - mnist - DEBUG - objective:15078.7684
+2016-02-04 08:16:41,482 - mnist - DEBUG - objective:15075.9926
+2016-02-04 08:17:10,650 - mnist - DEBUG - objective:15072.4740
+2016-02-04 08:17:39,941 - mnist - DEBUG - objective:15070.4911
+2016-02-04 08:18:08,887 - mnist - DEBUG - objective:15067.9289
+2016-02-04 08:18:38,110 - mnist - DEBUG - objective:15066.2029
+2016-02-04 08:19:07,099 - mnist - DEBUG - objective:15064.5885
+2016-02-04 08:19:36,501 - mnist - DEBUG - objective:15061.6689
+2016-02-04 08:20:05,716 - mnist - DEBUG - objective:15062.7908
+2016-02-04 08:20:35,006 - mnist - DEBUG - objective:15060.3903
+2016-02-04 08:21:04,404 - mnist - DEBUG - objective:15058.5903
+2016-02-04 08:21:33,934 - mnist - DEBUG - objective:15057.6899
+2016-02-04 08:22:03,149 - mnist - DEBUG - objective:15056.8463
+2016-02-04 08:22:32,589 - mnist - DEBUG - objective:15056.1080
+2016-02-04 08:23:01,626 - mnist - DEBUG - objective:15055.4451
+2016-02-04 08:23:30,708 - mnist - DEBUG - objective:15054.8183
+2016-02-04 08:23:59,738 - mnist - DEBUG - objective:15054.3404
+2016-02-04 08:24:28,806 - mnist - DEBUG - objective:15053.9937
+2016-02-04 08:24:57,813 - mnist - DEBUG - objective:15053.5140
+2016-02-04 08:25:27,164 - mnist - DEBUG - objective:15053.2236
+2016-02-04 08:25:56,133 - mnist - DEBUG - objective:15053.0137
+2016-02-04 08:26:25,310 - mnist - DEBUG - objective:15052.6602
+2016-02-04 08:26:54,511 - mnist - DEBUG - objective:15052.4534
+2016-02-04 08:27:23,749 - mnist - DEBUG - objective:15052.2835
+2016-02-04 08:27:52,950 - mnist - DEBUG - objective:15051.8884
+2016-02-04 08:28:22,148 - mnist - DEBUG - objective:15051.6208
+2016-02-04 08:28:51,127 - mnist - DEBUG - objective:15051.2168
+2016-02-04 08:29:20,489 - mnist - DEBUG - objective:15050.8334
+2016-02-04 08:29:49,697 - mnist - DEBUG - objective:15050.5599
+2016-02-04 08:30:19,173 - mnist - DEBUG - objective:15050.1024
+2016-02-04 08:30:48,254 - mnist - DEBUG - objective:15049.7753
+2016-02-04 08:31:17,347 - mnist - DEBUG - objective:15049.4067
+2016-02-04 08:31:46,852 - mnist - DEBUG - objective:15049.1376
+2016-02-04 08:32:16,154 - mnist - DEBUG - objective:15048.8933
+2016-02-04 08:32:44,955 - mnist - DEBUG - objective:15048.5784
+2016-02-04 08:33:14,360 - mnist - DEBUG - objective:15048.1963
+2016-02-04 08:33:43,678 - mnist - DEBUG - objective:15047.9489
+2016-02-04 08:34:12,867 - mnist - DEBUG - objective:15047.5780
+2016-02-04 08:34:41,926 - mnist - DEBUG - objective:15047.7459
+2016-02-04 08:35:11,174 - mnist - DEBUG - objective:15047.4294
+2016-02-04 08:35:40,833 - mnist - DEBUG - objective:15047.1775
+2016-02-04 08:36:10,258 - mnist - DEBUG - objective:15046.8577
+2016-02-04 08:36:39,140 - mnist - DEBUG - objective:15046.8112
+2016-02-04 08:37:08,353 - mnist - DEBUG - objective:15046.4581
+2016-02-04 08:37:37,596 - mnist - DEBUG - objective:15046.3390
+2016-02-04 08:38:06,883 - mnist - DEBUG - objective:15046.1069
+2016-02-04 08:38:35,927 - mnist - DEBUG - objective:15046.0683
+2016-02-04 08:39:05,435 - mnist - DEBUG - objective:15045.7968
+2016-02-04 08:39:34,623 - mnist - DEBUG - objective:15045.6979
+2016-02-04 08:39:34,729 - mnist - INFO - Saving model...
+2016-02-04 08:39:37,462 - mnist - INFO - Model saved.
+2016-02-04 08:39:37,464 - mnist - DEBUG - ftol: 106.786139648
+2016-02-04 08:39:37,464 - mnist - INFO - diff:m:0.237444634072 s:0.00231059789764
+2016-02-04 08:39:37,464 - mnist - INFO - hyp params
+2016-02-04 08:40:55,316 - mnist - DEBUG - objective:15045.6979
+2016-02-04 08:42:13,356 - mnist - DEBUG - objective:16413.9084
+2016-02-04 08:43:32,007 - mnist - DEBUG - objective:15027.4135
+2016-02-04 08:44:50,129 - mnist - DEBUG - objective:15025.0558
+2016-02-04 08:46:08,355 - mnist - DEBUG - objective:15024.3383
+2016-02-04 08:47:26,588 - mnist - DEBUG - objective:15023.7309
+2016-02-04 08:48:44,801 - mnist - DEBUG - objective:15022.9514
+2016-02-04 08:50:03,098 - mnist - DEBUG - objective:15021.6397
+2016-02-04 08:51:21,629 - mnist - DEBUG - objective:15021.6734
+2016-02-04 08:52:39,580 - mnist - DEBUG - objective:15021.2051
+2016-02-04 08:53:57,835 - mnist - DEBUG - objective:15020.9981
+2016-02-04 08:53:57,835 - mnist - INFO - Iteration 3 started.
+2016-02-04 08:53:57,835 - mnist - INFO - MoG params
+2016-02-04 08:54:27,031 - mnist - DEBUG - objective:15020.9981
+2016-02-04 08:54:56,520 - mnist - DEBUG - objective:15021.4060
+2016-02-04 08:55:25,913 - mnist - DEBUG - objective:15016.1840
+2016-02-04 08:55:55,163 - mnist - DEBUG - objective:15013.6608
+2016-02-04 08:56:24,198 - mnist - DEBUG - objective:15011.9731
+2016-02-04 08:56:53,301 - mnist - DEBUG - objective:15010.5550
+2016-02-04 08:57:22,541 - mnist - DEBUG - objective:15009.5686
+2016-02-04 08:57:51,960 - mnist - DEBUG - objective:15008.8851
+2016-02-04 08:58:21,501 - mnist - DEBUG - objective:15007.9685
+2016-02-04 08:58:50,958 - mnist - DEBUG - objective:15007.4915
+2016-02-04 08:59:20,333 - mnist - DEBUG - objective:15006.9725
+2016-02-04 08:59:49,486 - mnist - DEBUG - objective:15006.5586
+2016-02-04 09:00:18,408 - mnist - DEBUG - objective:15006.2888
+2016-02-04 09:00:47,885 - mnist - DEBUG - objective:15005.7394
+2016-02-04 09:01:17,440 - mnist - DEBUG - objective:15006.3444
+2016-02-04 09:01:46,638 - mnist - DEBUG - objective:15005.6036
+2016-02-04 09:02:15,848 - mnist - DEBUG - objective:15005.4144
+2016-02-04 09:02:45,047 - mnist - DEBUG - objective:15005.2445
+2016-02-04 09:03:14,410 - mnist - DEBUG - objective:15005.0690
+2016-02-04 09:03:43,620 - mnist - DEBUG - objective:15004.9342
+2016-02-04 09:04:13,091 - mnist - DEBUG - objective:15004.8223
+2016-02-04 09:04:42,302 - mnist - DEBUG - objective:15004.7038
+2016-02-04 09:05:11,300 - mnist - DEBUG - objective:15004.6155
+2016-02-04 09:05:40,614 - mnist - DEBUG - objective:15004.5236
+2016-02-04 09:06:10,403 - mnist - DEBUG - objective:15004.4448
+2016-02-04 09:06:39,585 - mnist - DEBUG - objective:15004.3858
+2016-02-04 09:07:09,366 - mnist - DEBUG - objective:15004.3194
+2016-02-04 09:07:38,784 - mnist - DEBUG - objective:15004.2300
+2016-02-04 09:08:08,171 - mnist - DEBUG - objective:15004.1348
+2016-02-04 09:08:37,732 - mnist - DEBUG - objective:15004.0539
+2016-02-04 09:09:06,951 - mnist - DEBUG - objective:15003.9302
+2016-02-04 09:09:35,982 - mnist - DEBUG - objective:15003.8645
+2016-02-04 09:10:05,230 - mnist - DEBUG - objective:15003.7806
+2016-02-04 09:10:34,762 - mnist - DEBUG - objective:15003.6753
+2016-02-04 09:11:04,266 - mnist - DEBUG - objective:15003.6372
+2016-02-04 09:11:33,801 - mnist - DEBUG - objective:15003.5800
+2016-02-04 09:12:02,985 - mnist - DEBUG - objective:15003.5307
+2016-02-04 09:12:32,127 - mnist - DEBUG - objective:15003.4897
+2016-02-04 09:13:01,416 - mnist - DEBUG - objective:15003.4381
+2016-02-04 09:13:30,623 - mnist - DEBUG - objective:15003.4084
+2016-02-04 09:14:00,046 - mnist - DEBUG - objective:15003.3695
+2016-02-04 09:14:29,470 - mnist - DEBUG - objective:15003.3182
+2016-02-04 09:14:59,039 - mnist - DEBUG - objective:15003.2419
+2016-02-04 09:15:28,317 - mnist - DEBUG - objective:15003.1921
+2016-02-04 09:15:57,908 - mnist - DEBUG - objective:15003.1115
+2016-02-04 09:16:27,550 - mnist - DEBUG - objective:15003.0177
+2016-02-04 09:16:56,679 - mnist - DEBUG - objective:15002.9466
+2016-02-04 09:17:26,045 - mnist - DEBUG - objective:15002.8469
+2016-02-04 09:17:55,355 - mnist - DEBUG - objective:15002.7591
+2016-02-04 09:18:24,739 - mnist - DEBUG - objective:15002.6986
+2016-02-04 09:18:53,780 - mnist - DEBUG - objective:15002.6368
+2016-02-04 09:18:53,862 - mnist - INFO - Saving model...
+2016-02-04 09:18:56,526 - mnist - INFO - Model saved.
+2016-02-04 09:18:56,528 - mnist - DEBUG - ftol: 43.0611745429
+2016-02-04 09:18:56,529 - mnist - INFO - diff:m:0.143008876392 s:0.0012593258249
+2016-02-04 09:18:56,529 - mnist - INFO - hyp params
+2016-02-04 09:20:13,927 - mnist - DEBUG - objective:15002.6368
+2016-02-04 09:21:31,809 - mnist - DEBUG - objective:17157.1082
+2016-02-04 09:22:50,098 - mnist - DEBUG - objective:14993.9703
+2016-02-04 09:24:08,158 - mnist - DEBUG - objective:14992.5523
+2016-02-04 09:25:26,106 - mnist - DEBUG - objective:14992.2186
+2016-02-04 09:26:43,853 - mnist - DEBUG - objective:14992.0641
+2016-02-04 09:28:01,662 - mnist - DEBUG - objective:14991.8086
+2016-02-04 09:29:19,683 - mnist - DEBUG - objective:14991.2077
+2016-02-04 09:30:37,529 - mnist - DEBUG - objective:14991.0471
+2016-02-04 09:31:55,230 - mnist - DEBUG - objective:14990.5824
+2016-02-04 09:33:13,346 - mnist - DEBUG - objective:14990.5246
+2016-02-04 09:33:13,347 - mnist - INFO - Iteration 4 started.
+2016-02-04 09:33:13,347 - mnist - INFO - MoG params
+2016-02-04 09:33:42,587 - mnist - DEBUG - objective:14990.5246
+2016-02-04 09:34:11,905 - mnist - DEBUG - objective:14995.7810
+2016-02-04 09:34:41,206 - mnist - DEBUG - objective:14987.5946
+2016-02-04 09:35:10,820 - mnist - DEBUG - objective:14986.1477
+2016-02-04 09:35:40,280 - mnist - DEBUG - objective:14985.2022
+2016-02-04 09:36:09,461 - mnist - DEBUG - objective:14984.3296
+2016-02-04 09:36:38,939 - mnist - DEBUG - objective:14983.7863
+2016-02-04 09:37:08,246 - mnist - DEBUG - objective:14983.3882
+2016-02-04 09:37:37,467 - mnist - DEBUG - objective:14982.9236
+2016-02-04 09:38:06,668 - mnist - DEBUG - objective:14982.5942
+2016-02-04 09:38:35,970 - mnist - DEBUG - objective:14982.2402
+2016-02-04 09:39:04,775 - mnist - DEBUG - objective:14982.0156
+2016-02-04 09:39:33,780 - mnist - DEBUG - objective:14981.8196
+2016-02-04 09:40:03,076 - mnist - DEBUG - objective:14981.6457
+2016-02-04 09:40:32,538 - mnist - DEBUG - objective:14981.5310
+2016-02-04 09:41:01,871 - mnist - DEBUG - objective:14981.4069
+2016-02-04 09:41:30,822 - mnist - DEBUG - objective:14981.3340
+2016-02-04 09:42:00,073 - mnist - DEBUG - objective:14981.2351
+2016-02-04 09:42:29,069 - mnist - DEBUG - objective:14981.1675
+2016-02-04 09:42:58,426 - mnist - DEBUG - objective:14981.1027
+2016-02-04 09:43:27,544 - mnist - DEBUG - objective:14981.0629
+2016-02-04 09:43:56,650 - mnist - DEBUG - objective:14981.0200
+2016-02-04 09:44:25,488 - mnist - DEBUG - objective:14980.9809
+2016-02-04 09:44:54,648 - mnist - DEBUG - objective:14980.9501
+2016-02-04 09:45:23,741 - mnist - DEBUG - objective:14980.9229
+2016-02-04 09:45:53,216 - mnist - DEBUG - objective:14980.8982
+2016-02-04 09:46:22,296 - mnist - DEBUG - objective:14980.8697
+2016-02-04 09:46:51,279 - mnist - DEBUG - objective:14980.8325
+2016-02-04 09:47:20,504 - mnist - DEBUG - objective:14980.7925
+2016-02-04 09:47:49,334 - mnist - DEBUG - objective:14980.7505
+2016-02-04 09:48:18,508 - mnist - DEBUG - objective:14980.6949
+2016-02-04 09:48:47,487 - mnist - DEBUG - objective:14980.6510
+2016-02-04 09:49:16,236 - mnist - DEBUG - objective:14980.6156
+2016-02-04 09:49:45,343 - mnist - DEBUG - objective:14980.5817
+2016-02-04 09:50:14,560 - mnist - DEBUG - objective:14980.5576
+2016-02-04 09:50:43,623 - mnist - DEBUG - objective:14980.5353
+2016-02-04 09:51:12,859 - mnist - DEBUG - objective:14980.5134
+2016-02-04 09:51:41,874 - mnist - DEBUG - objective:14980.5177
+2016-02-04 09:52:11,102 - mnist - DEBUG - objective:14980.5059
+2016-02-04 09:52:40,442 - mnist - DEBUG - objective:14980.4928
+2016-02-04 09:53:09,507 - mnist - DEBUG - objective:14980.4788
+2016-02-04 09:53:38,702 - mnist - DEBUG - objective:14980.4868
+2016-02-04 09:54:07,838 - mnist - DEBUG - objective:14980.4655
+2016-02-04 09:54:36,868 - mnist - DEBUG - objective:14980.4458
+2016-02-04 09:55:06,284 - mnist - DEBUG - objective:14980.4182
+2016-02-04 09:55:35,130 - mnist - DEBUG - objective:14980.3806
+2016-02-04 09:56:04,207 - mnist - DEBUG - objective:14980.3372
+2016-02-04 09:56:33,702 - mnist - DEBUG - objective:14980.3018
+2016-02-04 09:57:02,947 - mnist - DEBUG - objective:14980.2544
+2016-02-04 09:57:31,858 - mnist - DEBUG - objective:14980.2101
+2016-02-04 09:58:00,579 - mnist - DEBUG - objective:14980.2017
+2016-02-04 09:58:00,660 - mnist - INFO - Saving model...
+2016-02-04 09:58:03,292 - mnist - INFO - Model saved.
+2016-02-04 09:58:03,294 - mnist - DEBUG - ftol: 22.435005627
+2016-02-04 09:58:03,294 - mnist - INFO - diff:m:0.0916026000444 s:0.000834650154647
+2016-02-04 09:58:03,294 - mnist - INFO - hyp params
+2016-02-04 09:59:19,685 - mnist - DEBUG - objective:14980.2017
+2016-02-04 10:00:36,941 - mnist - DEBUG - objective:17774.1130
+2016-02-04 10:01:54,268 - mnist - DEBUG - objective:14975.0954
+2016-02-04 10:03:11,475 - mnist - DEBUG - objective:14974.1574
+2016-02-04 10:04:28,641 - mnist - DEBUG - objective:14973.9479
+2016-02-04 10:05:45,859 - mnist - DEBUG - objective:14973.8721
+2016-02-04 10:07:03,159 - mnist - DEBUG - objective:14973.7444
+2016-02-04 10:08:19,757 - mnist - DEBUG - objective:14973.4301
+2016-02-04 10:09:36,467 - mnist - DEBUG - objective:14973.0809
+2016-02-04 10:10:53,933 - mnist - DEBUG - objective:14973.5237
+2016-02-04 10:12:11,003 - mnist - DEBUG - objective:14972.9636
+2016-02-04 10:12:11,003 - mnist - INFO - Iteration 5 started.
+2016-02-04 10:12:11,003 - mnist - INFO - MoG params
+2016-02-04 10:12:40,490 - mnist - DEBUG - objective:14972.9636
+2016-02-04 10:13:09,989 - mnist - DEBUG - objective:14982.9361
+2016-02-04 10:13:39,584 - mnist - DEBUG - objective:14971.1538
+2016-02-04 10:14:08,383 - mnist - DEBUG - objective:14970.2639
+2016-02-04 10:14:37,620 - mnist - DEBUG - objective:14969.7098
+2016-02-04 10:15:06,729 - mnist - DEBUG - objective:14969.1321
+2016-02-04 10:15:35,738 - mnist - DEBUG - objective:14968.8381
+2016-02-04 10:16:04,758 - mnist - DEBUG - objective:14968.5403
+2016-02-04 10:16:33,941 - mnist - DEBUG - objective:14968.3209
+2016-02-04 10:17:02,744 - mnist - DEBUG - objective:14968.1264
+2016-02-04 10:17:31,713 - mnist - DEBUG - objective:14968.0270
+2016-02-04 10:18:00,749 - mnist - DEBUG - objective:14967.7981
+2016-02-04 10:18:29,963 - mnist - DEBUG - objective:14967.7481
+2016-02-04 10:18:58,986 - mnist - DEBUG - objective:14967.6540
+2016-02-04 10:19:27,887 - mnist - DEBUG - objective:14967.5371
+2016-02-04 10:19:56,859 - mnist - DEBUG - objective:14967.5450
+2016-02-04 10:20:25,595 - mnist - DEBUG - objective:14967.4625
+2016-02-04 10:20:54,388 - mnist - DEBUG - objective:14967.3888
+2016-02-04 10:21:23,558 - mnist - DEBUG - objective:14967.3533
+2016-02-04 10:21:52,386 - mnist - DEBUG - objective:14967.3073
+2016-02-04 10:22:21,533 - mnist - DEBUG - objective:14967.2467
+2016-02-04 10:22:50,584 - mnist - DEBUG - objective:14967.2265
+2016-02-04 10:23:19,479 - mnist - DEBUG - objective:14967.1894
+2016-02-04 10:23:48,180 - mnist - DEBUG - objective:14967.1782
+2016-02-04 10:24:17,259 - mnist - DEBUG - objective:14967.1569
+2016-02-04 10:24:46,567 - mnist - DEBUG - objective:14967.1620
+2016-02-04 10:25:15,686 - mnist - DEBUG - objective:14967.1480
+2016-02-04 10:25:44,556 - mnist - DEBUG - objective:14967.1309
+2016-02-04 10:26:13,333 - mnist - DEBUG - objective:14967.1137
+2016-02-04 10:26:42,537 - mnist - DEBUG - objective:14967.0928
+2016-02-04 10:27:11,573 - mnist - DEBUG - objective:14967.0820
+2016-02-04 10:27:40,433 - mnist - DEBUG - objective:14967.0723
+2016-02-04 10:28:09,450 - mnist - DEBUG - objective:14967.0532
+2016-02-04 10:28:38,554 - mnist - DEBUG - objective:14967.0265
+2016-02-04 10:29:07,394 - mnist - DEBUG - objective:14967.0034
+2016-02-04 10:29:36,506 - mnist - DEBUG - objective:14966.9846
+2016-02-04 10:30:05,333 - mnist - DEBUG - objective:14966.9707
+2016-02-04 10:30:34,093 - mnist - DEBUG - objective:14966.9610
+2016-02-04 10:31:03,100 - mnist - DEBUG - objective:14966.9711
+2016-02-04 10:31:32,008 - mnist - DEBUG - objective:14966.9549
+2016-02-04 10:32:01,001 - mnist - DEBUG - objective:14966.9511
+2016-02-04 10:32:30,053 - mnist - DEBUG - objective:14966.9589
+2016-02-04 10:32:58,933 - mnist - DEBUG - objective:14966.9495
+2016-02-04 10:33:27,771 - mnist - DEBUG - objective:14966.9512
+2016-02-04 10:33:56,716 - mnist - DEBUG - objective:14966.9473
+2016-02-04 10:34:25,661 - mnist - DEBUG - objective:14966.9708
+2016-02-04 10:34:54,557 - mnist - DEBUG - objective:14966.9451
+2016-02-04 10:35:23,384 - mnist - DEBUG - objective:14966.9782
+2016-02-04 10:35:52,271 - mnist - DEBUG - objective:14966.9404
+2016-02-04 10:36:21,055 - mnist - DEBUG - objective:14966.9647
+2016-02-04 10:36:49,906 - mnist - DEBUG - objective:14966.9390
+2016-02-04 10:36:49,990 - mnist - INFO - Saving model...
+2016-02-04 10:36:52,676 - mnist - INFO - Model saved.
+2016-02-04 10:36:52,678 - mnist - DEBUG - ftol: 13.26277082
+2016-02-04 10:36:52,678 - mnist - INFO - diff:m:0.0444003636024 s:0.000538088936653
+2016-02-04 10:36:52,678 - mnist - INFO - hyp params
+2016-02-04 10:38:09,276 - mnist - DEBUG - objective:14966.9390
+2016-02-04 10:39:26,396 - mnist - DEBUG - objective:18313.9110
+2016-02-04 10:40:43,097 - mnist - DEBUG - objective:14963.9532
+2016-02-04 10:41:59,718 - mnist - DEBUG - objective:14963.3803
+2016-02-04 10:43:16,244 - mnist - DEBUG - objective:14963.2478
+2016-02-04 10:44:33,104 - mnist - DEBUG - objective:14963.2077
+2016-02-04 10:45:50,350 - mnist - DEBUG - objective:14963.1287
+2016-02-04 10:47:07,032 - mnist - DEBUG - objective:14962.9715
+2016-02-04 10:48:23,548 - mnist - DEBUG - objective:14962.7168
+2016-02-04 10:49:40,519 - mnist - DEBUG - objective:14964.1015
+2016-02-04 10:50:57,283 - mnist - DEBUG - objective:14962.6802
+2016-02-04 10:50:57,283 - mnist - INFO - Iteration 6 started.
+2016-02-04 10:50:57,284 - mnist - INFO - MoG params
+2016-02-04 10:51:26,572 - mnist - DEBUG - objective:14962.6802
+2016-02-04 10:51:55,994 - mnist - DEBUG - objective:14974.5570
+2016-02-04 10:52:25,300 - mnist - DEBUG - objective:14961.5247
+2016-02-04 10:52:54,409 - mnist - DEBUG - objective:14961.0096
+2016-02-04 10:53:23,447 - mnist - DEBUG - objective:14960.6735
+2016-02-04 10:53:52,414 - mnist - DEBUG - objective:14960.3347
+2016-02-04 10:54:21,356 - mnist - DEBUG - objective:14960.0901
+2016-02-04 10:54:50,199 - mnist - DEBUG - objective:14959.9312
+2016-02-04 10:55:19,284 - mnist - DEBUG - objective:14959.8186
+2016-02-04 10:55:48,316 - mnist - DEBUG - objective:14959.7085
+2016-02-04 10:56:17,426 - mnist - DEBUG - objective:14959.6347
+2016-02-04 10:56:46,448 - mnist - DEBUG - objective:14959.5280
+2016-02-04 10:57:14,896 - mnist - DEBUG - objective:14959.4963
+2016-02-04 10:57:43,940 - mnist - DEBUG - objective:14959.4431
+2016-02-04 10:58:12,836 - mnist - DEBUG - objective:14959.3782
+2016-02-04 10:58:42,296 - mnist - DEBUG - objective:14959.3401
+2016-02-04 10:59:11,249 - mnist - DEBUG - objective:14959.3091
+2016-02-04 10:59:40,275 - mnist - DEBUG - objective:14959.2939
+2016-02-04 11:00:09,005 - mnist - DEBUG - objective:14959.2706
+2016-02-04 11:00:38,052 - mnist - DEBUG - objective:14959.2752
+2016-02-04 11:01:06,912 - mnist - DEBUG - objective:14959.2617
+2016-02-04 11:01:35,849 - mnist - DEBUG - objective:14959.2369
+2016-02-04 11:02:04,819 - mnist - DEBUG - objective:14959.2196
+2016-02-04 11:02:33,539 - mnist - DEBUG - objective:14959.1969
+2016-02-04 11:03:02,736 - mnist - DEBUG - objective:14959.1875
+2016-02-04 11:03:31,617 - mnist - DEBUG - objective:14959.1778
+2016-02-04 11:04:00,262 - mnist - DEBUG - objective:14959.1662
+2016-02-04 11:04:29,089 - mnist - DEBUG - objective:14959.1505
+2016-02-04 11:04:57,957 - mnist - DEBUG - objective:14959.1322
+2016-02-04 11:05:27,000 - mnist - DEBUG - objective:14959.1107
+2016-02-04 11:05:56,213 - mnist - DEBUG - objective:14959.0897
+2016-02-04 11:06:25,139 - mnist - DEBUG - objective:14959.0657
+2016-02-04 11:06:54,132 - mnist - DEBUG - objective:14959.0323
+2016-02-04 11:07:23,330 - mnist - DEBUG - objective:14959.0235
+2016-02-04 11:07:52,343 - mnist - DEBUG - objective:14959.0106
+2016-02-04 11:08:21,319 - mnist - DEBUG - objective:14958.9998
+2016-02-04 11:08:50,626 - mnist - DEBUG - objective:14958.9772
+2016-02-04 11:09:19,307 - mnist - DEBUG - objective:14958.9702
+2016-02-04 11:09:48,255 - mnist - DEBUG - objective:14958.9654
+2016-02-04 11:10:16,999 - mnist - DEBUG - objective:14958.9625
+2016-02-04 11:10:45,888 - mnist - DEBUG - objective:14958.9618
+2016-02-04 11:11:14,618 - mnist - DEBUG - objective:14958.9569
+2016-02-04 11:11:43,569 - mnist - DEBUG - objective:14958.9492
+2016-02-04 11:12:12,376 - mnist - DEBUG - objective:14958.9449
+2016-02-04 11:12:41,240 - mnist - DEBUG - objective:14958.9322
+2016-02-04 11:13:10,110 - mnist - DEBUG - objective:14958.9212
+2016-02-04 11:13:39,193 - mnist - DEBUG - objective:14958.9032
+2016-02-04 11:14:08,171 - mnist - DEBUG - objective:14958.8809
+2016-02-04 11:14:37,295 - mnist - DEBUG - objective:14958.8554
+2016-02-04 11:15:06,249 - mnist - DEBUG - objective:14958.8377
+2016-02-04 11:15:35,086 - mnist - DEBUG - objective:14958.8290
+2016-02-04 11:15:35,167 - mnist - INFO - Saving model...
+2016-02-04 11:15:37,719 - mnist - INFO - Model saved.
+2016-02-04 11:15:37,721 - mnist - DEBUG - ftol: 8.1099486898
+2016-02-04 11:15:37,721 - mnist - INFO - diff:m:0.0610180014291 s:0.000412510306616
+2016-02-04 11:15:37,721 - mnist - INFO - best obj found: 14958.8290266
+2016-02-04 11:15:37,722 - mnist - DEBUG - prediction started...
+2016-02-04 11:17:02,464 - mnist - DEBUG - prediction finished

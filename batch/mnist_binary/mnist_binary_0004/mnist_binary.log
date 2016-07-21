@@ -1,0 +1,374 @@
+2016-02-01 18:25:17,155 - mnist_binary - INFO - experiment started for:{'run_id': 0, 'max_iter': 300, 'optimization_config': {'hyp': 15, 'mog': 60}, 'xtol': 0.001, 'git_hash': '5a20a6cbfa2bc18023bde97098007afb912d59fd', 'model_init': None, 'ftol': 10, 'latent_noise:': 0.001, 'sparsity_factor': 0.004, 'll': 'LogisticLL', 'sample_num': 2000, 'experiment': 'mnist_binary', 'git_branch': 'exp_framework', 'random_Z': False, 'method': 'full'}
+2016-02-01 18:25:24,783 - mnist_binary - INFO - Iteration 0 started.
+2016-02-01 18:25:24,783 - mnist_binary - INFO - MoG params
+2016-02-01 18:25:27,595 - mnist_binary - DEBUG - objective:116118.5045
+2016-02-01 18:25:30,571 - mnist_binary - DEBUG - objective:113209.3557
+2016-02-01 18:25:33,688 - mnist_binary - DEBUG - objective:102274.2568
+2016-02-01 18:25:36,470 - mnist_binary - DEBUG - objective:73059.5018
+2016-02-01 18:25:39,436 - mnist_binary - DEBUG - objective:89141.2273
+2016-02-01 18:25:42,355 - mnist_binary - DEBUG - objective:57705.5642
+2016-02-01 18:25:45,151 - mnist_binary - DEBUG - objective:48657.9505
+2016-02-01 18:25:48,115 - mnist_binary - DEBUG - objective:121724.5235
+2016-02-01 18:25:50,886 - mnist_binary - DEBUG - objective:28279.7947
+2016-02-01 18:25:53,823 - mnist_binary - DEBUG - objective:21261.5006
+2016-02-01 18:25:56,602 - mnist_binary - DEBUG - objective:16016.8779
+2016-02-01 18:25:59,544 - mnist_binary - DEBUG - objective:13396.9523
+2016-02-01 18:26:02,279 - mnist_binary - DEBUG - objective:11996.6048
+2016-02-01 18:26:05,052 - mnist_binary - DEBUG - objective:11006.6857
+2016-02-01 18:26:07,848 - mnist_binary - DEBUG - objective:10504.0378
+2016-02-01 18:26:10,567 - mnist_binary - DEBUG - objective:10227.9408
+2016-02-01 18:26:13,530 - mnist_binary - DEBUG - objective:10068.2080
+2016-02-01 18:26:16,351 - mnist_binary - DEBUG - objective:9913.8012
+2016-02-01 18:26:19,135 - mnist_binary - DEBUG - objective:9798.0433
+2016-02-01 18:26:22,060 - mnist_binary - DEBUG - objective:9718.9919
+2016-02-01 18:26:24,947 - mnist_binary - DEBUG - objective:9645.9546
+2016-02-01 18:26:27,899 - mnist_binary - DEBUG - objective:9602.8061
+2016-02-01 18:26:30,699 - mnist_binary - DEBUG - objective:9578.5883
+2016-02-01 18:26:33,596 - mnist_binary - DEBUG - objective:9551.7610
+2016-02-01 18:26:36,438 - mnist_binary - DEBUG - objective:9536.1962
+2016-02-01 18:26:39,364 - mnist_binary - DEBUG - objective:9526.8589
+2016-02-01 18:26:43,273 - mnist_binary - DEBUG - objective:9512.2155
+2016-02-01 18:26:47,480 - mnist_binary - DEBUG - objective:9509.0880
+2016-02-01 18:26:52,087 - mnist_binary - DEBUG - objective:9503.0524
+2016-02-01 18:26:56,639 - mnist_binary - DEBUG - objective:9504.1576
+2016-02-01 18:27:01,156 - mnist_binary - DEBUG - objective:9500.3883
+2016-02-01 18:27:05,700 - mnist_binary - DEBUG - objective:9497.7281
+2016-02-01 18:27:10,431 - mnist_binary - DEBUG - objective:9495.4329
+2016-02-01 18:27:15,243 - mnist_binary - DEBUG - objective:9493.9240
+2016-02-01 18:27:19,585 - mnist_binary - DEBUG - objective:9492.5492
+2016-02-01 18:27:24,099 - mnist_binary - DEBUG - objective:9491.5552
+2016-02-01 18:27:28,612 - mnist_binary - DEBUG - objective:9490.5721
+2016-02-01 18:27:33,215 - mnist_binary - DEBUG - objective:9489.8198
+2016-02-01 18:27:37,744 - mnist_binary - DEBUG - objective:9489.2586
+2016-02-01 18:27:42,440 - mnist_binary - DEBUG - objective:9488.4537
+2016-02-01 18:27:47,051 - mnist_binary - DEBUG - objective:9488.1252
+2016-02-01 18:27:51,720 - mnist_binary - DEBUG - objective:9487.7857
+2016-02-01 18:27:56,251 - mnist_binary - DEBUG - objective:9487.4248
+2016-02-01 18:28:00,912 - mnist_binary - DEBUG - objective:9487.2663
+2016-02-01 18:28:05,737 - mnist_binary - DEBUG - objective:9487.0860
+2016-02-01 18:28:10,602 - mnist_binary - DEBUG - objective:9486.8901
+2016-02-01 18:28:15,156 - mnist_binary - DEBUG - objective:9486.8099
+2016-02-01 18:28:19,717 - mnist_binary - DEBUG - objective:9486.6602
+2016-02-01 18:28:24,183 - mnist_binary - DEBUG - objective:9486.6574
+2016-02-01 18:28:28,844 - mnist_binary - DEBUG - objective:9486.5753
+2016-02-01 18:28:33,575 - mnist_binary - DEBUG - objective:9486.4740
+2016-02-01 18:28:38,168 - mnist_binary - DEBUG - objective:9486.3501
+2016-02-01 18:28:42,840 - mnist_binary - DEBUG - objective:9486.2428
+2016-02-01 18:28:47,295 - mnist_binary - DEBUG - objective:9486.1088
+2016-02-01 18:28:51,784 - mnist_binary - DEBUG - objective:9485.9586
+2016-02-01 18:28:56,132 - mnist_binary - DEBUG - objective:9485.7990
+2016-02-01 18:29:00,781 - mnist_binary - DEBUG - objective:9485.6416
+2016-02-01 18:29:05,315 - mnist_binary - DEBUG - objective:9485.4606
+2016-02-01 18:29:09,999 - mnist_binary - DEBUG - objective:9485.2444
+2016-02-01 18:29:14,475 - mnist_binary - DEBUG - objective:9485.1164
+2016-02-01 18:29:19,095 - mnist_binary - DEBUG - objective:9484.9392
+2016-02-01 18:29:19,123 - mnist_binary - INFO - Saving model...
+2016-02-01 18:29:19,466 - mnist_binary - INFO - Model saved.
+2016-02-01 18:29:19,466 - mnist_binary - INFO - hyp params
+2016-02-01 18:29:34,973 - mnist_binary - DEBUG - objective:9484.9392
+2016-02-01 18:29:50,328 - mnist_binary - DEBUG - objective:13550.6165
+2016-02-01 18:30:05,686 - mnist_binary - DEBUG - objective:9459.8712
+2016-02-01 18:30:20,955 - mnist_binary - DEBUG - objective:9422.0311
+2016-02-01 18:30:35,856 - mnist_binary - DEBUG - objective:9299.9988
+2016-02-01 18:30:51,381 - mnist_binary - DEBUG - objective:9192.4513
+2016-02-01 18:31:07,412 - mnist_binary - DEBUG - objective:9191.1096
+2016-02-01 18:31:23,612 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:31:39,959 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:31:56,093 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:32:12,100 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:32:28,472 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:32:44,682 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:33:00,698 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:33:17,133 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:33:33,296 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:33:49,361 - mnist_binary - INFO - Iteration 1 started.
+2016-02-01 18:33:49,361 - mnist_binary - INFO - MoG params
+2016-02-01 18:33:54,161 - mnist_binary - DEBUG - objective:9191.0763
+2016-02-01 18:33:58,703 - mnist_binary - DEBUG - objective:9158.6961
+2016-02-01 18:34:03,480 - mnist_binary - DEBUG - objective:9146.4904
+2016-02-01 18:34:07,988 - mnist_binary - DEBUG - objective:9139.7682
+2016-02-01 18:34:12,646 - mnist_binary - DEBUG - objective:9134.5579
+2016-02-01 18:34:17,459 - mnist_binary - DEBUG - objective:9131.6159
+2016-02-01 18:34:22,085 - mnist_binary - DEBUG - objective:9129.6269
+2016-02-01 18:34:26,708 - mnist_binary - DEBUG - objective:9128.1076
+2016-02-01 18:34:31,123 - mnist_binary - DEBUG - objective:9127.2051
+2016-02-01 18:34:35,520 - mnist_binary - DEBUG - objective:9126.4180
+2016-02-01 18:34:40,128 - mnist_binary - DEBUG - objective:9125.8582
+2016-02-01 18:34:44,535 - mnist_binary - DEBUG - objective:9125.5104
+2016-02-01 18:34:49,216 - mnist_binary - DEBUG - objective:9125.1493
+2016-02-01 18:34:53,759 - mnist_binary - DEBUG - objective:9124.9110
+2016-02-01 18:34:58,171 - mnist_binary - DEBUG - objective:9124.7669
+2016-02-01 18:35:02,711 - mnist_binary - DEBUG - objective:9124.5809
+2016-02-01 18:35:07,251 - mnist_binary - DEBUG - objective:9124.4843
+2016-02-01 18:35:11,642 - mnist_binary - DEBUG - objective:9124.3916
+2016-02-01 18:35:16,164 - mnist_binary - DEBUG - objective:9124.3398
+2016-02-01 18:35:20,737 - mnist_binary - DEBUG - objective:9124.3066
+2016-02-01 18:35:25,239 - mnist_binary - DEBUG - objective:9124.2721
+2016-02-01 18:35:29,682 - mnist_binary - DEBUG - objective:9124.2477
+2016-02-01 18:35:34,011 - mnist_binary - DEBUG - objective:9124.2307
+2016-02-01 18:35:38,396 - mnist_binary - DEBUG - objective:9124.2133
+2016-02-01 18:35:43,007 - mnist_binary - DEBUG - objective:9124.1967
+2016-02-01 18:35:47,483 - mnist_binary - DEBUG - objective:9124.1869
+2016-02-01 18:35:51,951 - mnist_binary - DEBUG - objective:9124.1830
+2016-02-01 18:35:56,556 - mnist_binary - DEBUG - objective:9124.1790
+2016-02-01 18:36:00,827 - mnist_binary - DEBUG - objective:9124.1766
+2016-02-01 18:36:05,322 - mnist_binary - DEBUG - objective:9124.1705
+2016-02-01 18:36:09,899 - mnist_binary - DEBUG - objective:9124.1678
+2016-02-01 18:36:14,456 - mnist_binary - DEBUG - objective:9124.1639
+2016-02-01 18:36:18,912 - mnist_binary - DEBUG - objective:9124.1600
+2016-02-01 18:36:23,464 - mnist_binary - DEBUG - objective:9124.1585
+2016-02-01 18:36:27,919 - mnist_binary - DEBUG - objective:9124.1579
+2016-02-01 18:36:32,350 - mnist_binary - DEBUG - objective:9124.1573
+2016-02-01 18:36:36,944 - mnist_binary - DEBUG - objective:9124.1576
+2016-02-01 18:36:41,326 - mnist_binary - DEBUG - objective:9124.1573
+2016-02-01 18:36:46,159 - mnist_binary - DEBUG - objective:9124.1576
+2016-02-01 18:36:50,617 - mnist_binary - DEBUG - objective:9124.1572
+2016-02-01 18:36:55,128 - mnist_binary - DEBUG - objective:9124.1578
+2016-02-01 18:36:59,682 - mnist_binary - DEBUG - objective:9124.1571
+2016-02-01 18:37:04,147 - mnist_binary - DEBUG - objective:9124.1573
+2016-02-01 18:37:08,599 - mnist_binary - DEBUG - objective:9124.1570
+2016-02-01 18:37:13,004 - mnist_binary - DEBUG - objective:9124.1568
+2016-02-01 18:37:17,498 - mnist_binary - DEBUG - objective:9124.1565
+2016-02-01 18:37:22,036 - mnist_binary - DEBUG - objective:9124.1563
+2016-02-01 18:37:26,556 - mnist_binary - DEBUG - objective:9124.1560
+2016-02-01 18:37:31,083 - mnist_binary - DEBUG - objective:9124.1555
+2016-02-01 18:37:35,680 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:37:40,163 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:37:44,779 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:37:49,651 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:37:54,202 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:37:59,119 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:03,948 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:08,472 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:13,230 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:17,903 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:22,694 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:27,672 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:38:32,164 - mnist_binary - INFO - Saving model...
+2016-02-01 18:38:32,726 - mnist_binary - INFO - Model saved.
+2016-02-01 18:38:32,727 - mnist_binary - DEBUG - ftol: 360.783953402
+2016-02-01 18:38:32,728 - mnist_binary - INFO - diff:m:0.188964336887 s:0.00245612755098
+2016-02-01 18:38:32,728 - mnist_binary - INFO - hyp params
+2016-02-01 18:38:49,060 - mnist_binary - DEBUG - objective:9124.1553
+2016-02-01 18:39:04,975 - mnist_binary - DEBUG - objective:37831.0780
+2016-02-01 18:39:21,495 - mnist_binary - DEBUG - objective:9114.4291
+2016-02-01 18:39:37,983 - mnist_binary - DEBUG - objective:9112.7047
+2016-02-01 18:39:54,287 - mnist_binary - DEBUG - objective:9112.4427
+2016-02-01 18:40:10,780 - mnist_binary - DEBUG - objective:9111.6462
+2016-02-01 18:40:26,982 - mnist_binary - DEBUG - objective:9109.3478
+2016-02-01 18:40:43,154 - mnist_binary - DEBUG - objective:9107.3789
+2016-02-01 18:40:59,435 - mnist_binary - DEBUG - objective:9107.1549
+2016-02-01 18:41:14,919 - mnist_binary - DEBUG - objective:9107.1442
+2016-02-01 18:41:30,288 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:41:45,751 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:01,145 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:16,559 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:31,970 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:47,183 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:47,183 - mnist_binary - INFO - Iteration 2 started.
+2016-02-01 18:42:47,183 - mnist_binary - INFO - MoG params
+2016-02-01 18:42:51,689 - mnist_binary - DEBUG - objective:9107.1441
+2016-02-01 18:42:56,167 - mnist_binary - DEBUG - objective:9111.4528
+2016-02-01 18:43:00,658 - mnist_binary - DEBUG - objective:9103.8186
+2016-02-01 18:43:05,079 - mnist_binary - DEBUG - objective:9102.2020
+2016-02-01 18:43:09,457 - mnist_binary - DEBUG - objective:9101.2523
+2016-02-01 18:43:14,146 - mnist_binary - DEBUG - objective:9099.7094
+2016-02-01 18:43:18,628 - mnist_binary - DEBUG - objective:9099.3036
+2016-02-01 18:43:23,290 - mnist_binary - DEBUG - objective:9098.6539
+2016-02-01 18:43:27,786 - mnist_binary - DEBUG - objective:9098.2945
+2016-02-01 18:43:32,212 - mnist_binary - DEBUG - objective:9097.9969
+2016-02-01 18:43:36,916 - mnist_binary - DEBUG - objective:9097.7106
+2016-02-01 18:43:41,477 - mnist_binary - DEBUG - objective:9097.4341
+2016-02-01 18:43:45,985 - mnist_binary - DEBUG - objective:9097.3473
+2016-02-01 18:43:50,555 - mnist_binary - DEBUG - objective:9097.2177
+2016-02-01 18:43:55,190 - mnist_binary - DEBUG - objective:9097.1395
+2016-02-01 18:43:59,795 - mnist_binary - DEBUG - objective:9097.0453
+2016-02-01 18:44:04,306 - mnist_binary - DEBUG - objective:9096.9982
+2016-02-01 18:44:08,792 - mnist_binary - DEBUG - objective:9096.9522
+2016-02-01 18:44:13,164 - mnist_binary - DEBUG - objective:9096.9222
+2016-02-01 18:44:17,876 - mnist_binary - DEBUG - objective:9096.8895
+2016-02-01 18:44:22,768 - mnist_binary - DEBUG - objective:9096.8801
+2016-02-01 18:44:27,048 - mnist_binary - DEBUG - objective:9096.8694
+2016-02-01 18:44:31,909 - mnist_binary - DEBUG - objective:9096.8670
+2016-02-01 18:44:36,615 - mnist_binary - DEBUG - objective:9096.8538
+2016-02-01 18:44:41,490 - mnist_binary - DEBUG - objective:9096.8489
+2016-02-01 18:44:46,356 - mnist_binary - DEBUG - objective:9096.8448
+2016-02-01 18:44:50,920 - mnist_binary - DEBUG - objective:9096.8391
+2016-02-01 18:44:55,695 - mnist_binary - DEBUG - objective:9096.8492
+2016-02-01 18:45:00,336 - mnist_binary - DEBUG - objective:9096.8380
+2016-02-01 18:45:05,243 - mnist_binary - DEBUG - objective:9096.8355
+2016-02-01 18:45:09,891 - mnist_binary - DEBUG - objective:9096.8343
+2016-02-01 18:45:14,559 - mnist_binary - DEBUG - objective:9096.8346
+2016-02-01 18:45:19,527 - mnist_binary - DEBUG - objective:9096.8338
+2016-02-01 18:45:24,176 - mnist_binary - DEBUG - objective:9096.8334
+2016-02-01 18:45:29,142 - mnist_binary - DEBUG - objective:9096.8321
+2016-02-01 18:45:33,790 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:45:38,578 - mnist_binary - DEBUG - objective:9096.8326
+2016-02-01 18:45:43,442 - mnist_binary - DEBUG - objective:9096.8321
+2016-02-01 18:45:48,170 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:45:52,983 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:45:57,331 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:02,183 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:07,008 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:11,929 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:16,671 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:21,173 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:26,040 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:30,791 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:35,558 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:40,445 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:45,126 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:50,025 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:54,748 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:46:59,568 - mnist_binary - INFO - Saving model...
+2016-02-01 18:46:59,982 - mnist_binary - INFO - Model saved.
+2016-02-01 18:46:59,982 - mnist_binary - DEBUG - ftol: 27.3232415747
+2016-02-01 18:46:59,983 - mnist_binary - INFO - diff:m:0.141865572778 s:0.000648374807437
+2016-02-01 18:46:59,983 - mnist_binary - INFO - hyp params
+2016-02-01 18:47:16,202 - mnist_binary - DEBUG - objective:9096.8320
+2016-02-01 18:47:32,284 - mnist_binary - DEBUG - objective:38936.8536
+2016-02-01 18:47:47,793 - mnist_binary - DEBUG - objective:9091.1950
+2016-02-01 18:48:03,422 - mnist_binary - DEBUG - objective:9090.1048
+2016-02-01 18:48:18,827 - mnist_binary - DEBUG - objective:9090.0962
+2016-02-01 18:48:34,273 - mnist_binary - DEBUG - objective:9090.0639
+2016-02-01 18:48:49,591 - mnist_binary - DEBUG - objective:9089.9117
+2016-02-01 18:49:05,251 - mnist_binary - DEBUG - objective:9089.9116
+2016-02-01 18:49:20,728 - mnist_binary - DEBUG - objective:9089.9116
+2016-02-01 18:49:20,728 - mnist_binary - INFO - Iteration 3 started.
+2016-02-01 18:49:20,728 - mnist_binary - INFO - MoG params
+2016-02-01 18:49:25,472 - mnist_binary - DEBUG - objective:9089.9116
+2016-02-01 18:49:30,170 - mnist_binary - DEBUG - objective:9098.2567
+2016-02-01 18:49:34,732 - mnist_binary - DEBUG - objective:9088.4260
+2016-02-01 18:49:39,142 - mnist_binary - DEBUG - objective:9087.5909
+2016-02-01 18:49:43,671 - mnist_binary - DEBUG - objective:9087.0754
+2016-02-01 18:49:48,175 - mnist_binary - DEBUG - objective:9086.2472
+2016-02-01 18:49:52,747 - mnist_binary - DEBUG - objective:9086.0272
+2016-02-01 18:49:57,307 - mnist_binary - DEBUG - objective:9085.6405
+2016-02-01 18:50:01,842 - mnist_binary - DEBUG - objective:9085.4391
+2016-02-01 18:50:06,390 - mnist_binary - DEBUG - objective:9085.2541
+2016-02-01 18:50:11,025 - mnist_binary - DEBUG - objective:9085.1086
+2016-02-01 18:50:15,444 - mnist_binary - DEBUG - objective:9084.9319
+2016-02-01 18:50:20,032 - mnist_binary - DEBUG - objective:9084.8776
+2016-02-01 18:50:24,494 - mnist_binary - DEBUG - objective:9084.8079
+2016-02-01 18:50:29,198 - mnist_binary - DEBUG - objective:9084.7341
+2016-02-01 18:50:33,633 - mnist_binary - DEBUG - objective:9084.6985
+2016-02-01 18:50:38,179 - mnist_binary - DEBUG - objective:9084.6486
+2016-02-01 18:50:42,803 - mnist_binary - DEBUG - objective:9084.6309
+2016-02-01 18:50:47,291 - mnist_binary - DEBUG - objective:9084.6044
+2016-02-01 18:50:51,868 - mnist_binary - DEBUG - objective:9084.5976
+2016-02-01 18:50:56,421 - mnist_binary - DEBUG - objective:9084.5726
+2016-02-01 18:51:01,268 - mnist_binary - DEBUG - objective:9084.5689
+2016-02-01 18:51:06,177 - mnist_binary - DEBUG - objective:9084.5639
+2016-02-01 18:51:11,061 - mnist_binary - DEBUG - objective:9084.5599
+2016-02-01 18:51:15,716 - mnist_binary - DEBUG - objective:9084.5561
+2016-02-01 18:51:20,508 - mnist_binary - DEBUG - objective:9084.5544
+2016-02-01 18:51:25,115 - mnist_binary - DEBUG - objective:9084.5531
+2016-02-01 18:51:29,887 - mnist_binary - DEBUG - objective:9084.5507
+2016-02-01 18:51:34,633 - mnist_binary - DEBUG - objective:9084.5589
+2016-02-01 18:51:39,264 - mnist_binary - DEBUG - objective:9084.5507
+2016-02-01 18:51:44,096 - mnist_binary - DEBUG - objective:9084.5500
+2016-02-01 18:51:48,807 - mnist_binary - DEBUG - objective:9084.5491
+2016-02-01 18:51:53,791 - mnist_binary - DEBUG - objective:9084.5492
+2016-02-01 18:51:58,659 - mnist_binary - DEBUG - objective:9084.5490
+2016-02-01 18:52:03,615 - mnist_binary - DEBUG - objective:9084.5493
+2016-02-01 18:52:08,595 - mnist_binary - DEBUG - objective:9084.5490
+2016-02-01 18:52:13,259 - mnist_binary - DEBUG - objective:9084.5490
+2016-02-01 18:52:18,037 - mnist_binary - DEBUG - objective:9084.5490
+2016-02-01 18:52:22,743 - mnist_binary - DEBUG - objective:9084.5491
+2016-02-01 18:52:27,409 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:52:32,159 - mnist_binary - DEBUG - objective:9084.5500
+2016-02-01 18:52:36,687 - mnist_binary - DEBUG - objective:9084.5490
+2016-02-01 18:52:41,452 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:52:46,143 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:52:51,145 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:52:55,843 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:00,628 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:05,572 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:10,436 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:15,487 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:19,998 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:25,067 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:29,759 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:34,622 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:39,409 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:44,195 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:48,948 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:53:48,958 - mnist_binary - INFO - Saving model...
+2016-02-01 18:53:49,424 - mnist_binary - INFO - Model saved.
+2016-02-01 18:53:49,425 - mnist_binary - DEBUG - ftol: 12.2831118459
+2016-02-01 18:53:49,425 - mnist_binary - INFO - diff:m:0.116785938173 s:0.00040970683843
+2016-02-01 18:53:49,425 - mnist_binary - INFO - hyp params
+2016-02-01 18:54:05,633 - mnist_binary - DEBUG - objective:9084.5489
+2016-02-01 18:54:21,291 - mnist_binary - DEBUG - objective:39900.2862
+2016-02-01 18:54:36,802 - mnist_binary - DEBUG - objective:9081.5029
+2016-02-01 18:54:52,320 - mnist_binary - DEBUG - objective:9080.8022
+2016-02-01 18:55:07,711 - mnist_binary - DEBUG - objective:9080.8012
+2016-02-01 18:55:23,320 - mnist_binary - DEBUG - objective:9080.7977
+2016-02-01 18:55:39,073 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:55:54,919 - mnist_binary - DEBUG - objective:9080.7823
+2016-02-01 18:56:10,384 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:56:25,842 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:56:41,236 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:56:56,579 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:57:12,454 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:57:28,623 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:57:45,027 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:58:01,047 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:58:17,342 - mnist_binary - INFO - Iteration 4 started.
+2016-02-01 18:58:17,342 - mnist_binary - INFO - MoG params
+2016-02-01 18:58:22,397 - mnist_binary - DEBUG - objective:9080.7822
+2016-02-01 18:58:27,030 - mnist_binary - DEBUG - objective:9091.1395
+2016-02-01 18:58:31,717 - mnist_binary - DEBUG - objective:9079.9797
+2016-02-01 18:58:36,407 - mnist_binary - DEBUG - objective:9079.5119
+2016-02-01 18:58:41,201 - mnist_binary - DEBUG - objective:9079.2202
+2016-02-01 18:58:46,091 - mnist_binary - DEBUG - objective:9078.7479
+2016-02-01 18:58:50,576 - mnist_binary - DEBUG - objective:9078.6253
+2016-02-01 18:58:55,227 - mnist_binary - DEBUG - objective:9078.4015
+2016-02-01 18:58:59,812 - mnist_binary - DEBUG - objective:9078.2879
+2016-02-01 18:59:04,531 - mnist_binary - DEBUG - objective:9078.1834
+2016-02-01 18:59:09,366 - mnist_binary - DEBUG - objective:9078.1137
+2016-02-01 18:59:14,157 - mnist_binary - DEBUG - objective:9078.0089
+2016-02-01 18:59:19,143 - mnist_binary - DEBUG - objective:9077.9778
+2016-02-01 18:59:23,873 - mnist_binary - DEBUG - objective:9077.9416
+2016-02-01 18:59:28,665 - mnist_binary - DEBUG - objective:9077.8954
+2016-02-01 18:59:33,340 - mnist_binary - DEBUG - objective:9077.9477
+2016-02-01 18:59:38,277 - mnist_binary - DEBUG - objective:9077.8758
+2016-02-01 18:59:43,078 - mnist_binary - DEBUG - objective:9077.8465
+2016-02-01 18:59:47,819 - mnist_binary - DEBUG - objective:9077.8311
+2016-02-01 18:59:52,775 - mnist_binary - DEBUG - objective:9077.8123
+2016-02-01 18:59:57,551 - mnist_binary - DEBUG - objective:9077.8157
+2016-02-01 19:00:02,595 - mnist_binary - DEBUG - objective:9077.8066
+2016-02-01 19:00:07,387 - mnist_binary - DEBUG - objective:9077.8006
+2016-02-01 19:00:12,130 - mnist_binary - DEBUG - objective:9077.7971
+2016-02-01 19:00:16,825 - mnist_binary - DEBUG - objective:9077.7945
+2016-02-01 19:00:21,186 - mnist_binary - DEBUG - objective:9077.7926
+2016-02-01 19:00:25,614 - mnist_binary - DEBUG - objective:9077.7905
+2016-02-01 19:00:30,313 - mnist_binary - DEBUG - objective:9077.7896
+2016-02-01 19:00:34,808 - mnist_binary - DEBUG - objective:9077.7886
+2016-02-01 19:00:39,299 - mnist_binary - DEBUG - objective:9077.7876
+2016-02-01 19:00:43,793 - mnist_binary - DEBUG - objective:9077.7870
+2016-02-01 19:00:48,288 - mnist_binary - DEBUG - objective:9077.7869
+2016-02-01 19:00:52,948 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:00:57,339 - mnist_binary - DEBUG - objective:9077.7871
+2016-02-01 19:01:02,027 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:06,480 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:11,211 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:15,836 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:20,462 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:25,068 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:29,627 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:34,240 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:38,880 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:43,559 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:48,252 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:52,683 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:01:57,415 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:02:02,045 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:02:06,655 - mnist_binary - DEBUG - objective:9077.7868
+2016-02-01 19:02:06,670 - mnist_binary - INFO - Saving model...
+2016-02-01 19:02:07,131 - mnist_binary - INFO - Model saved.
+2016-02-01 19:02:07,131 - mnist_binary - DEBUG - ftol: 6.76216269386
+2016-02-01 19:02:07,131 - mnist_binary - INFO - diff:m:0.0899997242852 s:0.00030160741011
+2016-02-01 19:02:07,131 - mnist_binary - INFO - best obj found: 9077.7867725
+2016-02-01 19:02:07,131 - mnist_binary - DEBUG - prediction started...
+2016-02-01 19:02:25,959 - mnist_binary - DEBUG - prediction finished
