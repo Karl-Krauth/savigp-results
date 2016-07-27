@@ -1,2 +1,0 @@
-total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
-25285.8035261631,0,200,"{'hyp': 10, 'll': 10, 'mog': 50}",0.001,5edc0d6857cfb1d942b413dea0f2e297c22c9e92,,1e-05,0.001,0.04,CogLL,452,100,sarcos,master,True,full
