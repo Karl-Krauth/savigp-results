@@ -1,0 +1,2 @@
+total_time,run_id,max_iter,optimization_config,xtol,git_hash,model_init,ftol,latent_noise:,sparsity_factor,ll,total_evals,sample_num,experiment,git_branch,random_Z,method
+436632.8098011017,0,200,"{'hyp': 10, 'll': 10, 'mog': 25}",0.001,831bf39c96d946b2a405d9aad5e19429592546c6,,10,0.001,0.04,CogLL,982,20000,sarcos_all_joints,master,False,full
