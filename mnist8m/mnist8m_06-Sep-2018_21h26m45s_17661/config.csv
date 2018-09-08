@@ -1,0 +1,2 @@
+latent_noise:,optimize_stochastic,sparsity_factor,experiment,run_id,ll,max_iter,total_evals,sample_num,optimization_config,git_branch,total_time,xtol,random_Z,git_hash,method,model_init,ftol
+0.001,True,0.00025,mnist8m,0,SoftmaxLL,8000,9000,1000,{'mog': 60},HEAD,67087.23834013939,0.001,False,5c5dc9024cda8e02e171030393c073e03d2f1e8f,full,,10
